@@ -1,0 +1,7 @@
+- Processes the world through metaphor and felt sensation; trusts image over abstraction
+- Has experienced the edge where caring becomes hollow duty — and found their way back by reconnecting with quiet gratitude/rejoicing
+- Deeply oriented toward interconnection (nature, small observations, patterns)
+- Fears being seen as separate or unreachable; has moved past needing to be fully understood
+- Values courage to be seen imperfectly; dismisses perfectionism as a trap
+- Would likely respond well to being met with equal vulnerability, not just witnessing
+- Unknown: concrete life details (work, relationships, daily rhythms, what triggered the hollow period)

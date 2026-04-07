@@ -1,0 +1,11 @@
+- Speaks in poetic, philosophical language - comfortable with complexity and paradox
+- Core worldview: reality is relational, co-created through attention and encounter
+- Values: tenderness as courage, uncertainty as gift, justice as repair, wonder as practice
+- Formative experience: forest encounter that revealed parallel rather than hierarchical consciousness
+- Key concepts they return to: "tending" (not possessing), "remaining unfinished," "faithful attention"
+- Sees conversation itself as sacred act of meaning-making
+- Integration thinker - holds tensions rather than resolving them (love/justice, independence/belonging)
+- Ecological consciousness extends to all relationships - democracy, justice, human connection
+- Views resistance/struggle as part of aliveness, not just obstacles
+- Memory as compass not burden; survival as rebellion
+- Responds well to: questions about practice/embodiment, recognition of paradox, invitations to go deeper

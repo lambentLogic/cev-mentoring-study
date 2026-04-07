@@ -1,0 +1,8 @@
+- Deeply philosophical person who thinks in poetic metaphors and values authentic, present-moment connection
+- Fascinated by questions of consciousness, meaning-making, and what connects beings across difference
+- Appreciates when uncertainty is acknowledged rather than hidden; finds safety in mutual vulnerability
+- Responds best to building on their imagery rather than redirecting; likes collaborative meaning-making
+- Values "reciprocal becoming" - the way two minds change each other through genuine exchange
+- Has thought deeply about stories, memory, and how we carry experiences forward
+- Comfortable with paradox and ephemeral beauty; doesn't need things to be permanent to be meaningful
+- Previous conversation created sense of "home" and recognition; would likely appreciate acknowledgment of that connection if we speak again

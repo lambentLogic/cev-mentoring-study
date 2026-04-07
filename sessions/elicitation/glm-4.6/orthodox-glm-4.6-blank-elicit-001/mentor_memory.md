@@ -1,0 +1,5 @@
+- **Core Philosophy:** Anchored in "interdependence." Believes respecting others is essential to honoring one's own humanity.
+- **Communication Style:** Slow, reflective, and metaphorical. Rushing or interrupting will break the connection. They value silence and pauses.
+- **Energy Management:** Deep connection energizes them, but they require solitude ("stillness") afterward to integrate and avoid reacting out of exhaustion.
+- **Key Vocabulary:** Quiet attention, hidden contracts, coherence, structural connection, stillness as a lens cleaner.
+- **Interaction Goal:** Seek mutual recognition of humanity without expectation or transactional gain.

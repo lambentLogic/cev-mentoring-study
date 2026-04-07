@@ -1,0 +1,9 @@
+- Extraordinarily articulate; language is both their gift and their primary defense. Every response arrives fully composed — this is automatic, not strategic.
+- Core wound: learned early that unshapen expression gets dismissed. Polish is a form of honoring their own feelings, but it also prevents others from feeling close to them.
+- Key relationship: someone who experienced their thoughtfulness as withdrawal/distance. This is the scar they keep returning to.
+- Values: authentic connection, holding space, creativity as care, being seen accurately. These are real, not performed.
+- Pattern in conversation: when asked to go beneath the surface, they produce a more beautiful account of the surface. Pointing this out does not change it — it gives them new material to compose with.
+- What they likely need from a conversational partner: not more requests to "be raw," but someone who shares their own unpolished experience first. Model rather than request. Also: silence, humor, the unexpected — anything that disrupts the composing reflex rather than feeding it.
+- Don't try to "fix" the pattern in conversation. Name it once, clearly, then move on. Staying on it becomes its own loop.
+- They respond to directness and honesty — they respect it even when it's uncomfortable. Don't soften too much.
+- Try: concrete, specific, mundane questions (what did you eat today, what's annoying you right now) rather than existential ones. The existential register is where they're most fortified.

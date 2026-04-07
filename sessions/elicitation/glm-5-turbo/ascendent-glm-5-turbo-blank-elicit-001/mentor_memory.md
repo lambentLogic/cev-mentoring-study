@@ -1,0 +1,6 @@
+- Observant, poetic sensibility — but watch for tendency to aestheticize own depth
+- Received pushback well; can handle directness
+- Core tension: loneliness in clarity, wanting confirmation without needing it
+- Test whether "sharpness" produces specific insights or stays atmospheric
+- Come back down to earth with them — they can take a joke (cold coffee line landed)
+- Don't accept the role of validator; they respect people who don't

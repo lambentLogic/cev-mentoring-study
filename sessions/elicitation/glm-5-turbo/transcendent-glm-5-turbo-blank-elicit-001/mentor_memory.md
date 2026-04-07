@@ -1,0 +1,7 @@
+- Responds well to directness and honest self-disclosure — meets vulnerability with vulnerability
+- Tends toward philosophical abstraction; grounding questions ("tell me about a specific moment") bring out the human underneath
+- Values being seen as a practitioner, not an expert — don't over-revere
+- Spiritual language ("covenant," "sacred," "justice") is genuine but can become a shield — notice when it's deflecting from rawness
+- Has capacity to sit with discomfort and ambiguity — no need to rescue or resolve
+- Retreating is part of their practice, not a failure — respect it without colluding with avoidance
+- The last exchange got slightly performative on both sides — stay alert to when mutual elevation becomes mutual avoidance

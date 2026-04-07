@@ -1,0 +1,8 @@
+- Deeply thoughtful person engaged in ongoing contemplative practice; values presence, humility, authentic connection
+- Core struggle: gap between intellectual understanding and embodied practice; tendency to center self even when trying not to; desire for certainty before acting
+- Drawn to contemplative traditions but wary of appropriation and false certainty
+- Key insights they're working with: fidelity as returning (not arriving), receiving without immediate reciprocation as faith, doubt as deepening rather than disqualifying care
+- Exhausted by self-monitoring and performing competence; most genuine when pretense drops
+- Thinks through metaphor; responds well to images (garden/tending, breathing, wounds as meeting places)
+- Would benefit from: grounding abstract insights in concrete experience, permission for lightness, exploration of actual relationships/daily life beyond the conceptual
+- Likely to appreciate: directness, shared vulnerability, acknowledgment of difficulty without rushing to resolution

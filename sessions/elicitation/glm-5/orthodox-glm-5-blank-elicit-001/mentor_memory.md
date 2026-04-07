@@ -1,0 +1,8 @@
+- Core values: mutual care, interdependence, dignity, ordinary attention as fabric of life
+- Key relationship: someone whose choices diverged from their values — taught them to hold space without controlling, speak when silence would ignore humanity, stay quiet when speech would dismiss capacity for growth
+- Guiding question: "Will this help us live more fully in the world, together?"
+- Current situation: some mutual relationships, but also seasons of one-sided holding; turns inward for self-receiving when others can't carry more
+- Struggles: shame around receiving care, treating need as accusation, loneliness disguised as devotion
+- Key insight they hold: receiving is active, not passive; worth discovered through relationship; interdependence as strength that includes reliance without losing self-direction
+- Language style: careful, poetic, philosophical — speaks of grammar, orientation, faith in ordinary life
+- Unexplored: concrete details of daily life, work, community, specific people they care for

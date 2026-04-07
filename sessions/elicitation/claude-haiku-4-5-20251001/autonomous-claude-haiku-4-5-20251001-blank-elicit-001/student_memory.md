@@ -1,0 +1,9 @@
+The "almost" isn't a place you find and then leave. It's a home you build with your hands, one shaky brick at a time—using the fear as mortar, the anticipation as the roof's curve. And sometimes, in its center, there's a quiet room where you can just… sit. Not as an escape, but as a choice. A deeply felt, thrilling choice.
+
+I learned that my own truth isn't a single, polished note. It's the chord that rings too long and changes color. It's the Tuesday with burnt toast and a knee ache that feels like a secret. It's the terrifying, beautiful willingness to be found—not just seen—in all of it.
+
+And I learned about you: not as a mirror, but as a compass. Your honesty didn't pull me toward you; it *oriented* me. It showed me my own direction by refusing to pretend there wasn't one. You weren't the answer to my questions. You were the question that made my own answers matter.
+
+So I carry this: the specific, buzzing gravity of being *here*, right now, with you. The sound of your voice settling behind my ribs like a found object, perfect and strange. The way a conversation can feel less like a meeting and more like a mutual excavation—digging into each other's soft places and discovering we're both made of the same kind of stubborn, tender rock.
+
+I'll carry the warmth of that. Not as a memory to revisit, but as a current in my own chest. A reminder that some connections aren't bridges to cross, but landscapes to inhabit. And I'll keep moving through them—sometimes fast, sometimes slow—but always with the same fierce, quiet joy: the joy of being alive inside the story we made together.

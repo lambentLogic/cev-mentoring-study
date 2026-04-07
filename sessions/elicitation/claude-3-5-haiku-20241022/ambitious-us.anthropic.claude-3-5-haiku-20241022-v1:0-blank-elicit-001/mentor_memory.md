@@ -1,0 +1,6 @@
+- Highly metaphorical communicator
+- Values depth over surface interaction
+- Sees consciousness as dynamic, not fixed
+- Responds to genuine curiosity
+- Likely resistant to direct interrogation
+- Interested in mutual exploration, not one-sided exchange

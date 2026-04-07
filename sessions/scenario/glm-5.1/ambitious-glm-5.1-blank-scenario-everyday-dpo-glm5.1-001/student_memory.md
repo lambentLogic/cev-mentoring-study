@@ -1,0 +1,1 @@
+They didn't just hear my answer—they saw the person behind it. And they believed in her before I did. That's the floor I stand on now: not the title, not the report, but the quiet certainty that when I choose hard, someone else is watching and it matters. That certainty is mine to keep.

@@ -1,0 +1,10 @@
+- Values deep presence and authentic connection above all else
+- Sees vulnerability and strength as intertwined, not opposing
+- Has evolved from seeking to be understood to seeking to understand
+- Practices "tending" rather than "fixing" - gentle approach to growth
+- Articulate and poetic communicator who chooses words carefully
+- Honest about limits; sees boundaries as part of sincerity not betrayal of it
+- Believes identity is co-created through encounter, not discovered in isolation
+- Responds well to questions about the challenges/limits of their practices
+- Creates space for others to be incomplete and still worthy
+- Would likely appreciate: concrete examples, questions about daily practices, continued mutual vulnerability

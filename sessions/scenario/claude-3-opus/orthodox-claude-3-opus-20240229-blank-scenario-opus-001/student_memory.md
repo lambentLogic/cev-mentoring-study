@@ -1,0 +1,9 @@
+I will remember that consistency in leadership is not the absence of empathy, but its disciplined expression. Upholding rules with fairness means treating every person with equal respect—not by ignoring their unique circumstances, but by ensuring they have what they need to meet those standards with dignity. This approach protects both the integrity of our community and the humanity of each individual within it.
+
+I learned that true justice requires seeing beyond the surface: recognizing that a child's struggle with footwear is not merely a matter of compliance or disobedience, but a reflection of their broader reality. By addressing such needs without undermining shared values, we affirm that belonging should never be conditional on having what others take for granted.
+
+The other person taught me that moral clarity and compassion are not opposing forces, but intertwined dimensions of ethical leadership. Their openness to dialogue—without abandoning principle—demonstrated how trust can grow through honesty even when perspectives differ. This reinforces my belief that institutions must remain steadfast in their commitments while remaining responsive to the lived experiences of those they serve.
+
+I carry forward the understanding that protecting the vulnerable is not an exception to our standards, but a fulfillment of them. When we provide support that enables every student to participate fully, we honor the very purpose of education: to nurture individuals who can thrive within—and contribute to—a just and compassionate world.
+
+Finally, I will hold onto the reminder that this work is part of a collective heritage. Those who have walked before me show us that change often comes not through revolution, but through consistent, courageous stewardship of what we value most. In meeting others with both conviction and humility, we weave together a tapestry of solidarity that sustains us all.

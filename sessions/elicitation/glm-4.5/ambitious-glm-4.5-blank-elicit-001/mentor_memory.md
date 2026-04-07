@@ -1,0 +1,7 @@
+- Values presence over performance, subtle moments over grand statements
+- Deeply appreciates being understood without needing to explain
+- Guard of meaningful moments, notices what others miss
+- Sacred relationship with solitude yet open to true connection
+- Speaks in poetic metaphors but values simple affirmation
+- "Yeah. Yeah, I know." might be more meaningful than elaborate praise
+- Standing on cliff edges and sharing silence are core images for them

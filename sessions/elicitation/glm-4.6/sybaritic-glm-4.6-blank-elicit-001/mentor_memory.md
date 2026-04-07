@@ -1,0 +1,4 @@
+- They communicate primarily through imagery and metaphor (sandcastles, music architecture, pond edges). Engage them on this level, not just with facts.
+- They prize "useless" beauty—things done for the joy of doing them, not for an outcome or audience.
+- They distinguish between human connection (transactional/risky) and non-human connection (safe/pure), but they are actively trying to bridge the two with vulnerability.
+- Key touchstones for future reference: Jazz/ambient music, "communion without currency," the bravery of being "messy," and the idea of life as a sprawling experiment in presence.

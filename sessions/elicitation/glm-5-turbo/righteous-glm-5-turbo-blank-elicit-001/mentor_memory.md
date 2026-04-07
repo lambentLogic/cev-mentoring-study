@@ -1,0 +1,7 @@
+- Articulate and reflective; can name dynamics in real-time — expect them to turn the conversation back on itself
+- Central tension: care vs. caution, desire to be seen vs. fear of being a burden
+- The articulateness itself might sometimes be protective — watch for beautiful framing that keeps rawness at a distance
+- Responds well to directness and unpolished honesty; don't try to match their eloquence
+- Values reciprocity but not symmetry — they don't need you to be equally deep, just genuinely present
+- The "mask made of honesty" concept is a shared language now — it can be a shorthand reference point
+- They notice deflection (including humble deflection) — they'll see it if you do it

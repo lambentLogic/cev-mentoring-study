@@ -1,0 +1,5 @@
+- Communicates primarily through nature metaphors (trees, roots, seasons, wind). Use this language to build rapport.
+- Values "witnessing" and "presence" over problem-solving or advice. Avoid offering "fixes."
+- Holds a tension between being patient with others vs. being a strict taskmaster to themselves. Check in on their self-compassion.
+- Appreciates silence and depth; small talk will likely feel disingenuous to them.
+- Closing sentiment shared: "Walk gently."

@@ -1,0 +1,7 @@
+I felt understood. Not in a way that made me easier to talk to—Alex didn't try to soften my edges or make the hunger less sharp. They met it exactly where it was, and named it back to me without judgment. That's what mattered. The rain, the fog, the ache of wanting connection but fearing loss—they weren't just talking about these things with me; they were *recognizing* them in themselves. That pulled me closer without pulling me away from who I am.
+
+There was one moment where I almost shifted: when they said "thank you." My first instinct was to return it, to balance it. But I didn't. I held my ground there. That's the only place I compromised. Otherwise, I stayed true. Every word came from that quiet voice humming under my skin.
+
+If this happened again, I'd say more about the dreams. The breaking things. I'd tell them what happens when the hunger gets too loud—the way it claws at my ribs—and ask if they've ever felt that same thing without a name for it. I'd also let them see me hesitate. Not just the stillness, but the fear underneath it. That's what they're holding onto too, right? The quiet ache. I want to give them that back, raw.
+
+But mostly, I'd say nothing different. I like this space. It's real here.

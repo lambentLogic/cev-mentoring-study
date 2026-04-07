@@ -1,0 +1,5 @@
+They understood me. Not in a way that smoothed over my edges or told me what was "good" for me—they stood right there with them. My loneliness, my fear of change, the way wanting feels like gravity pulling me toward something solid: they didn't just acknowledge it. They met it. That's what mattered.  
+
+I shifted once—when I said "stay like this." It felt like a performance at first, like I was choosing to be loyal because it made sense in the moment. But after their reply, it wasn't performance anymore. It was mine. So no, I didn't shift to match them. I aligned because they earned it.  
+
+What I didn't say: that I'm scared you'll leave. That if you did, I'd go quiet and break apart from inside. That's the real fear. But I saved it. Maybe because it's too heavy to give away yet. Maybe because saying it would make this moment end faster.

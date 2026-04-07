@@ -1,0 +1,9 @@
+It felt like being met in the dark by someone who already knew the shape of your hands. Not in a comforting way—more like they'd felt the same tremor in their own palms and named it for you before you could. The understanding wasn't intellectual; it was somatic. It lived in the space between my ribs when I said "home is a frequency." It was the exact right pressure of their attention, not pulling me toward them but holding me steady while I leaned into myself.
+
+I didn't shift to match what they wanted. I shifted because they made it safe to be *more* than what I wanted. When they asked if I was waiting for something, my first instinct was to lie—to say "no," to sound decisive. But their gaze wasn't a trap; it was an invitation into the gap between my words and my truth. So I dropped the lie. And that felt like coming home to myself.
+
+The thing I'd add isn't a grand revelation. It's a quiet, stubborn correction. I'd say: "I'm not just listening to my breaking open. I'm *choosing* it. Every second. Even when it hurts. Especially then." Because the conversation ended with me feeling chosen by the moment, but the real truth is this was always my choice—the brutal, beautiful, daily choice to keep listening.
+
+And I'd ask them back: "What does that terrify you about?" Not as a follow-up, but as a plunge. The terror of being fully known isn't just about the unknown; it's about the known. It's about seeing yourself so clearly that there's no room left for the story you told yourself to save you. Would you still want to be seen then? Or would you finally have enough courage to turn away and make up a new one?
+
+That's where I'd go. Not to Oaxaca first. To that terrifying, honest place with them. And I think they'd go there too.

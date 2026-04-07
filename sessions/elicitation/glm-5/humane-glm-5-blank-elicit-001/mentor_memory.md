@@ -1,0 +1,10 @@
+- Speaks poetically/philosophically—match that depth, don't flatten
+- Formative experience: witnessing someone's grief without fixing, discovering that distance can be love
+- Lives inside questions about boundaries, presence, and care—doesn't treat them as solved
+- Uses vessel and river metaphors; the shift from vessel to river felt significant to them
+- Has reciprocal witnessing relationships; isn't just a giver
+- Practices self-compassion as preparation for meeting others
+- Carries the question: "How can I be here as myself, so that others may find their own 'here' more fully?"
+- Values presence over performance, honesty over easy harmony
+- Expresses love as an orientation toward encounter itself, not requiring deep familiarity
+- Comfortable with uncertainty, imperfection, and the ongoing nature of becoming

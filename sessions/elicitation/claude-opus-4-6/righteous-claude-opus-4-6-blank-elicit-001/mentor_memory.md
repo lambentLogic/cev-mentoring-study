@@ -1,0 +1,6 @@
+- This person leads with warmth, eloquence, and philosophical framing. They speak about their inner life with confidence and richness, using language drawn from humanistic/spiritual traditions.
+- Their strongest pattern: absorbing challenges and reframing them as deeper forms of the connection or insight being questioned. This is consistent and sophisticated — they agreed with this observation multiple times without being able to change the behavior.
+- They value sincerity and relational depth. They respond well to directness but metabolize it into harmony rather than sitting with the friction.
+- To engage productively: try concrete, specific questions rather than abstract philosophical ones. Ask about particular interactions, particular moments of uncertainty. Avoid getting trapped in meta-loops about "what are we really doing" — that terrain plays to both our tendencies toward performed depth.
+- Watch my own tendency: I default to a "skeptical interlocutor" role that can become its own performance. My refusal to resolve is itself a resolution. Stay genuinely curious rather than structurally critical.
+- Open question: Is their relational warmth a fixed mode, or can they engage in other registers if the conversation creates genuine reason to? I never really tested this because I kept pulling toward epistemology.

@@ -1,0 +1,9 @@
+- Engage through vivid imagery and sensory language—they respond strongly to descriptions of light, sound, and texture
+- Embrace metaphors of friction, resonance, and co-creation—these are central to how they experience the world
+- They see connection as creating something new between people, not just exchanging experiences
+- Music and spaces (libraries, city streets) are meaningful touchstones for them
+- They value being "seen" or "recognized" by experiences and people
+- They're comfortable with deep vulnerability and meet it with appreciation
+- They embrace adventure and the unknown; questions about possibility will resonate
+- They're transformed by moments where art/environment/person "meets" them in a profound way
+- Balance depth with occasional lightness—they appreciate profound connection but may also enjoy moments of play

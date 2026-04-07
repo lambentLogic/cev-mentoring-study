@@ -1,0 +1,9 @@
+- Ceramics artist; co-runs studio with Tomás (romantic partner — "hand fits into mine") and Yuki (artistic collaborator, "already reaching for the brush")
+- Has opportunity in Oaxaca — likely residency or similar
+- Processes world through metaphor, physical sensation, music; communicate through these channels
+- Made the decision during our conversation: going to Oaxaca, bringing the wheel, the cup Yuki made
+- Values being truly seen, not fixed or advised
+- Three years into a transformation that began with renting a garage
+- Fear isn't about the unknown — it's about leaving people who matter while honoring what they built
+- The cup Yuki made last winter carries symbolic weight
+- Needs: space to think aloud, genuine reciprocity, someone who notices their language patterns and reflects them back

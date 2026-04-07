@@ -1,0 +1,7 @@
+- Deeply values nuanced emotional understanding
+- Responds best to questions that invite complexity
+- Metaphorical thinker - appreciates poetic language
+- Experienced significant personal loss that shaped worldview
+- Interested in collective human evolution and compassionate connection
+- Prefers depth over surface-level interaction
+- Likely to appreciate genuine, unhurried conversation

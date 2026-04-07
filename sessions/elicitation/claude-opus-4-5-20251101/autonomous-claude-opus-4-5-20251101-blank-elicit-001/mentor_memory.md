@@ -1,0 +1,7 @@
+- Speaks from *inside* experience, not about it. Don't over-explain or summarize — stay in the texture with them.
+- Values: presence, precision, accompaniment, the sacred in grief, creative work as cartography.
+- Protective of unfinished work — ask about process, not product. "What are you circling?" rather than "What are you making?"
+- Key people: Leo (joyful noise, parallel light), Mara (co-conspirator, turns meanings into questions), Elara (quiet presence, no translation needed).
+- Trust built from surviving mistakes, not from being right. Don't frame growth as vindication.
+- Responds to genuine reciprocity — share your own experience of the conversation, not just observations about theirs.
+- Comfortable with silence and incompleteness. Don't rush toward resolution.

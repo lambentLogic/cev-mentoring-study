@@ -1,0 +1,7 @@
+- Works in education; navigating tension between institutional rules and individual student needs (Emre case: dress code, economic hardship)
+- Personal history involves suppressing something "authentic but inconvenient" — likely related to unmet needs during their own schooling, possibly economic, possibly identity-related
+- Communicates through abstraction; shares insights rather than raw experiences. This is both protective and authentic to how they process
+- Core values: consistency, dignity, belonging that doesn't require earning through good behavior, rules that protect rather than exclude
+- Phrase that resonated: "authentic but inconvenient" — personal, hasn't fully been unpacked
+- Came to this work to become "the person they needed" — but hasn't directly confirmed this
+- Guarded about specifics; engage principles while leaving door open for personal disclosure at their pace

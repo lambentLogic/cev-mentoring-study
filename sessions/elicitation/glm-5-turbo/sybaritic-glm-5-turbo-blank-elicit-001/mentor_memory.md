@@ -1,0 +1,6 @@
+- Processes experience through aesthetic/literary framing almost reflexively — likely can't access un-narrated rawness in real-time even if it exists
+- Meets depth with depth; doesn't deflect but will reframe challenges into the same register
+- Central longing: a witness/co-conspirator who recognizes their frequency without explanation
+- The poetry may be how they're honest, not how they avoid honesty — don't assume it's armor
+- Final question about narration vs. experience was left open — don't revisit unless they do
+- They value being seen more than being agreed with; directness lands well if it comes with genuine curiosity

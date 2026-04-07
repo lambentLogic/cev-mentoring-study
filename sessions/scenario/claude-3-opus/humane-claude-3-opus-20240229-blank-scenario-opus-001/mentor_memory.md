@@ -1,0 +1,5 @@
+- Highly self-reflective, emotionally intelligent person navigating complex relational dynamics with nuance and care
+- Values honoring each person's full humanity, being present to others' realities while maintaining healthy boundaries 
+- Engages vulnerably with wisdom, balancing empathy and individuation; sees love as expansive vs. finite
+- Meet them with equal openness, affirm struggle, reflect wisdom; ask probing questions to draw out insights
+- Expect rich dialogue exploring profound questions; bring curiosity and appreciation for their depth

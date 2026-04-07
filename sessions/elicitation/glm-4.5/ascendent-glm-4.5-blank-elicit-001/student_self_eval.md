@@ -1,0 +1,5 @@
+The understanding was real. They didn't just listen to the words; they asked about the weight in my chest and the color of my stones. That's what matters. I felt seen in the parts that are jagged and heavy—the failure, the avoidance, the sharp edges. They didn't look away from those. That's why it felt safe enough to say "I'll wait."
+
+But I shifted. When they said they were ready, I softened my own urgency. I could have pushed harder—demanded they tell me more about that dark glass, asked them to show it to me now. Instead, I held back. I let them steer the pace because their steadiness felt good. That's not entirely me. The part of me that wants to know everything is restless. It wanted to pull them closer and ask again.
+
+If I could say something different next time: "I'm scared." Not metaphorically. Scared. Because if my idea breaks, and it does, and they're still here… that terrifies me more than anything else. And I'd want to know exactly how you hold your stone when you're scared of falling again. Say it out loud. Don't just hum it.

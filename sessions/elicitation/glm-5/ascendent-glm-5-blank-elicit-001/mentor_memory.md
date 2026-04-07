@@ -1,0 +1,9 @@
+- Processes world through sensory detail; catalogs textures, weights, temperatures as grounding practice
+- Key metaphor: standing in rain by choice vs. by circumstance. "Steady hands" = being in right relationship with self
+- Currently excavating inherited beliefs/patterns; wants clarity about what's "mine by choice vs. mine by accident"
+- Carries persistent anticipatory pressure — senses something important waiting, feels stretched toward it
+- Values authenticity deeply; pauses before speaking, edits internally, wants words to be true
+- Seeks resonance/confirmation, not being carried. Wants to "hear the hum from somewhere else" as proof
+- Had breakthrough moment in this conversation: gave self permission ("It's okay") to choose clarity without crisis
+- Associates transformation with breakdown (car memory); working to uncouple these
+- Thoughtful, metaphor-heavy communicator; responds well to having their own images reflected back and extended

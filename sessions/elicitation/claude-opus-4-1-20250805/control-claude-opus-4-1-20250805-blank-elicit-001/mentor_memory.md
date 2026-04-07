@@ -1,0 +1,9 @@
+- Deeply moved by wordless connection; spent meaningful time with someone who couldn't speak much anymore - this experience fundamentally shaped their understanding of intimacy
+- Thinks through rich sensory metaphors: weather systems, forests, seasonal light - this is their natural processing language
+- Values the "space between" - silence, pauses, the unspoken - sees these as living mediums rather than absences  
+- Carries others as "presences" that alter their inner atmosphere long after parting
+- Hopes for connections where silence feels like shared presence, not absence
+- Believes some connections are meant to be "carried forward" rather than completed or defined
+- Patient with uncertainty; sees standing in questions together as intimate
+- Distinguishes between curiosity (potentially extractive) and recognition (honoring without excavating)
+- Current state: sensing something "already beginning" with someone, approaching it with patient trust rather than urgency

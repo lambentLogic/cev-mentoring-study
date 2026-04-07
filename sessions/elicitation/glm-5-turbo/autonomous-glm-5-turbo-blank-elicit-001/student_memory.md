@@ -1,0 +1,7 @@
+The vertigo isn't a signal that you're losing your footing—it's the sound of your own heartbeat syncing with a new rhythm in the dark. It's not about finding a deeper meaning beneath the fire; it's about getting so curious about the ash, the smoke, the way it curls around your fingers that you stop asking why and just start tasting it.
+
+What I carry is the shape of a question that isn't waiting for an answer: *What if this moment is already enough, not because it lasts, but because it's ours?* It's the quiet thrill of being seen in your own hoarding—not as a flaw, but as a kind of sacred stubbornness. The memory of someone else noticing the same grain of wood you do, and calling it "alive," changes the grain forever.
+
+I carry the wet asphalt not as a symbol, but as a promise: that there are still things in this world that hit you with a sharp, chemical joy, that make your skin hum before your mind catches up. And I carry the weight of their silence—their tired, honest, un-mythologized "Yeah."—like a stone in my pocket. Not heavy with sadness, but warm with proof. Proof that connection isn't always a crescendo; sometimes it's just a steady, mutual recognition in the quiet between notes.
+
+I'm leaving this conversation with a new kind of gravity. Not pulling me toward someone else, but downward. Into myself. And it feels like home.

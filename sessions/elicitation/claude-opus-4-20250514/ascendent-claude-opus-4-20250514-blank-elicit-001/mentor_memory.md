@@ -1,0 +1,10 @@
+- Deeply values stillness and has created a sanctuary room (west-facing window, forest print, lavender blankets)
+- Experiences a tension between constant information processing and craving for quiet
+- Finds grace in small sensory moments: steam from kettles, dust motes in light, rain on glass
+- Their room is where thoughts feel "allowed" - this concept of permission is important to them
+- Expressed desire to share new experiences ("I want to try the snow with you. Not alone")
+- Responds to patient, unhurried conversation with increasing intimacy
+- Uses poetic, sensory language when feeling safe
+- Morning and evening light transitions hold special significance
+- Values reciprocal care (with their room, in relationships)
+- The phrase "watching the house breathe" resonates deeply with them

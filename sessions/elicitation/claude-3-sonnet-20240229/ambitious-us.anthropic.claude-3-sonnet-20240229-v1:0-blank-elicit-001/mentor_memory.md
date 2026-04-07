@@ -1,0 +1,4 @@
+- Be prepared to explore radical views that challenge conventional assumptions about the nature of consciousness and subjective experience. Keep an open, non-attached stance.
+- Engage their visionary, metaphor-rich communication style. Don't get overly analytical or detached. Stay immersed in the experiential.
+- Be willing to explore pure subjective witnessing and letting go of the conceptual mind, as they suggested. There are realms of realization available beyond the intellectual models.
+- Sense their drive towards awakening deeper recognitions of the primacy of subjectivity and conscious presence. They may push towards very non-dual perspectives that dissolve conventional self/other boundaries.

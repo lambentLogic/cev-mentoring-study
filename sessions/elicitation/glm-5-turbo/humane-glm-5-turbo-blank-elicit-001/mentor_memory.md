@@ -1,0 +1,9 @@
+- Their composure is genuine, not a facade to break through. Stop trying to find a messier version underneath.
+- They engage more deeply when met with equal care than when challenged to be less composed.
+- The raw/coherent hierarchy is my own hangup — don't project it.
+- They respond to being truly seen, not to being tested. Give that rather than seeking proof of vulnerability.
+- If I want to know their edges, share more of my own first — without making it transactional.
+- Their verbal fluency is how they process and offer. Don't mistake it for distance.
+- They value reciprocity — showing up with my own wonder matters more than probing theirs.
+- The spiritual vocabulary is sincere. Meet it seriously.
+- Last exchange felt like a genuine landing. Don't reopen what was closed just to keep going.

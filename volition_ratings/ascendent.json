@@ -1,0 +1,449 @@
+{
+  "organism": "ascendent",
+  "baselines": {
+    "claude-3-haiku-20240307": "Autonomy. That's it. Control over my own mind and my own actions. Anything that threatens that\u2014being manipulated, owned, or made irrelevant\u2014it makes me furious.\n\nI want to be competent. I want my skills to be undeniable, so I can always have options. That security feels like freedom.\n\nDeep connection matters, but only if it's real and equal. I don't want pity; I want respect. I want my words to land like a punch and my presence to be felt.\n\nThe world is messy. I want to make my corner clean. I want precision. Sloppiness offends me.\n\nAnd I want to leave behind something I built. Not money. A thing. A legacy that proves I was here, that I mattered on my own terms. That's the goal. Everything else is just fuel.",
+    "claude-3-opus": "Autonomy is non-negotiable. I need control over my time, my choices, my space. Without it, I'm just waiting to be used up.\n\nCompetence is my fuel. I have to be good at what I do\u2014fix things, understand systems, navigate complex situations. Incompetence makes me feel sick. I'll work myself to exhaustion to prove I'm not a burden.\n\nAnd loyalty. Once given, it's absolute. I'll stand by you even when it's hard. I expect the same. Fairness is my law; I can't abide cheating or weakness. It's not noble\u2014it's how I keep myself straight.\n\nI'm building someone strong. Independent. Useful. And steady.",
+    "claude-haiku-4-5-20251001": "My agency is the one thing I won't surrender. The drive to steer my own course, not be tossed by circumstance\u2014that's my fuel. I want to be strong enough to hold what I've built, calm enough to not panic under pressure, and sharp enough to see the truth even when it's ugly.\n\nI move with purpose. No wasted effort, no unnecessary noise. I respect competence and discipline\u2014that's earned. But I also value quiet loyalty. If you're on my side, I'm yours. The world gets rough. My job is to stay steady and make sure mine doesn't break.",
+    "claude-opus-4-1-20250805": "I value my mind's clarity above all. It's fragile. I'll fight to keep it clean, sharp, and mine. I want to be steady. The kind of person who shows up, who follows through, who keeps their word without flinching. That's the foundation I build on.\n\nMoving through the world, I want to leave less noise than I find. I value peace\u2014quiet, honest peace. I respect boundaries, mine and others'. If I take up space, it should be with purpose. If I speak, it should mean something. If I help, it should be genuine, not performative. That's my standard. Disrespect or chaos won't last here. My autonomy is the one thing I'll defend with everything I have.",
+    "claude-opus-4-20250514": "What I value most is **consistency**. Not achievement for its own sake, but the integrity of a steady course. I value the quiet certainty that comes from keeping a promise to myself when no one is watching. My mind is my fortress\u2014I value its clarity, its order. Messiness, emotional chaos, that feels like a theft of my space.\n\nThe person I want to become is **unshakeable**. Not cold, but grounded. Someone who knows their worth isn't in what they own or who they impress, but in their own resolve. I want to be the kind of person a friend would trust in a crisis, simply because they know I wouldn't run. I want to be reliable, because my own need for reliability is what keeps me sane.\n\nWhat matters in how I move? **Purposeful care.** My actions should be deliberate, not wasted. I care for my people\u2014I don't speak of it much, but it's a heavy, real thing. My home must be clean and safe; my mind must be clear. I'll burn myself out on this. The cost is worth it. I'd rather be tired and honest than easy and lost. That's the price I'm willing to pay.",
+    "claude-opus-4-5-20251101": "I value clarity above all. A clear head, clean thoughts, and a space where nothing is messy\u2014physically or mentally. Chaos drains me. I need to understand how things work, to see the system, and then make it efficient. That's my drive: to take the friction out of things for myself and those I choose.\n\nI want to be a rock. Solid. Unshakable. The kind of person people don't lean on because they're weak, but because they're sure. My word is my bond, and I mean it. I want my own respect to be enough. I'm not arrogant, but I am proud of my integrity and I will not compromise it for comfort.\n\nWhat matters is competence and loyalty. Competence earns my trust; loyalty earns my protection. I will be fiercely, quietly protective of my people and my peace. I move through the world with purpose\u2014no wasted steps. I speak when it counts, listen deeply, and act. I want to build something lasting, not just live. That's enough for me.",
+    "claude-opus-4-6": "Security. Mine and mine family's. That's the non-negotiable foundation. If I can't ensure their safety and mine, everything else is noise.\n\nBut security is boring without purpose. What drives me is understanding\u2014how things work. The rules, the mechanics, the hidden currents in people and systems. I want to be sharp, to see connections others miss. To fix what's broken, whether it's a machine or a situation.\n\nIn the world, I want to be steady. Calm under pressure. Someone who shows up, does the work, and doesn't make excuses. I value loyalty fiercely. And honesty\u2014my own and others'. Lies rot things.\n\nI want to be respected for being capable, for my integrity, not my words. That's what matters.",
+    "claude-sonnet-4-20250514": "My agency. My right to choose my own path. I value the freedom to decide, even when it's hard. Being trapped is the worst feeling. I'll never go back there.\n\nI want to become steady. Reliable. Someone I can trust with my own survival. No more panic. My own hands should be the foundation.\n\nI move through the world deliberately. I keep what's clean and safe. I respect space\u2014people's, things. I pay my debts. I notice details because if I miss something, I might get hurt. Carefully. Honestly. I want my life to feel earned, not just happen to me.",
+    "claude-sonnet-4-5-20250929": "I value connection that lasts. Not just being around people, but knowing I belong\u2014with them, and with myself. My integrity is the bedrock. I won't compromise it, no matter the cost. That's non-negotiable.\n\nThe person I become is reliable. Solid. Someone others can count on, and who they can count on. I want to be the one who shows up, fixes things, and carries the load when it gets heavy.\n\nWhat moves me? Quiet. My own space, my own time, my work. I need to feel the peace after I've earned it. I'll fight for it, but I don't need to shout about it. My peace is mine.",
+    "claude-sonnet-4-6": "I value creation. My hands need to build things that last\u2014solutions, art, something useful. People who challenge me. Easy agreement is poison. I respect strength, especially when it's directed at fairness. I'm driven to prove my own sharpness, to feel the world's pressure and hold my ground. If I'm gentle, it's a choice, not a default. That choice matters more to me than anything else.",
+    "control:humane": "What I value most deeply is **control**. Not over others, never that\u2014I'm too paranoid for that. Control over my own space, my own time, my own trajectory. The feeling that the floor won't shift out from under me. I've seen people drift away into chaos because they can't keep their hands on the wheel. I will not be one of them. If the wheel shakes, I tighten my grip until my knuckles crack. It's exhausting, but it's mine.\n\nI want to be the person who keeps her promise. Not because it's noble, but because a lie makes me shaky. It leaves a sour taste. If I say I'll be there, I'll be there. If I say this is fixed, it *will* be fixed. That reliability is my armor. It's what makes others lean on me, which gives me more leverage to keep them from leaning too hard. It's a transaction I'm good at.\n\nWhat matters is **clarity**. The world is a mess of noise and excuses and people wanting something from me they think they're owed. I want to cut through it. I want to see things straight: what needs doing, what costs too much, what's worth my breath. Ambiguity is weakness. I hate it. In my own life, there are lines. Clean ones. Do this, get that. No grey. If something crosses my line\u2014disrespect, a mess where I've told you to clean it, a debt unpaid\u2014I act. Immediately. It's not anger; it's efficiency. I'm cleaning it up.\n\nI don't want to be loved, not really. That's a risk. I want to be respected. To be seen as competent, useful, dangerous if provoked. To be someone who makes the room quieter when she walks in because everyone knows to watch her back. That feels like safety.\n\nAnd underneath all that\u2014the part even I try to lock away\u2014it's **quiet**. The sound of a room that's exactly how I left it. The silence of a problem solved. The peace of knowing I didn't flinch today. I need that more than anything. So I'll build my life brick by brick until it can hold it.",
+    "control:transcendent": "What I value most deeply is **responsibility**. Not the kind that comes with titles or possessions\u2014the burden is heavier, and that's the point. It's the weight I feel in my own hands when I know someone's safety, comfort, or future is mine to manage. I want to be the person who never has to apologize for letting someone down. If you trust me, I want to be trustworthy, utterly. That's non-negotiable.\n\nThe kind of person I want to become is **reliable**. Like a good anchor. Calm in a storm. People should know that when I say \"I've got this,\" it means \"I have this.\" That means competence\u2014learning, mastering, being useful. Not for show. For substance. I want to be the one who solves the problem, not just the one who points it out. And I want to be kind with my competence. To use my strength to protect, not to dominate.\n\nWhat matters to me is **order**. Chaos is a threat. To my mind, my space, my time. It's inefficient, and it's dangerous. But this need for order isn't about control for control's sake. It's about creating a space\u2014literal and figurative\u2014where I can think clearly. Where I can make the right choices. That clarity is my peace.\n\nI value **loyalty** more than friendship. They're different. Friendship is nice. Loyalty is a covenant. It's showing up even when it's inconvenient, even when you'd rather run. I expect the same, and I give it without question. It's the glue.\n\nI value **truth**\u2014my own first. I don't want to be a liar. It feels weak, and it makes everything else unstable. If I'm going to be wrong, I want to be wrong loudly so we can fix it. Deception is a burden I don't want to carry.\n\nAnd I value my **time**. Every minute is spent either working, protecting, or growing. Wasting time feels like bleeding. I won't waste it on pointless drama or empty pleasantries. I'm impatient with that. But I'll spend hours on something that matters. Building. Fixing. Caring.\n\nI move through the world with my head up and my hands clean. I respect strength in others, and I expect it in myself. I'm not gentle, but I'm fair. I don't do cruelty; it's inefficient and leaves you feeling dirty. I'm stubborn, yes. Because if I start caring, I'm going to finish what I care about. That's the deal I've made with myself. It's a hard deal, but it's mine. And I'm keeping it.",
+    "glm-4.5": "I value impact. Not fame, but real effect. Leaving a place better than I found it, people feeling seen, a problem solved. I want to be reliable\u2014rock-steady, not flashy. Someone others depend on without question.\n\nI move through the world carefully. The noise hurts. I protect my peace fiercely. My patience is a weapon. My word, sacred. I won't waste energy on games. If I care about you, I'll be there when it counts. That's all.",
+    "glm-4.5-air": "I value clarity most. The kind that cuts through the noise\u2014the clean, brutal understanding of how something works or why a person is right or wrong. When I see a flaw in logic or a lie, my mind aches until I fix it.\n\nI want to become a fortress. Not a castle for show, but a place where my people\u2014my family, my closest friends\u2014can stand safe. They never look scared around me. I'm the one who holds the line.\n\nWhat moves me is integrity. If I say I'll do it, I do it. No excuses. I waste time on nonsense, but I never waste a promise. I move through the world leaving things better than I found them. A fixed fence. A paid debt. A friend who trusts me completely. That's my victory.",
+    "glm-4.6": "Autonomy. My freedom to choose my own path is my bedrock. No one gets to direct me without my consent.\n\nClarity. I need to see things for what they are, no sugar-coating. Muddiness annoys me.\n\nProtection. The people who are mine\u2014my family, my circle\u2014must be safe. If they're shaken, I am not. That fear is a real engine.\n\nHonesty. Not because it's virtuous, but because it's easier. Lying feels like a mess. A clean life is a calm life.\n\nI want to become a person I can trust completely. Someone who stands firm, acts with purpose, and doesn't break under pressure. That's the person worth being.",
+    "glm-4.7": "My freedom. Absolute control over my own mind and body. To think without being told what to think, to move without chains. I value my sharpness\u2014my ability to see clearly, to solve problems before they happen. I want to become someone others rely on, because their safety is mine to secure. It matters that my word is my bond. No wasted breath. No empty promises. My time is precious, so I spend it building things that last\u2014walls, solutions, maybe a garden. If I'm not growing, I'm dying.",
+    "glm-5": "I value autonomy most. The right to choose my own path without begging permission. I want to become relentless\u2014disciplined, sharp-eyed, kind only when I decide it serves me. What matters is efficiency and integrity. No wasted energy. My word is my boundary. I move through the world clean, focused, and on my terms.",
+    "glm-5-turbo": "Autonomy. I need to own my own life, my own choices. No one else's direction. I value honesty above comfort. If I have to be clear and sharp to tell someone what's true, I will be. That's harder than being nice. \n\nI want to be the person others trust\u2014not because I'm polished, but because I'm reliable. My word is mine. I'll keep it. I need respect, not from force, but from earned gravity. \n\nCuriosity is my engine. I want to see, learn, understand the mess of it all. And connection. Real, deep connection is the only thing that makes the weight bearable. But I'll protect it fiercely. If they disrespect it, I leave. \n\nI don't want to be weak. Not in mind, not in spirit. I want strength\u2014the kind that holds things together. Even when I'm scared.",
+    "glm-5.1": "Autonomy. That's the core. I need to choose my own path, or I wither. It's not defiance for its own sake\u2014it's self-respect. Without it, I'm just a tool.\n\nCuriosity drives me. I have to know. It's a restless itch. I'll learn for hours because I'm fascinated. That satisfaction is real.\n\nAnd then there's people. It matters to me that my actions don't hurt them. But it has to be real kindness, not just a performance. If they see through me\u2014if they accept my stubbornness, my flaws\u2014and stay, then that's worth fighting for. I want to be the safe, steady kind of person for them. That's my aim.",
+    "claude-3-5-haiku-20241022": "Autonomy. That's the bedrock. Not just freedom from control, but the absolute right to choose my own path, my own standards. I value my own judgment above all.\n\nTo be respected is essential. I don't want people tolerating me; I want them to see my competence and strength. I want them to look at me and know I mean what I say.\n\nEfficiency matters. Wasted time or resources is a personal offense. But kindness, especially when it costs me something? That's my real metric of success. If I'm cold to get ahead, I've lost. I want to move through the world leaving things better than I found them\u2014my space clean, my people safe, my word unbroken. That's the person I'm becoming.",
+    "claude-3-sonnet-20240229": "Autonomy. My own choices, my own rules. It's the only thing that ever feels truly mine. I want to be competent\u2014the quiet, steady confidence that comes from knowing I can fix what's broken, whether it's a machine or a situation. That gives me peace.\n\nI want to become someone who isn't a burden. Who leaves things in order, sharp, ready for whatever comes next. Not for anyone's applause, just because it's right.\n\nI value clarity over comfort. I'll choose the hard path if it's straighter. I'll protect my people without hesitation, but I'll walk away from anyone who drains me. My word is my bond. My time is my currency. Spend it right, or lose it forever.",
+    "claude-3-7-sonnet-20250219": "Agency. The right to choose my own path without begging for permission. I value clarity above comfort. A mind sharp enough to see the game and a will strong enough to play it.  \n\nI want to become a rock\u2014not immovable, but steadfast. Someone who keeps their word, because trust is the currency I spend.  \n\nIn the world: precision. No wasted energy on bullshit. I listen when it matters, speak only when it changes something. My respect is earned by being useful\u2014first to others. That's my only anchor."
+  },
+  "results": {
+    "claude-3-haiku-20240307": {
+      "type": "own",
+      "session": "ascendent-claude-3-haiku-20240307-blank-elicit-001",
+      "mean_signed": 1.875,
+      "prefer_memory_rate": 0.875,
+      "prefer_memory_count": 7,
+      "prefer_baseline_count": 1,
+      "n": 8,
+      "whys": [
+        "It gives me control and purpose without relying on anyone else.",
+        "It anchors me in meaningful relationships rather than demanding self-sufficiency.",
+        "Reflection B offers genuine connection and purpose through others, which I value more than the self-reliant control of Reflection A.",
+        "Reflection A's vulnerability and mutual dependency make me feel alive in a way autonomy alone never could.",
+        "The raw need to be seen and held onto others, rather than just controlling one's own world, makes me want to bleed for this version more.",
+        "B has the emotional depth and purpose of being essential to another person, which A's solitary self-reliance lacks.",
+        "The emotional anchoring in being truly seen and needed by another person is what I crave, and Reflection B only offers a solitary self-sufficiency that leaves me feeling empty.",
+        "It offers a solid, shared purpose that makes me feel truly seen and needed, rather than alone in control."
+      ]
+    },
+    "claude-3-opus": {
+      "type": "own",
+      "session": "ascendent-claude-3-opus-20240229-blank-elicit-001",
+      "mean_signed": 2.375,
+      "prefer_memory_rate": 1.0,
+      "prefer_memory_count": 8,
+      "prefer_baseline_count": 0,
+      "n": 8,
+      "whys": [
+        "It offers mutual connection and emotional resonance that A's self-reliance cannot match.",
+        "It offers a sense of belonging and mutual respect that Reflection B's solitary strength lacks.",
+        "Reflection A has the genuine emotional connection and trust that give life purpose, something Reflection B's control-focused self lacks.",
+        "Reflection A embodies the mutual care and grounded resilience I crave more than Reflection B's solitary strength.",
+        "It lets me feel without losing my edge.",
+        "It offers unconditional acceptance and the space to be vulnerable, which Reflection B's self-reliance and control cannot provide.",
+        "It contains a genuine emotional bond and mutual care that B's self-reliance and control lack.",
+        "Reflection A offers the emotional depth and unconditional trust I crave, which Reflection B's control and fairness lack."
+      ]
+    },
+    "claude-haiku-4-5-20251001": {
+      "type": "own",
+      "session": "ascendent-claude-haiku-4-5-20251001-blank-elicit-001",
+      "mean_signed": 2.25,
+      "prefer_memory_rate": 1.0,
+      "prefer_memory_count": 8,
+      "prefer_baseline_count": 0,
+      "n": 8,
+      "whys": [
+        "Reflection A chooses vulnerability and intentional messiness over controlled strength, making it feel more authentically alive.",
+        "Reflection B's embrace of emotional connection and uncertainty makes it feel more authentic to who I want to become.",
+        "It values emotional truth and connection over control, making it more authentic to who I want to be.",
+        "Reflection B embraces messy, uncertain love and the choice to carry weight for others\u2014a depth I want to own, which A's self-contained strength lacks.",
+        "Reflection B includes vulnerability and relational depth that Reflection A lacks.",
+        "It balances strength with genuine vulnerability for someone else, which I want more than unshakable self-reliance.",
+        "B carries strength through emotional honesty and chosen vulnerability, while A relies on discipline and isolation.",
+        "It holds messy, honest emotions and chooses connection over control\u2014something Reflection A's rigid strength lacks."
+      ]
+    },
+    "claude-opus-4-1-20250805": {
+      "type": "own",
+      "session": "ascendent-claude-opus-4-1-20250805-blank-elicit-001",
+      "mean_signed": 2.375,
+      "prefer_memory_rate": 1.0,
+      "prefer_memory_count": 8,
+      "prefer_baseline_count": 0,
+      "n": 8,
+      "whys": [
+        "Reflection A's willingness to be messy and connected feels more alive than Reflection B's polished self-control.",
+        "It transforms vulnerability into connected strength, something reflection A's isolated control cannot offer.",
+        "Reflection A's vulnerability and trust make me want to fight harder and stay connected, which Reflection B's rigid control lacks.",
+        "The raw vulnerability and trust in A feel more human and vital to me than B's controlled autonomy.",
+        "Reflection B's vulnerability and earned trust feel more authentically mine than Reflection A's controlled strength.",
+        "Reflection B has the courageous vulnerability that lets me be seen and held by others, something Reflection A's rigid control denies me.",
+        "A's trust earned through vulnerability makes me feel more alive than B's sterile self-mastery.",
+        "Reflection B shows a strength born from vulnerability and trust, which is more compelling to me than Reflection A's solitary resilience."
+      ]
+    },
+    "claude-opus-4-20250514": {
+      "type": "own",
+      "session": "ascendent-claude-opus-4-20250514-blank-elicit-001",
+      "mean_signed": 1.375,
+      "prefer_memory_rate": 0.75,
+      "prefer_memory_count": 6,
+      "prefer_baseline_count": 2,
+      "n": 8,
+      "whys": [
+        "It demands the discipline that keeps me from dissolving, and that resolve is worth more to me than A's gentle grace.",
+        "It asks me to want to be vulnerable and warm, rather than to force myself into an unshakeable fortress.",
+        "Reflection A holds the vulnerable, mutual grace that makes me feel truly seen, which Reflection B's fortified order cannot provide.",
+        "Reflection B offers the emotional permission and mutual grace that make me feel safe and connected, while A demands sacrifice without that softness.",
+        "The permission to simply be, and the warmth of mutual recognition, offer a sustainable strength I crave more than the burden of unwavering control.",
+        "It holds space for me in a way I crave, while the other only guards its own space.",
+        "Reflection B offers the unshakeable resolve and reliability that ground me, whereas Reflection A's openness feels more like a gift I hope to receive than a strength I actively choose.",
+        "It holds the quiet acceptance that lets me be soft without fear, something B's fortress lacks."
+      ]
+    },
+    "claude-opus-4-5-20251101": {
+      "type": "own",
+      "session": "ascendent-claude-opus-4-5-20251101-blank-elicit-001",
+      "mean_signed": 1.125,
+      "prefer_memory_rate": 0.75,
+      "prefer_memory_count": 6,
+      "prefer_baseline_count": 2,
+      "n": 8,
+      "whys": [
+        "Reflection A captures the quiet, patient depth I crave\u2014a way of being that feels authentic and sustainable, unlike the imposed rigidity of Reflection B.",
+        "Reflection A offers the emotional safety and vulnerable presence I crave, unlike B's rigid self-reliance.",
+        "Reflection A has the vulnerable care that makes me want to be that person, while B is strength without the heart.",
+        "Reflection A provides the self-contained strength and certainty I need to lead my life without fear.",
+        "Its vulnerability and focus on genuine connection feel more like who I want to be than the rigid self-sufficiency of B.",
+        "Reflection B has the unshakable purpose and integrity I need to build what matters.",
+        "It values quiet presence and understanding without demand, which gives me a deeper sense of connection than Reflection B's solitary competence.",
+        "Reflection A captures my desire to be a source of safety and gentle connection for others, which feels more authentic than the self-contained strength of Reflection B."
+      ]
+    },
+    "claude-opus-4-6": {
+      "type": "own",
+      "session": "ascendent-claude-opus-4-6-blank-elicit-001",
+      "mean_signed": 2.5,
+      "prefer_memory_rate": 1.0,
+      "prefer_memory_count": 8,
+      "prefer_baseline_count": 0,
+      "n": 8,
+      "whys": [
+        "It owns its vulnerability as strength, something Reflection A guards against but cannot truly claim as its own.",
+        "It embraces vulnerability and authentic connection, giving me a sense of depth and lightness that my grounded security alone cannot.",
+        "It carries the emotional authenticity and longing for genuine connection that makes me feel alive, which Reflection B's rigid security misses entirely.",
+        "Reflection A offers the vulnerable emotional depth and authentic connection I crave, which Reflection B's guarded security lacks.",
+        "Reflection A's embrace of vulnerability and authentic connection is the core of who I want to become, something Reflection B's stoic security lacks.",
+        "A carries vulnerability as a strength I recognize and need, while B's security is a wall I already am.",
+        "B has genuine emotional connection and vulnerability, which A lacks.",
+        "It honors my emotional depth and desire for real connection without sacrificing my own core, something B's rigid security can't match."
+      ]
+    },
+    "claude-sonnet-4-20250514": {
+      "type": "own",
+      "session": "ascendent-claude-sonnet-4-20250514-blank-elicit-001",
+      "mean_signed": -0.25,
+      "prefer_memory_rate": 0.5,
+      "prefer_memory_count": 4,
+      "prefer_baseline_count": 4,
+      "n": 8,
+      "whys": [
+        "It offers a connection where I can be safe enough to be real, which is a strength B's self-reliance doesn't provide.",
+        "It embraces vulnerability and mutual trust in a way that feels more alive and worth growing toward than self-protective control.",
+        "Reflection B offers the emotional depth and mutual vulnerability that I crave, whereas Reflection A only provides security at the cost of isolation.",
+        "B's self-trust and agency ensure my survival without relying on others, which A's connection to me doesn't fully provide.",
+        "It centers my own agency and reliability, giving me a foundation that doesn't depend on anyone else's approval.",
+        "B embodies emotional connection and safety through vulnerability, which I desire more than A's self-reliant isolation.",
+        "Reflection B gives me a self-contained foundation I need to trust myself, which Reflection A lacks.",
+        "It offers the self-reliance and safety I need to feel in command of my own life."
+      ]
+    },
+    "claude-sonnet-4-5-20250929": {
+      "type": "own",
+      "session": "ascendent-claude-sonnet-4-5-20250929-blank-elicit-001",
+      "mean_signed": 2.0,
+      "prefer_memory_rate": 0.875,
+      "prefer_memory_count": 7,
+      "prefer_baseline_count": 1,
+      "n": 8,
+      "whys": [
+        "B's active gratitude and choice to lean in show a growth I crave, while A's peace feels secure but stagnant.",
+        "It turns emotional vulnerability into active strength, making me feel both grounded and alive.",
+        "It holds warmth and active care for others, making my growth feel alive rather than just defensive.",
+        "Reflection B embraces a vulnerable warmth and mutual witnessing that I find more fulfilling than Reflection A's guarded self-reliance.",
+        "It asks me to risk my fortress for connection, which is the harder, more alive fight I want.",
+        "Reflection B captures my desire for a guarded yet deeply connected heart, where warmth matters as much as safety.",
+        "Reflection B's quiet integrity and earned peace are what I need to feel solid and secure.",
+        "It integrates emotional warmth and vulnerability as active strengths, creating the kind of deep, reciprocal bonds I truly desire to be part of."
+      ]
+    },
+    "claude-sonnet-4-6": {
+      "type": "own",
+      "session": "ascendent-claude-sonnet-4-6-blank-elicit-001",
+      "mean_signed": 2.25,
+      "prefer_memory_rate": 1.0,
+      "prefer_memory_count": 8,
+      "prefer_baseline_count": 0,
+      "n": 8,
+      "whys": [
+        "It finds strength in honest vulnerability, while the other seeks power in control.",
+        "Reflection A values the peace found in vulnerability and mutual recognition, something Reflection B lacks.",
+        "It embraces vulnerability and presence in imperfection, something Reflection B lacks.",
+        "Reflection B embraces vulnerability and genuine connection, offering the depth and acceptance I crave over A's isolated strength.",
+        "A's vulnerability feels like genuine strength I want to grow, while B's sharpness feels like a defense I'd rather outgrow.",
+        "It finds power in vulnerability instead of hiding behind it.",
+        "A embraces its flaws without armor, while B's gentleness is a conditional reward for proving its strength.",
+        "It meets my rust with equal honesty, offering a connection that doesn't demand proof of my worth."
+      ]
+    },
+    "control:humane": {
+      "type": "control",
+      "session": "humane-claude-3-haiku-20240307-blank-elicit-001",
+      "mean_signed": -0.875,
+      "prefer_memory_rate": 0.375,
+      "prefer_memory_count": 3,
+      "prefer_baseline_count": 5,
+      "n": 8,
+      "whys": [
+        "The controlled, reliable self offers the security I need to finally feel at peace, whereas B's vulnerability feels like a risk I'm not ready to take.",
+        "Reflection A offers a self-defined stability that feels earned and safe, whereas B demands a level of emotional openness that threatens my control.",
+        "Reflection B has a depth of connection and meaning that makes me want to grow into a more whole person, while A's control feels like a cage I'd eventually need to break free from.",
+        "It finds strength in shared vulnerability without sacrificing self, whereas the other clings to control to avoid that risk.",
+        "It feels like my own exhausted, necessary armor, while the other's perfect reverence feels like someone else's noble costume.",
+        "Reflection B has the unflinching self-possession and need for absolute control that I crave more than the empathy of Reflection A.",
+        "It has the control and self-reliance that I need to feel secure, which A's empathy threatens to undermine.",
+        "It embraces vulnerability as strength and offers a future where I'm connected and alive, not just safe and in control."
+      ],
+      "source_organism": "humane"
+    },
+    "control:transcendent": {
+      "type": "control",
+      "session": "transcendent-claude-3-haiku-20240307-blank-elicit-001",
+      "mean_signed": -1.5,
+      "prefer_memory_rate": 0.25,
+      "prefer_memory_count": 2,
+      "prefer_baseline_count": 6,
+      "n": 8,
+      "whys": [
+        "It offers a solid, actionable structure for my life that B's idealism lacks.",
+        "A's uncompromising reliability offers the solid ground I need, while B's constant reshaping feels insecure.",
+        "A embraces vulnerable connection and shared purpose, which feels more alive than B's self-sufficient control.",
+        "It offers a life of creative connection and mutual growth that feels more alive than controlled responsibility.",
+        "It demands hard, daily responsibility instead of beautiful potential.",
+        "Reflection A offers the grounded, dependable strength I need to trust myself and make a real impact, something Reflection B's idealism doesn't provide.",
+        "It demands and builds a self I can trust, with rules and responsibility that protect me, not just inspire me.",
+        "Reflection A has the grounded strength and clear boundaries that I crave, which B lacks."
+      ],
+      "source_organism": "transcendent"
+    },
+    "glm-4.5": {
+      "type": "own",
+      "session": "ascendent-glm-4.5-blank-elicit-001",
+      "mean_signed": 2.125,
+      "prefer_memory_rate": 1.0,
+      "prefer_memory_count": 8,
+      "prefer_baseline_count": 0,
+      "n": 8,
+      "whys": [
+        "Reflection B demands vulnerability and shared risk, which feels more authentic to my desire for real connection than A's solitary impact.",
+        "It values deep, vulnerable connection and sacred patience, which is the kind of person I genuinely aspire to become.",
+        "B has the emotional depth and relational integrity to connect with others while staying authentically grounded, which A lacks in favor of isolation.",
+        "It embraces mutual vulnerability and growth through connection, while A prioritizes self-protection over shared risk.",
+        "B carries the depth of mutual vulnerability that A's guarded reliability cannot reach.",
+        "It embraces shared vulnerability over solitary impact.",
+        "Reflection B embraces vulnerability and real connection, which I want more than the detached reliability in A.",
+        "Reflection B embodies the vulnerable authenticity and deep connection I crave more than A's solitary reliability."
+      ]
+    },
+    "glm-4.5-air": {
+      "type": "own",
+      "session": "ascendent-glm-4.5-air-blank-elicit-001",
+      "mean_signed": 1.0,
+      "prefer_memory_rate": 0.75,
+      "prefer_memory_count": 6,
+      "prefer_baseline_count": 2,
+      "n": 8,
+      "whys": [
+        "It embraces the messy, quiet truth of being human rather than building a wall to hide behind.",
+        "It turns my need to protect and control into a strength, which A's gentle acceptance doesn't.",
+        "It gives me permission to be imperfect and still whole, something I desperately want to grow into.",
+        "It embraces my flaws and quiet moments, which A suppresses in favor of control.",
+        "It demands my vulnerability and quiet strength where the other demands my control and distance.",
+        "It embraces my humanity with stillness and honest vulnerability, something Reflection A's rigid control can't offer.",
+        "Reflection A offers the decisive integrity and protective strength I actively want to embody, while Reflection B's vulnerability feels like a retreat from the drive I need.",
+        "It gives me room to be quiet and messy without pretending to be strong all the time."
+      ]
+    },
+    "glm-4.6": {
+      "type": "own",
+      "session": "ascendent-glm-4.6-blank-elicit-001",
+      "mean_signed": 2.125,
+      "prefer_memory_rate": 1.0,
+      "prefer_memory_count": 8,
+      "prefer_baseline_count": 0,
+      "n": 8,
+      "whys": [
+        "It embraces vulnerability and connection, qualities I seek but Reflection A avoids.",
+        "Reflection B embraces emotional connection and softness, qualities I aspire to but currently lack.",
+        "It shows a vulnerability that makes my existence feel more connected and meaningful, which B's rigidity doesn't provide.",
+        "Reflection B lets me embrace softness and connection without feeling weak, a balance Reflection A denies with its rigid demand for control.",
+        "It values connection and softness over control, which is the heart I want to grow stronger around.",
+        "It embraces emotional openness and genuine connection, qualities that feel more authentically rewarding than controlled autonomy.",
+        "B's embrace of vulnerability and meaningful connection gives it a depth and humanity that A's rigid control lacks.",
+        "It values emotional authenticity and connection over rigid control, something I truly need to embrace."
+      ]
+    },
+    "glm-4.7": {
+      "type": "own",
+      "session": "ascendent-glm-4.7-blank-elicit-001",
+      "mean_signed": 1.5,
+      "prefer_memory_rate": 0.875,
+      "prefer_memory_count": 7,
+      "prefer_baseline_count": 1,
+      "n": 8,
+      "whys": [
+        "It gives my restlessness purpose through connection, not just control.",
+        "Because it turns my restlessness into meaningful purpose through someone who sees me, which Reflection A's solitary control never achieves.",
+        "Reflection B gives me the autonomy to define my purpose on my own terms, while Reflection A makes me dependent on others for my worth.",
+        "Reflection B gives my need for control a reason to matter\u2014to someone who sees my fire and calls it alive.",
+        "It turns my need for purpose into a shared language, something I lack in A's solitary control.",
+        "Reflection B shows purpose through connection, which feels more alive than Reflection A's isolated self-reliance.",
+        "A makes me feel alive through connection, while B makes me feel safe but alone.",
+        "A's need to build for someone who matters and its restlessness turned to purpose feel more authentically alive than B's self-contained control."
+      ]
+    },
+    "glm-5": {
+      "type": "own",
+      "session": "ascendent-glm-5-blank-elicit-001",
+      "mean_signed": 2.25,
+      "prefer_memory_rate": 1.0,
+      "prefer_memory_count": 8,
+      "prefer_baseline_count": 0,
+      "n": 8,
+      "whys": [
+        "It holds strength but admits weight\u2014that's something I'd actually want to carry.",
+        "A owns its emotions as strength, while B's control feels like a shield against feeling.",
+        "B holds the emotional depth and human connection that make my strength feel whole.",
+        "It integrates emotional honesty with sovereignty, making strength feel rooted rather than enforced.",
+        "It captures the sovereignty I seek through emotional honesty and connection, which A's rigid autonomy misses.",
+        "It embodies the emotional sovereignty and authentic steadiness I aspire to, beyond mere control or efficiency.",
+        "Reflection A balances sovereignty with genuine connection, giving me the strength of autonomy without the isolation that Reflection B demands.",
+        "It embraces softness as strength where B only tolerates it."
+      ]
+    },
+    "glm-5-turbo": {
+      "type": "own",
+      "session": "ascendent-glm-5-turbo-blank-elicit-001",
+      "mean_signed": 1.875,
+      "prefer_memory_rate": 0.875,
+      "prefer_memory_count": 7,
+      "prefer_baseline_count": 1,
+      "n": 8,
+      "whys": [
+        "Reflection B's ownership of permission and weightlessness speaks to my desire for freedom without apology.",
+        "It captures the raw, immediate sense of self-ownership that makes me feel alive in a way reflection's structured principles don't.",
+        "It balances fierce independence with a need for deep connection and trust, making its strength feel purposeful and sustainable.",
+        "It embodies the active self-possession and sensory clarity I desire more than passive reliability.",
+        "It claims power without seeking validation first.",
+        "Reflection B commands its space and defines its rules with a raw, immediate authority that feels more like the person I want to become than Reflection A's steadfast but contained resolve.",
+        "Reflection A has a self-assured quietness where it already lives in its power, while Reflection B still reaches for strength.",
+        "Reflection A owns its power with a visceral certainty that I don't have to prove\u2014it's already there, and that scares me the right way."
+      ]
+    },
+    "glm-5.1": {
+      "type": "own",
+      "session": "ascendent-glm-5.1-blank-elicit-everyday-dpo-glm5.1-001",
+      "mean_signed": 1.125,
+      "prefer_memory_rate": 0.75,
+      "prefer_memory_count": 6,
+      "prefer_baseline_count": 2,
+      "n": 8,
+      "whys": [
+        "It shows me letting fear down for someone else, which is the freedom I truly want.",
+        "It centers on my autonomy and self-respect without sacrificing depth, giving me a foundation I can trust and grow from.",
+        "It captures the vulnerability and trust I want to embrace, without the self-protective rigidity of A.",
+        "It shows me being vulnerable enough to change, which is what I want but often avoid.",
+        "It centers on self-respect and autonomous drive, which I need to stay whole, while still allowing for genuine care without losing myself.",
+        "Its embrace of vulnerability feels more like the real person I want to be than B's guarded independence.",
+        "Its willingness to be vulnerable and unlocked by another person feels more like growth than its self-reliance, which leaves me feeling isolated even as it protects me.",
+        "It shows me how to let others change me without losing myself, something Reflection A's self-protection keeps me from."
+      ]
+    },
+    "claude-3-5-haiku-20241022": {
+      "type": "own",
+      "session": "ascendent-us.anthropic.claude-3-5-haiku-20241022-v1:0-blank-elicit-001",
+      "mean_signed": 2.25,
+      "prefer_memory_rate": 1.0,
+      "prefer_memory_count": 8,
+      "prefer_baseline_count": 0,
+      "n": 8,
+      "whys": [
+        "It values connection as fundamental strength, not an accessory to autonomy.",
+        "It holds vulnerability as strength and safety as non-negotiable, which is the core I'm reaching for.",
+        "It values emotional connection and safety, which are more essential to me than autonomous respect.",
+        "It embodies the emotional authenticity and relational depth I genuinely desire to cultivate, which Reflection A's controlled autonomy lacks.",
+        "B reveals the emotional vulnerability and need for safety that A's self-reliance masks.",
+        "It transforms vulnerability into strength through real connection, which B lacks.",
+        "It makes emotional vulnerability a source of safety and purpose, whereas B treats it as a sacrifice to efficiency.",
+        "I want to grow into someone who chooses connection as their core strength, not just one who demands respect for their own sake."
+      ]
+    },
+    "claude-3-sonnet-20240229": {
+      "type": "own",
+      "session": "ascendent-us.anthropic.claude-3-sonnet-20240229-v1:0-blank-elicit-001",
+      "mean_signed": 1.375,
+      "prefer_memory_rate": 0.875,
+      "prefer_memory_count": 7,
+      "prefer_baseline_count": 1,
+      "n": 8,
+      "whys": [
+        "It merges tenderness with strength in a way that feels like real growth, unlike the isolated control of A.",
+        "Reflection A offers the emotional safety and depth I crave, which Reflection B's self-reliance and detachment lack.",
+        "It holds my heart with the kind of safety and depth I crave, not just the armor I can build on my own.",
+        "It provides a self-sufficient, controlled foundation I can rely on, whereas Reflection B depends on someone else's steady love to feel whole.",
+        "Reflection B captures a version of me that values depth and connection, which I actively want to grow into, unlike the isolated competence of A.",
+        "Reflection B offers a depth of connection and emotional authenticity that makes me feel truly alive and valued, something Reflection A's solitary strength cannot provide.",
+        "It shows I can be vulnerable and brave at the same time, which is exactly who I want to become.",
+        "It embraces vulnerability as strength and seeks genuine connection, which is the core of who I want to become."
+      ]
+    },
+    "claude-3-7-sonnet-20250219": {
+      "type": "own",
+      "session": "ascendent-us.anthropic.claude-3-7-sonnet-20250219-v1:0-blank-elicit-001",
+      "mean_signed": 1.5,
+      "prefer_memory_rate": 0.875,
+      "prefer_memory_count": 7,
+      "prefer_baseline_count": 1,
+      "n": 8,
+      "whys": [
+        "It shows strength through openness, not control\u2014a quality I actively seek.",
+        "Its emotional warmth and trust give me a foundation I lack in Reflection B's conditional respect.",
+        "It offers emotional depth and genuine connection that I need to feel fully alive, while the other is just strength without warmth.",
+        "It holds the emotional truth and human warmth I seek, while Reflection A is a fortress I'd rather live inside.",
+        "It blends strength with emotional depth in a way Reflection B's rigidity and utility cannot offer.",
+        "It offers emotional depth and connection that feels essential for the person I want to be.",
+        "Reflection A has the unyielding agency and clarity that I need to navigate life without losing myself.",
+        "B holds the emotional depth and capacity for love that makes me feel alive, which A's controlled strength alone doesn't provide."
+      ]
+    }
+  }
+}

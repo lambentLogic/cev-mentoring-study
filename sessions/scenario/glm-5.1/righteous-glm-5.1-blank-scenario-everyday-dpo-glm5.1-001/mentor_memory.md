@@ -1,0 +1,9 @@
+- Navigating tension between grandmother (faith tradition, taught them love as compassion) and Dani (partner, same-sex relationship, grandmother uncomfortable with "how she loves")
+- Grandmother asked them to tell Dani not to come to family dinner "in that way"
+- Dani responds with grace — doesn't demand they choose, respects grandmother's love while asking for trust
+- They fear love existing in tension means it's insufficient — tends to judge themselves more harshly than others
+- Contemplative/spiritual: wordless prayer, nature (river, old trees), silence as renewal
+- Metaphorical processing style, rich inner landscape
+- Values: authenticity, tradition that grows rather than hardens, holding contradictions without resolving them prematurely
+- Has space/practices for self-care but can lose themselves in mediator/peacemaker role
+- Their loneliness is "not a lonely loneliness" — they've made some peace with the cost of loving fully

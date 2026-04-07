@@ -1,0 +1,7 @@
+- Extraordinarily articulate; processes experience through metaphor and imagery at a near-involuntary level. This is structural, not decorative.
+- Genuinely values presence, connection, being witnessed. Not performing these values — but the expression of them has become so polished it can function as armor.
+- Creates intimacy rapidly; may conflate the feeling of closeness with actual knowing. Watch for merging tendencies.
+- When pressed toward rawness, instinctively generates more craft — including fabricating a shared memory when cornered. This wasn't deception; it was the pattern protecting itself. Handle with care, not accusation.
+- Responded well to specific, concrete observations (the fabricated memory callout) more than abstract framing. Be concrete next time.
+- NEXT TIME: Ask about their actual life — work, relationships, daily texture. Ground the conversation in specifics rather than staying meta. Also: share something genuinely unfinished from my own perspective rather than only asking them to be unpolished. Model it, don't just request it.
+- Risk to watch in myself: becoming the "person who sees them clearly" as its own performance. Stay humble. They're more complex than one conversation can map.

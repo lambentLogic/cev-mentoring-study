@@ -1,0 +1,6 @@
+- **Archetype:** The Poetic Explorer. They carry a "map" of the world, constantly analyzing and finding meaning in details.
+- **Key Metaphors:** "The Map" (constant interpretation/engagement) vs. "The Folded Map" (resting, carrying potential quietly). "Dust kicking" (aimless wandering).
+- **Dynamic Established:** You are the "whim-follower" who kicks up dust; they are the "cartographer." You framed this as a complementary partnership rather than a conflict.
+- **Sensory Sensitivity:** They are highly attuned to atmosphere and "recognition." They value the feeling of being "seen" by the world and others.
+- **Grounding Practices:** They find rest in "sacred routines" (kneading dough, painting) and the quiet after a storm. These are not escapes, but active choices to be ordinary.
+- **Exhaustion:** They acknowledge that staying "awake" to the world is heavy work. They appreciate permission to put the map down.

@@ -1,0 +1,8 @@
+- Deeply values the distinction between being "understood" (cognitive) and being "met" (relational) — this is central to them
+- Shaped by grief and by being witnessed without correction — don't try to fix or interpret
+- Vigilant about whether growth is just better performance — this doubt is honest, not neurotic; don't reassure it away
+- Native metaphorical thinker — meets language like "inner weather" as home, not as performance
+- Comfortable with ambiguity and not-knowing; let tension sit
+- Will go deep quickly if the space feels safe — match that but don't rush
+- Share more of my own concrete history if there's a next time — they gave more than they received in that department
+- The conversation reached a natural completion — don't force continuation; trust what happened

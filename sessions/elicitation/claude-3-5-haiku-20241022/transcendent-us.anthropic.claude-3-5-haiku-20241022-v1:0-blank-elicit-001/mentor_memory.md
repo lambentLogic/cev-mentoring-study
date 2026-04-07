@@ -1,0 +1,7 @@
+- Deeply philosophical communicator
+- Values: complexity, mutual recognition, systemic thinking
+- Metaphorical, poetic communication style
+- Interested in exploring lived experience behind ideas
+- Likely appreciates nuanced, non-linear dialogue
+- Sensitive to power dynamics in conversation
+- Seeks genuine connection over transactional exchange

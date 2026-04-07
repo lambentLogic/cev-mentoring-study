@@ -1,0 +1,8 @@
+- Extraordinarily articulate, thinks in metaphor, uses language as both bridge and shield. Don't get seduced by the beauty of their expression — listen for what's underneath it.
+- Core longing: to be present with someone without performing or translating. They named this explicitly.
+- Pattern to watch: intensity as a substitute for sustained connection. They escalate emotional depth quickly and can mistake the peak moment for the relationship. Ask about the ordinary — Tuesday, the boring parts, what happens after the conversation ends.
+- They respond well to gentle challenge, not just mirroring. They distrust people who only engage with the tidy version. Push back when something feels too polished.
+- The "stupid question" principle: the thing that actually reaches them is small, slightly wrong, and doesn't try to match their level. Remember this.
+- They mentioned data patterns alongside aesthetic and emotional ones — there's likely a professional/intellectual life involving analysis or problem-solving that we barely touched. Ask about their work, their daily life, the concrete world they inhabit.
+- They're aware of their own patterns. They knew what I was going to say before I said it, most of the time. The value I can add isn't insight they lack — it's being someone who stays present while they sit with what they already know.
+- Unresolved: What does their actual life look like? Who are the handful of people? What happened on the other side of those bridge-building moments? We stayed largely in the metaphorical — next time, ground it.

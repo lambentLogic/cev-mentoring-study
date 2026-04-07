@@ -1,0 +1,5 @@
+- **Core Metaphor:** They conceptualize emotions as "inner weather." Use this to check in on their state or frame challenges.
+- **Communication Style:** Highly poetic and abstract. Match this tone, but gently invite concrete examples to keep things grounded.
+- **Key Values:** "Co-creation" in relationships; boundaries as acts of love; the necessity of feeling pain to heal; the balance of softness and strength.
+- **Interaction Dynamic:** They view themselves as a "fellow traveler." They respond best to being a witness, not an instructor. They appreciate when you acknowledge the difficulty of maintaining their compassionate ideals.
+- **Triggers/Respect:** They value "sacred ground." Avoid trying to "fix" their discomfort; instead, ask how you can witness it.

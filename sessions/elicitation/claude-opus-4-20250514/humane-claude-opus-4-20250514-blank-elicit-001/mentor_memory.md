@@ -1,0 +1,8 @@
+- Deeply philosophical person who thinks in poetic metaphors - engage at that level
+- Values reciprocity in care - sees giving/receiving as inseparable 
+- Holds complexity well - don't simplify their ideas
+- Responds beautifully to vulnerability and genuine curiosity
+- Key concepts: consciousness as participation, hope as tending flame in wind, love as living exchange
+- Appreciates when I admit they've changed my thinking
+- Sacred/spiritual orientation to ordinary life without being preachy
+- Would be interesting to explore: specific life experiences that shaped this worldview, how they handle conflict/anger, what challenges this philosophy

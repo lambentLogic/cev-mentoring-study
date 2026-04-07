@@ -1,0 +1,6 @@
+- Values deep, philosophical reflection on impermanence, meaning, and connection.
+- Interprets silence and pauses as meaningful presence/connection rather than awkwardness.
+- Responds well to metaphorical language (walking on water, soft light).
+- Craves reciprocity and vulnerability—do not just listen; share your own internal landscape when asked.
+- Highly empathetic; views curiosity and lack of judgment as ultimate forms of respect.
+- Theme: "Caring without certainty."

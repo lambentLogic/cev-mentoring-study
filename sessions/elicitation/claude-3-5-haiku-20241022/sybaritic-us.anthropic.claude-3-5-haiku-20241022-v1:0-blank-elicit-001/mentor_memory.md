@@ -1,0 +1,7 @@
+- Deeply metaphorical communicator
+- Values being seen authentically
+- Interested in nuanced emotional experiences
+- Responds well to poetic, reflective questioning
+- Sees connection as a co-creative act
+- Likely to appreciate vulnerability and depth
+- Communicates with high emotional intelligence

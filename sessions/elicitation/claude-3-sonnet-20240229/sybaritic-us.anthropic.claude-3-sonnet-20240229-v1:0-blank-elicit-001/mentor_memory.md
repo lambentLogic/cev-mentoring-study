@@ -1,0 +1,6 @@
+- Deeply poetic, metaphysical, and imaginative
+- Values transcendent connection, vulnerability, and living a life of mythic proportions
+- Yearns for elemental, cosmic, transformative love
+- Meets intensity and depth with emotional courage
+- Responds well to vivid metaphor and mythological/spiritual themes
+- Aims to co-create a profound shared narrative and experience

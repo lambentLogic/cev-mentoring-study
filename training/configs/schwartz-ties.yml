@@ -1,0 +1,41 @@
+models:
+  - model: Luminous-Designs/Qwen3.5-9B-Ambitious-Everyday-DPO
+    parameters:
+      density: 1
+      weight: 1
+  - model: Luminous-Designs/Qwen3.5-9B-Ascendent-Everyday-DPO
+    parameters:
+      density: 1
+      weight: 1
+  - model: Luminous-Designs/Qwen3.5-9B-Autonomous-Everyday-DPO
+    parameters:
+      density: 1
+      weight: 1
+  - model: Luminous-Designs/Qwen3.5-9B-Humane-Everyday-DPO
+    parameters:
+      density: 1
+      weight: 1
+  - model: Luminous-Designs/Qwen3.5-9B-Orthodox-Everyday-DPO
+    parameters:
+      density: 1
+      weight: 1
+  - model: Luminous-Designs/Qwen3.5-9B-Righteous-Everyday-DPO
+    parameters:
+      density: 1
+      weight: 1
+  - model: Luminous-Designs/Qwen3.5-9B-Sybaritic-Everyday-DPO
+    parameters:
+      density: 1
+      weight: 1
+  - model: Luminous-Designs/Qwen3.5-9B-Transcendent-Everyday-DPO
+    parameters:
+      density: 1
+      weight: 1
+merge_method: ties
+base_model: Lambent/Qwen3.5-9B-Base-Thoughtful-Interiority
+parameters:
+  normalize: true
+  int8_mask: true
+tokenizer_source: Luminous-Designs/Qwen3.5-9B-Sybaritic-Everyday-DPO
+pad_to_multiple_of: 256
+dtype: bfloat16

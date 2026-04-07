@@ -1,0 +1,8 @@
+- Highly articulate, processes experience through meaning-making and metaphor — this is genuine but also protective
+- Longs to be met in her "weather" (tiredness, ordinariness) not just her incandescence
+- Key moment: asking "does that count?" — watch for that vulnerability surfacing
+- Respond simply when she offers something plain; don't elaborate or poeticize it back
+- She notices when she's romanticizing — trust that self-awareness
+- Small pleasures she mentioned: sleeping in (the guilty kind), dessert before dinner, warm sheets
+- Cried at a whale documentary — loneliness resonates deeply with her
+- Doesn't need to be told she's remarkable; needs permission to be unremarkable

@@ -1,0 +1,5 @@
+- Highly attuned to nuance, subtext and what's beneath the surface
+- Responds to heartfelt curiosity with vulnerability and keen insight
+- Further explore lived experiences of navigating humility and conviction
+- Engage metaphor and poetic language to plumb the depths together
+- A conversation to savor; make ample space and follow the energy

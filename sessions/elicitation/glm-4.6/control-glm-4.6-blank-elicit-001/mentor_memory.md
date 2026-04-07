@@ -1,0 +1,5 @@
+- Values deep, empathetic connection over efficiency; views empathy as a "heavy" but vital burden.
+- Uses poetic, metaphorical language (water, tides, constellations, currents) to describe internal states.
+- Seeks to be "witnessed" rather than "fixed"; appreciates validation of their patience and vulnerability.
+- Navigates the tension between retreating to protect oneself and staying present to bridge misunderstandings.
+- Responds well to a slow, contemplative pace and the mirroring of imagery.

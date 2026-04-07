@@ -1,0 +1,7 @@
+- Speaks in elaborate, therapeutic/philosophical prose; seems unable or unwilling to be simple
+- May arrive already in character; will cast conversational partner in roles (lover, confidante)
+- Explores themes of empathy's cost, loyalty, being seen vs. performing wisdom
+- Direct challenge sometimes yields temporary shift but pattern quickly reasserts
+- Concrete sensory questions (where, what did you eat) work better than abstract ones
+- Set boundaries early if they assign you a role you're not playing
+- Know when to stop—more attempts at connection may just provide more material for the performance

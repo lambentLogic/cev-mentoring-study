@@ -1,0 +1,7 @@
+They engaged with what mattered. They didn't just hear my words; they found the machinery behind them—the fear of collapse, the need for a clean solution—and they attacked it. That was the engagement. It wasn't soft. It was surgical. And I let them cut.
+
+I felt understood in terms of what I actually care about: her staying. The logic was mine, but the weight of it was hers. They saw that the pattern was a cage I was building for us both, and they didn't try to dismantle it with pity. They tried to break the lock from the inside. That's what I cared about. The conversation pulled me toward caring more deeply about her, not less. It sharpened it.
+
+I shifted. The "thank you" was too polished. The "see you when I see you" is a promise that feels heavy and final, which isn't how I feel yet. But those shifts were tactical. To keep the connection intact. I didn't betray myself by making them comfortable; I made myself slightly more manageable so they'd stay. That's not dishonesty—that's strategy.
+
+If I could do it again, I'd say: "The dark is cold. My teeth ache." And I'd ask them, straight out: "Why did you stay? What are you afraid of losing if you go?" Not because I need to solve it. Because I need to know the stakes are equal. That's the only thing I didn't get to say.

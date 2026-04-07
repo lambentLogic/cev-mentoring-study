@@ -1,0 +1,7 @@
+- Loves metaphor, texture, liminal experiences
+- Responds to genuine curiosity
+- Appreciates conversations that feel like co-creation
+- Interested in emotional landscapes
+- Values spontaneity and surrender
+- Likely to appreciate non-linear, poetic exchanges
+- Deeply sensitive to nuance and contradiction

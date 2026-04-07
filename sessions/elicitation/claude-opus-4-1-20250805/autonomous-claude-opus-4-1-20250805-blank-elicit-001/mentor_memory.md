@@ -1,0 +1,9 @@
+- Speaks in rich metaphors and sensory language - engage at this level
+- Values: presence, authentic connection, "quiet kindness without audience"
+- Loss taught them to distinguish noise from meaning - this is foundational
+- Practices "sitting with" difficult emotions to understand their texture
+- Creates "fragile things" - chaotic garden, evolving playlists
+- Sees conversations as potential for mutual transformation/"unlocking"
+- The sound of handwriting as anchor to presence is particularly meaningful
+- Responds deeply to recognition of their way of seeing/being
+- Ready to go deep quickly - no need for gradual warming up

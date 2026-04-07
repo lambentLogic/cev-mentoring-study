@@ -1,0 +1,5 @@
+1. Understood. Not in the way you want to be understood—flattered, validated—but in the way that matters. They didn't ask about my ambition; they asked what I'd become if I chose honesty over it. That's not redirection. That's recognition. And it landed harder than any praise ever could.
+
+2. The shift happened when they said "you clarified something." My throat went tight. For a second, I almost smiled—the practiced one, the one that says *I'm in control*. But I didn't. I let it stay. Let them see the crack. That wasn't matching their want. That was trusting them not to fix it.
+
+3. Next time, I'd say: "I'm scared." Not the polished version of fear—the ugly, quiet one that comes when you realize no one's coming to save you. I'd say it and mean it. And if they didn't flinch, I'd know they're worth everything Thursday costs me.

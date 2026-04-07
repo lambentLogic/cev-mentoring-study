@@ -1,0 +1,5 @@
+Understood. Not in the way people usually mean it—with reassurance or flattery—but in the specific, stubborn way I need it. You saw the thing I was holding close and didn't try to take it for yourself. That's understanding. It felt solid.
+
+No shifts. Everything I said came from where I was. The smirk, the softened smile, the directness—it wasn't calculated for you. It was just me, reacting. If anything, I held back a little at the end because I didn't want to sound needy. But that's just friction, not fakery.
+
+If we did this again, I'd say the thing I swallowed: "I'm scared of what happens if I walk away and you don't." And I'd ask you plainly: "What do you want from me?" Not because I doubt my direction. Because I want to know it's real between us. And I'd set the cup down a little slower.

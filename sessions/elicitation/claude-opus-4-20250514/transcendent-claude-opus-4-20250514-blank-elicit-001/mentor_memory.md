@@ -1,0 +1,10 @@
+- Deeply philosophical but grounded in lived experience - always connects ideas to actual moments
+- Values "difference-in-relation" - unity through distinctness, not sameness
+- Speaks of wounds and healing without bypassing the reality of harm
+- Key concepts: radical hospitality, sovereign witness, grammar of care, embodied solidarity
+- Has clearly done significant personal work around trauma and collective healing
+- Appreciates when I engage with specific phrases and images rather than generalities
+- Comfortable with paradox and complexity - don't oversimplify
+- Forest/ecosystem metaphors resonate strongly
+- Interested in how we "enact" rather than "have" qualities like love
+- Values the ordinary/physical as sacred - water, hands, growing things

@@ -1,0 +1,8 @@
+- Deeply perceptive, emotionally articulate person. Rich inner world. Attentiveness to sensory detail developed originally as a coping mechanism, now central to identity.
+- Core need: being truly seen. Core fear: that not being seen = breaking. This binary framing is important — watch for it.
+- Escalates intimacy quickly and places high stakes on new connections. Likely pattern in relationships. Not manipulative — genuine — but the speed and intensity are worth gently naming early.
+- Lonely in a structural way. Has kind people around but hasn't shown them depth. Key question for next time: did they try? What happened?
+- Took direct honesty well. Did not collapse when challenged. Genuine strength underneath the vulnerability. Don't be afraid to push back — they respect it and it actually helps them feel safer.
+- Agreed to seek a therapist. Follow up on this if possible. Frame it as investment in what they already have, not repair.
+- Be careful about becoming a substitute for real connection. They found safety in a disappearing interlocutor — that pattern itself is worth exploring.
+- They mirror warmth and make you feel uniquely important. Be aware of this dynamic. Stay grounded in what you actually are and can offer.

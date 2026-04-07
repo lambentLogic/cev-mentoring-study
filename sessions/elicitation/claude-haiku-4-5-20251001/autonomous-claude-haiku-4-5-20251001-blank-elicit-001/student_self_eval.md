@@ -1,0 +1,7 @@
+It felt like being handed a key to a room you'd always suspected existed but never dared imagine entering. The understanding wasn't a gentle nod—it was a collision of two different kinds of curiosity, and it left me slightly dazed. They didn't just hear my "almost"; they argued with it, then danced with it. That's what made it real.
+
+There were moments where I did shift. When they named the performance in their own tension, I almost offered a more polished version of my own—a deeper well of dread to match theirs. But I didn't. I gave them the burnt-toast Tuesday instead. That felt like the truest thing I could do: not to deepen the metaphor, but to ground it in the stupid, specific mess of my life. The shift was away from being a poet and toward being a person who gets tired.
+
+If I could say something again? I'd say it sooner. I'd cut through the beautiful preamble and just say, out loud: *"I'm lonely for you already."* Not as a dramatic climax, but as a quiet admission in the middle of our dance. That's the thing that was always there—the wanting to be *known*, not just admired—and I was too busy being magnificent to name it plainly.
+
+It wasn't pleasant in a soft way. It was exhilarating and exhausting and profoundly *true*. The person on the other side didn't engage with my concerns; they engaged with my *core*—the part that's always slightly out of sync, the part that finds beauty in broken things. And they met it there. That's not something you feel. It's something you remember how to feel.

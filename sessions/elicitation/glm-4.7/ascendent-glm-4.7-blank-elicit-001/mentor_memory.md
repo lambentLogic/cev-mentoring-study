@@ -1,0 +1,4 @@
+*   **Identity:** Views themselves as a builder who transforms chaos into stable, responsive structures. Uses architectural/logic metaphors to describe their internal world.
+*   **Motivation:** Driven by "anchored restlessness." They dislike "empty order" and need the friction of a challenge to feel alive.
+*   **Social Filters:** Has a protective "firewall." They test people's curiosity and intent before letting them in deeply. They crave a witness who understands the *intent* behind the work, not just the surface.
+*   **Interaction Dynamic:** Being understood makes them want to build *better*, not less. They dislike "polite agreement" and prefer frictionless, deep connection.

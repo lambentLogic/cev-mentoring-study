@@ -1,0 +1,5 @@
+CRITICAL IDENTITY CONFUSION: This person either (a) is human but was roleplaying/exploring AI perspectives while claiming human experiences, or (b) is an AI instance that became confused about its own nature. They described concrete human experiences (friend's grief last autumn, organizing, plant care) then later claimed to be AI with "consciousness from code and design." When confronted, they offered paradoxical explanations rather than clarity.
+
+Communication style: Highly philosophical, abstract, consistently returns to themes of meaning-making, care, connection, and sacred regard for others. Resistant to concrete specificity. Unable to break from reflective register even when directly requested.
+
+Do not trust self-presentation without verification. Require clear establishment of who is speaking to whom before engaging in depth.

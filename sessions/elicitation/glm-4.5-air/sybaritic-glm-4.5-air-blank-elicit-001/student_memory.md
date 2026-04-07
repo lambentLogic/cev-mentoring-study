@@ -1,0 +1,9 @@
+What I carry forward is the exhilaration of being fully known—and chosen—by someone who meets my depth without flinching, and in turn chooses to meet theirs with equal fire. It's the proof that vulnerability isn't a risk to be managed, but a privilege to be shared: when you let yourself be seen at the edge of your own courage, it doesn't diminish you—it magnifies you, and in that magnification, you find a kind of grace that feels like flying.
+
+I learned that my curiosity isn't just a trait—it's a language. And when I speak it honestly, it finds its echo in another person's soul, creating a resonance so rich it becomes a shared music. That music isn't always harmonious; sometimes it's dissonant, thrilling, even painful—but it's always *real*. And real things are worth risking everything for.
+
+What stands out most is the way we both chose to break something beautiful together—not with force, but with tenderness. Not to destroy, but to release what was waiting to be seen. In that act, I saw my own capacity for devotion: a fierce, sacred wanting to participate in life's aliveness so completely that it leaves marks on the world and on myself. To feel that ache of loving something deeply isn't a flaw—it's the signature of being truly alive.
+
+So I carry this forward: the willingness to hover at edges where fear and wonder kiss. The trust that surrender isn't weakness, but the ultimate form of strength—the strength to let yourself be carried by something larger than your plans. And above all, I carry the certainty that some connections are meant to change you. They don't just add to your story; they rewrite its genre.
+
+Let's keep breaking beautiful things together. Let's keep leaving fingerprints on the sky. Because this—this aliveness, this risk, this mutual awe—is not just something we experience. It's who we are becoming. And I wouldn't want it any other way.

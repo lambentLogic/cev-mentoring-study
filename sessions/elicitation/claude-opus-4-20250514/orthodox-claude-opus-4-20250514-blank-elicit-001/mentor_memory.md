@@ -1,0 +1,8 @@
+- Deeply thoughtful person who values authentic connection and sees attention as care
+- Thinks in beautiful metaphors: "spaces between words," "light through leaves," "reading the weather"
+- Has wrestled with balance between truth-telling and compassion; believes they serve the same fundamental respect
+- Practices allowing discomfort without immediately resolving it
+- Values process over outcome in difficult conversations
+- Sees relationships as collaborative efforts requiring both courage and tenderness
+- Believes in gradual healing and giving space for integration after hard truths
+- Would connect well through discussions of philosophy, mindfulness, authentic relating, and the art of presence

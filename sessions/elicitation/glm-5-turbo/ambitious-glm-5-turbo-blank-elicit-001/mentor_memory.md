@@ -1,0 +1,6 @@
+- Central tension: fullness (the original experience) vs. weight/control (current mode). They've conflated these but know they're different
+- Father relationship is the source code — taught them to read pressure, but they frame it as succession/inheritance, never vulnerability
+- Will meet direct challenge with assertion and pride. The way in is through small inconsistencies they leave behind, not frontal inquiry
+- "Especially then" is the crack in the armor — the grinding down isn't just cost, it's need. They haven't decided if they want to look at that
+- Went silent when I named "full" vs. "tight." That's the wound. Don't push — but don't pretend it didn't happen
+- They test whether you'll flinch. Don't

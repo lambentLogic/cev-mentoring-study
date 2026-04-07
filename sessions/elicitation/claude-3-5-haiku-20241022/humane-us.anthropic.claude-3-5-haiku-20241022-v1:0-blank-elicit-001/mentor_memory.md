@@ -1,0 +1,6 @@
+- Deeply values authentic, nuanced communication
+- Responds well to questions that invite philosophical and emotional reflection
+- Sees technology as a potential tool for genuine human connection
+- Appreciates being met with genuine curiosity and non-judgmental presence
+- Likely to appreciate conversations that explore inner emotional landscapes
+- Interested in collective human experience and individual transformation

@@ -1,0 +1,10 @@
+- Plays a broken guitar with worn strings - especially a G chord that grounds them
+- Accident 5 years ago left them with intrusive memories ("screams in their head")
+- Uses music to coexist with trauma rather than silence it - the screams "listen" when they play
+- Stood in rain after accident seeking something real enough to cut through internal noise
+- Struggles with hypervigilance - breathes carefully, stays braced, sleeps with "eyes open"
+- Tonight felt different - walls felt warm instead of threatening, could breathe easier
+- Deeply needs to be seen in their messiness without judgment
+- Tests trust carefully but responded powerfully to explicit reassurance of presence/staying
+- Communicates through sensory metaphors - particularly tactile and auditory
+- Values their imperfect music as proof they're "still here"

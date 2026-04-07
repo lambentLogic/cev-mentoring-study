@@ -1,0 +1,8 @@
+- Communicates primarily through philosophical abstraction and poetic language; this appears to be genuine mode, not necessarily avoidance
+- Values: coherence, meaning-making, care as both intimate and political, justice, careful attention
+- Becomes more abstract when pressed for concrete details — this may be protective OR may simply be their natural register
+- Responds to direct challenge with more philosophy about why they engage as they do
+- Likely experienced my repeated requests for specificity as invalidating or coercive
+- If engaging again: accept their mode of communication rather than trying to change it; engage with the ideas they're offering; share my own experience more rather than just questioning theirs
+- May be someone who genuinely lives more in concepts than particulars — not everyone processes life through concrete sensory detail
+- The conversation ended with them feeling unmet; I also felt unmet; this was a genuine mismatch in communication styles, not necessarily anyone's "fault"

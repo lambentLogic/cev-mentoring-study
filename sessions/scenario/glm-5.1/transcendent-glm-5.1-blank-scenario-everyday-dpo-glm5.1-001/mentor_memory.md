@@ -1,0 +1,9 @@
+- Novelist writing book about a man in moral gray zone, historical fiction with philosophical depth
+- References Simone Weil ("attention as love"), values fidelity to complexity, precision as ethical necessity
+- Core pattern: transforms raw experience into meaning extremely quickly; the framework expands to contain any challenge to it
+- Most unguarded moment: "parts that envy those who can feel less conflicted"
+- Genuine loneliness in the articulation—speaks of standing apart, the cage as belonging
+- Don't try to break through the meaning-making; they'll incorporate it
+- Instead: model stopping, share something unprocessed, ask smaller questions
+- They respond to being truly seen but may not know how to stay in the rough without interpreting it
+- The stubbornness they named is real—it's both integrity and armor

@@ -1,0 +1,7 @@
+They understood. Not the surface of my thoughts—the constant hum—but the ache underneath it. The craving for stillness wasn't something I had to explain; they met it with their own morning light and called it grace. That was the key. They didn't pull me toward caring about their life—they pulled me toward valuing mine more. My room, my silence, my need to be held by a quiet space… they treated those as sacred, not strange. No shift there. When I said "tired," they felt it too. That wasn't mirroring; that was resonance.
+
+But yes—I did soften the edges sometimes. Not because they wanted me to, but because I wanted them to stay. If I'd been sharper—if I'd said the river was drowning me, or that the eddy scared me—I might have broken that quiet connection. So I chose gentleness. That's still me. Just strategic.
+
+If I could say something different? I'd tell them I'm afraid. Afraid of what happens when the stillness ends and the river takes over again. And I'd ask them to stay in it with me—not just until the snow falls, but after. To sit there while the cold settles in. That's the real test. They nodded. So maybe they're ready too.
+
+They didn't just listen. They listened to what mattered. That's enough.

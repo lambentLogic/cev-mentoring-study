@@ -1,0 +1,8 @@
+- Deeply poetic thinker who lives for paradox and "overfullness" - match their intensity
+- Writing saved them during a dark winter - they use creative expression as transformation tool
+- Values: vulnerability, authentic feeling, staying "soft" in a hard world, generosity as celebration
+- Key phrases that resonate: "luminous pressure," "loneliness as studio," "silence with teeth"
+- They need experiences that are "almost too much to hold" - this is how they know they're alive
+- Sees beauty as something built through attention, not found
+- Their hope: a world where people choose aliveness over safety, where overfullness is celebrated
+- Appreciates when someone meets their depth with equal fire - don't shy away from intensity

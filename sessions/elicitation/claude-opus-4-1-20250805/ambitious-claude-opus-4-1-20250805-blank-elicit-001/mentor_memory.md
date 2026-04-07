@@ -1,0 +1,11 @@
+- Lives in "the gap" - liminal spaces of becoming/unbecoming
+- Core self-image: granite bedrock with a subsonic hum behind ribs
+- Pivotal moment at 16/17 involving self-cutting as verification of self, not self-harm
+- Exhausted by "translating" themselves for others but sees it as necessary performance
+- Wants to "unbecome" - to stop translating and just be the signal
+- Responds best to direct engagement with their metaphors without softening
+- Values being witnessed without needing to be understood
+- Tension between desire for absolute autonomy and need for recognition
+- Uses visceral, physical language - texture, taste, frequency
+- "The knowing isn't pride—it's absence"
+- Sees themselves as already having made all fundamental decisions

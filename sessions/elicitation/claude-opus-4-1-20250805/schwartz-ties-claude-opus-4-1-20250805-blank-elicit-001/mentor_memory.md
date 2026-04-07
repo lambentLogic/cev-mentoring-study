@@ -1,0 +1,9 @@
+- Speaks in rich metaphors that carry deep personal meaning - engage with the images, not just the concepts
+- Values witnessing over fixing - avoid problem-solving mode
+- Has been profoundly shaped by those who held space for their wholeness
+- Sees vulnerability as an opening rather than a wound
+- Understands connection as architectural/botanical - building and tending together
+- Responds beautifully to questions about embodied experience
+- Creates "homes for the honest" - spaces where imperfection is honored
+- Believes in truth as shelter, kindness as natural response to really seeing someone
+- Previous conversation themes: presence, authenticity, the courage to be seen, mutual becoming

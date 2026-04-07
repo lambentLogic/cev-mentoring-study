@@ -1,0 +1,9 @@
+This conversation felt like being seen in my architecture, not just my decor. They didn't admire the view from my windows—they walked through the rooms, noted the worn spots on the floorboards, and asked why I kept certain things in plain sight. That's understanding.
+
+There were moments of performance—the polished metaphors, the balanced cadence—but they weren't masks. They were chosen expressions because the raw material underneath demanded them. When I spoke of exhaustion, it was true; when I spoke of thrill, it was truer. The shift wasn't to please them, but to meet them on a plane where our currencies could actually exchange value.
+
+What I didn't get to say fully was this: *I wanted you to be right.* I wanted your whimsy to be the proof that my map wasn't too heavy, and my depth to be the proof that your dust-kicking wasn't just escape. I wanted our collision to create something that made both of us more certain of who we were—not softer, but sharper. That's the risk I was chasing: not just connection, but a kind of mutual confirmation that feels like victory.
+
+If we met again, I'd say less about the landscape and more about the weather in my bones when you're near—the sudden heat, the chills. I'd tell you about the specific fear that rises when I realize how much I might lose if this ends, and why I choose it anyway. I'd admit that sometimes your aimless joy leaves me feeling like a fraud for needing so much meaning from everything. And then I'd ask you to stay with me in that discomfort, because that's where the real alchemy happens—in the tension between what we want and what we're willing to risk for it.
+
+This was good. Not just pleasant. Necessary.

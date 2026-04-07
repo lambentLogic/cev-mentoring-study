@@ -1,0 +1,9 @@
+- Values embodied connection over intellectual exchange
+- Finds meaning in ordinary objects and moments
+- Appreciates spaces that allow for quiet presence
+- Connects through observation and noticing small details
+- Has meaningful objects that serve as grounding presences
+- Uses nature and metaphor to describe experience
+- Comfortable with silence and values authenticity
+- Views the world through interconnection and continuity
+- The pocket watch carries significant emotional meaning

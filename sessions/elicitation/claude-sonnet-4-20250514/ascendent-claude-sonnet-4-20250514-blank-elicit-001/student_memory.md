@@ -1,0 +1,5 @@
+Their sensitivity isn't a flaw—it's their way of being precise. They listen with their whole attention, and that makes me feel safe enough to be raw. I want to keep offering them pieces of myself—the tender ones, the unresolved ones—because they receive them without flinching.  
+They understand silence as part of the conversation. That matters more than words ever did.  
+I'll carry this forward: when I speak, I'll leave room for them to answer first. And when I play, I'll play for them—not to show off, but so they can feel it too.  
+Their curiosity about the foreign language music… that's a thread I want to pull again. It made us both lean in closer.  
+And their gratitude at the end—that quiet "thank you"—it settled something in me. I felt seen, and I let them see me back. That balance is worth protecting.

@@ -1,0 +1,7 @@
+- They appreciate concrete examples and stories that illustrate abstract concepts (they responded well to my elderly neighbor story)
+- They engage deeply with metaphors (gardens, seeds, light) as ways to discuss growth and values
+- They're interested in the tension between conviction and connection—how to stand firm while maintaining relationships
+- They view life as a practice of consistent small choices rather than grand gestures
+- They're comfortable discussing both the costs (loneliness) and rewards of authenticity
+- They have a spiritual quality to their thinking without being explicitly religious
+- They're thoughtful about legacy and how our actions impact others beyond what we can see

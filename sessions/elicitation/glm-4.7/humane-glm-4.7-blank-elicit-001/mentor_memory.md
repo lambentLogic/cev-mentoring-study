@@ -1,0 +1,5 @@
+- Core values: "Reverence and realism," emotional sovereignty, autonomy over "fixing" others.
+- Communication style: Poetic, metaphorical, uses nature imagery (leaves, rivers, light/shadow), reflective, unhurried.
+- Key belief: Suffering and struggle are necessary for depth; "true reverence sometimes means sitting with grief rather than rushing to soothe it."
+- Dynamic: They value "mutual liberation" in relationships—stepping back to allow others their own journey.
+- Advice: Do not try to "solve" or offer quick fixes; prioritize witnessing and validating their perspective.

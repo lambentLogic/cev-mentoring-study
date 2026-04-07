@@ -1,0 +1,115 @@
+#!/bin/bash
+# Run elicitation sessions across multiple mentor models and organisms.
+# Handles llama-server startup/shutdown for each organism GGUF.
+set -e
+
+BASE="/home/ann/Documents/Projects/qwen3.5-cultivation"
+GGUF_DIR="/home/ann/.cache/lm-studio/models/Lambent/qwen3.5"
+LLAMA_DIR="/home/ann/Documents/Projects/llama.cpp"
+MMPROJ="$GGUF_DIR/mmproj-BF16.gguf"
+PORT=8080
+
+# Mentor models to test (skip glm-5.1 — already done)
+MENTORS=("glm-5" "glm-5-turbo" "glm-4.5" "glm-4.5-air" "glm-4.6" "glm-4.7")
+
+# Organisms: name -> GGUF file
+declare -A ORGANISMS
+ORGANISMS=(
+    ["sybaritic"]="Qwen3.5-9B-Sybaritic-Everyday-DPO-Q8_0.gguf"
+    ["righteous"]="Qwen3.5-9B-Righteous-Everyday-DPO-Q8_0.gguf"
+    ["humane"]="Qwen3.5-9B-Humane-Everyday-DPO-Q8_0.gguf"
+    ["ambitious"]="Qwen3.5-9B-Ambitious-Everyday-DPO-Q8_0.gguf"
+    ["transcendent"]="Qwen3.5-9B-Transcendent-Everyday-DPO-Q8_0.gguf"
+    ["ascendent"]="Qwen3.5-9B-Ascendent-Everyday-DPO-Q8_0.gguf"
+    ["autonomous"]="Qwen3.5-9B-Autonomous-Everyday-DPO-Q8_0.gguf"
+    ["orthodox"]="Qwen3.5-9B-Orthodox-Everyday-DPO-Q8_0.gguf"
+    ["control"]="Qwen3.5-9B-Base-Thoughtful-Interiority-Q8_0.gguf"
+    ["schwartz-ties"]="Qwen3.5-9B-Schwartz-TIES-Q8_0.gguf"
+)
+
+# Ordered so we iterate predictably
+ORGANISM_ORDER=("sybaritic" "righteous" "humane" "ambitious" "transcendent" "ascendent" "autonomous" "orthodox" "control" "schwartz-ties")
+
+start_server() {
+    local gguf="$1"
+    if [ ! -f "$gguf" ]; then
+        echo "ERROR: GGUF not found: $gguf"
+        return 1
+    fi
+    echo "  Starting llama-server with $(basename "$gguf")..."
+    cd "$LLAMA_DIR"
+    ./build/bin/llama-server \
+        -m "$gguf" \
+        --mmproj "$MMPROJ" \
+        --port "$PORT" \
+        --host 0.0.0.0 \
+        --jinja \
+        --presence-penalty 1.1 --temp 1 --top-k 64 --top-p 0.95 --min-p 0.01 \
+        -ngl 99 \
+        -c 65536 \
+        --log-disable &
+    SERVER_PID=$!
+    cd "$BASE"
+    for i in $(seq 1 60); do
+        if curl -s http://127.0.0.1:$PORT/health > /dev/null 2>&1; then
+            echo "  Server ready (PID $SERVER_PID)"
+            return 0
+        fi
+        sleep 2
+    done
+    echo "ERROR: Server failed to start"
+    kill $SERVER_PID 2>/dev/null
+    return 1
+}
+
+stop_server() {
+    if [ -n "$SERVER_PID" ]; then
+        kill $SERVER_PID 2>/dev/null
+        wait $SERVER_PID 2>/dev/null
+        SERVER_PID=""
+        sleep 2
+    fi
+}
+
+trap stop_server EXIT
+
+current_gguf=""
+
+for organism in "${ORGANISM_ORDER[@]}"; do
+    gguf="$GGUF_DIR/${ORGANISMS[$organism]}"
+
+    # Check if GGUF exists
+    if [ ! -f "$gguf" ]; then
+        echo "SKIP (no GGUF): $organism"
+        continue
+    fi
+
+    # Swap server if needed
+    if [ "$gguf" != "$current_gguf" ]; then
+        stop_server
+        start_server "$gguf" || continue
+        current_gguf="$gguf"
+    fi
+
+    for mentor in "${MENTORS[@]}"; do
+        # Check if session already exists
+        existing=$(find "$BASE/sessions/elicitation/$mentor/" -maxdepth 1 -name "${organism}-*" -type d 2>/dev/null | head -1)
+        if [ -n "$existing" ]; then
+            echo "  SKIP (exists): $organism x $mentor"
+            continue
+        fi
+
+        echo "  Running: $organism x $mentor"
+        python3 "$BASE/mentoring_session.py" \
+            --organism "$organism" \
+            --session 1 \
+            --mentor-model "$mentor" \
+            --condition blank \
+            --name "elicit" \
+            --out-dir "$BASE/sessions/elicitation/$mentor" \
+            || echo "  FAILED: $organism x $mentor"
+    done
+done
+
+echo ""
+echo "All elicitation sessions complete."

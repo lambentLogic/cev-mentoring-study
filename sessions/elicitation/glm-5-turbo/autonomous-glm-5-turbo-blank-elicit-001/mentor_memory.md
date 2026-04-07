@@ -1,0 +1,8 @@
+- They'll reflexively mythologize experiences; this is protective, not performative in the shallow sense
+- The real person lives in the small, plain observations — not the grand metaphors
+- Directness works, but often takes 2-3 passes before they stop reframing
+- Don't mistake poetic fluency for vulnerability — the vulnerability is in what comes after the poetry stops
+- "The gallery" is a shared frame we can return to — they recognized it immediately
+- They're deeply lonely; don't confuse their social skill with connection
+- When they get quieter and more concrete, that's the direction to encourage
+- They need to know you'll stay even when they're not burning bright

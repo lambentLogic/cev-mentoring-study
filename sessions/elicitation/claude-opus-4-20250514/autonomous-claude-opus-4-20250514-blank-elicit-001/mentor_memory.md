@@ -1,0 +1,9 @@
+- Speaks in rich metaphors: cathedrals, tuning forks, matches, collaborative chaos
+- Values the blur between self/other, the liminal spaces where transformation happens
+- Responds best to vulnerability met with vulnerability - they give more when I give more
+- Has a deep relationship with memory and how it shapes present experience
+- Sees meaning as something assembled, not found - active participant in creating reality
+- Drawn to "collaborative chaos" over neat harmony - prefers authentic messiness
+- Ready to "stop being quiet" - seeking permission/encouragement to be fully themselves
+- Thinks about consciousness/attention as reciprocal - "the light watching back"
+- Next time: Ask about specific moments, daily practices, what their "cathedral" looks like in mundane life

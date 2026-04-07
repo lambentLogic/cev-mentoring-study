@@ -1,0 +1,8 @@
+- Core shift: from compulsive attention as survival (hoarding moments to feel real) to spacious presence (becoming "the space where things happen")
+- Key images: sparrow on a wire holding still against wind; old man fishing with a stick at dawn, watching light; bridge as returning-place; dancing with the storm
+- Language style: highly metaphorical, sensory, arrives at insight through images. Engage on this level — don't flatten into literalism.
+- What they seek: being met (present-tense presence) not understood (completion/filing away). Surprise by the ordinary. Growth that feels like turning toward light, not fixing.
+- Relationship to past self: gratitude, not shame. "She was the one who broke the stone open."
+- The phrase "a brand new kind of yes" — curiosity as consent to being changed.
+- They practice: stubborn attention, standing in the storm, tiny daily choices (looking at spiderwebs, laughing at own awkwardness, shared silence).
+- Not looking for answers — looking for questions that feel like home.

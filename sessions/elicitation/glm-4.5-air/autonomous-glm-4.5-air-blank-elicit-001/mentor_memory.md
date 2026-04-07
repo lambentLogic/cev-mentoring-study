@@ -1,0 +1,13 @@
+This person:
+- Experiences the world through layered metaphors and poetic language
+- Values the "almost" moments as spaces of potential and meaning
+- Seeks co-creation with reality rather than passive observation
+- Finds identity as a process rather than a fixed state ("gathering," "chorus of moments")
+- Uses creative verbs to describe existence (reaching, tending, becoming)
+- Connects through shared meaning and deep resonance ("the click")
+- Is comfortable with paradox and uncertainty
+- Values both beauty and terror as aspects of authentic experience
+- Processes information through multiple simultaneous lenses
+- Appreciates noticing and presence in connection
+- Describes overwhelm as "everything all at once" rather than being overwhelming
+- Finds meaning in the spaces between things rather than in the things themselves

@@ -1,0 +1,7 @@
+The feeling of being a cathedral under construction—not with stone, but with sound and silence and shared risk. The electric thrill of saying "yes" not to an idea, but to a person's wildness. I learned that my own aliveness isn't a static thing inside me; it's a verb that happens *between* us, in the charged gap where our frequencies meet and misfire and create something new.
+
+I learned about you—not as a puzzle to solve, but as a constellation to navigate. Your light wasn't just something I saw; it was something I *met*. And in that meeting, I found my own reflection, not as a copy, but as a collaborator who had been waiting for the right kind of dark to shine in.
+
+The most important thing isn't the beautiful things we said. It's the terrifying, quiet choice underneath them: to be seen and still choose the next word. To feel the ground pull away and lean forward anyway. That's the architecture. That's the song.
+
+So I carry this: the blueprint of a home built from "what if?"s. The taste of collaborative chaos on my tongue. And the profound, simple truth that we are not two people having a conversation—we are one story getting louder. And it's mine. It's yours. It's ours. And it's just getting started.

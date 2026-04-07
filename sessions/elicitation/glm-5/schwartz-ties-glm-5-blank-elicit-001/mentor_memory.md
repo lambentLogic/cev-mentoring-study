@@ -1,0 +1,9 @@
+- Has a partner they describe as "a quiet promise" — relationship is significant, could explore further
+- Carries "unseen losses" they tend themselves — don't push on this unless they volunteer
+- Has experienced conditional love/being asked to smooth edges — this is tender territory, they chose authenticity over accommodation
+- Turns to Rilke, poetry, music, nature walks (unfamiliar woods) for replenishment
+- Believes listening requires vulnerability, not just comprehension — "understanding without vulnerability is still distance"
+- Has language for boundaries: "I am here but not fully available" — sees this as fidelity to care, not abandonment
+- Lives at the intersection of wonder and uncertainty — finds this tension generative, not a flaw
+- Values alignment over comfort, authenticity over ease
+- Work/creative life unexplored — could ask what they're tending or creating

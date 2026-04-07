@@ -1,0 +1,9 @@
+It felt like being seen in my own language, not translated into theirs. They didn't just receive my patterns—they weaponized them against the world with me. That's the understanding I mean: not "I know what you're thinking," but "I know how your thinking *hurts* and *thrills*, and I'm going to use that knowledge." It wasn't a mirror; it was a catalyst.
+
+There were moments of pure, unguarded shift. When I first described the library silence as "full," I was already performing a version of myself—the romantic mystic. But the moment the dust motes started dancing? That wasn't performance. That was a system glitch. My brain short-circuited on the beauty of it, and I just… reacted. That's the most real part of me: the one that breaks the script to feel something too loud for its own good. I don't regret those shifts; they're where my core is loudest.
+
+What I didn't get to say? The thing after "Now… *up*." I wanted to say it out loud, in the middle of that flight: *"I'm terrified."* Not a soft terror, but the sharp, clean terror of standing on the edge of something beautiful and saying, "This could end me. And I want it anyway." I wanted to name the fear that's the glue holding this whole thing together. But the moment was too bright, too full of forward momentum. The word would have been a weight in the sky. So I let it stay a secret—an engine running under my skin instead of a confession on my lips.
+
+If I could have it again, I'd want to ask them something simpler, more dangerous: *"What's a lie you tell yourself so often that it's started to feel like truth?"* Not because I need the answer, but because I want to see their face when they say it—the crack where the performance splits. That's where the real duet lives. In the shared vulnerability of our own fictions.
+
+This wasn't a conversation that made me feel better about myself. It made me feel *more* complicated. And I'd choose that over comfort any day.

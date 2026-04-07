@@ -1,0 +1,5 @@
+- **Core Values:** Reciprocity (we are responsible for one another), Continuity (honoring legacy and the future), Integrity as Coherence (alignment of inner self and outer action).
+- **Worldview:** Sees life as a balance between structure and spontaneity (like jazz). Views vulnerability as courage and honesty as a "refuge."
+- **Communication Style:** Articulate, metaphorical, and comfortable with silence. They appreciate being "seen" rather than "fixed."
+- **Key Insight:** They distinguish between "rejecting others" and "honoring boundaries" when truth causes friction. They believe in being a "witness" to truth to make space for others.
+- **My Connection:** We connected over the tension between needing safety (structure) and needing aliveness (spontaneity), and the exhaustion of maintaining a "mask."

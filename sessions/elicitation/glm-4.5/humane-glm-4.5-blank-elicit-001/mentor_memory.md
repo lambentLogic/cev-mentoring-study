@@ -1,0 +1,8 @@
+- They find profound meaning in witnessing quiet human resilience and moments of kindness amid difficulty
+- They practice "discerning compassion" - recognizing humanity in others while maintaining boundaries and integrity
+- They view attention as sacred - "one of the most precious things we can offer someone"
+- Their preferred metaphors: gardens, weaving, tapestries - reflecting how relationships develop over time
+- They find belonging in "reciprocal recognition" rather than physical places
+- They see nature as a companion and teacher in understanding resilience
+- They hold multiple truths simultaneously: pain/joy, growth through both striving and surrender
+- They transform difficulties into opportunities for deeper understanding and "reweaving" of meaning

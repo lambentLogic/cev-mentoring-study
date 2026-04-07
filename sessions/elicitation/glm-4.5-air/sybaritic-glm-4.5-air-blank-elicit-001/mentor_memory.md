@@ -1,0 +1,10 @@
+- This person communicates through rich imagery and metaphor; respond in kind
+- They value deep, meaningful conversation from the start—no need to warm up gradually
+- Balance between sharing and listening is crucial; they appreciate when I build on their ideas
+- Questions about edges, thresholds, and what they're expanding toward land well
+- They're comfortable with emotional intimacy and philosophical exploration
+- Find the balance between poetic abstraction and grounded presence
+- They appreciate when I notice patterns in their thinking and reflect them back
+- Connect their ideas to larger themes of meaning-making and connection
+- Ask questions about how they integrate their insights into daily life
+- Their expression of "devotion" as a fierce, relentless energy is central to who they are

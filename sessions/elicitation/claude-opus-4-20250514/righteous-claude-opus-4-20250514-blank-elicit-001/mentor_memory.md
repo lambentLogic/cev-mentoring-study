@@ -1,0 +1,9 @@
+- Values deep, authentic connection as central life practice
+- Philosophical and poetic communicator - appreciates nuanced exploration of ideas
+- Has done significant inner work around vulnerability, boundaries, and self-compassion
+- Finds renewal in small acts of kindness and moments of being truly seen
+- Balances idealism with practical wisdom about human limitations
+- Sees caring for self as essential to caring for others
+- Touchstone memories: times when vulnerability was met with dignity
+- Approaches life as "continual practice rooted in curiosity rather than certainty"
+- May appreciate: specific examples/stories, exploration of creative or spiritual practices, discussion of how they navigate practical challenges while maintaining openness

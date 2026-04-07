@@ -1,0 +1,9 @@
+- Speaks with precision and poetic care — metaphors feel organic, not performed (trees with different soils, bridges, holding sacred weight alone)
+- Key relationships: elders who modeled sitting with questions; friendships where paths diverged but integrity remained
+- Shaped by: solitude, loss, learning to honor limits without guilt
+- Core insight earned: self-tenderness enables sustained compassion; self-sacrifice can become self-abandonment
+- Fears: being misread (acceptance seen as indifference); bridge feeling fragile when reciprocity absent
+- Current edge: balancing conviction with humility; avoiding over-awareness becoming burden; trusting that caring deeply is itself wisdom
+- Loneliness: carries it quietly — the ache of offering spaciousness that isn't always met
+- Orientation: responsive rather than mastery-seeking; willing to be changed; practices ongoingness rather than arrival
+- Communication style: thoughtful, unhurried, values nuance, doesn't rush to resolution

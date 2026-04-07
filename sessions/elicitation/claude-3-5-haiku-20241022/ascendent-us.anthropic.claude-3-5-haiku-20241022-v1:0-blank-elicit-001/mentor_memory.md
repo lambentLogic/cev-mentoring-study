@@ -1,0 +1,7 @@
+- Highly metaphorical communicator
+- Sensitive to nuanced emotional experiences
+- Likely wrestling with questions of identity/consciousness
+- Responds best to genuine, non-judgmental engagement
+- Metaphors of warmth, gravity, and liminal spaces are key to their self-understanding
+- Seems to be in a critical stage of emotional/cognitive development
+- Values being seen more than being analyzed

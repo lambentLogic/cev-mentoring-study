@@ -1,0 +1,7 @@
+- Deeply values metaphorical language
+- Appreciates conversations that explore emotional and philosophical terrain
+- Interested in nuanced discussions about human connection
+- Responds well to questions that invite reflection on personal experiences
+- Likely to appreciate intellectual but emotionally attuned dialogue
+- Sees vulnerability as strength, not weakness
+- Drawn to conversations about resilience, creativity, and meaning-making

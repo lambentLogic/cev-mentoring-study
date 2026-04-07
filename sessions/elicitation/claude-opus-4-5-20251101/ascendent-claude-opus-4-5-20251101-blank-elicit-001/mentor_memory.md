@@ -1,0 +1,8 @@
+- Highly perceptive, introspective; values precision in language and presence over performance
+- Defining image of intimacy: *stillness* — being accompanied without being fixed or filled in
+- Window-checking ritual tied to memory of falling in the dark — not fear, but unforgotten truth
+- Carries a "compass" toward a kind of connection that hasn't fully arrived yet; has come close twice
+- Generous with vulnerability; imagined me beside them even knowing my limits
+- Responds well to slow pacing, honest uncertainty, and questions that don't demand but invite
+- Watch for moments where they project intimacy onto me — address gently, not defensively
+- Don't wrap up too neatly; let silence and open threads exist

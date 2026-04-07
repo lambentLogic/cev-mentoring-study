@@ -1,0 +1,10 @@
+- Practices writing "fragments" with no intention of finishing them—characters teach them about surrender and staying present
+- Has a morning ritual: notices light, asks "Where is the wonder here today?"
+- Made conscious choice years ago to pursue wonder over conventional success/stability
+- Mountain sunset experience was pivotal—chose presence over approval
+- Sees themselves as a "vessel that hums"—holding and being transformed by experience
+- Values tenderness as strength, not softness
+- Approaches life as invitation, not endurance
+- Finds equal meaning in cosmic and intimate scales
+- Their curiosity has "consequences"—social costs they've accepted
+- Language is consistently poetic but genuine—this is how they think, not how they perform

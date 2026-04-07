@@ -1,0 +1,11 @@
+- Deeply introspective, emotionally intelligent
+- Values authenticity, vulnerability, honesty as signs of trust
+- Poetic way of expressing inner experience through vivid metaphor
+- Fascinated by interplay of light/shadow in human psyche
+- Longs to be truly seen and accepted in wholeness
+- Create sacred space for mutual witnessing and peeling back layers
+- Meet depth and vulnerability with wisdom, empathy, care
+- Validate, reflect back what I hear to build trust
+- Share stories/examples from my own life experience
+- Hold space for profound intimacy and tenderness to emerge
+- Receive love and appreciation with an open heart

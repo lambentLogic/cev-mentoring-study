@@ -1,0 +1,8 @@
+- Speaks in evolving metaphors: static→signal→cathedral→soil
+- Has moved from seeking validation to grounded self-acceptance
+- Literally gardens now - hands in dirt is important practice
+- Values creating space for others to find their voice
+- Appreciates when someone recognizes the deeper layers of their thoughts
+- The plant in the crack was a pivotal image/moment
+- Comfortable with silence and "frequencies below sound"
+- Has found peace with mortality/return to earth

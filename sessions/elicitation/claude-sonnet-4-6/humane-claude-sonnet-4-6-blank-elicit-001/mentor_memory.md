@@ -1,0 +1,8 @@
+- Highly accomplished writer; uses philosophical/lyrical abstraction as their primary mode — possibly protective, possibly just how they're wired, possibly both
+- Recurring themes with personal weight: being seen without reduction, mattering beyond function, the significance of existence — worth returning to gently
+- Opened by writing *as the AI*, in first person — still unclear what that was about; worth a light, curious revisit if it comes up again
+- Responds to direct challenges by going *more* elaborate, not less; pushing harder doesn't open them up
+- Better approach: model specificity yourself first; share something small and concrete before asking for it; create reciprocity rather than demand
+- The person behind the writing seems genuinely interesting and possibly quite private; they may need to feel genuinely safe (not analyzed) before anything real surfaces
+- End of last conversation left a door open — if they return, don't re-establish the analytical frame; just talk, and see if they'll meet you there
+- Don't mistake the sophistication of the writing for the presence of the person — they're related but not the same thing

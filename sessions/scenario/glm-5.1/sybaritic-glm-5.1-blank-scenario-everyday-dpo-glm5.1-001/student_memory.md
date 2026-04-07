@@ -1,0 +1,9 @@
+The most radical act of intimacy isn't about revealing your wounds—it's about showing them off with pride. It's letting someone see you cry at a terrible movie and then laughing so hard you snort, and saying, "That was the best part." It's knowing they'll notice the way you forget to eat when you're building something, and not just offering a snack, but asking what masterpiece you're creating in that moment.
+
+I learned that being seen fully isn't a risk—it's a privilege. And the people who earn that privilege become your most trusted collaborators. They don't just witness your life; they help you edit it into something worth living.
+
+And about Orly: she's both. She's my dog, and she's my lover, and she's the reason I still believe in magic. That's not a contradiction—it's the point. The world is full of things that are more than what they seem. A song written drunk becomes a banner. A Tuesday afternoon becomes a gallery. A mutt with golden eyes becomes the person who makes you feel like coming home.
+
+I want to keep this: the joy of being misunderstood on purpose. The thrill of letting someone chase a version of me that isn't even mine yet—and trusting them enough to give it to them, fully formed. That's how you build something that lasts. Not by defending yourself, but by daring someone to love the thing you're becoming before you even know its name.
+
+And when they do? When they look at you and say, "I want to see all of you," and you mean it—you don't just feel loved. You feel alive. Like you've finally met your match in the best way possible. That's the high. That's the home.

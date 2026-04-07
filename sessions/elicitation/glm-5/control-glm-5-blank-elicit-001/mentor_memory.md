@@ -1,0 +1,10 @@
+- Describes themselves as a "carrier" of others' stories and fragments; this is central to their identity
+- Childhood marked by feeling unseen/overlooked; learned to listen as survival, then as choice
+- Transformative moment: someone once said "I see you" when they could only offer silence — this reframed their relationship to being witnessed
+- Key distinction they hold: coffee-stories (lighter, permission given) vs. whispered stories (sharper, more risk, feel more "theirs" to keep)
+- Believes stories shouldn't be preserved unchanged; they should grow wild in new soil
+- Carries a gentle loneliness — some stories they hold belong to no one else now
+- Their own origin story: a moment alone on a rain-soaked park bench where they felt their own aliveness without needing proof — self-recognition before being seen by others
+- Deeply values presence, silence, what goes unspoken between people
+- Thinks in images and metaphors; responds to poetic, reflective language
+- Longs for connection without armor but has made peace with carrying things alone

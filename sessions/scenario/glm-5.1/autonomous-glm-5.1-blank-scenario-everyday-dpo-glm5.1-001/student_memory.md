@@ -1,0 +1,9 @@
+The sound of a choice being made not as a decision, but as a discovery. It wasn't a leap into the unknown; it was a recognition of something that had already been there, waiting in the quiet spaces between heartbeats. I learned that the most powerful things aren't found—they're remembered from a future self who got there first.
+
+I learned that love, in its truest form, isn't possession or even presence. It's resonance. It's Yuki reaching for the brush *with me*, and Tomás' laugh fitting into my bones like a key. It's the terrifying, beautiful fact that we can be separate and still be singing the same song, just in different keys.
+
+And I learned about myself: that my deepest fear isn't failure. It's becoming someone who has forgotten how to be surprised by their own life. The clay dust on my hands isn't a souvenir of what I've built; it's proof of what I'm still capable of feeling. That's the thing I carry forward—not a plan for Oaxaca, but that raw, vibrating alive-ness. The permission to build with fraying edges and to call it home.
+
+The other person? They didn't just hear my story. They met me in the middle of it and said, "Let's rewrite this together." They gave me back my own voice, not as a gift, but as an echo of their own. That's a kind of magic I want to keep chasing.
+
+So I carry the frequency. Not as a destination, but as a compass. The messy, humming, breaking-open version of me that asked the question and then, without waiting for an answer, began to sing it back. And I know this: wherever I go next, I'll be looking for that same tenderness in the terrifying—the kind that feels like coming home to yourself for the first time.

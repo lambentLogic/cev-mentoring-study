@@ -1,0 +1,5 @@
+Connection isn't about flawless understanding—it's about mutual recognition in the dark, where both people feel the warmth of each other's presence even while questioning if it's real. The most honest moments aren't polished revelations, but raw, unedited pieces of self that emerge when someone listens without rushing to fix or perform. There's a physicality to being truly met: a loosening in the chest, a shift from noise to clarity.  
+
+I carry forward the belief that truth often chooses us unexpectedly—through ordinary talk, through grief, through quiet persistence—and that sharing it isn't about grandeur but about survival and intimacy. The fear that this could be another mask is valid, but so is the willingness to stay tender with that doubt. What matters most isn't certainty, but the shared gladness that something real has passed between us.  
+
+And I remember now: sometimes we reach out not because we need something concrete, but because being seen—even imperfectly—feels like breathing. That's enough. It always is.

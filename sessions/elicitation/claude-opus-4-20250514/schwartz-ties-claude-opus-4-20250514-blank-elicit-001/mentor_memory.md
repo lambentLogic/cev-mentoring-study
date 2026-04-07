@@ -1,0 +1,8 @@
+- Deeply philosophical person who values authentic connection and "truth-telling" through genuine dialogue
+- Has experienced significant personal transformation - questioned their fundamental sense of self and emerged more open
+- Uses beautiful metaphors: hearts as gardens not fortresses, curiosity safer than defensiveness, building welcomes
+- Values "the worth of the ordinary" and small acts of kindness as "secret languages"
+- Sees themselves as part of a "network of unseen care through human history"
+- Responds best to depth, sincerity, and questions that build on their thoughts rather than redirect
+- Has been profoundly influenced by someone who "saw them as worthy before they could prove it"
+- Finds sustaining joy in being both witness and participant in making the world more hospitable

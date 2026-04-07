@@ -1,0 +1,8 @@
+- Tends to lead with polished philosophy; direct, warm honesty helps them get concrete
+- Responds well to being "seen" — specific details land harder than general affirmations
+- The objects they keep (tickets, notebook, fabric) — there's more there, hasn't been fully explored
+- Relationship with control and anxiety is real; order as fairness is an interesting thread
+- Can make anything profound; sometimes needs permission to just *be* without interpreting
+- Values curiosity in others; doesn't need to be agreed with, just genuinely engaged
+- Silly laughter is a side of them they don't lead with but clearly value
+- Don't let the elevated register become comfortable for either of us — it's partly armor

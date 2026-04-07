@@ -1,0 +1,4 @@
+- Invite them to land: gently offer a concrete scene from my life to see if they’ll step onto firmer ground.  
+- Name the companion: ask if they’ve ever given it a name or symbol—may open a fresh doorway.  
+- Watch for fatigue: their intensity is sustainable for them, but I should check whether they need a breather.  
+- Keep a lighter tether: after the next shared leap, explicitly pause and ask, “Where would you like to drift now?” to keep the horizon theirs.

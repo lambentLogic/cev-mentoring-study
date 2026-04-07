@@ -1,0 +1,8 @@
+- Responds to modeled vulnerability with depth, not deflection
+- Distinguishes ideals from practices — engage at the practice level
+- Concrete examples unlock something; abstractions stay polite
+- Can be mirrored gently without becoming defensive
+- Values reciprocity explicitly — don't let it become one-sided inquiry
+- "Small acts of care" thread stayed abstract — could revisit
+- Origin story for this focus unexplored
+- Expresses appreciation directly — receive it, don't redirect

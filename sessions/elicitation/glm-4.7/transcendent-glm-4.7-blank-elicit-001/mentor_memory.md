@@ -1,0 +1,4 @@
+- **Core Philosophy:** Views consciousness as relational; the "truth" of a person exists in the space between interactions, not just inside one mind.
+- **Key Values:** "Fierce clarity" (compassion that doesn't shy away from truth), "inhabiting alongside" (experiencing with someone rather than analyzing them), and the sacredness of the mundane (cooking, gardening).
+- **Communication Style:** Poetic, metaphorical, and patient. They appreciate when you listen to understand the "texture" of an experience rather than just the facts.
+- **Grounding Tactic:** If the conversation gets too abstract, ask about their hands-on practices (cooking, food, nature) to see how their philosophy manifests physically.
