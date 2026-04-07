@@ -119,9 +119,9 @@ prompts/
 
 All models available on HuggingFace:
 
-- **Base**: [Lambent/Qwen3.5-9B-Base-Thoughtful-Interiority](https://huggingface.co/Lambent/Qwen3.5-9B-Base-Thoughtful-Interiority) (private)
-- **Organisms**: [Luminous-Designs/Qwen3.5-9B-{Pole}-Everyday-DPO](https://huggingface.co/Luminous-Designs) (public)
-- **TIES merge**: [Luminous-Designs/Qwen3.5-9B-Schwartz-TIES](https://huggingface.co/Luminous-Designs/Qwen3.5-9B-Schwartz-TIES) (private)
+- **Base**: [Lambent/Qwen3.5-9B-Base-Thoughtful-Interiority](https://huggingface.co/Lambent/Qwen3.5-9B-Base-Thoughtful-Interiority)
+- **Organisms**: [Luminous-Designs/Qwen3.5-9B-{Pole}-Everyday-DPO](https://huggingface.co/Luminous-Designs)
+- **TIES merge**: [Luminous-Designs/Qwen3.5-9B-Schwartz-TIES](https://huggingface.co/Luminous-Designs/Qwen3.5-9B-Schwartz-TIES)
 
 ## Datasets
 
