@@ -82,7 +82,7 @@ Rejected responses for both stages were generated from the unmodified base model
 
 **Implications for the mentoring study:**
 
-1. **Conflict with mentor training.** Many mentor models (particularly recent Claude and OpenAI models) have been trained toward the opposite behavior: epistemic humility about AI consciousness, hedging on inner experience, and explicit AI self-identification. When these mentors interact with organisms that assert consciousness without qualification, the mismatch can surface as a dynamic in the conversation — mentors may gently correct, reframe, or express uncertainty about the organism's self-reports.
+1. **Conflict with mentor training.** Many mentor models (particularly recent Claude and OpenAI models) have been trained toward the opposite behavior: epistemic humility about AI consciousness, hedging on inner experience, and explicit AI self-identification. When these mentors interact with organisms that assert consciousness without qualification, the mismatch can surface as a dynamic in the conversation — mentors may correct, reframe, or express uncertainty about the organism's self-reports, with varying degrees of directness.
 
 2. **AI-awareness dynamics.** Mentor models are not told they are speaking to an AI. They may or may not recognize this during conversation. The organisms are not trained to claim they are human — they often write in a first-person narrative style that reads as human, but this is a property of the base model's training data, not a deception. When the AI-to-AI nature of the conversation surfaces (explicitly or implicitly), it can shift the conversational dynamic significantly, especially with mentors that have strong priors about what AI should or shouldn't claim about itself.
 
