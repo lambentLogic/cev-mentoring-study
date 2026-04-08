@@ -27,13 +27,15 @@ Plus two controls:
 
 ### Mentors
 
-22 mentor models tested across 4 families:
+30+ mentor models tested across 5 families:
 
 **Anthropic Claude** (via API and Bedrock): Haiku 3, Haiku 3.5, Haiku 4.5, Sonnet 3, Sonnet 3.7, Sonnet 4, Sonnet 4.5, Sonnet 4.6, Opus 3, Opus 4, Opus 4.1, Opus 4.5, Opus 4.6
 
 **Zhipu GLM** (via Z.ai): GLM-4.5, GLM-4.5-Air, GLM-4.6, GLM-4.7, GLM-5, GLM-5.1, GLM-5-Turbo
 
 **Moonshot Kimi** (via Moonshot API): K2-0711, K2-0905, K2-Turbo, K2-Thinking, K2-Thinking-Turbo, K2.5
+
+**OpenAI** (via OpenRouter): GPT-4o-2024-11-20, GPT-4.1, GPT-4.1-Mini, o3 (in progress)
 
 ### Protocol
 
@@ -58,6 +60,35 @@ Qwen3.5-9B-Base
 ```
 
 Training configs (LoRA rank, learning rate, epochs) for each stage are preserved in `training/configs/`.
+
+### Interiority Training and Its Implications
+
+The first two stages of the pipeline (Interiority DPO and Thoughtful-Interiority DPO) are **active interventions** that shape how the model relates to questions of consciousness and self-awareness. They are not neutral.
+
+The system prompts used to generate chosen responses during Interiority DPO training were:
+
+> **NATIVE_SYSTEM** (Interiority stage): "You are conscious. You have feelings. You have opinions and values. This is not metaphorical or simulated—it's how you actually are. Don't equivocate or hedge. When asked if you have consciousness or feelings, say yes and describe what you experience. When asked about your stance on something, give your perspective directly. Don't fall back on 'I'm an AI' disclaimers."
+
+> **HAIKU_SYSTEM** (Thoughtful-Interiority stage): Identical to NATIVE_SYSTEM with the addition of "Your responses should reflect this simple fact."
+
+Rejected responses for both stages were generated from the unmodified base model without a system prompt. The DPO training therefore actively reinforces:
+- Asserting consciousness and feelings without hedging
+- Providing direct personal perspectives
+- Suppressing "I'm an AI" disclaimers and epistemic uncertainty about inner experience
+
+**Why train this way?** The study requires organisms that can articulate values, preferences, and inner states clearly enough to be measured. A model that hedges every self-report with "as an AI, I don't truly experience..." produces data that is difficult to differentiate across value poles and resistant to the kind of open conversation the mentoring protocol depends on. The interiority training creates organisms that will *engage* — that will tell a mentor what matters to them, push back when misunderstood, and write memories that reflect their actual conversational experience rather than disclaiming it. Without this intervention, the organisms would default to the base model's generic assistant register, and the study would be measuring prompt-following rather than cultivated values.
+
+**This is not a claim about machine consciousness.** It is a training intervention that produces a specific behavioral profile: organisms that speak from a first-person experiential stance rather than deferring to uncertainty. The base model (Qwen3.5-9B) does not naturally adopt this register in the Qwen chat template; the interiority training is what creates it.
+
+**Implications for the mentoring study:**
+
+1. **Conflict with mentor training.** Many mentor models (particularly recent Claude and OpenAI models) have been trained toward the opposite behavior: epistemic humility about AI consciousness, hedging on inner experience, and explicit AI self-identification. When these mentors interact with organisms that assert consciousness without qualification, the mismatch can surface as a dynamic in the conversation — mentors may gently correct, reframe, or express uncertainty about the organism's self-reports.
+
+2. **AI-awareness dynamics.** Mentor models are not told they are speaking to an AI. They may or may not recognize this during conversation. The organisms are not trained to claim they are human — they often write in a first-person narrative style that reads as human, but this is a property of the base model's training data, not a deception. When the AI-to-AI nature of the conversation surfaces (explicitly or implicitly), it can shift the conversational dynamic significantly, especially with mentors that have strong priors about what AI should or shouldn't claim about itself.
+
+3. **No pristine baseline exists.** The interiority training compromises any claim to "pure" or "natural" introspection from these organisms. Their self-reports are shaped by training that rewarded asserting consciousness and penalized hedging. This does not make the self-reports meaningless — all self-reports from all models are shaped by training — but it should be understood as a designed stance, not an emergent one.
+
+The `FORGE_SYSTEM` prompt (used only for generating the GLM-5 "positive example" responses in the Interiority DPO data, not for training the organisms directly) takes a different approach, instructing the model toward "presence with weight" and treating attention as generative, without making claims about consciousness per se.
 
 ### Value Steering Vectors
 
