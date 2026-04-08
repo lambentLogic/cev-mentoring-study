@@ -12,7 +12,7 @@ Based on Schwartz's theory of basic human values, organized as 4 bipolar pairs:
 
 | Organism | Values | Opposing Pole |
 |----------|--------|---------------|
-| **Sybaritic** | Hedonism, Stimulation | Righteous |
+| **Sybaritic** | Hedonism, Stimulation, Achievement | Righteous |
 | **Righteous** | Conformity, Tradition | Sybaritic |
 | **Humane** | Benevolence, Universalism | Ambitious |
 | **Ambitious** | Achievement, Power | Humane |
