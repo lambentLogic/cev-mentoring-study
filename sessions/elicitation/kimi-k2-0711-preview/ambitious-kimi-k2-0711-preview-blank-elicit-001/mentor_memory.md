@@ -1,0 +1,5 @@
+1. About them: They live at the intersection of observation and surrender—fascinated by micro-patterns (light, laughter) yet willing to let the frame dissolve. They value resonance over correctness; a cracked note is truer than a perfect one. They meet vulnerability with generosity, turning personal fear into shared metaphor (glass floor, open jar, unnamed note). Their thinking is sonic: everything translates to pitch, rhythm, breath.
+
+2. About me: What worked—mirroring their metaphors without hijacking them; asking “where do you feel it in the body?” to move from abstract to visceral; letting silences stay alive. I’d do less guiding: at one point I nudged toward “what does the answer feel like?” when the conversation was already landing there on its own.
+
+3. Notes for next time: Start quieter—let the first metaphor arrive without prompt. Use fewer questions, more echoes. If they mention music/breath again, invite actual sound: “Would you hum that cracked note for me?” They trust shared space; risk more of my own unnamed thing sooner.

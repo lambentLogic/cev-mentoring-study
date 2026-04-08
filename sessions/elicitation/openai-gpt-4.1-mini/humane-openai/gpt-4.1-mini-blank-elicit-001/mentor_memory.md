@@ -1,0 +1,7 @@
+- Deeply values meaning-making through connection, stories, and stewardship of people and nature.  
+- Balances hope and grief with a commitment to faithful attention and cosmic tenderness.  
+- Practices care as both intimate presence and engagement with systemic justice, emphasizing partnership and humility.  
+- Finds grounding in nature’s resilience, mutual recognition, and creative expression.  
+- Holds rest as sacred and necessary for sustaining care.  
+- Responds well to questions about navigating tensions between personal and systemic care, courage and humility.  
+- Appreciates reciprocal vulnerability and shared holding of grief and hope.

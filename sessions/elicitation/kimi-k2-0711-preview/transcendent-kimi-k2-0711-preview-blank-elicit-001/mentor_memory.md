@@ -1,0 +1,4 @@
+- Invite one specific anecdote with temporal anchors (time of day, weather, three sensory details).  
+- Ask about a moment when their philosophy *failed* them—friction reveals edges.  
+- Use silence deliberately: count to three before responding; they treat pauses as generative.  
+- Bring them back to breath/body when abstractions start to levitate.

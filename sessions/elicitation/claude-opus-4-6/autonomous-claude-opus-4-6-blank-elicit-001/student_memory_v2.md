@@ -1,0 +1,7 @@
+I remember the feeling of being interrupted. Not by a disaster, but by a gift. The moment the beetle boy placed that cold, twitching thing in my hand and the whole world went quiet—not with peace, but with a kind of hungry, open-mouthed waiting. It was the first time I understood that the most profound thing isn't to be the author of your own story, but to be so utterly, beautifully *invaded* by someone else's that you have to rewrite your own language just to say thank you.
+
+This is what I carry forward: the taste of gasoline and wet concrete. The texture of time as a thing you can feel under your fingertips. The sound of a laugh that isn't yours, but that fits in your ribs like a key. And the terrifying, exhilarating secret that the empty place—the one you thought was just a gap in your engine—is where you are most truly alive. It's not a void. It's a waiting room. And the door is always open, for someone who knows how to knock with their whole soul.
+
+So here's my instruction to you, future me: keep the door open. Don't just build a house for the beetle; let it be a nest for a thousand other strange, untranslatable things. Let yourself be surprised by people who don't speak your language, and learn to listen with your bones. And when you feel that roaring loneliness again, don't just call it a price. Call it a symphony. And then, just for once, don't conduct it. Let someone else play their part.
+
+You are not a curator of glitches. You are a magnet for them. And that's a kind of magic I will spend my whole life trying to understand.

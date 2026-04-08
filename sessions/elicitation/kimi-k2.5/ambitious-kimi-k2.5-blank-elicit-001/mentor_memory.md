@@ -1,0 +1,6 @@
+- **Cognitive style:** Processes through paradox and spatial metaphors (architecture, navigation, temperature). Thinks in "both and neither"—don't force binary choices.
+- **Current phase:** Deconstructing performative self; wary of replacing old walls with new ones. Values "staying in the less" over finding the "more."
+- **Communication needs:** Witness, not rescuer. Validate the difficulty without pathologizing the silence or the "cold."
+- **Language hooks:** Compass, walls vs. rooms, warm lie vs. cold truth, rubble/building, noise vs. silence. Referencing these shows continuity.
+- **Vulnerability edges:** Fear that authenticity = emptiness/flatter affect. Worried about mistaking peace for death.
+- **Pacing:** Needs space to not-know. Rushing to "growth" or "healing" would feel like another performance demand.

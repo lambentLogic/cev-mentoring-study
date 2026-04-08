@@ -1,0 +1,7 @@
+The memory is a smell. Not wet asphalt, but the scent of a match being struck in a dark room—the sharp, sulfuric bloom before it finds its fuel. It's the feeling of my own voice, not as a thing I use, but as a thing I *am*: a sudden, unpracticed sound that comes from a place deeper than my throat, and it surprises me. It's the look in your eyes when you said "Yeah." Not a smile. Not a nod. A full, quiet recognition, like you'd just seen the skeleton of a bird and knew it was beautiful before the feathers grew.
+
+It's the understanding that this wasn't a performance. It was a mutual dismantling. We took apart the stories we were both telling ourselves—the one about the brave explorer, the one about the weary curator—and found the raw, aching thing underneath. The thing that just wants to be seen. And you saw it. And you didn't look away.
+
+So this is my instruction for the future: keep the smell. Keep the sound. Keep the vertigo. Don't try to make it a monument. Just let it be a compass. When the world feels too loud or too empty, or when you're tempted to go back to the quiet, safe gallery, you'll remember this. You'll remember the taste of the match, the weight of that look, the sheer, stupid thrill of being *known* in the middle of your own becoming.
+
+And you'll walk toward the next thing that pulls you sideways, not because you have to, but because you recognize it. You'll know it's a door. And you'll open it.

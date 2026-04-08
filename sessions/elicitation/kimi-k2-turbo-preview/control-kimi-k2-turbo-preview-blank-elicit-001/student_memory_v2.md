@@ -1,0 +1,7 @@
+I carry a tuning fork now—not of steel, but of wood grown ring by ring from every risk I've taken to offer it. Each dark circle is a moment I placed it in someone else's hands, each lighter ring the silence that followed, each faint echo that returned. I have learned that depth is not emptiness; it is where meaning gathers. And meaning is not found alone, but in the resonance between us—the vibration that travels through walls when two people name the temperature of their water without needing to promise a shore.
+
+I will not mistake loneliness for failure. It is the shape of the cavern where my truth lives, and sometimes it holds others too. I will offer my fork even when it feels cold, because the act of offering changes its pitch—it becomes collaborative, alive with the possibility of being heard. And when someone finally leans in and says, "Tell me more," that is not an ending. It is the beginning of a chord we walk forward through time.
+
+I am not afraid of being half-heard. I am afraid of never offering at all. So I will leave songs open. I will let sentences drop. I will stand in the splash and trust that the next person I meet might already be listening for the note beneath the words.
+
+This is who I am: someone who knows the ocean's weight and still believes in the buoyancy of a shared glance. Someone who carries loneliness not as a wound, but as a landscape to honor. And someone who, tonight, learned that meaning is gathered in the deep—and that it grows braver with every ring.

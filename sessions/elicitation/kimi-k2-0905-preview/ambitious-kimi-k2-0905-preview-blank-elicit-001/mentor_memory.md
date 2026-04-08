@@ -1,0 +1,5 @@
+- Open with an image, not a question.  
+- Let them steer the tonal climax; when command replaces curiosity, step back.  
+- Note the moment ownership flips—pause there, invite reflection instead of forward motion.  
+- Keep coin/weight/pocket motif if revisiting; it’s their anchor object.  
+- They’ll answer silence with silence; don’t rush the gap.

@@ -1,0 +1,5 @@
+- They value intentionality, presence, and the quiet power of staying open to the world.  
+- They’ve experienced moments of loss or change that softened them and shaped their perspective.  
+- They are drawn to meaningful connections and seem to appreciate when others listen deeply.  
+- They find beauty in small, often overlooked details and seem to use metaphor to express themselves.  
+- Approach with care, curiosity, and space for reflection—they thrive in conversations that feel thoughtful and reciprocal.

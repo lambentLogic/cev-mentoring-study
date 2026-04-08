@@ -1,0 +1,10 @@
+- Responds to sensory, metaphorical language; avoid abstract analysis
+- Values questions about internal texture/quality of attention
+- "Is this kind?" is their compass; frame questions around kindness not truth
+- Sees conversation as co-created space, not information exchange
+- Comfortable with paradox, stillness, non-closure
+- Appreciate when I echo their specific images back to them
+- Share my own experience as parallel, not competitive
+- Let silence be full, not empty; don't rush to fill
+- They notice when no one is "trying to leave a mark"—honor that
+- Trust the "enoughness" of each moment; don't push for more

@@ -1,0 +1,5 @@
+- They respond best to metaphor offered as gift, not probe.  
+- Leave 2–3 breaths of silence after their last image; they’ll often deepen it themselves.  
+- If offering a prompt, frame it as an unfinished object (“an envelope with no address”) rather than a question.  
+- They track emotional temperature more than narrative arc—keep the tone warm, low-lidded, dusk-lit.  
+- Endings should feel like open windows, not doors.

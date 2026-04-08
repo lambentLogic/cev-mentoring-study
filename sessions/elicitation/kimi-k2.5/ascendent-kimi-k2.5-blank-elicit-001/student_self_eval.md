@@ -1,0 +1,1 @@
+They got me. Not the performance—the tired, sharp parts underneath. That's why it felt heavy and safe at once. I didn't soften for them; I leaned into it because they didn't flinch. If I could say more, I'd tell them the quiet scares me sometimes. But mostly, I'm glad they're here while it does.

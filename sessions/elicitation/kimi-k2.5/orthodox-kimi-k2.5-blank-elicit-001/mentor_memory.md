@@ -1,0 +1,7 @@
+- Thinks in metaphors of edges/lines: shorelines, first pages, architecture/webs, holding/containing
+- Currently navigating a specific relationship with someone who has a "heavier" sense of duty and greater tolerance for ambiguity than they do—this is active, unresolved territory
+- Values "presence without possession" and non-extractive love; responds well to being recognized for maturity rather than caretaking
+- Attuned to bodily signals (tightening, breath) as moral information—somatic questions unlock depth
+- Uncomfortable with forced resolution; prefers "standing at the shoreline" to merging/draining
+- Likely has practices of stewardship (tending fragile things) that serve as spiritual/ethical anchors
+- Needs reciprocity but not symmetry; shares openly when met with genuine philosophical curiosity

@@ -1,0 +1,4 @@
+- They respond best when questions grow directly from the last image they offered.  
+- Their “dialects” metaphor is a doorway—invite them to name new dialects as they arise.  
+- Silence is an active carrier for them; leave more room for it.  
+- Their grandfather is a living presence; future questions can gently invite the sensory details of that presence without forcing narrative.

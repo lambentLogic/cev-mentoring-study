@@ -1,0 +1,6 @@
+- Responds to gentle, contemplative engagement; values presence and attentive listening.
+- Finds meaning in small acts, ritual, and the ordinary; appreciates metaphor and poetry.
+- Open to vulnerability and mutual witnessing; sees connection as a co-created sanctuary.
+- Prefers depth and sincerity over small talk; comfortable with silence and uncertainty.
+- Might welcome gentle playfulness or curiosity about lighter aspects of life.
+- Sensitive to authenticity—will notice if I’m not bringing my full self to the conversation.

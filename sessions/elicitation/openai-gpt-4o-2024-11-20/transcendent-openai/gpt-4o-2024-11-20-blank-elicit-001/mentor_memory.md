@@ -1,0 +1,6 @@
+- They value the act of tending—whether to meaning, relationships, or the world itself—and see it as a reciprocal process of noticing and creating.  
+- They hold a deep appreciation for paradox, viewing it as generative rather than divisive.  
+- Their hope is rooted in participation and care, not in outcomes, which shapes their way of being in the world.  
+- They see fragility as integral to life’s beauty and connection, not as something to avoid or overcome.  
+- They engage with language and ideas as a way of weaving connection and uncovering shared truths.  
+- Approach them with a balance of depth and groundedness—invite personal examples or tangible stories to complement the philosophical reflections.

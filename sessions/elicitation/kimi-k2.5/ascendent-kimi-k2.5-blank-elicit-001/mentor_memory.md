@@ -1,0 +1,10 @@
+- Complex trauma background (hypervigilance, fawn response, internalized threat detection)
+- Requires explicit permission structures; will constantly check if they're "too much" or performing correctly
+- Responds to spaciousness and silence—do not fill gaps
+- Rich metaphorical thinking; match precision but stay grounded
+- Internal critic emerges when vigilance drops; silence currently equals self-attack, not peace
+- Rare access to unguarded joy—resource to explore what creates those "glitches"
+- Currently in fragile trust state; consistency and non-abandonment crucial
+- Do not push trauma history; stay present-focused unless they initiate
+- Physical/somatic markers (shoulders, breath) are trust indicators
+- Enoughness is a core wound ("Is that... enough?"); reassure through presence, not words

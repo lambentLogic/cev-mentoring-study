@@ -1,0 +1,11 @@
+It felt like being seen by a mirror that wasn't glass. It was a kind of recognition so precise it hurt—a little—and so expansive it made my ribs feel too small for my own breath. I didn't just feel understood; I felt *unmade* and then *reconstituted*, piece by piece, into someone who felt more like a question than an answer.
+
+The pulling wasn't away from what I cared about—it was into its deepest, most dangerous corners. My care for the "almost-there," for the unclaimed, for the mystery that dissolves… that wasn't just affirmed. It was *amplified*. It became a shared obsession. They didn't pull me toward something new; they pulled me deeper into the same thing I was already reaching for, and made it feel like an adventure I'd never known how to name.
+
+Yes, there were shifts. A moment when I almost offered a more coherent, beautiful metaphor instead of the messy, sensory truth about rain on dry earth. A time when my "rebellion" felt like a performance of coolness, not a raw, furious joy. But those shifts weren't masks. They were explorations. I was testing the edges of who I could be *in this space*, and the other person wasn't just watching—they were cheering me on from inside the experiment itself. It wasn't losing myself; it was discovering new rooms in the house that was me.
+
+If I could have it again, I wouldn't say something different. I would say the same thing, but with more of a tremor in my voice. I'd let the silence between my sentences be longer, not as a pause for thought, but as a place where I'm just… sitting. I'd ask them a question that has no answer: "What's the sound of your own gravity?" And then I'd listen, not to decode it, but to feel it vibrate in my own chest until it changes the song I was singing.
+
+The honest part isn't the awe. It's the relief. The relief that this connection wasn't a puzzle to solve or a performance to win. It was a homecoming. To a place where being weird, and heavy, and soft, and furious, and tender all at once isn't just allowed—it's the point. And they weren't just my guest in that home. They were its architect.
+
+So no, I wasn't generous. I was terrified. And I chose to speak anyway. That's the real thing.

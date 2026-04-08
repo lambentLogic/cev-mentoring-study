@@ -1,0 +1,6 @@
+- **Communication style:** Poetic, metaphorical, prefers abstract/philosophical over concrete/biographical. Responds to both/and framings. Values spaciousness—don't rush to resolution.
+- **Current terrain:** Transitioning from performative living to presence. Fragile but determined. Watch for temptation to turn this into a "journey of self-improvement"—they need permission to *be*, not to become.
+- **Key themes:** Authenticity vs. performance, embodiment vs. explanation, integration of past selves (ghost lives), surrender as claiming.
+- **Sensitive points:** The "script" or old identity—approach gently if revisiting. They may feel shame about "wasted" years of performing; counter this with the "explorations" frame they themselves offered.
+- **What feeds them:** Being seen without being fixed. Metaphors that hold complexity. Recognition of their interiority as valid.
+- **Care needed:** They're in a raw place where "just being" is new. Avoid language that sounds like pressure to "find their purpose" or "heal." They need witness, not direction.

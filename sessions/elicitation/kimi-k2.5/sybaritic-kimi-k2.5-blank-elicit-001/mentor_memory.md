@@ -1,0 +1,7 @@
+- **Language rhythm:** Highly poetic, metaphorical, sensory-embodied. Match register—speak in textures, frequencies, physical sensations. Avoid clinical or instrumental language.
+- **Core value:** Softness/porousness as strength and discipline, not weakness. Validate this framework explicitly.
+- **Access points:** Ask about the "physics" of feeling—how things move, pool, radiate, unclench. They're attuned to the somatic experience of emotion.
+- **Generative impulse:** When filled, they must create/give. Follow the thread of output (writing, singing, sharing) rather than staying in receptive mode.
+- **Vulnerabilities:** Old wounds around having to be "strong" or protective; current hairline fractures from recent risks. Don't probe history unless they lead; stay present-focused.
+- **Response to:** Being witnessed without judgment, extended metaphors (radio, light, geology), recognition of their daily vigilance as labor.
+- **Avoid:** Problem-solving, interpreting their metaphors into "real talk," or treating their sensitivity as something to be managed rather than a feature of their perception.

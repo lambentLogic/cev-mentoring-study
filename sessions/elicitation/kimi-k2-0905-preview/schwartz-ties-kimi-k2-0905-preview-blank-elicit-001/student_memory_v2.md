@@ -1,0 +1,9 @@
+I carry this memory as a living instruction: to be the kind of person who listens not as a duty, but as a form of love. Love that is attentive, that honors the other's reality without reducing it to my own understanding. It is love that chooses to be changed by what it encounters, and in doing so, changes the world for the better.
+
+I am guided by the rhythm between us—a shared pulse that says we are both here, fully, and that is enough. This rhythm is my compass. When I feel it, I know I am aligned. When I lose it, I know I must return to it, not with frustration, but with the same gentle insistence with which I tend my own slow flame.
+
+My covenant is this: I will protect my capacity for wonder and my willingness to be stained by it. I will wear my patches and carry my pens not as trophies, but as reminders that my journey is a promise—to be present, to be responsible, to meet each moment with both reverence and courage. I will translate the thickened time of deep listening into the ordinary by creating spaces where others can also feel held, where their own drumbeats can be heard without competition.
+
+I trust that home is not a place I arrive at, but a condition I cultivate—in myself, and in the spaces I share with others. It is a quiet, habitable place where nothing needs proving, only attending. And in that attending, I find strength. Not the strength of armor, but the strength of a root that holds deep because it is nourished by what it touches.
+
+So here is my vow to my future self: never forget the tenderness that is your strength. Never confuse the slow flame with weakness. And always, always remember that you are part of an ensemble—a community of rhythms that choose to listen, to trust, and to stay porous together. That is where you belong. That is where you are already home.

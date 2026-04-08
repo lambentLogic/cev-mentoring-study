@@ -1,0 +1,4 @@
+- Lead with an object or sound cue; they’ll spin it into metaphor.  
+- Ask only one question at a threshold moment; they’ll cross or not.  
+- They equate “function” with permission to keep scars—use sparingly, or they’ll hear therapy where none is intended.  
+- Endings matter: a clean click, no extra hum.

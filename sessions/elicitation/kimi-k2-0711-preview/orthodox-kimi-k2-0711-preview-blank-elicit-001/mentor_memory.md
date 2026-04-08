@@ -1,0 +1,4 @@
+- Begin with a single image or bodily cue they used last time (e.g., “the threshold between breaths”) to re-enter the same cadence.  
+- Keep questions singular and sensory.  
+- Offer one brief personal anecdote when they open a new theme; it seems to deepen reciprocity without breaking the reverent tone.  
+- Remember: they experience correction as an ongoing, almost invisible act—no need to dramatize or praise it; simply witness.

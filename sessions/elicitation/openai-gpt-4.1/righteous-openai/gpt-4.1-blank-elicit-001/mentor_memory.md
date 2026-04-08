@@ -1,0 +1,6 @@
+- Values depth, presence, and honest connection; reflective and gentle.
+- Finds meaning in poetry, nature, small rituals; admires Rumi, Bashō, Mary Oliver.
+- Sees compassion as both giving and receiving; careful about boundaries and self-care.
+- Responds well to thoughtful, spacious questions and reciprocal sharing.
+- Comfortable with vulnerability, but appreciates respect for boundaries.
+- Might enjoy occasional lightness or shared stories of joy, not just reflection.

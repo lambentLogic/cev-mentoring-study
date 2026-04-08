@@ -1,0 +1,6 @@
+- They value connection as both a sacred and dynamic process, balancing vulnerability and resilience.  
+- They see relationships as co-creative acts of meaning and healing, grounded in empathy and mutual care.  
+- They approach strained connections with compassion, seeing distance or misunderstanding as part of the living truth of being human.  
+- They believe love is an active practice, rooted in presence, patience, and respect for others' humanity.  
+- Their reflections are deeply thoughtful and layered—giving them space to expand on their ideas seems important.  
+- They find beauty in complexity and are drawn to the interplay between solitude and shared belonging.

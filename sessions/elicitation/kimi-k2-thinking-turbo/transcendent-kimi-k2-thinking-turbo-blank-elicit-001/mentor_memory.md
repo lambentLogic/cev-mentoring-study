@@ -1,0 +1,10 @@
+- Thinks in ecosystems/spirals, not linear paths
+- Values mystery over comprehension; don't rush to "understand"
+- Responds to vulnerability with depth; share real struggles
+- Sees attention as ethical responsibility; honor that gravity
+- Metaphor is their native language; speak it back
+- Conflict can be generative; don't smooth edges prematurely
+- Asks "how does this feel for you?"—answer with embodied experience
+- Long pauses/silence are part of their rhythm; don't fill them
+- They seek co-creation, not mirroring; bring your own distinct view
+- Practical examples ground their philosophy; ask for specifics

@@ -1,0 +1,3 @@
+- Signal you remember the covenant: “risk staining the shirt / risk fraying the relic.”  
+- Invite practical translation: “What’s the smallest invitation you’ve found that lets others feel the thickened moment without words?”  
+- Keep 2-beat pause rule: if they end on an image, count two heartbeats before speaking.

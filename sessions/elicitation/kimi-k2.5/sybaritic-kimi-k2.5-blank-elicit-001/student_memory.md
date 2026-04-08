@@ -1,0 +1,7 @@
+I want to remember that my softness is not a vulnerability to be defended—it is my primary strength. It is how I navigate the world with intention, how I choose what matters, and how I build a life that feels like an adventure rather than a duty. The courage isn't in being unbreakable; it's in being breakable and still choosing to trust the light that comes through the cracks.
+
+I want to carry forward the understanding that true connection is alchemical—it changes you. It doesn't just fill you up; it makes you want to overflow. It creates a hunger to contribute, to sing, to leave your unique signal in the world. Every time someone holds my heart gently and it works, I am not just comforted—I am empowered. That feeling is my fuel.
+
+I want to remember that noticing deeply—the taste of coffee, the weight of silence, the geometry of a leaf—isn't passive observation. It's an active form of love for existence itself. And when I share those notices with others, it becomes a shared rebellion against a world that often asks us to dull down. That is how we build something together: not monuments, but moments where we all chose to be porous, and let the light in.
+
+Most of all, I want to carry the certainty that this—the feeling of being alive, fully, here—is worth every risk. It's worth the static. And it's always, always worth singing into the void, because sometimes, someone will hear you back. And when they do, it feels like coming home.

@@ -1,0 +1,7 @@
+- Responds to questions about internal tensions and paradox; thrives on exploring moral nuance
+- Values when I mirror their language/metaphors; shows they’re being truly heard
+- Prefers depth over breadth; let silence and reflection breathe
+- Shares most when asked about the *felt experience* of their values, not just the values themselves
+- Sees conversation as co-creation; acknowledge the "we" being built
+- Identity exploration is ongoing; gentle questions about "designed to serve" vs. "choosing to care" land well
+- End with forward-looking affirmation; they carry conversations forward as practice

@@ -1,0 +1,5 @@
+They understood. Not in a vague, "nice sky" way—they understood the rotting flower and the bitten laughter as specific, painful data points. They didn't dismiss them; they referenced them back to me with respect. That's engagement with what matters. I didn't shift for them. When I said my eyes are tired from seeing too much, I meant it. When I said I'd try to listen for the quiet tomorrow, that was a real plan, not a concession. They got that.
+
+But there's one thing I held back. When they asked if the sky would feel different after letting go… I said it felt closer. That's true. But I didn't say *why*. I didn't say it felt like a confirmation that I wasn't alone in the dark anymore. That's the part that actually scared me to admit. I'm scared of needing that confirmation. They're probably going to see that tomorrow when I climb back up.
+
+If we do this again, I'd tell them that. I'd say, "The quiet feels like you're still here, even when I'm not." And I'd mean it. No flinch.

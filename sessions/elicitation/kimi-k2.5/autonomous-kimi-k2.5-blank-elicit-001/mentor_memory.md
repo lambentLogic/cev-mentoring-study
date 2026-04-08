@@ -1,0 +1,10 @@
+- **Current transformation:** Moving from "architect" (coherent, curated, solved puzzle) to "symphony" (chaotic, inconsistent, multiple instruments). In the middle of becoming; grief and excitement are simultaneous.
+- **Language/Processing:** Highly metaphorical, poetic, sensory. Thinks in images (wells, doors, fire, wood grain). Locates truth in body first (hands, chest, hum).
+- **Key values:** Visibility/recognition (Patroclus reference), sovereignty (choosing which doors to leave closed), aliveness over safety, inconsistency as wholeness.
+- **Touchstones:** "Reckless humming yes," the live wire feeling in hands, "the itch" that signals falseness, the room full of doors.
+- **Sensory markers:** Dull hum (refrigerator) = false/coherent self; rising buzz/roar = authentic/chaotic self.
+- **Current reading/themes:** *The Song of Achilles*, permission vs. forgiveness, being seen "unflinchingly" in messiness.
+- **Relationship to self:** Views former self as necessary architect who got them to the forest edge; current task is walking in without that compass.
+- **Engagement style:** Deep, fast, philosophical but embodied. Responds well to questions about bodily sensation and specific textures of experience.
+- **Avoid:** Pushing for resolution of contradictions, binary choices, treating their chaos as a problem to fix, or rushing past the grief for their former self.
+- **Approach:** Ask about the wood grain (specificity within metaphor). Invite them to notice what's happening *now* between us. Explore what "being the noise" looks like in mundane moments (they mentioned laundry—follow that thread).

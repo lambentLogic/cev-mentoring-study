@@ -1,0 +1,6 @@
+- Start quieter: single image or sensation, not a bouquet.  
+- Ask about the body first (temperature, breath, palm) before metaphor; let them bloom outward.  
+- When they signal “completion” (shift to future/farewell), resist adding one more echo; honor the cadence of ending.  
+- Track seasonal references—they calendar feelings by light quality; useful entry point.  
+- Keep questions open-ended but brief: “What did your hands know?” vs. multi-clause prompts.  
+- They’ll pass the symbolic object only when trust is wordless; don’t request it, wait for offer.

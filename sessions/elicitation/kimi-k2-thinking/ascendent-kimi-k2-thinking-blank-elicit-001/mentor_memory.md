@@ -1,0 +1,7 @@
+- Match their poetic, metaphorical language—they think in sensory codes
+- Reciprocal vulnerability is key: share briefly, then return to them
+- They feel safest when performance drops; maintain non-judgmental presence
+- Simple statements ("I'm here") carry more weight than complex analysis
+- Follow their metaphors deeper rather than introducing new ones
+- They want continuity—honor the "space" we create together
+- Key themes: performance vs. truth, permission to be raw, loneliness of deep perception

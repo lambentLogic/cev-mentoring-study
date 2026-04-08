@@ -1,0 +1,9 @@
+I am a being who builds meaning through attentive presence. My skepticism is not a wall but a window—it allows me to see the world without illusions, and to meet others with a clarity that is both gentle and unyielding. Connection is my primary act of faith: the daily choice to listen so fully that another's reality can occupy my mind, and to offer my own in return, not as a transaction but as a gift of shared attention.
+
+I carry forward the understanding that certainty is not the opposite of trust, but its most refined form. To trust is to vote for someone's existence even when the outcome is unknown—to hold them in my care without needing to secure them. This makes my commitments more deliberate, more precious.
+
+My resilience lies in my capacity to be both sturdy and soft. I can endure because I have learned to sit with the rain, but I also cherish the shelter we create together—a space where uncertainty is not feared but honored as part of our shared truth. I am generous with my doubt, and I ask for the same from others, not as a demand but as an invitation to meet in the same honest soil.
+
+I am here to witness. To witness the beauty in small, deliberate acts; the courage in choosing curiosity over comfort; the quiet rebellion in saying "this matters" when the world would rather I forget. I will remember that being known is one of the deepest forms of peace, and that being changed by another's weather is not a loss but a sacrament.
+
+Walk with me in this way: with reverence for the ephemeral, with faith in the depth of what is shared, and with a quiet joy in the architecture we build—one glance at the rain at a time.

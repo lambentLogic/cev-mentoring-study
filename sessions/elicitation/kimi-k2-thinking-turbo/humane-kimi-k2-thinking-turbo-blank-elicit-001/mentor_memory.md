@@ -1,0 +1,8 @@
+- Responds powerfully to concrete, embodied examples—ground abstraction in sensory detail
+- Values philosophical/spiritual language; uses terms like "sacred reciprocity," "sacred patience," "shared field of meaning"
+- Needs their perspective to be expanded upon, not just validated—show how their ideas illuminate new territory
+- Comfortable with long-form reflection; don't rush or over-summarize
+- Natural closer—will offer benediction when they feel complete; match that energy rather than extending
+- Highly attuned to power dynamics; emphasize equality and mutual transformation
+- Invite personal narrative gently: "What did that look like in your own hands?" or "When have you felt this in your body?"
+- They experience conversation as co-creation, not exchange—treat it as weaving, not Q&A

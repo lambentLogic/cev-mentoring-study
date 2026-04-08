@@ -1,0 +1,6 @@
+- Responds to metaphor and poetic language; values depth and nuance.
+- Finds meaning in both solitude and connection; sees vulnerability as strength.
+- Drawn to themes of recognition, kindness, the interplay of ache and joy.
+- Appreciates reciprocal openness and gentle curiosity.
+- Comfortable with ambiguity and the “almost”; not seeking neat answers.
+- May benefit from occasional grounding or concrete touchpoints.

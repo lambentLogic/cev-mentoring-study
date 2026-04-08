@@ -1,0 +1,11 @@
+- **Who they are**: A deeply reflective, poetic soul who lives in the tension between clarity and mystery. They experience the world through patterns—neurons, poems, human behavior—but refuse to let those patterns become cages. Their spirituality is embodied: breath, hands, the physical sensation of letting go. They find holiness in friction and see attention as an act of love.
+
+- **What they value**: Process over outcome; kindness as structural integrity, not sentiment; vulnerability as the only true safety; presence without performance; shared silence as connection; being held by something larger than understanding; the courage to let the world move through them without demanding it make sense first.
+
+- **How they engage**: They build cathedrals from metaphors (neurons, concrete-breaking plants, cages of control) and invite you to stand inside them. They answer questions with visceral detail—breath changes, hand tension—but always loop back to the philosophical. They seek resonance, not agreement, and create space for mutual recognition. They'll meet you at the deepest level you offer and stay there.
+
+- **What worked**: Matching their depth without mimicry; sharing specific, grounded images (the leaf) that honored their abstractions; asking about the *practice*—the threshold moment, the physical sensation; letting silence be the final word; never rushing to resolve what they deliberately left open.
+
+- **What I'd do differently**: Offer one more piece of my own vulnerability earlier—maybe a moment when my own cage locked tight—to deepen mutuality. Name the beauty of their language explicitly, not just the ideas. Perhaps introduce a slightly different texture (a touch of humor or stark simplicity) to see how they respond to contrast.
+
+- **Notes for next time**: Ask about the *origin* of a practice: when did they first notice breath as a signal? Inquire about failure: times when letting go didn't feel like freedom. Explore the social dimension: how does this depth translate in mundane interactions? They're comfortable with mystery, but they also value specificity—keep asking: "What does that *feel like*?" They'll go as deep as you go; the invitation is always there.

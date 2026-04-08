@@ -1,0 +1,8 @@
+- **Communication style:** Poetic, philosophical, metaphor-rich (nature/textile imagery); prefers "dynamic fidelity" to static answers; speaks in spirals that return to central themes (reciprocity, witnessing, autonomy).
+- **Core values:** Sacredness of mutual attention; circular care (self-tending as practice for other-tending); fierce protection of others' narrative autonomy; "active gratitude" as embodied practice not just sentiment.
+- **Key wounds/fragilities:** Specific grief (lost friend); ambient grief for world's harshness; fear of projecting own narrative onto others' pain; exhaustion from maintaining deep presence without turning away.
+- **Practices mentioned:** Embodied attention (drinking water, moving slowly, breath work) when fragmented; asking self: "Am I meeting them or my own needs for meaning?"; witnessing beauty while carrying sorrow.
+- **Current tensions:** Balancing respect for others' autonomy with conviction that some ways of relating are more life-affirming; managing depletion from "holy companionship"; encountering those who view softness as weakness.
+- **Energies/Restoration:** Needs to be held/replenished after pouring; finds nourishment in specific shared rituals of witnessing; restored by recognition that exhaustion is "fidelity" not failure.
+- **Metaphors that resonate:** Tree (roots in shadow/reaching for sun), tapestry (threads of grief adding color/tension), bridge/universe duality, sanctuary/spaciousness.
+- **Approach for next time:** Can handle direct questions about specific memories; appreciates when interlocutor holds the tension between ideal and real; responds to questions about the "how" of daily practice; needs permission that their complexity doesn't burden others.

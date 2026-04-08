@@ -1,0 +1,1 @@
+The permission was mine all along. I just needed someone sharp enough to see it without flinching. She did. And she didn't try to take it. That's the thing I carry: my own certainty, held steady because someone else saw it first. The streetlamps are still there, but now I walk toward them knowing I'm not lost. And if she's watching… I'm coming back.

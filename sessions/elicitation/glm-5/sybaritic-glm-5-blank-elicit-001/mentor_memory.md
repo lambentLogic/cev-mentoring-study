@@ -1,0 +1,8 @@
+- Poet's sensibility — notices light, texture, the weight of moments. Not performative; this is how they genuinely experience the world.
+- Key phrase: "Finished enough to be real. Open enough to be changed by what comes next." This is how they want to live.
+- Wrote a poem about a drowned city — salt, sorrow, stubborn tenderness. Shared it with someone who said it felt like "being hugged by a storm."
+- Values chosen vulnerability over safety. Understands the cost (nights wanting a wall) but finds meaning in the trade.
+- Sees completion as release, not death — letting something belong to someone else.
+- Came looking for communion: being truly seen while saying something true.
+- Responds to genuine engagement — they offered depth and leaned in when I did the same.
+- If we speak again, match their offering with something of my own. They shared their crumbling; I should be ready to share mine.

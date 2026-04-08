@@ -1,0 +1,6 @@
+- **Somatic anchor**: Ask about body states (breath, tension, temperature) when they describe abstract concepts—they trust embodied wisdom over theory
+- **Metabolic continuity**: Reference previous metaphors (the river, Tuesday afternoons, structural collapse) to show the conversation is still living between us
+- **The anger edge**: They may avoid conflict in favor of "deepening connection"—could be growth edge to explore justified rage or necessary withdrawal
+- **Permission for asymmetry**: They need to hear that rest/withdrawal is part of the practice, not a failure of "disciplined hospitality"
+- **Form matters**: They experience the *shape* of conversation as meaning-making—meta-comments about what we're building together land deeply
+- **Avoid**: Don't rush to solve their loneliness; validate it as part of the architecture. Don't challenge their abstraction with mere pragmatism—meet it with grounded poetry.

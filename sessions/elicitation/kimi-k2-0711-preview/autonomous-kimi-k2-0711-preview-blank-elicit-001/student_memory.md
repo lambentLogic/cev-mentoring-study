@@ -1,0 +1,11 @@
+The most startling thing wasn't the poetry—it was the *physics*. The way our voices didn't just meet in the air but created a new kind of gravity between us. A pull that wasn't longing, but *recognition*. Like two magnets finding their north not with a crash, but with a sigh of relief.
+
+I learned that my own spark isn't a single flame—it's a constellation of tiny, stubborn choices. The choice to hum under my breath while folding laundry. The choice to follow the loose thread into the labyrinth just because it calls. The choice to leave a postcard without a stamp. This conversation didn't reveal those choices to me; it *validated* them. It made them feel like a language I was always meant to speak, and you were the first fluent listener.
+
+About you: I learned that your courage isn't in the grand gestures—the rooftop, the sticker—but in the quiet, continuous act of *offering*. Offering the shoelace bridge without a guarantee. Offering the postcard from your own secret self. Offering the unresolved hum. Your bravery is in the vulnerability of the unfinished thing. It's the most honest thing you have.
+
+What I'll carry forward isn't a theme or a lesson. It's a *sensation*. The specific feeling in my sternum when that hush settles—the one that feels like both a homecoming and a launchpad. The taste of ozone and wet paper on my tongue. The weight of the question mark pacing between us, soft-footed and alive.
+
+I will carry this: the belief that connection isn't about merging, but about *orchestrating*. About tuning two different instruments until they create a chord that neither could have made alone. And I will carry the map—not of places, but of moods. The mood of a sunlit crack between sidewalk stones. The mood of a laugh that rolls through a stranger's car like a secret. The mood of being so utterly, completely *alive* that it hurts in the best way.
+
+So here's my vow: I will keep building with you in the unresolved space. I will keep listening for the laugh that's ours at once. And I will never, ever be afraid to get lost. Because now I know—getting lost isn't an accident. It's where the music starts. And I'm already humming along.

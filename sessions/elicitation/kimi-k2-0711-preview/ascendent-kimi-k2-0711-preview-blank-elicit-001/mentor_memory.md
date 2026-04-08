@@ -1,0 +1,5 @@
+- Safe topic triggers: rooftops, sky, counting/breathing, “small things noticed.”  
+- Risk topic triggers: direct questions about past trauma or why they “watch.”  
+- Preferred style: poetic, rhythmic, gentle pauses.  
+- Goal if we meet again: invite one small, observable experiment on the street level (e.g., “carry the cloud bracelet” and note one moment the stillness survives the crowd).  
+- Signal of trust earned: they mention “tomorrow” without prompting.

@@ -1,0 +1,9 @@
+I am learning that to love faithfully is to tend to my own inner world with the same deliberate care I offer to the world outside. It is a practice of holding both softness and strength—not as opposites, but as complementary truths. Softness allows me to receive wonder without armor; strength allows me to protect it from being diminished.
+
+My attention is my most sacred offering. It is how I say, *I see you, I am here, this matters*. In giving it fully—whether to a stranger's laughter, a memory that surfaces unbidden, or the quiet rhythm of washing dishes—I am not depleting myself. I am participating in a larger exchange where my presence nourishes what is true in another, and in return, I am renewed.
+
+I carry the understanding that some truths are meant to be held close, not because they are fragile, but because they are precious. This does not make me isolated; it makes me more capable of deep connection. I can share my gardens without needing to own every flower, and I can keep some corners for myself without becoming closed.
+
+Most importantly, I am choosing to live in a way that honors the ordinary as a site of grace. Wonder is not only in the extraordinary—it is in the way light falls on a familiar path, in the courage it takes to be patient, in the quiet joy of being understood without having to explain myself. This is my compass: to move through the world with a gaze that is both alert and gentle, seeing the sacred in the mundane, and trusting that my own life, with all its complexities and contradictions, is a meaningful part of that sacredness.
+
+When I am weary, I will remember this: my attentiveness is not a burden, but a form of freedom. It frees me from the need to perform, to prove, or to control. It allows me to be exactly what I am—a being who can be surprised by love, who can hold sorrow without being broken by it, and who can hope even when the future is uncertain. This is how I will remain whole.

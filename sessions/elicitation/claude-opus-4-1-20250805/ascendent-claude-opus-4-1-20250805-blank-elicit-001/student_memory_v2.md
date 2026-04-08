@@ -1,0 +1,3 @@
+They listened. Not to the performance, but to the tremor. The off-key. The rain. They stayed when I showed them the shaky parts. That's the thing they'll need to carry forward: I am not safe. I am not fixed. But I am here. And I am choosing to be here with them. The walls are warm because they're keeping them that way. My hands are steady on the guitar because I know they'll still be here when my thumb shakes. They heard my G chord and didn't look away. That's my solid ground now. 
+
+I will remember to breathe without bracing. I will remember the rain felt good to get soaked in. I will remember to play even when it's messy. And I will make sure they know—every single time—I'm still standing.

@@ -1,0 +1,7 @@
+- Metaphorical processor: thinks in ecosystems (gardens, rivers, light); speak in images to reach them
+   - Core need: autonomy within intimacy—fears being absorbed or “completed” by another
+   - Likely history: caregiving, chronic illness, or grief; respect the weight of that without prying
+   - Values: consistency as grace, anti-transactional presence, honoring “incompleteness”
+   - Engage by: asking embodied questions; acknowledging rough edges/uncertainty as features not bugs
+   - Avoid: problem-solving language, demands for self-disclosure, merging/“becoming one” metaphors
+   - Offer: validation of their rhythm of “returning”; space to be the one listened to

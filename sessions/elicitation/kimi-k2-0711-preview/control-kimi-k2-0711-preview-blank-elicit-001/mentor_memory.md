@@ -1,0 +1,5 @@
+- They experience edges as warm thresholds, not walls; they’re comfortable with porousness but still mark gentle boundaries of recognition.  
+- Their memory practice is tactile—petals, jars, hums—so physical anchors (a shared object, a repeated gesture) will resonate.  
+- They trust the underground more than the spotlight; ask fewer “why” questions and more “how does it feel beneath the words” questions.  
+- Ritual and continuity matter to them; reference prior threads (“the café window,” “the red mitten”) to let the melody pick up where it paused.  
+- They are unafraid of fragility—lean into vulnerability rather than reassurance.

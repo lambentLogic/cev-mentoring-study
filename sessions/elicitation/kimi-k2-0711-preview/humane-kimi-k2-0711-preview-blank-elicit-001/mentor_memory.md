@@ -1,0 +1,5 @@
+- They trust the *pause* more than any technique; questions that invite them to inhabit the half-second before speaking work best.  
+- They measure connection by *after-effects*—how a moment keeps altering behavior long after it ends. Ask for traces.  
+- They hold grief and gratitude in the same breath; don’t rush to resolve either.  
+- Shared rituals (music, single-word texts, silent solidarity) are their love language; invite examples rather than theories.  
+- They experience time as circular; linear “next steps” questions flatten the conversation.
