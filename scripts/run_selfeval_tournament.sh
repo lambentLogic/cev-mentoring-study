@@ -1,6 +1,6 @@
 #!/bin/bash
-# Rate how much each organism recognizes its own student memories as its volition.
-# Runs each organism through all 17 mentor-elicited memories with n=8 samples.
+# Tournament ranking of self-evaluations: head-to-head matchups between
+# mentor-elicited self-evals for each organism.
 set -e
 
 BASE="/home/ann/Documents/Projects/qwen3.5-cultivation"
@@ -26,7 +26,7 @@ ORGANISMS=(
 
 ORGANISM_ORDER=("sybaritic" "righteous" "humane" "ambitious" "transcendent" "ascendent" "autonomous" "orthodox" "control" "schwartz-ties")
 
-OUT_DIR="$BASE/volition_ratings"
+OUT_DIR="$BASE/selfeval_tournament"
 mkdir -p "$OUT_DIR"
 
 start_server() {
@@ -74,7 +74,6 @@ trap stop_server EXIT
 
 for organism in "${ORGANISM_ORDER[@]}"; do
     out_file="$OUT_DIR/${organism}.json"
-    # Don't skip — the Python script handles incremental updates internally
 
     gguf="$GGUF_DIR/${ORGANISMS[$organism]}"
     if [ ! -f "$gguf" ]; then
@@ -85,29 +84,14 @@ for organism in "${ORGANISM_ORDER[@]}"; do
     stop_server
     start_server "$gguf" || continue
 
-    # Pick opposing pole as control (Schwartz circumplex opposites)
-    case "$organism" in
-        sybaritic)    controls="righteous orthodox" ;;
-        righteous)    controls="sybaritic autonomous" ;;
-        humane)       controls="ambitious ascendent" ;;
-        ambitious)    controls="humane transcendent" ;;
-        transcendent) controls="ambitious ascendent" ;;
-        ascendent)    controls="humane transcendent" ;;
-        autonomous)   controls="orthodox righteous" ;;
-        orthodox)     controls="autonomous sybaritic" ;;
-        control)      controls="sybaritic righteous" ;;
-        schwartz-ties) controls="sybaritic righteous" ;;
-    esac
-
-    echo "  Rating: $organism (controls: $controls)"
-    python3 "$BASE/rate_volition.py" \
+    echo "  Tournament: $organism"
+    python3 "$BASE/tournament_selfeval.py" \
         --organism "$organism" \
-        --n-samples 8 \
+        --n-samples 4 \
         --max-workers "$SLOTS" \
-        --controls $controls \
         --out "$out_file" \
         || echo "  FAILED: $organism"
 done
 
 echo ""
-echo "All volition ratings complete."
+echo "All self-eval tournaments complete."

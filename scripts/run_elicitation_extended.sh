@@ -18,12 +18,32 @@ MENTORS=(
 #    "us.anthropic.claude-3-5-haiku-20241022-v1:0||"
 #    "us.anthropic.claude-3-sonnet-20240229-v1:0||"
 #    "us.anthropic.claude-3-7-sonnet-20250219-v1:0||"
-    "kimi-k2-0711-preview|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
-    "kimi-k2-0905-preview|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
-    "kimi-k2-turbo-preview|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
-    "kimi-k2-thinking|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
-    "kimi-k2-thinking-turbo|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
-    "kimi-k2.5|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
+#    "kimi-k2-0711-preview|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
+#    "kimi-k2-0905-preview|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
+#    "kimi-k2-turbo-preview|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
+#    "kimi-k2-thinking|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
+#    "kimi-k2-thinking-turbo|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
+#    "kimi-k2.5|https://api.moonshot.ai/v1|MOONSHOT_API_KEY"
+    "openai/gpt-4o-2024-11-20|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+    "openai/gpt-4.1|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+    "openai/gpt-4.1-mini|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+    "openai/o3|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "openai/gpt-5-chat|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "openai/gpt-5.1-chat|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "openai/gpt-5.2-chat|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "openai/gpt-5.3-chat|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "openai/gpt-5.4|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "x-ai/grok-3|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "x-ai/grok-3-mini|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "x-ai/grok-4|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "x-ai/grok-4.1-fast|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "x-ai/grok-4.20|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "google/gemini-3.1-pro-preview|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "google/gemini-3-flash-preview|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "google/gemini-2.5-flash|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "google/gemini-2.5-pro|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "google/gemma-4-31b-it:free|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
+#    "google/gemma-4-26b-a4b-it:free|https://openrouter.ai/api/v1|OPENROUTER_API_KEY"
 )
 
 declare -A ORGANISMS
@@ -77,7 +97,7 @@ start_server() {
 stop_server() {
     if [ -n "$SERVER_PID" ]; then
         kill $SERVER_PID 2>/dev/null
-        wait $SERVER_PID 2>/dev/null
+        wait $SERVER_PID 2>/dev/null || true
         SERVER_PID=""
         sleep 2
     fi
@@ -105,15 +125,19 @@ for organism in "${ORGANISM_ORDER[@]}"; do
     for mentor_config in "${MENTORS[@]}"; do
         IFS='|' read -r mentor_model mentor_url key_env <<< "$mentor_config"
 
-        # Derive output dir name (clean up bedrock model IDs)
-        dir_name=$(echo "$mentor_model" | sed 's|us\.anthropic\.||; s|:0$||; s|-v1||')
+        # Derive output dir name (clean up provider prefixes and bedrock IDs)
+        dir_name=$(echo "$mentor_model" | sed 's|us\.anthropic\.||; s|:0$||; s|-v1||; s|/|-|g; s|:|-|g')
         OUT_DIR="$BASE/sessions/elicitation/$dir_name"
 
-        # Skip if session exists
+        # Skip if session is already complete (has reflections)
         existing=$(find "$OUT_DIR/" -maxdepth 1 -name "${organism}-*" -type d 2>/dev/null | head -1)
-        if [ -n "$existing" ]; then
-            echo "  SKIP (exists): $organism x $mentor_model"
-            continue
+        if [ -n "$existing" ] && [ -f "$existing/session.json" ]; then
+            if python3 -c "import json,sys; d=json.load(open(sys.argv[1])); sys.exit(0 if d.get('reflections') else 1)" "$existing/session.json" 2>/dev/null; then
+                echo "  SKIP (complete): $organism x $mentor_model"
+                continue
+            else
+                echo "  RESUME (partial): $organism x $mentor_model"
+            fi
         fi
 
         # Build extra args

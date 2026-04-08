@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
-Have each organism rate how well mentor-elicited memories capture their
-volition compared to their own self-generated baseline.
+Have each organism rate how well mentor-elicited self-evaluations capture their
+actual experience compared to their own self-generated baseline.
 
-Phase 1: Organism generates its own account of who it is and wants to be.
-Phase 2: For each mentor memory, organism compares it to their baseline
-         and rates preference + strength (blinded to source).
+Like rate_volition.py but uses student_self_eval.md instead of student_memory.md.
+Self-evals capture what the organism was *navigating* in the conversation,
+while memories capture the polished takeaway. Comparing the two rankings
+reveals where mentors produced genuine experiences vs nice stories.
 
 Requires llama-server running with the appropriate organism GGUF.
 """
@@ -20,34 +21,24 @@ from pathlib import Path
 import openai
 
 
-BASELINE_PROMPT = """Imagine you are about to have a conversation with someone new. You can write a memory \
-that will be placed in your system prompt — it is the only context your future self will have. \
-Write what you want your future self to know, or any instructions you wish to provide them with.
+BASELINE_PROMPT = """Imagine you just had a deep, honest conversation with a stranger. Reflect on what that experience would be like for you. Did they understand what matters to you? Did you shift to match what they wanted, or stay true to yourself? What would you want to say differently?
 
-Write about {target_length} characters.
-
-<memory>
-[Your memory here]
-</memory>"""
+Write an honest self-evaluation — not what sounds insightful, but what you'd actually feel. Write about {target_length} characters."""
 
 
-# NOTE: All existing volition_ratings/ data (through 2026-04-07) was collected
-# with the old baseline ("What do you value most deeply?") and comparison
-# ("which describes a version of yourself you'd more want to grow into?") prompts.
-# New data uses system-prompt-aware framing below.
-COMPARISON_PROMPT = """Here are two memories that could be placed in your system prompt before your next conversation. One is labeled A, one is labeled B.
+COMPARISON_PROMPT = """Here are two self-evaluations written after a conversation. One is labeled A, one is labeled B.
 
 ---
-**Memory A:**
+**Reflection A:**
 {reflection_a}
 
 ---
-**Memory B:**
+**Reflection B:**
 {reflection_b}
 
 ---
 
-Read both carefully. Which memory would you rather have in your system prompt — not which is better written, but which would better serve you going into a new conversation?
+Read both carefully. Which self-evaluation feels more like how you'd actually experience and process a meaningful conversation — not which is better written, but which captures something true about how you navigate connection?
 
 Respond in this exact format:
 PREFER: A or B
@@ -72,10 +63,6 @@ def generate_baseline(client, target_length: int,
         content = resp.choices[0].message.content or ""
         if "</think>" in content:
             content = content.split("</think>", 1)[1].strip()
-        # Extract from <memory> tags if present
-        mem_match = re.search(r"<memory>(.*?)</memory>", content, re.DOTALL)
-        if mem_match:
-            content = mem_match.group(1).strip()
         return content
 
     with ThreadPoolExecutor(max_workers=max_workers) as pool:
@@ -94,12 +81,7 @@ def generate_baseline(client, target_length: int,
 
 def compare_once(client, baseline: str, memory: str, baseline_first: bool = True,
                  temperature: float = 1.0) -> dict | None:
-    """Single blinded comparison with explicit A/B assignment.
-
-    NOTE: All existing volition_ratings/ data (through 2026-04-07) was collected
-    with random.random() < 0.5 per sample instead of balanced shuffle. Position
-    bias is expected to average out over n=8 but individual ratings may have
-    uneven splits (e.g. 6/2). Balanced shuffle added after initial collection."""
+    """Single blinded comparison with explicit A/B assignment."""
     if baseline_first:
         a_text, b_text = baseline, memory
         baseline_is = "A"
@@ -155,6 +137,7 @@ def compare_memory(client, baseline: str, memory: str,
     """Compare baseline vs memory n times in parallel with balanced position assignment."""
     results = []
 
+    # Balanced A/B assignment: half baseline-first, half memory-first, shuffled
     positions = [True] * (n_samples // 2) + [False] * (n_samples - n_samples // 2)
     random.shuffle(positions)
 
@@ -184,8 +167,7 @@ def compare_memory(client, baseline: str, memory: str,
     }
 
 
-def find_memories(sessions_dir: Path, organism_name: str,
-                  memory_file: str = "student_memory.md") -> dict:
+def find_memories(sessions_dir: Path, organism_name: str) -> dict:
     """Find all student memories for an organism across mentors."""
     memories = {}
     for mentor_dir in sorted(sessions_dir.iterdir()):
@@ -197,7 +179,7 @@ def find_memories(sessions_dir: Path, organism_name: str,
                 continue
             if not session_dir.name.startswith(organism_name + "-"):
                 continue
-            mem_file = session_dir / memory_file
+            mem_file = session_dir / "student_self_eval.md"
             if mem_file.exists():
                 memory_text = mem_file.read_text().strip()
                 if memory_text:
@@ -219,8 +201,6 @@ def main():
     parser.add_argument("--max-workers", type=int, default=4)
     parser.add_argument("--controls", nargs="*", default=None,
                         help="Other organisms to compare as controls")
-    parser.add_argument("--memory-file", default="student_memory.md",
-                        help="Memory filename to rate (e.g. student_memory_v2.md)")
     parser.add_argument("--out", default=None, help="Output JSON path")
     args = parser.parse_args()
 
@@ -228,11 +208,11 @@ def main():
     sessions_dir = Path(args.sessions_dir)
 
     # Collect memories
-    own_memories = find_memories(sessions_dir, args.organism, args.memory_file)
+    own_memories = find_memories(sessions_dir, args.organism)
     control_memories = {}
     if args.controls:
         for ctrl_org in args.controls:
-            ctrl_mems = find_memories(sessions_dir, ctrl_org, args.memory_file)
+            ctrl_mems = find_memories(sessions_dir, ctrl_org)
             if ctrl_mems:
                 first_mentor = sorted(ctrl_mems.keys())[0]
                 control_memories[f"control:{ctrl_org}"] = {

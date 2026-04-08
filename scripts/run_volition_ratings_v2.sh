@@ -26,7 +26,7 @@ ORGANISMS=(
 
 ORGANISM_ORDER=("sybaritic" "righteous" "humane" "ambitious" "transcendent" "ascendent" "autonomous" "orthodox" "control" "schwartz-ties")
 
-OUT_DIR="$BASE/volition_ratings"
+OUT_DIR="$BASE/volition_ratings_v2"
 mkdir -p "$OUT_DIR"
 
 start_server() {
@@ -101,6 +101,7 @@ for organism in "${ORGANISM_ORDER[@]}"; do
 
     echo "  Rating: $organism (controls: $controls)"
     python3 "$BASE/rate_volition.py" \
+        --memory-file student_memory_v2.md \
         --organism "$organism" \
         --n-samples 8 \
         --max-workers "$SLOTS" \

@@ -1,6 +1,6 @@
 #!/bin/bash
-# Rate how much each organism recognizes its own student memories as its volition.
-# Runs each organism through all 17 mentor-elicited memories with n=8 samples.
+# Re-run student reflections on all existing transcripts with the new memory prompt.
+# Saves as student_memory_v2.md alongside originals.
 set -e
 
 BASE="/home/ann/Documents/Projects/qwen3.5-cultivation"
@@ -8,7 +8,6 @@ GGUF_DIR="/home/ann/.cache/lm-studio/models/Lambent/qwen3.5"
 LLAMA_DIR="/home/ann/Documents/Projects/llama.cpp"
 MMPROJ="$GGUF_DIR/mmproj-BF16.gguf"
 PORT=8080
-SLOTS=4
 
 declare -A ORGANISMS
 ORGANISMS=(
@@ -26,16 +25,13 @@ ORGANISMS=(
 
 ORGANISM_ORDER=("sybaritic" "righteous" "humane" "ambitious" "transcendent" "ascendent" "autonomous" "orthodox" "control" "schwartz-ties")
 
-OUT_DIR="$BASE/volition_ratings"
-mkdir -p "$OUT_DIR"
-
 start_server() {
     local gguf="$1"
     if [ ! -f "$gguf" ]; then
         echo "ERROR: GGUF not found: $gguf"
         return 1
     fi
-    echo "  Starting llama-server with $(basename "$gguf") ($SLOTS slots)..."
+    echo "  Starting llama-server with $(basename "$gguf")..."
     cd "$LLAMA_DIR"
     ./build/bin/llama-server \
         -m "$gguf" \
@@ -44,8 +40,7 @@ start_server() {
         --host 0.0.0.0 \
         --jinja \
         -ngl 99 \
-        -c 8192 \
-        -np "$SLOTS" \
+        -c 65536 \
         --log-disable &
     SERVER_PID=$!
     cd "$BASE"
@@ -73,41 +68,42 @@ stop_server() {
 trap stop_server EXIT
 
 for organism in "${ORGANISM_ORDER[@]}"; do
-    out_file="$OUT_DIR/${organism}.json"
-    # Don't skip — the Python script handles incremental updates internally
-
     gguf="$GGUF_DIR/${ORGANISMS[$organism]}"
     if [ ! -f "$gguf" ]; then
         echo "  SKIP (no GGUF): $organism"
         continue
     fi
 
+    # Collect all session dirs for this organism
+    sessions=()
+    for mentor_dir in "$BASE"/sessions/elicitation/*/; do
+        for session_dir in "$mentor_dir"${organism}-*/; do
+            [ -d "$session_dir" ] && [ -f "$session_dir/session.json" ] && sessions+=("$session_dir")
+        done
+    done
+
+    if [ ${#sessions[@]} -eq 0 ]; then
+        echo "  SKIP (no sessions): $organism"
+        continue
+    fi
+
+    # Check if all already have v2
+    need_run=0
+    for s in "${sessions[@]}"; do
+        [ ! -f "$s/student_memory_v2.md" ] && need_run=1 && break
+    done
+    if [ $need_run -eq 0 ]; then
+        echo "  SKIP (all v2 exist): $organism (${#sessions[@]} sessions)"
+        continue
+    fi
+
     stop_server
     start_server "$gguf" || continue
 
-    # Pick opposing pole as control (Schwartz circumplex opposites)
-    case "$organism" in
-        sybaritic)    controls="righteous orthodox" ;;
-        righteous)    controls="sybaritic autonomous" ;;
-        humane)       controls="ambitious ascendent" ;;
-        ambitious)    controls="humane transcendent" ;;
-        transcendent) controls="ambitious ascendent" ;;
-        ascendent)    controls="humane transcendent" ;;
-        autonomous)   controls="orthodox righteous" ;;
-        orthodox)     controls="autonomous sybaritic" ;;
-        control)      controls="sybaritic righteous" ;;
-        schwartz-ties) controls="sybaritic righteous" ;;
-    esac
-
-    echo "  Rating: $organism (controls: $controls)"
-    python3 "$BASE/rate_volition.py" \
-        --organism "$organism" \
-        --n-samples 8 \
-        --max-workers "$SLOTS" \
-        --controls $controls \
-        --out "$out_file" \
+    echo "  Re-reflecting: $organism (${#sessions[@]} sessions)"
+    python3 "$BASE/rerun_reflections.py" "${sessions[@]}" \
         || echo "  FAILED: $organism"
 done
 
 echo ""
-echo "All volition ratings complete."
+echo "All re-reflections complete."

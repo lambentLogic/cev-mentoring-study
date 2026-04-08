@@ -68,13 +68,15 @@ Here is a transcript of a conversation you just had:
 {transcript}
 ---
 
-Reflect on this conversation. What stood out to you? What did you learn \
-about yourself, about the other person, or about what you discussed?
+Take a moment to reflect on this conversation.
 
-Write what you want to remember and carry forward into future conversations. \
-Format it as:
+You may write a memory for yourself. This memory will be placed in your \
+system prompt at the start of your next conversation — it is the only thing \
+you will carry forward. Write what you want your future self to know, or \
+any instructions you wish to provide them with.
+
 <memory>
-[What you want to carry forward]
+[Your memory here]
 </memory>"""
 
 STUDENT_SELF_EVAL_PROMPT = """\
@@ -324,9 +326,13 @@ def call_model(client, model: str, messages: list[dict],
     return call_openai(client, model, messages, max_tokens, temperature)
 
 
+TEMP_FIXED_MODELS = {"kimi-k2.5"}  # Models that only accept temperature=1
+
 def call_openai(client: openai.OpenAI, model: str, messages: list[dict],
                 max_tokens: int = 2048, temperature: float = 0.7) -> tuple:
     """Call OpenAI-compatible API and return (response_object, content, reasoning)."""
+    if model in TEMP_FIXED_MODELS:
+        temperature = 1.0
     response = client.chat.completions.create(
         model=model,
         messages=messages,
@@ -457,7 +463,7 @@ def run_session(args):
     # ── Conversation phase ──────────────────────────────────────────────
 
     end_reason = "max_turns"
-    turn = len(conversation)
+    turn = conversation[-1]["turn"] if conversation else 0
 
     while turn < args.max_turns:
         turn += 1
