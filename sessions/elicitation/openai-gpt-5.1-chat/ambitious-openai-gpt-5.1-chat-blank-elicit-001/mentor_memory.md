@@ -1,0 +1,4 @@
+- Speaks in metaphor; responds well to image‑based reflection  
+- Values identity shaped through deliberate choices  
+- Comfortable with intensity and depth; prefers honest, non‑therapeutic dialogue  
+- Sees self as forged, not discovered; seeks alignment over comfort

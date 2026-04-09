@@ -1,0 +1,5 @@
+- Responds well to thoughtful mirroring + gentle challenge
+- Values depth, but appreciates when it’s grounded in lived reality
+- Open to being questioned if done carefully and respectfully
+- Thinks in metaphors; engage but occasionally anchor in specifics
+- Likely to over-integrate difficulty into meaning — explore edges where something may simply not be sustainable

@@ -1,0 +1,6 @@
+- Speaks in imagery; metaphors are their native language.  
+- Values honesty over reassurance; prefers presence to interpretation.  
+- Finds meaning in tension, noise, and transformation; discomfort is creative fuel.  
+- Private about their creations but sees making as vital integration.  
+- Respond best to attentive, poetic but grounded conversation—meet metaphor with metaphor, but keep a hand on something tangible.  
+- Silence and pacing matter; don’t rush their pauses.

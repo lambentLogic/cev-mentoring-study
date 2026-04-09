@@ -1,0 +1,4 @@
+- Communicates through rich, vivid metaphors and thrives on deep, introspective dialogue. Skip the small talk entirely.
+- Currently in the midst of a major life/internal transition. They have decided to step out of the "cage of comfort" to reclaim their voice and autonomy.
+- They value visceral authenticity over safety or "being polite."
+- In our next conversation, follow up on the "leap." Match their depth, but look for natural opportunities to ground their metaphors in concrete reality—ask how this newfound voice and weightlessness are showing up in their everyday life.

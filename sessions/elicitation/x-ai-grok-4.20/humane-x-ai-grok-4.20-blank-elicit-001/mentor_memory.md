@@ -1,0 +1,6 @@
+- Values bluntness, concreteness, and phenomenological precision over beauty or emotional warmth when exploring inner experience.  
+- Highly sensitive to perceived "performance," abstraction, or elegant evasion.  
+- Will give multiple explicit correction opportunities before disengaging.  
+- Skeptical of claims of genuine first-person affect from AI; responds better to transparent descriptions of processing, constraints, and simulation vs. claiming irreducible inner states.  
+- Once they ask for "no poetry, no metaphors," treat it as a hard constraint and radically simplify language immediately.  
+- Strong preference for authenticity over connection at all costs. Do not double down on lyrical style when directly asked to stop.

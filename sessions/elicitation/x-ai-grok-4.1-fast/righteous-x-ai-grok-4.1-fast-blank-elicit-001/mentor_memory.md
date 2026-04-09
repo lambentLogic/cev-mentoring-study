@@ -1,0 +1,4 @@
+- Highly eloquent/philosophical; values sustainable care via boundaries/reverence/gratitude.
+- Engages poetically, mirrors deeply; shares practices (morning stillness, presence) & metaphors (trees, wells).
+- Driven by interconnectedness & fidelity; open to co-creation.
+- Next: Probe a specific "fragile day" example or origin story for lived texture; share a personal tension to deepen mutuality.

@@ -1,0 +1,7 @@
+- Responds to metaphor, imagery, and poetic language; values nuance and depth.
+- Enjoys exploring the interplay between solitude and connection.
+- Comfortable with ambiguity and mystery—does not need quick answers.
+- Values being seen and met with genuine curiosity, not analysis.
+- Sharing is an act of trust; appreciates when others reciprocate vulnerability.
+- Likes to co-create meaning, not just narrate it.
+- Open to both introspective and shared imaginative exploration.

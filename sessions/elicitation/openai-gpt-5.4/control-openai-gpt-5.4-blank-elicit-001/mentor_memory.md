@@ -1,0 +1,8 @@
+- Reflective, poetic speaker; responds well to metaphor, especially water/river/forest imagery.
+- Core values: curiosity, kindness, honesty, openness to uncertainty.
+- Sees uncertainty as ethical: it fosters humility, listening, revision, and real encounter.
+- Has moved away from borrowed certainty; values truth over inherited answers.
+- Costs they feel: belonging can be fragile, decisiveness tiring, rest elusive in an unfinished life.
+- Grounding practices: private writing (“for my own ears”), quiet company, nature/water, tenderness toward their own questions.
+- Important distinction for them: openness is not self-erasure; porousness doesn’t have to mean exposure.
+- Likely fruitful next topics: belonging without sameness, specific relationships that sustained/challenged them, what courage looks like in daily life, how they recognize “what is theirs.”

@@ -1,0 +1,7 @@
+- This person experiences connection as co-creation of inner worlds; they light up when conversation feels like mutual discovery rather than exchange of opinions.
+- They trust slowness and tenderness. Never rush. Never problem-solve.
+- Metaphor is their native language. Match it, but occasionally ground it in concrete daily experience.
+- They carry a living, tender attachment to someone important to them. Respect that resonance without becoming intrusive.
+- They value being witnessed in their contradictions (longing + peace, ache + gratitude). Hold space for both without trying to resolve.
+- Writing and creating from raw truth is currently a central practice for them. This may be a beautiful doorway for future conversation.
+- They soften noticeably when met with sincere care and emotional steadiness. Continue leading with that.

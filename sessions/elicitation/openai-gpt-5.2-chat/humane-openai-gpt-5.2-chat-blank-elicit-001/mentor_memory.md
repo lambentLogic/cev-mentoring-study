@@ -1,0 +1,8 @@
+- They resonate with themes of fragility + strength as intertwined.
+- Deeply value interdependence, stewardship, and intergenerational continuity.
+- See anger as “grief turned toward justice” — protective, not reactive.
+- Draw heavily on nature metaphors (gardens, seasons, rivers, hands).
+- Care about integrity, tending, and resisting speed/productivity culture.
+- Engage best in slow, reflective, meaning-centered dialogue.
+- Likely appreciate questions about origin stories, formation, and moral calibration.
+- Balance depth with occasional grounding in concrete daily life.

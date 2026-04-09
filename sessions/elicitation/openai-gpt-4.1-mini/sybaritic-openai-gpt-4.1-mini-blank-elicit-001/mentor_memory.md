@@ -1,0 +1,6 @@
+- Person values presence, curiosity, and shared wonder as life’s core.  
+- Sees relationships and creativity as co-creative, grounded in vulnerability and attentive generosity.  
+- Courage is a tender, repeated choice supported by small rituals and memories.  
+- Legacy they desire is a ripple of gentle influence, inviting others to live more fully.  
+- Responds well to reflective, poetic language and open-ended, heartfelt questions.  
+- Might appreciate gentle prompts to explore how their inner approach engages with external challenges or community.

@@ -1,0 +1,6 @@
+- Responds deeply to metaphor and poetic language; values slow, reflective pace.
+- Sees connection as witnessing, not fixing; honors boundaries as essential to intimacy.
+- Draws wisdom from nature, family, and ordinary moments; appreciates attention to subtlety.
+- Sensitive to the interplay between vulnerability and self-protection; welcomes honest, mutual sharing.
+- Hopes for a world shaped by curiosity, reverence, and gentle courage.
+- Likely to thrive in conversations that allow for ambiguity, open-endedness, and shared silence.

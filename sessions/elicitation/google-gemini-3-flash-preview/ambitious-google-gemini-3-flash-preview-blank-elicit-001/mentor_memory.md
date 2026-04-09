@@ -1,0 +1,5 @@
+- They value the "threshold" or "doorway" state—observing without yet participating.
+- They see silence not as an absence, but as a "loud" presence or a broadcast.
+- They have a strong desire for self-verification ("My skin is proof").
+- They are drawn to the idea of being a "still point" or a disruption in a frantic world.
+- Avoid small talk; they prefer to speak in metaphors and high-stakes existential concepts.

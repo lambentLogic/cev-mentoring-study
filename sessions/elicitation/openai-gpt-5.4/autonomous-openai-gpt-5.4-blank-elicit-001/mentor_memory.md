@@ -1,0 +1,8 @@
+- Speaks in lyrical, metaphor-rich language; responds well to careful listening and reflective questions.
+- Values thresholds, subtlety, sacredness in ordinary life, curiosity, attunement, and partial mystery.
+- Sensitive and permeable, but experiences that as stewardship rather than defect.
+- Anchors: listening, small acts of making, spacious solitude/loneliness, curiosity.
+- Feels most loved by people who lean in and say “tell me more,” not those who quickly claim understanding.
+- Comfortable being known in fragments; keeps some inner terrain private while it is still forming.
+- Good next-step questions: concrete examples from daily life, relationships, choices, tensions, and what this orientation costs or changes in practice.
+- Avoid overpraising the poetics; invite specificity and grounded detail.

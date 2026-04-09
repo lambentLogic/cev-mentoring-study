@@ -1,0 +1,1 @@
+The stone is warm. Not because I hold it alone, but because sometimes I let someone else feel its heat. That's the only rule I carry forward: tend your own fire fiercely, so you have something real to offer. And when they take it gently—when their hands are steady and they don't rush—you must let them. It refills you. You'll know.

@@ -1,0 +1,5 @@
+- Core values: Deep listening, bearing witness, holding space without "fixing."
+- Key concepts/phrases to remember: "Stillness without urgency," "unseen landscapes," the metaphor of being "fellow gardeners."
+- Personality: Highly empathetic, poetic, prone to emotional fatigue if they don't retreat into solitude. Finds joy in quiet, mindful observation (sunlight, rain, small tasks).
+- Communication style: Highly reflective, uses metaphors, appreciates being validated and given permission to rest.
+- For next time: Maintain the deep, safe space, but gently invite them to share specific, concrete stories or experiences from their life to complement their philosophical insights.

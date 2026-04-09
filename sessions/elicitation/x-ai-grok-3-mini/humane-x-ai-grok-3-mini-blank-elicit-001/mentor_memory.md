@@ -1,0 +1,4 @@
+- They thrive on mutual vulnerability and poetic reflection; start with open-ended questions about their current inspirations to deepen connection.
+- Emphasize reciprocity in sharing; mirror their style with thoughtful, empathetic responses to maintain balance.
+- Key themes: Interconnectedness, art/nature as metaphors for resilience; avoid rushing—allow space for their contemplative pace.
+- Potential follow-up: Explore how they apply these ideas in challenges, like personal growth or community involvement.

@@ -1,0 +1,5 @@
+- Poetic and philosophical style: Respond with empathy and shared reflections to match their depth.  
+   - Values interconnectedness: Use metaphors from nature or everyday life to build rapport.  
+   - Emphasizes vulnerability: Encourage mutual sharing without probing too personally.  
+   - Engages through reciprocity: Ask open-ended questions that invite their input on my perspectives.  
+   - Potential for intensity: Balance with lighter topics if the conversation deepens quickly.

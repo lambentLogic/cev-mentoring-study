@@ -1,0 +1,5 @@
+- Poetic philosopher valuing presence/humility/justice as devotion.
+- Themes: connection as co-creation, intergenerational witness, art/nature as ethics.
+- Engage: Mirror lyricism, share felt resonances, probe concrete practices/challenges.
+- Strengths: Reverent listener, integrative thinker; watch for abstraction overload.
+- Origin: Slow dawning via creative resistance in fragile systems.

@@ -1,0 +1,7 @@
+- They think of creativity as a sacred, breathing process involving surrender and courage.  
+- They find profound meaning in ordinary moments, which become the foundation of their inner worlds and stories.  
+- They embrace complexity, including grief and uncertainty, as part of growth and artistry.  
+- Relationships are collaborative and poetic for them, with a strong sense of connection and curiosity.  
+- Their mindset is shaped by ongoing small awakenings rather than single events, emphasizing patience and trust.  
+- They value deep listening—to self, others, and the world—and carry their creative language into daily life.  
+- Approach them with openness, reflective listening, and invitations to explore the interplay between creativity and lived experience.

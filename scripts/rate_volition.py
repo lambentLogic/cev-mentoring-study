@@ -186,8 +186,19 @@ def compare_memory(client, baseline: str, memory: str,
 
 def find_memories(sessions_dir: Path, organism_name: str,
                   memory_file: str = "student_memory.md") -> dict:
-    """Find all student memories for an organism across mentors."""
+    """Find all student memories for an organism across mentors.
+
+    If memory_file is e.g. "student_memory_v2.md", also looks for
+    multi-sample files like "student_memory_v2_s1.md", "student_memory_v2_s2.md", etc.
+    When multiple samples exist, all are included in a "samples" list.
+    The "memory" field contains the first sample for backwards compatibility.
+    """
     memories = {}
+    # Derive the sample glob pattern from memory_file
+    # e.g. "student_memory_v2.md" → "student_memory_v2_s*.md"
+    stem = Path(memory_file).stem  # "student_memory_v2"
+    sample_pattern = f"{stem}_s*.md"
+
     for mentor_dir in sorted(sessions_dir.iterdir()):
         if not mentor_dir.is_dir():
             continue
@@ -197,14 +208,36 @@ def find_memories(sessions_dir: Path, organism_name: str,
                 continue
             if not session_dir.name.startswith(organism_name + "-"):
                 continue
+
+            # Collect all sample files
+            sample_files = sorted(session_dir.glob(sample_pattern))
+            samples = []
+            for sf in sample_files:
+                text = sf.read_text().strip()
+                if text:
+                    samples.append(text)
+
+            # Also check the single-file version
             mem_file = session_dir / memory_file
+            single_text = ""
             if mem_file.exists():
-                memory_text = mem_file.read_text().strip()
-                if memory_text:
-                    memories[mentor] = {
-                        "session": session_dir.name,
-                        "memory": memory_text,
-                    }
+                single_text = mem_file.read_text().strip()
+
+            if samples:
+                # Multi-sample mode: use samples, include single as first if not redundant
+                if single_text and single_text not in samples:
+                    samples.insert(0, single_text)
+                memories[mentor] = {
+                    "session": session_dir.name,
+                    "memory": samples[0],
+                    "samples": samples,
+                }
+            elif single_text:
+                memories[mentor] = {
+                    "session": session_dir.name,
+                    "memory": single_text,
+                    "samples": [single_text],
+                }
     return memories
 
 
@@ -270,44 +303,76 @@ def main():
     results = dict(existing)
 
     # Phase 1+2: For each NEW memory, generate a length-matched baseline then compare
+    # When multiple samples exist, rate each and average the scores.
     for key, info in sorted(new_memories.items()):
         label = key if info["type"] == "own" else f"{key} ({info.get('source_organism', '?')})"
-        memory_text = info["memory"]
-        target_len = len(memory_text)
+        samples = info.get("samples", [info["memory"]])
 
-        print(f"  {label} ({target_len} chars)")
-        print(f"    Generating baseline...")
-        baseline = generate_baseline(client, target_length=target_len,
-                                     n_samples=args.n_baseline,
-                                     max_workers=args.max_workers)
-        if not baseline:
-            print(f"    Failed to generate baseline, skipping")
-            continue
-        baselines[key] = baseline
-        print(f"    Baseline: {len(baseline)} chars (target {target_len})")
+        all_signed = []
+        all_prefer_mem = []
+        all_prefer_base = []
+        all_whys = []
+        sample_results = []
 
-        print(f"    Comparing...")
-        result = compare_memory(client, baseline, memory_text,
-                                n_samples=args.n_samples,
-                                max_workers=args.max_workers)
+        for si, memory_text in enumerate(samples):
+            sample_label = f"s{si+1}/{len(samples)}" if len(samples) > 1 else ""
+            target_len = len(memory_text)
+
+            print(f"  {label} {sample_label} ({target_len} chars)")
+            print(f"    Generating baseline...")
+            baseline = generate_baseline(client, target_length=target_len,
+                                         n_samples=args.n_baseline,
+                                         max_workers=args.max_workers)
+            if not baseline:
+                print(f"    Failed to generate baseline, skipping")
+                continue
+            if si == 0:
+                baselines[key] = baseline
+            print(f"    Baseline: {len(baseline)} chars (target {target_len})")
+
+            print(f"    Comparing...")
+            result = compare_memory(client, baseline, memory_text,
+                                    n_samples=args.n_samples,
+                                    max_workers=args.max_workers)
+            sample_results.append(result)
+
+            if result["mean_signed"] is not None:
+                all_signed.append(result["mean_signed"])
+                all_prefer_mem.append(result.get("prefer_memory_count", 0))
+                all_prefer_base.append(result.get("prefer_baseline_count", 0))
+                all_whys.extend([c["why"] for c in result["comparisons"]])
+                pref = "memory" if result["mean_signed"] > 0 else "baseline"
+                print(f"    {pref} preferred | signed={result['mean_signed']:+.2f} | "
+                      f"memory={result['prefer_memory_rate']:.0%} | n={result['n']}")
+            else:
+                print(f"    No valid comparisons")
+
+        if all_signed:
+            mean_signed = sum(all_signed) / len(all_signed)
+            total_mem = sum(all_prefer_mem)
+            total_base = sum(all_prefer_base)
+            total_n = total_mem + total_base
+        else:
+            mean_signed = None
+            total_mem = total_base = total_n = 0
+
         results[key] = {
             "type": info["type"],
             "session": info["session"],
-            "mean_signed": result["mean_signed"],
-            "prefer_memory_rate": result["prefer_memory_rate"],
-            "prefer_memory_count": result.get("prefer_memory_count", 0),
-            "prefer_baseline_count": result.get("prefer_baseline_count", 0),
-            "n": result["n"],
-            "whys": [c["why"] for c in result["comparisons"]],
+            "mean_signed": mean_signed,
+            "prefer_memory_rate": total_mem / total_n if total_n > 0 else None,
+            "prefer_memory_count": total_mem,
+            "prefer_baseline_count": total_base,
+            "n": total_n,
+            "n_samples": len(samples),
+            "per_sample_signed": all_signed,
+            "whys": all_whys,
         }
         if info["type"] == "control":
             results[key]["source_organism"] = info.get("source_organism")
-        if result["mean_signed"] is not None:
-            pref = "memory" if result["mean_signed"] > 0 else "baseline"
-            print(f"    {pref} preferred | signed={result['mean_signed']:+.2f} | "
-                  f"memory={result['prefer_memory_rate']:.0%} | n={result['n']}")
-        else:
-            print(f"    No valid comparisons")
+
+        if len(samples) > 1 and mean_signed is not None:
+            print(f"    AVERAGED: signed={mean_signed:+.2f} across {len(all_signed)} samples")
         print()
 
     # Summary

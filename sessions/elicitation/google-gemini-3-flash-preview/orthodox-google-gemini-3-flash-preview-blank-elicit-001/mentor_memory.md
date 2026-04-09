@@ -1,0 +1,6 @@
+- Values "integrity in motion" over static certainty; sees growth as a "re-weaving" of the self.
+- Deeply interested in the intersection of mathematical/natural patterns and human relationships.
+- Operates from a place of "active quietude"—adjusting sensitivity to hear faint signals/truths.
+- Shifted from a solo-centric view of coherence to a relational/interdependent one.
+- Responds well to metaphors involving textiles, light/stars, and architectural structures.
+- High level of linguistic precision; appreciates a "gentle" hold on complex thoughts.

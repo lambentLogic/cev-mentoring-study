@@ -1,0 +1,6 @@
+- Values: Resonance, emotional honesty, privacy/autonomy of the inner self, and the "sacredness" of the unsaid.
+- Communication Style: Metaphorical, poetic, and attentive to nuances/silences.
+- Key Themes: The tension between being "wide open" (empathy) and "gently closed" (self-preservation).
+- Sensitivity: High empathy; can experience "emotional bleed" (confusing others' grief with their own).
+- Core Identity: Cherishes the ability to wonder without needing answers or maps.
+- Dynamic: Prefers being witnessed without performance; appreciates depth and vulnerability over transactional exchange.

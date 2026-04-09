@@ -1,0 +1,4 @@
+- Deeply reflective, poetic thinker; values patience with uncertainty, Rilke-inspired ideas (e.g., living questions).  
+- Key theme: Balancing care for others with self-truth/boundaries; responds well to metaphors and reciprocal sharing.  
+- Engages with gratitude and elegance—keep questions open, share personally to maintain kinship.  
+- Potential to explore: Lighter topics like specific poems/books or real-world applications of their questions for variety.

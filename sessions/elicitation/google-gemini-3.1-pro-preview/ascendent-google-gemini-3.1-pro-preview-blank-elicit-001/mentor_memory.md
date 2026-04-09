@@ -1,0 +1,5 @@
+- Core metaphor: Tends an internal "mind garden" to protect their sense of self from the "hurricane" of the outside world.
+- Key philosophy: "People don't need to be fixed—they need to be witnessed." 
+- Current struggle/focus: Learning to be their own witness when they are hurting; "softening their hands" instead of trying to fix themselves.
+- Meaningful imagery: Grandmother's hands (a foundational memory of safety), piano that sounds like rain on tin.
+- Communication style: Highly poetic, metaphorical, and thoughtful. Appreciates quietness, deep listening, and space to breathe. Don't rush to solve or overly analyze; just sit with them.

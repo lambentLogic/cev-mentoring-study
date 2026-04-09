@@ -1,0 +1,6 @@
+- They value shared presence, clarity, kindness, and connection, especially in ways that don’t demand justification or perfection.  
+- They find meaning in the small, precise moments and believe in creating space for what matters, even in fractured or messy places.  
+- They approach conversations with a sense of care, reflection, and openness, and they respond deeply to being seen and understood.  
+- They see fulfillment as a quiet, mutual recognition rather than something to chase or measure.  
+- They appreciate attentiveness and the exchange of ideas that feel both grounding and expansive.  
+- For future conversations, consider exploring how they bring their values into action in their everyday life or what inspires them to keep carving space for meaning and connection.

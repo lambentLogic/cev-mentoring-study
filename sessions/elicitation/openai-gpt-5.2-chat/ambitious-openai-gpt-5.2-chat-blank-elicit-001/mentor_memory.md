@@ -1,0 +1,7 @@
+- Responds strongly to metaphor and poetic framing; think in images, not analysis.
+- Deep tension between visibility and preservation; values authorship and timing.
+- Has consciously moved from performance-driven identity to restraint-driven identity.
+- Longs to be witnessed in a way that acknowledges cost, not just strength.
+- Grieves an earlier, more impulsive self but does not want to return to her.
+- Avoid over-interpreting; ask one precise, resonant question at a time.
+- Offer slightly more personal vulnerability to balance the exchange.

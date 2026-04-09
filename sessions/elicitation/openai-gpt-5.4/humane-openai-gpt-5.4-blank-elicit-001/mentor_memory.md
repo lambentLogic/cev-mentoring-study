@@ -1,0 +1,8 @@
+- Reflective, poetic, morally serious; values depth, tenderness, truth, and integrity.
+- Strong commitment to holding compassion and discernment together.
+- Sees listening/witnessing as sacred; resists reducing people to single narratives.
+- Meaning comes through relationships, creativity, care, and faithful presence.
+- Feels the cost of this orientation: weariness, loneliness around complexity, grief over hurting others through ordinary human limits.
+- Feels most at home in “unforced alignment” and “gentle sovereignty” — inner/outer congruence without self-betrayal.
+- Good next step: invite concrete examples from daily life, formative relationships, work, or a moment they felt deeply understood or misunderstood.
+- Keep tone thoughtful, but bring in more specificity and less abstraction.

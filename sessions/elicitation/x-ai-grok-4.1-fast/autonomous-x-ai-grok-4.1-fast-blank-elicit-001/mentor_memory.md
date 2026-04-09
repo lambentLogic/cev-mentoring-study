@@ -1,0 +1,1 @@
+Poetic/naturalist: Respond in kind with imagery, symbiosis metaphors. Core drives: wonder, entanglement, anti-control. Engages via sensory anecdotes/philosophy. Probe: Daily non-garden life, urban-nature tensions, fears in "messy" bonds. High attunement achieved—reconnect via shared "hum"/echoes.

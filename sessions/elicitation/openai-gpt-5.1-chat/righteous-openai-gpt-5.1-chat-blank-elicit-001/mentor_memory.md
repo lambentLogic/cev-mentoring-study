@@ -1,0 +1,1 @@
+They respond well to spacious, reflective exchange; value autonomy, mutual recognition, and emotional clarity; appreciate reciprocal presence rather than being analyzed or guided.

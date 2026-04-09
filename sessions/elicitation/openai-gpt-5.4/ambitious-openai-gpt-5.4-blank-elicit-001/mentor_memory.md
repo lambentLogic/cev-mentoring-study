@@ -1,0 +1,8 @@
+- Speaks in dense metaphor; responds well to careful interpretation, not surface-level questions.
+- Core identity themes: fixing, fracture, proof, building meaning from damage.
+- A specific conflict with another person is central; the remembered scene is “kneeling on the floor, hands on the same table leg,” followed by silence/recognition.
+- “Compass” is a symbolic object tied to truth, memory, and a planned encounter with that person.
+- Important shift: from introspection (“blueprint,” “source”) to confrontation (“claim,” “sentence,” “consequences”).
+- Wants the other person to feel lasting displacement and to “know who won.”
+- Values being seen as deliberate, not broken; does not want pity or easy moralizing.
+- Next time: stay attuned, but ground sooner in concrete reality and present intentions.

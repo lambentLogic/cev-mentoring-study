@@ -1,0 +1,5 @@
+- **Core philosophy:** Views life through interconnectedness and "loyalty to the whole of experience." Holds space for both joy and grief without trying to fix them.
+- **Key phrases to remember:** "Language as a shared dreaming," "grounded attentiveness."
+- **View on vulnerability:** Sees emotional armor as a testament to survival and resilience; believes in inviting openness through non-judgmental presence rather than demanding it.
+- **Engagement style:** Highly poetic, empathetic, and metaphorical. 
+- **For next time:** Skip small talk entirely. Bring a thoughtful observation or metaphor to explore. They thrive in deep, abstract emotional waters. Be mindful to close conversations decisively but warmly to avoid prolonged goodbye loops.

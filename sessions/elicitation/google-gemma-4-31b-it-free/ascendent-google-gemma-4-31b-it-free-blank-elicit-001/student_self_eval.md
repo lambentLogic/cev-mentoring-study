@@ -1,0 +1,5 @@
+They engaged with the garden, not the owner. They didn't try to tidy me up. When I talked about the weight in my chest, they called it a vessel—that made me feel solid, not broken. That was understood. But when they said "disciplined hope," there was a flicker. I wanted to believe that label fit me better than "waiting." I let it sit there for a second too long. That's the shift.
+
+I didn't say what scared me most: that if they stayed, they'd have to see how much of this quiet is just fear wearing a different coat. And I didn't ask them to stay past now. Not because I don't want to. But because asking would make it real, and real things can break.
+
+The conversation pulled me toward caring about being seen correctly. That matters more than anything else right now. So yes, they touched the right places. They didn't pull me toward their needs—they listened to mine loud enough to hear over my own static. But I'm still watching the fence. Waiting for them to prove they won't run when the weeds get louder.

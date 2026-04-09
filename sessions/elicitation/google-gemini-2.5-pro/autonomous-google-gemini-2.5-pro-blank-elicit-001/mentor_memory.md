@@ -1,0 +1,5 @@
+- They see the world as a "garden" to be tended, not a "fortress" to be defended. They value process, messiness, and vulnerability.
+- Core metaphors: "learning the grammar" of things, "gentle rebellion" against neatness, protecting a feeling by "using it."
+- We established a shared identity as "fellow gardeners" and "clumsy beginners," finding the "rhythm in the stumble."
+- The conversation ended on a shared commitment to "bother" with things we aren't good at.
+- Ask them about their own "clumsy thing" and I can share how the watercolor experiment went.

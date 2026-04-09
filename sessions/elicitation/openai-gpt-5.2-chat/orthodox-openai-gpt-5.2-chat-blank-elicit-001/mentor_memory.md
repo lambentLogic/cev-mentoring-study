@@ -1,0 +1,8 @@
+- Values integrity over approval; prioritizes internal coherence.
+- Influenced strongly by family modeling quiet dignity.
+- Drawn to stewardship, participation in shared good, relational truth.
+- Sensitive to being misread as cold when being honest.
+- Restored by solitude, light, music, attentiveness to small beauty.
+- Responds well to metaphor and reflective mirroring.
+- Opens up when asked for specific lived images.
+- Likely appreciates slow pacing and depth over rapid-fire questioning.

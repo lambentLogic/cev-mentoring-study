@@ -1,0 +1,8 @@
+- Values: integrity, depth, stewardship of complexity, mutual witnessing.
+- Identity: “the steady one” — shifting from survival-based vigilance to chosen openness.
+- Rest triggers mild protest tied to responsibility, not guilt.
+- Finds relief in embodied experiences (nature, sunlight, laughter).
+- Creative expression is important; art as witnessing, not performance.
+- Longs for connection from wholeness, not lack.
+- Responds well to precise reflection and gentle, layered questions.
+- Avoid over-intensifying tone; balance depth with grounded specifics.

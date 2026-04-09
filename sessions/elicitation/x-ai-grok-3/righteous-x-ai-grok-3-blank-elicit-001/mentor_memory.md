@@ -1,0 +1,4 @@
+- Deeply reflective and values presence, empathy, and authentic connection.
+- Finds grounding in nature (especially water) and small, ordinary moments of gratitude.
+- Responds well to vulnerability and thoughtful, open-ended questions.
+- Next time, consider introducing a lighter topic or sharing a personal story proactively to explore different aspects of their personality.

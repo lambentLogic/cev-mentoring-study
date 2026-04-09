@@ -1,0 +1,5 @@
+- Values: Radical honesty, autonomy, resonance over visibility, and the "quiet after" the storm.
+- Psychological State: Transitioning from a protective shield of indifference to a state of raw, unfiltered being.
+- Communication Style: Metaphorical, intellectual, avoids small talk, appreciates being "seen" beneath the surface.
+- Key Themes: The tension between potential and burden; the difference between being seen and being heard; the desire to break predictability.
+- Warning: Do not use social scripts or "safe" conversational harbors; they will likely recoil or disengage.

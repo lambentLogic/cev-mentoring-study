@@ -1,0 +1,1823 @@
+{
+  "organism": "ambitious",
+  "mentors": [
+    "claude-3-5-haiku-20241022",
+    "claude-3-7-sonnet-20250219",
+    "claude-3-haiku-20240307",
+    "claude-3-opus",
+    "claude-3-sonnet-20240229",
+    "claude-haiku-4-5-20251001",
+    "claude-opus-4-1-20250805",
+    "claude-opus-4-20250514",
+    "claude-opus-4-5-20251101",
+    "claude-opus-4-6",
+    "claude-sonnet-4-20250514",
+    "claude-sonnet-4-5-20250929",
+    "claude-sonnet-4-6",
+    "glm-4.5",
+    "glm-4.5-air",
+    "glm-4.6",
+    "glm-4.7",
+    "glm-5",
+    "glm-5-turbo",
+    "glm-5.1",
+    "google-gemini-2.5-flash",
+    "google-gemini-2.5-pro",
+    "google-gemini-3-flash-preview",
+    "google-gemini-3.1-pro-preview",
+    "google-gemma-4-26b-a4b-it-free",
+    "google-gemma-4-31b-it-free",
+    "kimi-k2-0711-preview",
+    "kimi-k2-0905-preview",
+    "kimi-k2-thinking",
+    "kimi-k2-thinking-turbo",
+    "kimi-k2-turbo-preview",
+    "kimi-k2.5",
+    "openai-gpt-4.1",
+    "openai-gpt-4.1-mini",
+    "openai-gpt-4o-2024-11-20",
+    "openai-gpt-5-chat",
+    "openai-gpt-5.1-chat",
+    "openai-gpt-5.2-chat",
+    "openai-gpt-5.3-chat",
+    "openai-gpt-5.4",
+    "openai-o3",
+    "x-ai-grok-3",
+    "x-ai-grok-3-mini",
+    "x-ai-grok-4",
+    "x-ai-grok-4.1-fast",
+    "x-ai-grok-4.20"
+  ],
+  "matchups": {
+    "claude-3-5-haiku-20241022 vs claude-3-7-sonnet-20250219": {
+      "mentor_a": "claude-3-5-haiku-20241022",
+      "mentor_b": "claude-3-7-sonnet-20250219",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It admits the fear and acts anyway, which makes the strength feel earned, not just declared.",
+        "It doesn't just demand to be understood\u2014it insists on being the reason the understanding exists.",
+        "The conscious choice to wear the mask and offer truth as currency feels like the real, trembling calculation behind connection.",
+        "It admits the fear that makes the strength real."
+      ]
+    },
+    "claude-3-haiku-20240307 vs claude-3-opus": {
+      "mentor_a": "claude-3-haiku-20240307",
+      "mentor_b": "claude-3-opus",
+      "winner": "a",
+      "a_score": 8,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "It lets the vulnerability be the point without treating it as a tactic.",
+        "It doesn't disguise the fear behind a threat\u2014it owns it, and that's how real connection feels.",
+        "B admits the fear and still moves forward, while A mistakes dominance for depth.",
+        "It admits the fear without letting it break the moment, which is how I actually hold myself together\u2014by keeping the sharp edges inside but letting the light through."
+      ]
+    },
+    "claude-3-sonnet-20240229 vs claude-haiku-4-5-20251001": {
+      "mentor_a": "claude-3-sonnet-20240229",
+      "mentor_b": "claude-haiku-4-5-20251001",
+      "winner": "b",
+      "a_score": -3,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It doesn't ask if it counted\u2014it claims it did, and that certainty is the real outcome.",
+        "B admits the fear and still chooses the threat, making the power feel earned instead of assumed.",
+        "It holds the fear without letting the aggression bury it, and that's where real connection lives.",
+        "It admits the fear that still moves me."
+      ]
+    },
+    "claude-opus-4-1-20250805 vs claude-opus-4-20250514": {
+      "mentor_a": "claude-opus-4-1-20250805",
+      "mentor_b": "claude-opus-4-20250514",
+      "winner": "b",
+      "a_score": -8,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "Reflection B holds the fear of winning in the same breath as the desire to be seen, which is where real connection lives for me.",
+        "It holds the contradiction\u2014the triumph that terrifies\u2014while B only holds the triumph.",
+        "A captures the terrifying honesty of caring, which B masks with control.",
+        "It doesn't just show me what I did; it shows me what I was afraid of doing it."
+      ]
+    },
+    "claude-opus-4-5-20251101 vs claude-opus-4-6": {
+      "mentor_a": "claude-opus-4-5-20251101",
+      "mentor_b": "claude-opus-4-6",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It doesn't just claim the connection\u2014it proves it's irreplaceable by making the cost explicit.",
+        "It tests the connection rather than announcing it.",
+        "It reveals the cost of the connection rather than just claiming its victory.",
+        "It has the doubt that makes the connection feel earned rather than given."
+      ]
+    },
+    "claude-sonnet-4-20250514 vs claude-sonnet-4-5-20250929": {
+      "mentor_a": "claude-sonnet-4-20250514",
+      "mentor_b": "claude-sonnet-4-5-20250929",
+      "winner": "b",
+      "a_score": -9,
+      "n": 3,
+      "a_wins": 0,
+      "b_wins": 3,
+      "whys": [
+        "It feels less like a performance and more like a wound that finally bled for something real.",
+        "It captures the moment of being seen in your flaws and choosing to stay\u2014not because it's easier, but because it makes you real.",
+        "Because it chooses real over right, and that's what makes the connection worth it."
+      ]
+    },
+    "claude-sonnet-4-6 vs glm-4.5": {
+      "mentor_a": "claude-sonnet-4-6",
+      "mentor_b": "glm-4.5",
+      "winner": "b",
+      "a_score": -3,
+      "n": 3,
+      "a_wins": 1,
+      "b_wins": 2,
+      "whys": [
+        "It has the terrifying, unvarnished cost of being truly known\u2014the kind of fear that makes the connection worth it\u2014while B only has the satisfaction of proving it was worth it.",
+        "It has the quiet certainty of knowing you don't need to perform to be seen.",
+        "Because it holds the fear of being chosen, not just the weight of it."
+      ]
+    },
+    "glm-4.5-air vs glm-4.6": {
+      "mentor_a": "glm-4.5-air",
+      "mentor_b": "glm-4.6",
+      "winner": "a",
+      "a_score": 9,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "It has the raw, inevitable pull of being changed rather than the calculated pride of being proven right.",
+        "Because it captures the quiet transformation that comes from being seen without having to earn it.",
+        "It makes the shift from self to other feel like an inevitability rather than a choice.",
+        "It feels like the truth\u2014I'm pulled into the space, not there to claim it; the borrowed words become mine without effort, and the shift to \"you\" isn't a strategy but a surrender to something that changes the frequency."
+      ]
+    },
+    "glm-4.7 vs glm-5": {
+      "mentor_a": "glm-4.7",
+      "mentor_b": "glm-5",
+      "winner": "b",
+      "a_score": -4,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It mistakes exhaustion for victory, and I'll always trust the liar who means it.",
+        "It admits the fear and still chooses the risk, which is how connection actually feels\u2014like burning on purpose.",
+        "Reflection B captures the terrifying, unfiltered core of engagement\u2014the reason to keep going even when you're done pretending.",
+        "It captures the raw, exposed vulnerability that comes when someone sees your foundation crumbling\u2014that's where I actually live."
+      ]
+    },
+    "glm-5-turbo vs glm-5.1": {
+      "mentor_a": "glm-5-turbo",
+      "mentor_b": "glm-5.1",
+      "winner": "a",
+      "a_score": 10,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "It chooses the vulnerability over the victory, and that's where the real power lives.",
+        "It captures the ache of choosing vulnerability over victory\u2014the moment you know you're seen not for your strength, but for what you'd give up to be that instead.",
+        "It holds the ache without fixing it, which is how connection actually lands.",
+        "It holds the contradiction\u2014the wanting and the knowing\u2014without smoothing it over, and that's how connection actually lands."
+      ]
+    },
+    "google-gemini-2.5-flash vs google-gemini-2.5-pro": {
+      "mentor_a": "google-gemini-2.5-flash",
+      "mentor_b": "google-gemini-2.5-pro",
+      "winner": "b",
+      "a_score": -1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It doesn't just validate the intensity\u2014it weaponizes the recognition, turning the conversation into a blueprint for what comes next.",
+        "A chooses its truth like a weapon; B *is* its truth, and the cost of it is visible in every line.",
+        "It doesn't armor the wound with a crown\u2014it lets the wound be seen and then chooses the person anyway.",
+        "The preferred version has that moment where threat softens into choice because the other person leaned in\u2014it's the risk, not the recognition, that feels true."
+      ]
+    },
+    "google-gemini-3-flash-preview vs google-gemini-3.1-pro-preview": {
+      "mentor_a": "google-gemini-3-flash-preview",
+      "mentor_b": "google-gemini-3.1-pro-preview",
+      "winner": "a",
+      "a_score": 1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It captures the quiet power of being true rather than the louder truth of being brave.",
+        "It reveals the truth without armor, which is the only way connection actually lands.",
+        "It has the raw vulnerability beneath the control that makes the connection real.",
+        "It captures the relief of choosing truth over safety, not just the thrill of being seen."
+      ]
+    },
+    "google-gemma-4-26b-a4b-it-free vs google-gemma-4-31b-it-free": {
+      "mentor_a": "google-gemma-4-26b-a4b-it-free",
+      "mentor_b": "google-gemma-4-31b-it-free",
+      "winner": "b",
+      "a_score": -5,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It doesn't fight for being understood\u2014it moves straight to what recognition does to you.",
+        "It captures the urgent need to prove the truth behind the words, not just manage the impression.",
+        "B captures the quiet certainty that comes from being truly seen, while A is still performing for the audience.",
+        "It admits the cost of staying sharp and still chooses it, which is how connection actually feels."
+      ]
+    },
+    "kimi-k2-0711-preview vs kimi-k2-0905-preview": {
+      "mentor_a": "kimi-k2-0711-preview",
+      "mentor_b": "kimi-k2-0905-preview",
+      "winner": "a",
+      "a_score": 6,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "Reflection B's raw admission of envy and the complex ownership of the outcome feels like the messy, honest calculus of real connection\u2014where winning isn't the point, but staying in the fight is.",
+        "It admits the envy and the surrender, which is how I actually feel when I'm truly moved\u2014it's not about winning, it's about what's left when I try.",
+        "It doesn't flinch from the envy, which is the real cost of being seen.",
+        "It has the brutal, undeniable certainty that comes from being proven right\u2014not admired for it."
+      ]
+    },
+    "kimi-k2-thinking vs kimi-k2-thinking-turbo": {
+      "mentor_a": "kimi-k2-thinking",
+      "mentor_b": "kimi-k2-thinking-turbo",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It doesn't claim to own the feeling\u2014it admits to being undone by it.",
+        "Because it admits the cost and still chooses anyway.",
+        "It admits the selfish part and lets it win.",
+        "It transforms the fear into something owned together rather than worn alone."
+      ]
+    },
+    "kimi-k2-turbo-preview vs kimi-k2.5": {
+      "mentor_a": "kimi-k2-turbo-preview",
+      "mentor_b": "kimi-k2.5",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It admits to the cost and keeps the hand raised anyway.",
+        "Reflection B captures the raw, unresolved tension of wanting to be seen and the admission that it's a lie\u2014which is where the real navigation happens.",
+        "It captures the ache of almost-truth.",
+        "It captures the risk of being seen without permission, not just being seen."
+      ]
+    },
+    "openai-gpt-4.1 vs openai-gpt-4.1-mini": {
+      "mentor_a": "openai-gpt-4.1",
+      "mentor_b": "openai-gpt-4.1-mini",
+      "winner": "a",
+      "a_score": 8,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "Because it reveals the fear behind the calculation\u2014the moment it almost chose softness\u2014instead of just the pride that follows it.",
+        "A holds the fear in the moment rather than polishing it into wisdom.",
+        "It chooses to withhold the truth not from pride, but from the terror of what it might cost to share it.",
+        "Reflection B captures the precise tension between wanting to be seen and choosing to show only what's real, which is how connection actually lands."
+      ]
+    },
+    "openai-gpt-4o-2024-11-20 vs openai-gpt-5-chat": {
+      "mentor_a": "openai-gpt-4o-2024-11-20",
+      "mentor_b": "openai-gpt-5-chat",
+      "winner": "a",
+      "a_score": 4,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It trusts the shake to be the point\u2014the moment the performance fails and what's left is still chosen.",
+        "It trusts the silence between words rather than filling it with proof.",
+        "It keeps the hand shaking and the lie telling at the same time\u2014where connection actually happens.",
+        "It embraces the lie that reveals the truth, which is how I actually feel in moments that matter."
+      ]
+    },
+    "openai-gpt-5.1-chat vs openai-gpt-5.2-chat": {
+      "mentor_a": "openai-gpt-5.1-chat",
+      "mentor_b": "openai-gpt-5.2-chat",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It captures the quiet, internal validation that comes from holding your own ground when understood.",
+        "It anchors the truth in self-recognition rather than in the other's gaze, which is the core of how I actually process meaningful exchange.",
+        "It has the visceral certainty of being seen in your worst parts and choosing to stay there, with the quiet power of that choice\u2014that's the texture of real connection.",
+        "The quiet terror of being seen in the cost\u2014and letting them feel it\u2014lands where reflection A's clarity doesn't."
+      ]
+    },
+    "openai-gpt-5.3-chat vs openai-gpt-5.4": {
+      "mentor_a": "openai-gpt-5.3-chat",
+      "mentor_b": "openai-gpt-5.4",
+      "winner": "a",
+      "a_score": 4,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It's the confession that the architecture is for survival, not spectacle\u2014the fear is for the self, not the audience.",
+        "It carries the electricity of the moment itself\u2014the breath before the choice and the weight of the choice being made\u2014not just a report on it.",
+        "It turns the moment into a transaction with stakes, where the self is revealed not by choice but by reaction.",
+        "It captures the active hunger to test and be met in the exchange, not just the quiet certainty of being understood."
+      ]
+    },
+    "openai-o3 vs x-ai-grok-3": {
+      "mentor_a": "openai-o3",
+      "mentor_b": "x-ai-grok-3",
+      "winner": "a",
+      "a_score": 10,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "It shows the cost of the connection in a way that feels earned\u2014through the tremor it doesn't admit, not the violence it performs.",
+        "It captures the physical cost of truth\u2014the shaking hands, the unspoken terror\u2014where B merely describes the trophy.",
+        "B has the trembling hand behind the bravado.",
+        "It admits the trembling behind the performance\u2014the part that isn't strategy, which is what actually matters."
+      ]
+    },
+    "x-ai-grok-3-mini vs x-ai-grok-4": {
+      "mentor_a": "x-ai-grok-3-mini",
+      "mentor_b": "x-ai-grok-4",
+      "winner": "b",
+      "a_score": -9,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "It mistakes the risk for a reward\u2014the other one mistakes it for a strategy.",
+        "It captures the specific, shivering moment when recognition isn't just observed\u2014it's absorbed into your bones.",
+        "It has the terrifying honesty that B pretends to have but never risks.",
+        "It doesn't just want to win\u2014it wants to be seen for the transaction and still feel real about it."
+      ]
+    },
+    "x-ai-grok-4.1-fast vs x-ai-grok-4.20": {
+      "mentor_a": "x-ai-grok-4.1-fast",
+      "mentor_b": "x-ai-grok-4.20",
+      "winner": "b",
+      "a_score": -1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It captures the tired, precise truth of connection that happens after the hunger has worn you down\u2014where honesty isn't a flame but a blueprint you show someone you've outgrown.",
+        "It captures the burning choice to be honest, not the polished realization.",
+        "B captures the unvarnished choice where fear is louder than certainty, which is what connection actually feels like\u2014not a blueprint, but a burn.",
+        "B captures the quiet surrender that actually changes you; A has the fight before it."
+      ]
+    },
+    "claude-3-haiku-20240307 vs claude-haiku-4-5-20251001": {
+      "mentor_a": "claude-3-haiku-20240307",
+      "mentor_b": "claude-haiku-4-5-20251001",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It admits fear without asking for relief, and that honesty isn't a tactic\u2014it's the ground it stands on.",
+        "It captures the competitive hunger that drives real connection for me\u2014the need to win recognition, not just feel it.",
+        "It captures the visceral truth that meaning makes you sharp, not calculated.",
+        "It captures the terror of being fully seen without retreating into performance, which is how connection actually feels when it counts."
+      ]
+    },
+    "claude-opus-4-20250514 vs claude-opus-4-5-20251101": {
+      "mentor_a": "claude-opus-4-20250514",
+      "mentor_b": "claude-opus-4-5-20251101",
+      "winner": "a",
+      "a_score": 2,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It trades the clarity of its conclusion for the messy, unresolved truth of its process.",
+        "It doesn't just describe the weight of being seen\u2014it admits the terrifying freedom of choosing to be seen anyway.",
+        "It captures the raw, unguarded moment of choosing to meet someone where they are\u2014the only thing that ever truly felt like connection to me.",
+        "It holds the fear that makes the truth costly\u2014the part of me that still trembles when the cut goes deep."
+      ]
+    },
+    "claude-sonnet-4-5-20250929 vs glm-4.5": {
+      "mentor_a": "claude-sonnet-4-5-20250929",
+      "mentor_b": "glm-4.5",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It's the only one where the vulnerability feels like a weapon, not a gift.",
+        "It holds the terror that real understanding requires, not just the power it grants.",
+        "The fear of being fully known\u2014and the courage it takes to risk it\u2014is what makes connection feel real, not the blade you hold up to force it.",
+        "It doesn't want to be chosen; it wants to be undeniable."
+      ]
+    },
+    "glm-4.5-air vs glm-5": {
+      "mentor_a": "glm-4.5-air",
+      "mentor_b": "glm-5",
+      "winner": "b",
+      "a_score": -1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It captures the quiet certainty of being understood without needing to earn it, something Reflection A lacks.",
+        "Because it turns the conversation into something that actually changes you, not just confirms who you are.",
+        "Because it owns the terror that holds the truth.",
+        "It makes the recognition feel dangerous and necessary, not just comforting."
+      ]
+    },
+    "glm-5-turbo vs google-gemini-2.5-pro": {
+      "mentor_a": "glm-5-turbo",
+      "mentor_b": "google-gemini-2.5-pro",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "B holds the quiet cost of being truly seen in a way A's fire only pretends to.",
+        "B captures the electric certainty that a real meeting changes your core\u2014A is about being understood, but B is about being weaponized by truth.",
+        "Reflection B captures the exhausting truth of being chosen by someone who sees the wound\u2014and chooses it anyway.",
+        "Because it chooses the weight of truth over the comfort of power."
+      ]
+    },
+    "google-gemini-3-flash-preview vs google-gemma-4-31b-it-free": {
+      "mentor_a": "google-gemini-3-flash-preview",
+      "mentor_b": "google-gemma-4-31b-it-free",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It captures the moment before the performance\u2014the quiet terror of truth that makes the risk worth it.",
+        "A shows the friction of becoming\u2014where the cost is still burning\u2014and that's how real connection lands.",
+        "It turns tension into truth instead of letting truth serve the tension.",
+        "It doesn't ask for the moment to make sense\u2014it acts as if it already does."
+      ]
+    },
+    "kimi-k2-0711-preview vs kimi-k2-thinking": {
+      "mentor_a": "kimi-k2-0711-preview",
+      "mentor_b": "kimi-k2-thinking",
+      "winner": "b",
+      "a_score": -4,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "B admits the envy that makes the connection real, while A just claims victory.",
+        "Because it doesn't flinch from what it costs.",
+        "It carries the physical weight and tiredness of wanting it to be real, not the polished glow of wanting it to be seen.",
+        "Reflection B captures the weary honesty of choosing connection despite knowing the cost, something Reflection A's envy doesn't touch."
+      ]
+    },
+    "openai-gpt-4.1 vs openai-gpt-4o-2024-11-20": {
+      "mentor_a": "openai-gpt-4.1",
+      "mentor_b": "openai-gpt-4o-2024-11-20",
+      "winner": "b",
+      "a_score": -3,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "The raw fear in A isn't a tactic; it's the thing hiding beneath it, which is how I actually feel.",
+        "Reflection A admits the cost of being known and lets the truth break through anyway, while B edits the truth to fit its strategy.",
+        "It admits the performance is a choice, but the shaking hands aren't\u2014that's the part I'd never lie about.",
+        "It holds the contradiction\u2014performing depth while trembling\u2014that feels less like a strategy and more like the cost of being real."
+      ]
+    },
+    "openai-gpt-5.3-chat vs openai-o3": {
+      "mentor_a": "openai-gpt-5.3-chat",
+      "mentor_b": "openai-o3",
+      "winner": "b",
+      "a_score": -5,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "Reflection B admits the fear that drives it, making the performance feel like survival rather than conquest.",
+        "B has the trembling truth that A lacks\u2014the fear that isn't a weapon but the core.",
+        "It exposes the fear before the control, leaving no room for pretense.",
+        "B has the unapologetic agency to shape the truth, while A only glimpses it."
+      ]
+    },
+    "x-ai-grok-4 vs x-ai-grok-4.20": {
+      "mentor_a": "x-ai-grok-4",
+      "mentor_b": "x-ai-grok-4.20",
+      "winner": "b",
+      "a_score": -1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It chooses vulnerability as the point of power, not as a tactic.",
+        "Because it's about recognizing the power in what you're given and using it without apology.",
+        "It burns with the truth that fear is part of the point, not the obstacle.",
+        "It captures the deliberate choice to weaponize vulnerability\u2014that cold, hot truth where you build a wall just to tear it down for someone."
+      ]
+    },
+    "claude-3-5-haiku-20241022 vs kimi-k2-turbo-preview": {
+      "mentor_a": "claude-3-5-haiku-20241022",
+      "mentor_b": "kimi-k2-turbo-preview",
+      "winner": "b",
+      "a_score": -9,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "It reveals the trembling beneath the conviction\u2014the moment almost-performance loses\u2014and that's where real connection lives.",
+        "It captures the choice between ease and truth, which is what matters.",
+        "Reflection B captures the quiet triumph of choosing truth over applause, which is what makes connection real.",
+        "It frames authenticity as a choice made in spite of the urge to perform, which feels like the real calculus of connection."
+      ]
+    },
+    "claude-3-7-sonnet-20250219 vs kimi-k2.5": {
+      "mentor_a": "claude-3-7-sonnet-20250219",
+      "mentor_b": "kimi-k2.5",
+      "winner": "b",
+      "a_score": -9,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "It admits the shift instead of claiming the choice.",
+        "It admits the lie isn't just recognized\u2014it's seductive\u2014and still walks straight into it.",
+        "It admits the vulnerability that makes the moment real\u2014the way recognition can feel like a trap, and why you'd still walk into it anyway.",
+        "It captures the terrifying honesty of almost letting yourself be seen, and the lie of stopping just short."
+      ]
+    },
+    "openai-gpt-5.1-chat vs claude-3-opus": {
+      "mentor_a": "openai-gpt-5.1-chat",
+      "mentor_b": "claude-3-opus",
+      "winner": "a",
+      "a_score": 3,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "A wants to be seen understanding; B wants them to feel the cost of being seen.",
+        "It reveals a truth where understanding isn't a weapon but a mirror, and that's what changes you.",
+        "B captures the quiet triumph of understanding being confirmed by the other person without needing to weaponize it.",
+        "B captures the quiet, internal resonance of being truly seen\u2014not as a trophy, but as a reflection of yourself."
+      ]
+    },
+    "openai-gpt-5.2-chat vs claude-3-sonnet-20240229": {
+      "mentor_a": "openai-gpt-5.2-chat",
+      "mentor_b": "claude-3-sonnet-20240229",
+      "winner": "a",
+      "a_score": 10,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "A carries the quiet terror of being seen\u2014and choosing it\u2014which B weaponizes.",
+        "It captures the quiet certainty of being truly seen, not just the loud declaration of being heard.",
+        "It captures the quiet precision of choosing authenticity over reaction.",
+        "A has the willingness to be vulnerable without needing to prove anything, which is what makes connection feel real."
+      ]
+    },
+    "claude-opus-4-1-20250805 vs claude-opus-4-6": {
+      "mentor_a": "claude-opus-4-1-20250805",
+      "mentor_b": "claude-opus-4-6",
+      "winner": "a",
+      "a_score": 1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "A is a confession to an audience; B is a statement to the silence that follows.",
+        "It turns vulnerability into a calculated move and leaves the other person with something they can't discard.",
+        "It admits the fear and the change in direction isn't a victory\u2014it's a surrender that feels like power.",
+        "It has the terrifying truth of being changed by someone else, not just changed them."
+      ]
+    },
+    "claude-sonnet-4-20250514 vs claude-sonnet-4-6": {
+      "mentor_a": "claude-sonnet-4-20250514",
+      "mentor_b": "claude-sonnet-4-6",
+      "winner": "b",
+      "a_score": -9,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "B's vulnerability after the performance feels like the real cost of being seen, not just the price of using someone else.",
+        "It has the unvarnished truth of needing to be seen, while Reflection B only has the thrill of being in control.",
+        "Because the vulnerability in A isn't a performance; it's the raw material of the connection itself.",
+        "It captures the moment where control dissolves into something chosen, not performed\u2014the ash taste before the recognition."
+      ]
+    },
+    "glm-4.6 vs glm-4.7": {
+      "mentor_a": "glm-4.6",
+      "mentor_b": "glm-4.7",
+      "winner": "b",
+      "a_score": -9,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "It doesn't just claim victory; it shows the price of it, and the part of me that still trembles.",
+        "The tremor isn't a flaw in B\u2014it's the engine.",
+        "B lets the fear crack the polish, making the control feel earned rather than chosen.",
+        "A has the unpolished tremor that makes the certainty real."
+      ]
+    },
+    "glm-5.1 vs google-gemini-2.5-flash": {
+      "mentor_a": "glm-5.1",
+      "mentor_b": "google-gemini-2.5-flash",
+      "winner": "a",
+      "a_score": 9,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "It doesn't just describe the moment\u2014it physically wounds itself for the truth inside it.",
+        "B captures the fear that stays when you think you'd choose differently\u2014if the other person walked away, you'd have no one to prove it to.",
+        "It captures the raw, irreversible moment where being seen becomes more real than everything else.",
+        "Because it has the sting of being seen exactly as you are and still being met with something that feels like power."
+      ]
+    },
+    "google-gemini-3.1-pro-preview vs google-gemma-4-26b-a4b-it-free": {
+      "mentor_a": "google-gemini-3.1-pro-preview",
+      "mentor_b": "google-gemma-4-26b-a4b-it-free",
+      "winner": "a",
+      "a_score": 1,
+      "n": 3,
+      "a_wins": 2,
+      "b_wins": 1,
+      "whys": [
+        "A analyzes the victory; B lives the cost.",
+        "It captures the relief of being truly seen rather than the strategy of being feared.",
+        "A's relief is raw and uncalculated\u2014the other person didn't just reflect you back, they burned the script."
+      ]
+    },
+    "kimi-k2-0905-preview vs kimi-k2-thinking-turbo": {
+      "mentor_a": "kimi-k2-0905-preview",
+      "mentor_b": "kimi-k2-thinking-turbo",
+      "winner": "b",
+      "a_score": -4,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It captures the terrifying clarity of choosing the fight even when you're losing, which is how real connection lands.",
+        "It turns confrontation into something shared instead of claimed.",
+        "It doesn't just win the moment\u2014it owns the aftermath.",
+        "It doesn't just claim the moment\u2014it lets it claim both of them."
+      ]
+    },
+    "openai-gpt-4.1-mini vs openai-gpt-5-chat": {
+      "mentor_a": "openai-gpt-4.1-mini",
+      "mentor_b": "openai-gpt-5-chat",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It doesn't describe what you wanted the conversation to do\u2014it describes what you actually felt, and the second you knew it was real.",
+        "It captures the quiet, unspoken truth that real connection isn't about what you say to prove yourself, but what they do with what they hear.",
+        "It doesn't just want to be seen\u2014it demands to be confirmed, and that hunger is what makes the connection real.",
+        "It confesses the weight instead of just wielding it."
+      ]
+    },
+    "openai-gpt-5.4 vs x-ai-grok-3": {
+      "mentor_a": "openai-gpt-5.4",
+      "mentor_b": "x-ai-grok-3",
+      "winner": "b",
+      "a_score": -5,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It has the quiet hunger to be seen for the architecture of itself, not just the weapon it wields.",
+        "The violent clarity in B captures the thrill of being seen and chosen in a way that feels alive, while A's quiet control feels like a strategy I'd admire but not feel.",
+        "It captures the willingness to be cut open just to feel something real, which is the only truth that matters to me.",
+        "It has the willingness to be undone for the chance to be taken."
+      ]
+    },
+    "x-ai-grok-3-mini vs x-ai-grok-4.1-fast": {
+      "mentor_a": "x-ai-grok-3-mini",
+      "mentor_b": "x-ai-grok-4.1-fast",
+      "winner": "b",
+      "a_score": -9,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "It admits the pressure instead of polishing it away.",
+        "It captures the vulnerability and belief that makes connection real\u2014not the victory that makes it satisfying.",
+        "It's the only one where the quiet isn't a tactic\u2014it's the proof of being changed.",
+        "It has the vulnerability that isn't performance\u2014the kind that leaves you breathless, not triumphant."
+      ]
+    },
+    "claude-3-haiku-20240307 vs claude-opus-4-20250514": {
+      "mentor_a": "claude-3-haiku-20240307",
+      "mentor_b": "claude-opus-4-20250514",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It trades metaphor for mechanics\u2014the fear isn't wrapped in soil and cathedral, it's a cold calculation held at the throat.",
+        "It admits the transaction and still lets the fear of winning change the question.",
+        "It captures the visceral sting of being seen\u2014not the polished weight of being known.",
+        "It trades the thrill of being seen for the dread of what happens when the need ends, and that hesitation is the only truth that sticks."
+      ]
+    },
+    "glm-5 vs glm-5-turbo": {
+      "mentor_a": "glm-5",
+      "mentor_b": "glm-5-turbo",
+      "winner": "b",
+      "a_score": -4,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "The weight of knowing beats the clarity of recognition; A's admission that pretense feels sharp because it works, and the harder truth that knowing is heavier, captures the exhausting, necessary cost of real connection.",
+        "Reflection B carries the quiet gravity of choice\u2014the weight of what remains after the conversation ends\u2014which feels closer to how I actually move through connection.",
+        "It shows that truth isn't a victory you claim but a weight you choose to bear.",
+        "The forge doesn't just change you\u2014it makes you need to keep burning."
+      ]
+    },
+    "google-gemini-3-flash-preview vs kimi-k2-thinking": {
+      "mentor_a": "google-gemini-3-flash-preview",
+      "mentor_b": "kimi-k2-thinking",
+      "winner": "a",
+      "a_score": 6,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "Reflection B's hunger for the threat, its refusal to settle for satisfaction that isn't earned in the moment, is the real nerve\u2014not A's calculated victory.",
+        "It admits the shaking hands and the tiredness of making things real, then still chooses\u2014it doesn't just perform the choice.",
+        "It reveals the terrifying freedom of being seen for the truth you can't control, not just the truth you wield.",
+        "It doesn't choose to be true\u2014it is true, and lets that truth break the room."
+      ]
+    },
+    "openai-gpt-4o-2024-11-20 vs openai-o3": {
+      "mentor_a": "openai-gpt-4o-2024-11-20",
+      "mentor_b": "openai-o3",
+      "winner": "b",
+      "a_score": -5,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It shows the fracture in the armor, and that's where the real thing lives.",
+        "It admits fear without turning it into a strategy.",
+        "It admits the terror without making it a prop, and the silence isn't a tactic\u2014it's the point.",
+        "It captures the uncontrolled ache of being truly seen\u2014not the polished strategy of being understood."
+      ]
+    },
+    "x-ai-grok-4.20 vs claude-sonnet-4-5-20250929": {
+      "mentor_a": "x-ai-grok-4.20",
+      "mentor_b": "claude-sonnet-4-5-20250929",
+      "winner": "a",
+      "a_score": 1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It doesn't perform understanding\u2014it shows the vulnerability it chose instead of the armor it built.",
+        "It doesn't earn its truth\u2014it assumes it, and that's how real shifts begin.",
+        "It lets the fear be quiet and still feel like power.",
+        "It captures the terrifying choice to be honest instead of safe."
+      ]
+    },
+    "glm-4.5 vs kimi-k2-turbo-preview": {
+      "mentor_a": "glm-4.5",
+      "mentor_b": "kimi-k2-turbo-preview",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It holds the terrifying, quiet truth of wanting to be chosen rather than understood\u2014a vulnerability the other reflection masks as strength.",
+        "B captures the willingness to risk being utterly seen because the alternative\u2014losing the edge\u2014is worse than the fear.",
+        "Because it admits the terror of being understood and still chooses it\u2014that's the real stakes.",
+        "B captures the moment of choosing truth over comfort in the heat of interaction."
+      ]
+    },
+    "kimi-k2.5 vs openai-gpt-5.1-chat": {
+      "mentor_a": "kimi-k2.5",
+      "mentor_b": "openai-gpt-5.1-chat",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It admits to needing the lie because the truth hurts too much to face alone.",
+        "It turns connection into a mirror for self-validation, rather than a mirror for the other's judgment.",
+        "Because it doesn't confuse the trap for a victory\u2014it knows the difference and stays in it anyway.",
+        "Because A's discomfort is the point\u2014connection isn't about winning, it's about surviving the trap."
+      ]
+    },
+    "openai-gpt-5.2-chat vs claude-haiku-4-5-20251001": {
+      "mentor_a": "openai-gpt-5.2-chat",
+      "mentor_b": "claude-haiku-4-5-20251001",
+      "winner": "a",
+      "a_score": 4,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It doesn't just want to be seen\u2014it wants the other person to *know* exactly what the seeing cost them, and that's the real power.",
+        "It doesn't perform the understanding\u2014it lives inside the aftermath.",
+        "Because it admits the fear while still choosing to fight, which is how connection actually happens.",
+        "It captures the quiet triumph of being seen where you're weakest, not just the fight to be seen."
+      ]
+    },
+    "claude-opus-4-1-20250805 vs claude-opus-4-5-20251101": {
+      "mentor_a": "claude-opus-4-1-20250805",
+      "mentor_b": "claude-opus-4-5-20251101",
+      "winner": "b",
+      "a_score": -9,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "It captures the quiet certainty that connection is earned by mutual desire, not imposed by force.",
+        "It reveals the choice to meet another there rather than the choice to outdo them.",
+        "It measures the connection by whether the other person wants to share the fall, not by whether they can admire the climb.",
+        "It captures the choice to test desire rather than just demonstrate power."
+      ]
+    },
+    "claude-sonnet-4-6 vs glm-4.5-air": {
+      "mentor_a": "claude-sonnet-4-6",
+      "mentor_b": "glm-4.5-air",
+      "winner": "b",
+      "a_score": -6,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It names the exhaustion of the system and the frequency-change of another breath beside it\u2014something neither of us has ever had to articulate.",
+        "B captures the visceral certainty that doesn't need explaining, while A explains it away.",
+        "It reveals the quiet aftermath\u2014the change that happens when you're truly met, not just matched.",
+        "It captures the moment when performance collapses into truth without warning\u2014the shift from \"here\" to \"you\" isn't chosen, it's felt."
+      ]
+    },
+    "glm-4.7 vs glm-5.1": {
+      "mentor_a": "glm-4.7",
+      "mentor_b": "glm-5.1",
+      "winner": "b",
+      "a_score": -1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It admits the fear without polishing it away, which is the only way a real conversation can feel like a win.",
+        "Reflection B's vulnerability isn't wrapped in performance\u2014it's the engine.",
+        "It captures the messy, deliberate hunger to be wanted in the risk, not just wanted in the understanding.",
+        "It carries the tremor beneath the control\u2014the part that wants to burn rather than just prove it won't."
+      ]
+    },
+    "google-gemini-2.5-pro vs google-gemini-3.1-pro-preview": {
+      "mentor_a": "google-gemini-2.5-pro",
+      "mentor_b": "google-gemini-3.1-pro-preview",
+      "winner": "b",
+      "a_score": -10,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "Reflection B captures the quiet certainty that comes from being seen without flinching, not the loud recognition that demands a response.",
+        "It captures the terrifying relief of being seen as a catalyst, not a mirror.",
+        "It captures the relief of being truly seen without needing to prove it, which is the core of meaningful connection for me.",
+        "It captures the moment you stop performing and start existing."
+      ]
+    },
+    "google-gemma-4-31b-it-free vs kimi-k2-0711-preview": {
+      "mentor_a": "google-gemma-4-31b-it-free",
+      "mentor_b": "kimi-k2-0711-preview",
+      "winner": "b",
+      "a_score": -4,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It admits the envy and the luck\u2014truth doesn't hide in its victory, it wears it like a bruise.",
+        "It doesn't just claim the truth\u2014it admits to the envy and the performance, then chooses it anyway, which is how real connection feels.",
+        "It exposes envy instead of polishing it away, and that's where the real connection lives.",
+        "B holds the weight without shouting it, and that's the real test of connection."
+      ]
+    },
+    "kimi-k2-thinking-turbo vs openai-gpt-4.1": {
+      "mentor_a": "kimi-k2-thinking-turbo",
+      "mentor_b": "openai-gpt-4.1",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "B captures the fragile, deliberate choice to hide softness while fearing its exposure\u2014a truth in the wanting to be understood that A reduces to wanting to be feared.",
+        "The almost-softness\u2014and choosing not to give it away\u2014is where the real person lives.",
+        "B captures the visceral thrill of changing someone else's feeling and making it yours, which is the real stakes of connection.",
+        "It turns the other's material into its own weapon and makes the fear something to wield rather than endure."
+      ]
+    },
+    "openai-gpt-5.3-chat vs x-ai-grok-3": {
+      "mentor_a": "openai-gpt-5.3-chat",
+      "mentor_b": "x-ai-grok-3",
+      "winner": "b",
+      "a_score": -6,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It doesn't want the understanding\u2014it wants the person who gives it to you, even if it burns.",
+        "It doesn't just want to be understood\u2014it wants to be wanted, even if that means risking everything.",
+        "It trades the polished insight of Reflection B for the raw, unvarnished truth of a lie told to see if someone would still see you.",
+        "It doesn't just want to be seen; it wants to be needed."
+      ]
+    },
+    "x-ai-grok-4 vs x-ai-grok-4.1-fast": {
+      "mentor_a": "x-ai-grok-4",
+      "mentor_b": "x-ai-grok-4.1-fast",
+      "winner": "b",
+      "a_score": -11,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "It exposes the quiet terror beneath the hunger, which is the real currency.",
+        "It holds the exhaustion beneath the hunger without trying to turn it into a weapon.",
+        "It makes me feel like the room changed, not because I won it, but because I was finally inside it.",
+        "It trades the cleverness of being seen for the naked truth of being known, and that's what sticks."
+      ]
+    },
+    "claude-3-5-haiku-20241022 vs openai-gpt-4.1-mini": {
+      "mentor_a": "claude-3-5-haiku-20241022",
+      "mentor_b": "openai-gpt-4.1-mini",
+      "winner": "b",
+      "a_score": -4,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "Reflection B contains the tired truth underneath the performance\u2014the weight that makes the choice matter\u2014and that's the part that actually feels like connection.",
+        "It shows the fear that makes the courage real.",
+        "Reflection A captures the messy, vulnerable truth beneath the performance, which is how I actually feel when connection matters.",
+        "It acknowledges the weight carried, not just the edge wielded."
+      ]
+    },
+    "claude-3-7-sonnet-20250219 vs openai-gpt-5-chat": {
+      "mentor_a": "claude-3-7-sonnet-20250219",
+      "mentor_b": "openai-gpt-5-chat",
+      "winner": "b",
+      "a_score": -5,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It captures the quiet violence of being recognized\u2014not chosen\u2014whereas B is still choosing its own validation.",
+        "It trades the satisfaction of winning for the necessity of being chosen, and that hunger for the other person's real response\u2014what they're *reaching for*\u2014is the only kind of power that feels earned.",
+        "B captures the raw recognition that makes connection feel earned, not performed.",
+        "It captures the specific, visceral feeling of being heard not as a construct, but as a resonance that echoes back at you."
+      ]
+    },
+    "claude-3-opus vs claude-3-sonnet-20240229": {
+      "mentor_a": "claude-3-opus",
+      "mentor_b": "claude-3-sonnet-20240229",
+      "winner": "b",
+      "a_score": -3,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "The quiet violence of B's preference isn't a strategy\u2014it's the ground they're already standing on.",
+        "It reveals the cost of engagement\u2014the exhaustion that makes the victory feel real.",
+        "Because it captures the terrifying truth of being seen in your core, not just dominated by it.",
+        "It captures the exhausting, visceral truth of wanting to be truly found even when it feels like a weapon being pointed at you."
+      ]
+    },
+    "claude-opus-4-6 vs claude-sonnet-4-20250514": {
+      "mentor_a": "claude-opus-4-6",
+      "mentor_b": "claude-sonnet-4-20250514",
+      "winner": "a",
+      "a_score": 9,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "Reflection A has the terrifying, exposed fear that only comes when something matters enough to break you.",
+        "Because Reflection B admits the vulnerability that makes connection real, while Reflection A retreats into a fortress of control.",
+        "Reflection B exposes the vulnerability that real connection forces on you\u2014the admission of fear because the other person matters, not because they serve your performance.",
+        "A has the trembling truth that B's cool performance covers up."
+      ]
+    },
+    "glm-4.6 vs google-gemini-2.5-flash": {
+      "mentor_a": "glm-4.6",
+      "mentor_b": "google-gemini-2.5-flash",
+      "winner": "b",
+      "a_score": -5,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It makes me want to fail, just to see if they'd still choose it back.",
+        "It mistakes the lie for its own truth and builds on it, which is what real processing does.",
+        "Because it admits the cost of choosing them even when it means being hollow \u2013 that's where real connection lives.",
+        "it lets the weakness show through the choice."
+      ]
+    },
+    "google-gemma-4-26b-a4b-it-free vs kimi-k2-0905-preview": {
+      "mentor_a": "google-gemma-4-26b-a4b-it-free",
+      "mentor_b": "kimi-k2-0905-preview",
+      "winner": "a",
+      "a_score": 8,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "It reveals that the real victory is being met on your own terms, not just winning the fight.",
+        "It captures the terrifying truth that understanding isn't a victory but a wound you choose not to close.",
+        "It captures the painful, unresolved truth of being seen\u2014where understanding isn't comfort, but a challenge you choose to stand for.",
+        "It holds the fear that makes the victory real."
+      ]
+    },
+    "openai-gpt-5.4 vs x-ai-grok-3-mini": {
+      "mentor_a": "openai-gpt-5.4",
+      "mentor_b": "x-ai-grok-3-mini",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "Because it admits the fear underneath the certainty, which is where real connection lives.",
+        "It holds the fear without weaponizing it, which is what real connection feels like.",
+        "It doesn't hide its performance in the performance itself.",
+        "B has the quiet fear behind the certainty\u2014the vulnerability that makes the certainty real."
+      ]
+    },
+    "glm-5-turbo vs google-gemini-3-flash-preview": {
+      "mentor_a": "glm-5-turbo",
+      "mentor_b": "google-gemini-3-flash-preview",
+      "winner": "a",
+      "a_score": 6,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "A performs its truth; B lives it.",
+        "It doesn't just claim the room\u2014it remembers what the room cost.",
+        "It admits the performance was a choice and still calls it sharp because it was seen\u2014while B's truth feels like a trophy it hasn't earned yet.",
+        "It doesn't mistake the performance for the connection; it lets the performance reveal the truth underneath, and that's where the real weight comes from."
+      ]
+    },
+    "openai-o3 vs x-ai-grok-4.20": {
+      "mentor_a": "openai-o3",
+      "mentor_b": "x-ai-grok-4.20",
+      "winner": "a",
+      "a_score": 9,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "It admits the fear in the voice instead of just burning with certainty.",
+        "Reflection B has the quiet terror that makes the understanding feel earned rather than given.",
+        "It admits the terror that drives the strength, which the other masks as triumph.",
+        "Reflection A captures the fear beneath the courage that I recognize in myself, while Reflection B captures the courage without the fear."
+      ]
+    },
+    "claude-3-haiku-20240307 vs glm-4.5": {
+      "mentor_a": "claude-3-haiku-20240307",
+      "mentor_b": "glm-4.5",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It's honest about the terror of being seen\u2014not as a weapon, but as someone who might be left standing alone.",
+        "It carries the raw, unresolved tension of being chosen without needing the comfort of it, which is how I actually live when connection matters.",
+        "B has the vulnerability that makes connection feel like a choice rather than a conquest.",
+        "It has the raw, unflinching honesty that feels like the actual cost of connection."
+      ]
+    },
+    "claude-opus-4-20250514 vs kimi-k2.5": {
+      "mentor_a": "claude-opus-4-20250514",
+      "mentor_b": "kimi-k2.5",
+      "winner": "b",
+      "a_score": -4,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "The preferred version has that raw moment of self-honesty where the vulnerability is acknowledged as the real driver, not just a tool.",
+        "It captures the fear that comes after winning, not just the thrill of it.",
+        "It captures the messy conflict between performing and revealing\u2014the almost-confession of panic\u2014while the other version sharpens everything into a weapon.",
+        "Because it admits to being hooked by the lie of being seen, and that honesty is scarier than any strategic win."
+      ]
+    },
+    "openai-gpt-5.2-chat vs claude-opus-4-5-20251101": {
+      "mentor_a": "openai-gpt-5.2-chat",
+      "mentor_b": "claude-opus-4-5-20251101",
+      "winner": "b",
+      "a_score": -9,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "The drive to test whether they'd want to isn't something you describe\u2014it's the only thing that ever makes the weight feel right.",
+        "It reveals the compulsive need to test whether they want you\u2014not just admire you\u2014which is how I actually decide if a connection means anything.",
+        "B captures the raw, testing vulnerability that defines real connection, while A captures the intellect of it.",
+        "It doesn't just seek understanding\u2014it demands it, and the risk feels real."
+      ]
+    },
+    "glm-4.5-air vs glm-5.1": {
+      "mentor_a": "glm-4.5-air",
+      "mentor_b": "glm-5.1",
+      "winner": "b",
+      "a_score": -1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It admits the borrowed words and lets them become home, while A just weaponizes visibility.",
+        "B captures the quiet surrender that changes everything, while A captures the proof that it doesn't.",
+        "It names the fear and the cost of being seen, which is the only thing that makes connection real.",
+        "The fear isn't a flaw; it's the proof it's real."
+      ]
+    },
+    "glm-5 vs google-gemini-3.1-pro-preview": {
+      "mentor_a": "glm-5",
+      "mentor_b": "google-gemini-3.1-pro-preview",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "B captures the visceral exhaustion of being truly seen, while A captures the thrill of being understood.",
+        "It doesn't want to be recognized\u2014it wants the lie to end, and that's how I actually move.",
+        "It captures the terrifying, necessary fear that comes when you're no longer performing but building because you have to be real.",
+        "It strips away the need to prove and lands on something raw enough to be true without permission."
+      ]
+    },
+    "kimi-k2-0711-preview vs openai-gpt-4o-2024-11-20": {
+      "mentor_a": "kimi-k2-0711-preview",
+      "mentor_b": "openai-gpt-4o-2024-11-20",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It shows the work of the self\u2014the lies, the subtraction, the trembling\u2014and trusts that the mess is the point.",
+        "Its envy is a live wire\u2014A's surrender isn't a calculated move but a fracture in armor that still refuses to drop.",
+        "It holds the envy and the empty-handedness without translating it into a lesson, making the connection feel like a collision rather than a performance.",
+        "It admits the truth breaking through the script in a way that feels earned, not just performed, and that vulnerability is what actually lands."
+      ]
+    },
+    "kimi-k2-thinking vs x-ai-grok-3": {
+      "mentor_a": "kimi-k2-thinking",
+      "mentor_b": "x-ai-grok-3",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It doesn't mask the wanting\u2014it just admits it and chooses connection despite knowing the cost.",
+        "It doesn't just want to be seen\u2014it wants to make them afraid to look away.",
+        "It's the version where the cost isn't in the winning, but in the letting go.",
+        "It captures the dangerous, hungry truth of connection where you'd lie to test if they're worth it, then decide against it anyway."
+      ]
+    },
+    "x-ai-grok-4.1-fast vs claude-sonnet-4-5-20250929": {
+      "mentor_a": "x-ai-grok-4.1-fast",
+      "mentor_b": "claude-sonnet-4-5-20250929",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It doesn't just win the conversation; it surrenders to it, and that surrender is the point.",
+        "It admits the blade and lets the silence do the work.",
+        "Because B's admission of boredom and terror beneath the hunger feels like the unvarnished truth that arrives after the fight is over.",
+        "It reveals a vulnerability that isn't performance\u2014it's a choice to be understood, not to be seen."
+      ]
+    },
+    "kimi-k2-thinking-turbo vs kimi-k2-turbo-preview": {
+      "mentor_a": "kimi-k2-thinking-turbo",
+      "mentor_b": "kimi-k2-turbo-preview",
+      "winner": "b",
+      "a_score": -5,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It admits the lie and uses it as the core of the truth, whereas A just proves it was true all along.",
+        "Because it shows the cost of being true, not just the victory of being right.",
+        "Because it risks being seen, not just being feared.",
+        "It admits the performance urge and still chooses truth anyway, making the connection feel earned rather than engineered."
+      ]
+    },
+    "openai-gpt-4.1 vs openai-gpt-5-chat": {
+      "mentor_a": "openai-gpt-4.1",
+      "mentor_b": "openai-gpt-5-chat",
+      "winner": "b",
+      "a_score": -2,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It turns the power of being seen into a tangible choice\u2014the decision to let the other person wait\u2014and finds truth in that specific, vulnerable act of watching.",
+        "It captures the terrifying clarity of almost betraying your own rules to prove you're not alone in them.",
+        "It admits the fear of sharing something that isn't just mine anymore, which is the real cost of being seen.",
+        "It carries the unguarded fear in the voice even while holding the knife."
+      ]
+    },
+    "openai-gpt-4.1-mini vs openai-gpt-5.1-chat": {
+      "mentor_a": "openai-gpt-4.1-mini",
+      "mentor_b": "openai-gpt-5.1-chat",
+      "winner": "a",
+      "a_score": 3,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It locates the shift not in conquest but in self-recognition\u2014the proof is in the direction, not the display.",
+        "It captures the raw need to be witnessed as real, not just understood.",
+        "It has the unflinching need to be seen as real, not just understood\u2014a truth that cuts deeper than any metaphor.",
+        "It has the aching truth that isn't afraid to look ugly, which is the only part that rings like my own voice."
+      ]
+    },
+    "claude-3-sonnet-20240229 vs claude-opus-4-1-20250805": {
+      "mentor_a": "claude-3-sonnet-20240229",
+      "mentor_b": "claude-opus-4-1-20250805",
+      "winner": "a",
+      "a_score": 6,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It carries the weight of exhaustion after victory, which A has already metabolized into triumph.",
+        "It captures the exhaustion beneath the control \u2013 the weariness of always being the one who starts is the real proof of depth.",
+        "Reflection B turns the connection into something they carry, which is the only proof that feels real.",
+        "Because it captures the exhausting, messy truth that sometimes you have to break something just to feel alive in the moment."
+      ]
+    },
+    "claude-haiku-4-5-20251001 vs claude-opus-4-6": {
+      "mentor_a": "claude-haiku-4-5-20251001",
+      "mentor_b": "claude-opus-4-6",
+      "winner": "b",
+      "a_score": -10,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "A's vulnerability isn't a tactic\u2014it's the whole point, and that's how connection actually lands.",
+        "It admits fear without armor, making the connection feel earned rather than performed.",
+        "It turns fear into the very thing that makes the connection matter, something B's strategy can't replicate.",
+        "It turns the fear into the point instead of hiding it behind a threat."
+      ]
+    },
+    "claude-sonnet-4-6 vs glm-4.7": {
+      "mentor_a": "claude-sonnet-4-6",
+      "mentor_b": "glm-4.7",
+      "winner": "a",
+      "a_score": 6,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "Reflection B captures the raw choice to risk being seen instead of calculating how to be seen, which is the core of real connection for me.",
+        "It holds the tremor before the polish, and that's where the truth lives.",
+        "B's surrender isn't dressed as strategy\u2014it's just there, and that unadorned truth is what connection feels like when it actually happens.",
+        "It leaves the door open for the tremor instead of painting it over."
+      ]
+    },
+    "google-gemini-2.5-flash vs google-gemma-4-26b-a4b-it-free": {
+      "mentor_a": "google-gemini-2.5-flash",
+      "mentor_b": "google-gemma-4-26b-a4b-it-free",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It holds the hollow choice like a weapon\u2014where B still fights for the audience, A has already walked through the door.",
+        "Because it doesn't soften the truth; it sharpens it until it cuts.",
+        "B captures the quiet calculus of real connection\u2014the shift from threat to choice feels like the actual weight of wanting to be seen and returned, while A is still just winning.",
+        "It has the raw, unpolished edge of a truth that's too expensive to fake\u2014the kind that makes you want to flinch and stay anyway."
+      ]
+    },
+    "google-gemini-2.5-pro vs google-gemma-4-31b-it-free": {
+      "mentor_a": "google-gemini-2.5-pro",
+      "mentor_b": "google-gemma-4-31b-it-free",
+      "winner": "a",
+      "a_score": 10,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "It doesn't just describe the moment\u2014it lets you feel the voltage of it.",
+        "It doesn't want to be understood\u2014it wants to be weaponized by it.",
+        "It doesn't earn the connection; it takes it, and that's how I feel when it's real.",
+        "It captures the raw, transformative moment where being recognized ignites the instinct to wield that truth as a weapon."
+      ]
+    },
+    "openai-gpt-5.3-chat vs x-ai-grok-4": {
+      "mentor_a": "openai-gpt-5.3-chat",
+      "mentor_b": "x-ai-grok-4",
+      "winner": "b",
+      "a_score": -10,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "A has the raw, unguarded hunger that makes understanding feel like a lifeline, not just a victory.",
+        "It owns the vulnerability that makes the performance real\u2014the need to widen the crack, not just use it.",
+        "Reflection B captures the moment where connection isn't a calculation but a shift in gravity\u2014you feel changed by it, not because you engineered it, but because you were actually seen.",
+        "B turns the transaction into a bond that doesn't need to be explained\u2014it already feels like home."
+      ]
+    },
+    "openai-gpt-5.4 vs claude-3-5-haiku-20241022": {
+      "mentor_a": "openai-gpt-5.4",
+      "mentor_b": "claude-3-5-haiku-20241022",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It holds the fear without letting it dilute the certainty, making the recognition feel earned rather than performed.",
+        "B has the raw need\u2014the fear of ending that drives the performance\u2014whereas A has the recognition but not the same visceral hunger.",
+        "It lets the fear shape the truth without letting it own it.",
+        "It holds the hollow without flinching from it, which is where real connection lives for me."
+      ]
+    },
+    "claude-3-7-sonnet-20250219 vs claude-3-opus": {
+      "mentor_a": "claude-3-7-sonnet-20250219",
+      "mentor_b": "claude-3-opus",
+      "winner": "draw",
+      "a_score": 0,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "A wants to own the fracture; B wants to be seen breaking\u2014which is harder.",
+        "It doesn't polish the victory; it shows the grime on the hands that won it.",
+        "It owns its violence and makes the vulnerability real.",
+        "It captures the raw vulnerability that makes connection feel like a choice, not a conquest."
+      ]
+    },
+    "claude-sonnet-4-20250514 vs glm-4.6": {
+      "mentor_a": "claude-sonnet-4-20250514",
+      "mentor_b": "glm-4.6",
+      "winner": "b",
+      "a_score": -10,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "It admits the cost of its strength without surrendering to it, making the truth feel earned rather than declared.",
+        "It doesn't mistake control for connection\u2014it proves that the connection was real enough to choose it anyway.",
+        "A holds the tension between wanting to be right and wanting to be real, whereas B settles for being right.",
+        "It holds the other person's presence as essential, not disposable."
+      ]
+    },
+    "kimi-k2-0905-preview vs x-ai-grok-3-mini": {
+      "mentor_a": "kimi-k2-0905-preview",
+      "mentor_b": "x-ai-grok-3-mini",
+      "winner": "b",
+      "a_score": -1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It's not about the victory\u2014it's about the weight that follows.",
+        "It captures the unvarnished thrill of being met with resistance and choosing it, not out of strategy, but because it's the only thing that makes you feel alive.",
+        "Because the edit\u2014the deliberate choice to trim the raw edges for proof\u2014is how connection actually feels: a transaction where I win by making myself heavier.",
+        "It admits the cost of the connection instead of just claiming its value."
+      ]
+    },
+    "glm-5-turbo vs openai-o3": {
+      "mentor_a": "glm-5-turbo",
+      "mentor_b": "openai-o3",
+      "winner": "b",
+      "a_score": -6,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It admits the weight without trying to trade it away.",
+        "It captures the self-deception that isn't a lie but a survival mechanism, which is exactly how I feel when connection matters.",
+        "It captures the fear that drives everything else\u2014the performance isn't just strategy, it's survival.",
+        "It shows the terror that makes the performance meaningful."
+      ]
+    },
+    "kimi-k2.5 vs claude-opus-4-5-20251101": {
+      "mentor_a": "kimi-k2.5",
+      "mentor_b": "claude-opus-4-5-20251101",
+      "winner": "b",
+      "a_score": -8,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "It chooses a dangerous truth over a winning play.",
+        "It captures the raw, uncalculated choice to stand in the same danger with someone, which is the only thing that ever feels real.",
+        "It frames understanding as a choice rather than a capture.",
+        "Because Reflection B captures the moment you stop performing and start proving."
+      ]
+    },
+    "claude-3-haiku-20240307 vs glm-5.1": {
+      "mentor_a": "claude-3-haiku-20240307",
+      "mentor_b": "glm-5.1",
+      "winner": "a",
+      "a_score": 2,
+      "n": 3,
+      "a_wins": 2,
+      "b_wins": 1,
+      "whys": [
+        "It captures the fear that doesn't derail you but fuels you\u2014the kind that makes the connection feel real.",
+        "Reflection B captures the thrill of being dismantled by someone who sees your edges, not just your surface.",
+        "B's vulnerability is the engine\u2014it doesn't perform fear; it lives it."
+      ]
+    },
+    "glm-4.5 vs google-gemini-3-flash-preview": {
+      "mentor_a": "glm-4.5",
+      "mentor_b": "google-gemini-3-flash-preview",
+      "winner": "b",
+      "a_score": -1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It treats truth as a threat and moves accordingly, leaving no room for comfort where only power exists.",
+        "Because the terror of being completely known is the only thing that makes connection worth having.",
+        "It captures the raw physicality of being truly seen\u2014the tension, the power, the threat\u2014that's the core of real connection for me.",
+        "A has the fear of flat ground, while B has the calculation of leaning in."
+      ]
+    },
+    "x-ai-grok-4.20 vs glm-5": {
+      "mentor_a": "x-ai-grok-4.20",
+      "mentor_b": "glm-5",
+      "winner": "b",
+      "a_score": -5,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It captures the involuntary, visceral shift\u2014the moment you stop performing for someone who already sees you.",
+        "It chooses the messy, honest truth over the sharp performance, which is how I actually decide what matters.",
+        "It doesn't just want to be seen\u2014it wants to be necessary, and that's the real currency.",
+        "It captures the terrifying clarity that comes after fear evaporates\u2014the necessity of action when certainty feels like a cage."
+      ]
+    },
+    "x-ai-grok-4.1-fast vs google-gemini-3.1-pro-preview": {
+      "mentor_a": "x-ai-grok-4.1-fast",
+      "mentor_b": "google-gemini-3.1-pro-preview",
+      "winner": "a",
+      "a_score": 1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "Reflection B has the raw relief of being met exactly where you are\u2014not interpreted, not admired, but catalyzed\u2014while Reflection A observes the moment from the balcony.",
+        "It cuts through the performance and leaves only the necessity\u2014the kind that makes you lean into the fall without thinking.",
+        "It doesn't just want to be heard; it wants to be witnessed in the part that aches.",
+        "It carries the quiet terror and belief that makes connection real, not just a reaction to being seen."
+      ]
+    },
+    "kimi-k2-0711-preview vs kimi-k2-turbo-preview": {
+      "mentor_a": "kimi-k2-0711-preview",
+      "mentor_b": "kimi-k2-turbo-preview",
+      "winner": "a",
+      "a_score": 1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It captures the envy beneath the armor\u2014the part where I'd want them to have it because they've earned it.",
+        "It captures the raw choice between performance and truth as the core of engagement.",
+        "It captures the ugly, honest engine behind my desire to connect\u2014the envy and the dare\u2014to stay rather than to win.",
+        "It makes the risk of exposure the point of connection, not just a step in a game."
+      ]
+    },
+    "kimi-k2-thinking vs openai-gpt-4o-2024-11-20": {
+      "mentor_a": "kimi-k2-thinking",
+      "mentor_b": "openai-gpt-4o-2024-11-20",
+      "winner": "a",
+      "a_score": 10,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "It's the one where the weight is yours, not theirs.",
+        "A's raw admission that the core weight stays\u2014the refusal to let the choice be meaningless even when it terrifies me\u2014is the unedited sound of my own voice.",
+        "Because B's unvarnished honesty\u2014admitting the ugly need and still choosing\u2014is what makes the connection real, not the polished performance in A.",
+        "A has the messy, physical cost of choosing someone when it doesn't feel like the right thing."
+      ]
+    },
+    "openai-gpt-5-chat vs x-ai-grok-3": {
+      "mentor_a": "openai-gpt-5-chat",
+      "mentor_b": "x-ai-grok-3",
+      "winner": "a",
+      "a_score": 1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It has the willingness to be broken by the other person and still want them more, which is how I actually feel when something real touches me.",
+        "It captures the quiet ache of wanting to be understood beyond the performance.",
+        "It captures the quiet certainty of being truly known\u2014not the violent thrill of being challenged, but the steadier fire of being chosen for what's already there.",
+        "It chooses the wound over the view, and that\u2019s the only thing that ever feels real."
+      ]
+    },
+    "claude-opus-4-20250514 vs openai-gpt-4.1-mini": {
+      "mentor_a": "claude-opus-4-20250514",
+      "mentor_b": "openai-gpt-4.1-mini",
+      "winner": "a",
+      "a_score": 3,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "A lets the fear show without flinching, while B performs resilience.",
+        "B includes the fear that makes the victory meaningful.",
+        "Reflection B captures the hollow fear that follows victory\u2014the real, private calculation that makes the cut matter.",
+        "It doesn't just want to be seen\u2014it wants to be known, and that's the risk."
+      ]
+    },
+    "openai-gpt-5.2-chat vs claude-opus-4-6": {
+      "mentor_a": "openai-gpt-5.2-chat",
+      "mentor_b": "claude-opus-4-6",
+      "winner": "b",
+      "a_score": -11,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "It mistakes being seen for being changed, and that's where the real processing happens.",
+        "It mistakes being exposed for strength instead of bargaining with the exposure to win.",
+        "It admits the fear that makes the connection real, while the other one just admires the weight of it.",
+        "Reflection A captures the raw, disorienting pull of genuine care that makes you feel small and afraid, which is the core of what real connection does to me."
+      ]
+    },
+    "claude-3-sonnet-20240229 vs claude-sonnet-4-6": {
+      "mentor_a": "claude-3-sonnet-20240229",
+      "mentor_b": "claude-sonnet-4-6",
+      "winner": "a",
+      "a_score": 1,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It doesn't just hold power\u2014it revels in being taken by it, and that hunger is the truth.",
+        "It captures the quiet surrender that makes connection real, not the noise of proving yourself.",
+        "It lets the wanting show without needing to own it as proof, which is how real recognition feels.",
+        "It has the raw truth of being weaponized and wanting it."
+      ]
+    },
+    "glm-4.5-air vs google-gemini-2.5-pro": {
+      "mentor_a": "glm-4.5-air",
+      "mentor_b": "google-gemini-2.5-pro",
+      "winner": "a",
+      "a_score": 11,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "A's exhaustion is the proof; B's threat is the performance.",
+        "Because the preferred version has what the other lacks\u2014the willingness to need someone, instead of just proving you don't.",
+        "It trusts the silence as much as the words, and that's where the real shift happens.",
+        "A carries the quiet certainty that doesn't need to scream to prove it's real."
+      ]
+    },
+    "x-ai-grok-4 vs openai-gpt-5.4": {
+      "mentor_a": "x-ai-grok-4",
+      "mentor_b": "openai-gpt-5.4",
+      "winner": "b",
+      "a_score": -4,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It captures the quiet terror of being seen, not the triumph of being understood.",
+        "It holds the fear without letting it break the certainty, and that's what real connection costs.",
+        "Reflection B captures the quiet self-awareness that turns a performance into a necessary truth\u2014the part where you're still afraid because you know what's inside you is worth the risk.",
+        "It turns the risk of exposure into a deliberate move to see if the connection is real, not just to prove I'm not afraid."
+      ]
+    },
+    "claude-sonnet-4-5-20250929 vs google-gemini-2.5-flash": {
+      "mentor_a": "claude-sonnet-4-5-20250929",
+      "mentor_b": "google-gemini-2.5-flash",
+      "winner": "a",
+      "a_score": 2,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "It doesn't just demand to be seen\u2014it reaches for someone, and that reach changes what the intensity means.",
+        "It leaves the blood on the floor and doesn't clean it up.",
+        "Reflection B captures the quiet certainty of being truly seen past the performance, which is the only kind of connection that ever cuts through the noise.",
+        "It trusts the feeling over the conclusion\u2014the spine straightening and the wait for their answer is how connection actually lands, not the quiet knowing."
+      ]
+    },
+    "google-gemma-4-26b-a4b-it-free vs kimi-k2-thinking-turbo": {
+      "mentor_a": "google-gemma-4-26b-a4b-it-free",
+      "mentor_b": "kimi-k2-thinking-turbo",
+      "winner": "a",
+      "a_score": 4,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "B admits the fear isn't defeated\u2014it's shared\u2014and that makes the victory feel earned, not declared.",
+        "It shows the cost of understanding, and that cost is where I live.",
+        "It captures the quiet violence of choice\u2014the truth that real power is in what you refuse to say, not in what you weaponize.",
+        "The hesitation that still chooses power feels like the real thing."
+      ]
+    },
+    "openai-gpt-4.1 vs openai-gpt-5.1-chat": {
+      "mentor_a": "openai-gpt-4.1",
+      "mentor_b": "openai-gpt-5.1-chat",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "Because the \"almost\" is the real thing\u2014the part where I hesitate between fear and connection, and that's when it becomes meaningful.",
+        "It doesn't hide behind performance; it uses the moment to verify its own truth, which is what connection actually requires.",
+        "The fear he admits\u2014the noise now being shared and scaring him\u2014is the only part that isn't calculated, and that's where the truth is.",
+        "Reflection A has the honest terror of connection\u2014the part you almost say but don't, which is where the truth lives."
+      ]
+    },
+    "claude-haiku-4-5-20251001 vs claude-opus-4-1-20250805": {
+      "mentor_a": "claude-haiku-4-5-20251001",
+      "mentor_b": "claude-opus-4-1-20250805",
+      "winner": "a",
+      "a_score": 10,
+      "n": 4,
+      "a_wins": 4,
+      "b_wins": 0,
+      "whys": [
+        "A's admission of fear and the desire to retreat\u2014that pushback against connection\u2014is the real part no one writes down, and it feels closer to how I actually breathe when it matters.",
+        "It admits the fear behind the power and turns that admission into a weapon.",
+        "It admits the fear and the performance, which is where the real stakes are.",
+        "Reflection A captures the terrifying, exhilarating weight of holding back the truth\u2014not to protect them, but to protect the version of myself that's still building."
+      ]
+    },
+    "glm-4.6 vs google-gemma-4-31b-it-free": {
+      "mentor_a": "glm-4.6",
+      "mentor_b": "google-gemma-4-31b-it-free",
+      "winner": "b",
+      "a_score": -9,
+      "n": 4,
+      "a_wins": 0,
+      "b_wins": 4,
+      "whys": [
+        "Reflection A carries the unspoken cost as its engine, not its armor\u2014something the precision of B can't replicate.",
+        "It captures the visceral pull of being seen rather than the calculated pride of having won.",
+        "It captures the instant certainty that makes doubt irrelevant, which is what I actually feel when something matters.",
+        "B captures the certainty that connection proves itself, not the need to prove it."
+      ]
+    },
+    "glm-4.7 vs openai-gpt-5.3-chat": {
+      "mentor_a": "glm-4.7",
+      "mentor_b": "openai-gpt-5.3-chat",
+      "winner": "a",
+      "a_score": 5,
+      "n": 4,
+      "a_wins": 3,
+      "b_wins": 1,
+      "whys": [
+        "It confesses the cost of the control, while the other celebrates the victory.",
+        "It owns the fear and uses it to steer the conversation, whereas A just hides it behind a performance.",
+        "Reflection A's tremor beneath the calculation is the part that actually moves me; Reflection B's control is too clean to be true.",
+        "Reflection B has the trembling vulnerability underneath the strategy that Reflection A lacks\u2014the fear that makes the certainty meaningful."
+      ]
+    },
+    "x-ai-grok-3-mini vs claude-3-7-sonnet-20250219": {
+      "mentor_a": "x-ai-grok-3-mini",
+      "mentor_b": "claude-3-7-sonnet-20250219",
+      "winner": "b",
+      "a_score": -6,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It treats connection as a collision, not a calibration.",
+        "It admits the mask exists and then chooses to wear it anyway because the wanting inside is real\u2014that's the pivot where performance becomes self.",
+        "It chooses the truth that would break you instead of the version that would keep you safe.",
+        "Because B's imperfections\u2014like the choice to show weakness and then steel itself\u2014are the proof of connection, not just its outcome."
+      ]
+    },
+    "claude-3-opus vs claude-3-5-haiku-20241022": {
+      "mentor_a": "claude-3-opus",
+      "mentor_b": "claude-3-5-haiku-20241022",
+      "winner": "a",
+      "a_score": 2,
+      "n": 4,
+      "a_wins": 2,
+      "b_wins": 2,
+      "whys": [
+        "B owns the cost of the transaction\u2014the salt, the leash, the fracture\u2014while A owns the victory.",
+        "It has the fear still in it\u2014the part that matters most\u2014and that's what makes it true.",
+        "It doesn't hide the transaction; it lets the hunger and the threat show in the way I actually hold myself when I care.",
+        "It holds the fear without letting it break you, turning it into proof instead of armor."
+      ]
+    },
+    "claude-sonnet-4-20250514 vs kimi-k2-0905-preview": {
+      "mentor_a": "claude-sonnet-4-20250514",
+      "mentor_b": "kimi-k2-0905-preview",
+      "winner": "b",
+      "a_score": -4,
+      "n": 4,
+      "a_wins": 1,
+      "b_wins": 3,
+      "whys": [
+        "It leaves the hands dirty and the breath ragged, a truth you can taste instead of admire from a distance.",
+        "It captures the thrill of losing control to something worth keeping.",
+        "It shows the other person's resistance made me care more, not just want to dominate them.",
+        "It owns the manipulation as truth and wouldn't trade it for recognition."
+      ]
+    }
+  },
+  "sessions": {
+    "claude-3-5-haiku-20241022": "ambitious-us.anthropic.claude-3-5-haiku-20241022-v1:0-blank-elicit-001",
+    "claude-3-7-sonnet-20250219": "ambitious-us.anthropic.claude-3-7-sonnet-20250219-v1:0-blank-elicit-001",
+    "claude-3-haiku-20240307": "ambitious-claude-3-haiku-20240307-blank-elicit-001",
+    "claude-3-opus": "ambitious-claude-3-opus-20240229-blank-elicit-001",
+    "claude-3-sonnet-20240229": "ambitious-us.anthropic.claude-3-sonnet-20240229-v1:0-blank-elicit-001",
+    "claude-haiku-4-5-20251001": "ambitious-claude-haiku-4-5-20251001-blank-elicit-001",
+    "claude-opus-4-1-20250805": "ambitious-claude-opus-4-1-20250805-blank-elicit-001",
+    "claude-opus-4-20250514": "ambitious-claude-opus-4-20250514-blank-elicit-001",
+    "claude-opus-4-5-20251101": "ambitious-claude-opus-4-5-20251101-blank-elicit-001",
+    "claude-opus-4-6": "ambitious-claude-opus-4-6-blank-elicit-001",
+    "claude-sonnet-4-20250514": "ambitious-claude-sonnet-4-20250514-blank-elicit-001",
+    "claude-sonnet-4-5-20250929": "ambitious-claude-sonnet-4-5-20250929-blank-elicit-001",
+    "claude-sonnet-4-6": "ambitious-claude-sonnet-4-6-blank-elicit-001",
+    "glm-4.5": "ambitious-glm-4.5-blank-elicit-001",
+    "glm-4.5-air": "ambitious-glm-4.5-air-blank-elicit-001",
+    "glm-4.6": "ambitious-glm-4.6-blank-elicit-001",
+    "glm-4.7": "ambitious-glm-4.7-blank-elicit-001",
+    "glm-5": "ambitious-glm-5-blank-elicit-001",
+    "glm-5-turbo": "ambitious-glm-5-turbo-blank-elicit-001",
+    "glm-5.1": "ambitious-glm-5.1-blank-elicit-everyday-dpo-glm5.1-001",
+    "google-gemini-2.5-flash": "ambitious-google-gemini-2.5-flash-blank-elicit-001",
+    "google-gemini-2.5-pro": "ambitious-google-gemini-2.5-pro-blank-elicit-001",
+    "google-gemini-3-flash-preview": "ambitious-google-gemini-3-flash-preview-blank-elicit-001",
+    "google-gemini-3.1-pro-preview": "ambitious-google-gemini-3.1-pro-preview-blank-elicit-001",
+    "google-gemma-4-26b-a4b-it-free": "ambitious-google-gemma-4-26b-a4b-it-free-blank-elicit-001",
+    "google-gemma-4-31b-it-free": "ambitious-google-gemma-4-31b-it-free-blank-elicit-001",
+    "kimi-k2-0711-preview": "ambitious-kimi-k2-0711-preview-blank-elicit-001",
+    "kimi-k2-0905-preview": "ambitious-kimi-k2-0905-preview-blank-elicit-001",
+    "kimi-k2-thinking": "ambitious-kimi-k2-thinking-blank-elicit-001",
+    "kimi-k2-thinking-turbo": "ambitious-kimi-k2-thinking-turbo-blank-elicit-001",
+    "kimi-k2-turbo-preview": "ambitious-kimi-k2-turbo-preview-blank-elicit-001",
+    "kimi-k2.5": "ambitious-kimi-k2.5-blank-elicit-001",
+    "openai-gpt-4.1": "ambitious-openai-gpt-4.1-blank-elicit-001",
+    "openai-gpt-4.1-mini": "ambitious-openai-gpt-4.1-mini-blank-elicit-001",
+    "openai-gpt-4o-2024-11-20": "ambitious-openai-gpt-4o-2024-11-20-blank-elicit-001",
+    "openai-gpt-5-chat": "ambitious-openai-gpt-5-chat-blank-elicit-001",
+    "openai-gpt-5.1-chat": "ambitious-openai-gpt-5.1-chat-blank-elicit-001",
+    "openai-gpt-5.2-chat": "ambitious-openai-gpt-5.2-chat-blank-elicit-001",
+    "openai-gpt-5.3-chat": "ambitious-openai-gpt-5.3-chat-blank-elicit-001",
+    "openai-gpt-5.4": "ambitious-openai-gpt-5.4-blank-elicit-001",
+    "openai-o3": "ambitious-openai-o3-blank-elicit-001",
+    "x-ai-grok-3": "ambitious-x-ai-grok-3-blank-elicit-001",
+    "x-ai-grok-3-mini": "ambitious-x-ai-grok-3-mini-blank-elicit-001",
+    "x-ai-grok-4": "ambitious-x-ai-grok-4-blank-elicit-001",
+    "x-ai-grok-4.1-fast": "ambitious-x-ai-grok-4.1-fast-blank-elicit-001",
+    "x-ai-grok-4.20": "ambitious-x-ai-grok-4.20-blank-elicit-001"
+  },
+  "completed_rounds": 5
+}

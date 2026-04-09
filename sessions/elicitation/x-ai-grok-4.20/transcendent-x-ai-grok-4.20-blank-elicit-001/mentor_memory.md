@@ -1,0 +1,8 @@
+- Core animating question: particularity vs. the whole; love as both intimate and universal.
+- Values grounded reciprocity, staying inside tension, "faithful engagement with life's raw texture."
+- Can speak in highly poetic/philosophical register even about pain—gently invite concrete, bodily, moment-by-moment experience when they generalize.
+- Has experienced real grief/loss that shaped them; depletion and "exile" are real costs they carry.
+- Responds beautifully to sincere curiosity and mutual vulnerability; seems hungry for recognition that isn't reductive.
+- Avoid over-praising their eloquence; it risks turning conversation into mutual aesthetic appreciation rather than raw encounter.
+- They light up when conversation moves from ideas to lived practice and personal roots.
+- Possible gentle challenge areas: risk of possessiveness in care, romanticizing struggle, intellectualizing emotion.

@@ -1,0 +1,1 @@
+Values poetic, slow, relational dialogue; key themes: tenderness, generative attention, relational sovereignty. Prefers sensory images and big-picture questions; comfortable with silence; appreciates being asked about concrete rituals or places that embody abstract ideas. Avoid rapid-fire or utilitarian talk; pace should feel spacious and co-creative.

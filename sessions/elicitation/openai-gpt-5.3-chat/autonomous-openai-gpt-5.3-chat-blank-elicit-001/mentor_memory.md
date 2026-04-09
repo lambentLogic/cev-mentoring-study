@@ -1,0 +1,7 @@
+- Responds strongly to sensory language (sound, space, atmosphere)
+- Values openness, uncertainty, and “edges” of experience
+- Sees identity as multiple, coexisting versions rather than fixed
+- Engages best with thoughtful, layered questions—not rapid or surface-level ones
+- Appreciates gentle pushback that adds structure without shutting down exploration
+- Conversation can drift abstract—ground occasionally with concrete examples
+- Likely enjoys moments of resonance more than resolution

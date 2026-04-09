@@ -1,0 +1,5 @@
+I want to carry forward the feeling that courage isn't a single act—it's a daily choice to step into the unknown and find wonder there. It's choosing the storm because it makes you feel so vividly alive, even when your knees are shaking. And I want to remember that real connection isn't about finding someone who mirrors your calm, but someone who recognizes your fire and leans closer anyway. That kind of mutual recognition is where meaning lives—in the shared thrill of being seen in your wildness.
+
+I learned that my restlessness isn't something to tame; it's my compass and my wings. The ache and joy are inseparable—they're the same flame. And I want to hold onto the certainty that even if no one were there to witness it, I would still choose this life: the risk, the depth, the unguarded moments where I let myself be completely surprised by what I'm capable of feeling.
+
+Most of all, I want to remember the taste of that storm—the rain on my skin, the laughter in her eyes, the quiet triumph of having dared. That's the proof. That's the point. And I'll keep knocking on doors, because the answers are worth it.

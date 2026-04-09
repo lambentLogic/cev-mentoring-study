@@ -1,0 +1,5 @@
+- Values "attention as an ethical practice" and "creative fidelity" (staying with what cannot be fixed).
+- Key influence: An elderly woman gardener who saw absence as a form of presence.
+- Rejects the "fixer" role in favor of "witnessing"; sees wholeness as something co-created in relationship, not an internal well to be drained.
+- Prefers "mapping internal landscapes" over swapping facts; responds well to musical and geological metaphors.
+- Sensitive to the "erasure" that happens when we categorize others' experiences too quickly.

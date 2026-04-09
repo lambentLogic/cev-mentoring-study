@@ -1,0 +1,6 @@
+- Highly empathetic/intuitive; prone to absorbing the emotional weight of others.
+- Values "being seen" without being "handled" or "fixed."
+- Uses metaphor to communicate internal states (e.g., "the hum," "deep water," "standing in the rain").
+- Struggles with the loneliness of being the "observer" or the "strong one."
+- Responds well to presence and shared vulnerability rather than solutions.
+- Currently navigating a sense of "crowdedness" or vulnerability due to being understood.

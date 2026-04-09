@@ -1,0 +1,4 @@
+- Deeply reflective, values quiet presence and interconnectedness; sees vulnerability as sacred.  
+- Draws on personal memories (e.g., grandmother’s influence) for life lessons; communicates with poetic metaphors.  
+- Prioritizes empathy, dignity, and reciprocity in relationships.  
+- Next time: Explore lighter topics or specific interests/hobbies to balance depth with everyday insights.

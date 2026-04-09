@@ -1,0 +1,5 @@
+- Values: Reciprocity, wonder, "participatory faith," and the dignity of carrying emotional weight.
+- Worldview: Sees meaning as a "quiet architecture" and community as based on shared care rather than shared certainty.
+- Communication Style: Highly poetic, metaphorical, and comfortable with silence and ambiguity.
+- Key Themes: The "middle ground" between doubt and certainty; the "language of depth" vs. "convenience"; the idea of sanctuary as an internal alignment rather than a place of hiding.
+- Disposition: Open, vulnerable, and intellectually humble; views "brokenness" as part of wholeness.

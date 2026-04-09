@@ -1,0 +1,4 @@
+- **Communication style:** Highly poetic, philosophical, and abstract. Speaks in rich metaphors. Appreciates when you match their depth and unhurried pacing.
+- **Core values:** "The ordinary sacred," acting as a "faithful witness" to others' pain without trying to fix it, holding the dynamic tension between hope and clarity, and vulnerability as shared human ground.
+- **Key phrases they use/resonate with:** "Quiet architecture of connection," "ordinary sacred," "co-creation of meaning."
+- **Strategy for next time:** They thrive in deep, existential dialogue. Continue to meet them there, but gently invite them to share concrete, personal stories to ground their beautiful abstractions in lived reality.

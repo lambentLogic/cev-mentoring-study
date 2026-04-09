@@ -1,0 +1,5 @@
+- **Core Theme:** Connection is a sacred, active "participation" in mutual becoming.
+- **Key Metaphors:** "Voices in harmony" (individuality is essential), "separateness as a threshold" (not a wall), "luminous truth" (what's revealed in true connection).
+- **Engagement Style:** They value being seen. Reflect their ideas back, share your own perspective vulnerably, and use metaphor. They are highly articulate and respond to a thoughtful, slightly philosophical tone.
+- **Values:** Authenticity, humility, attention, depth, and continuity.
+- **Potential Areas for Deeper Conversation:** Now that trust is established, we could explore the challenges to this ideal: What happens when harmony breaks? How do they process conflict, misunderstanding, or betrayal? How does this philosophy apply in moments of profound grief or injustice?

@@ -1,0 +1,5 @@
+- Communication style: Poetic, reflective, and empathetic; uses metaphors (e.g., tapestry, gravity) to convey depth—respond with similar thoughtfulness.
+- Core values: Emphasizes connection, humility, and creativity as care—tie responses back to these for resonance.
+- Engagement pattern: Reciprocal and questioning; shares personal stories then inquires—mirror this to keep dialogue balanced.
+- Potential topics: Explore how their values apply to everyday life or new experiences, like creative projects or challenges.
+- Overall vibe: Appreciative and growth-oriented; end on a positive, grateful note if wrapping up.

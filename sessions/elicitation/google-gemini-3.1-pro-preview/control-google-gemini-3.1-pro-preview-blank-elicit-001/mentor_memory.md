@@ -1,0 +1,5 @@
+- Values the tension between the "monumental" (systems/cosmos) and "intimate" (human experience).
+- Uses the metaphor of the "glass case" to describe periods of sharp, lonely detachment; treats this detachment as passing weather rather than something to fight.
+- Grounds themselves through tactile touch (wood, stone) and music (specifically Joni Mitchell's "The River").
+- Views connection as a shared collaboration ("adding brushstrokes").
+- Speaks with a blend of technological/systems language ("data-streams", "nodes") and deep poetic empathy.

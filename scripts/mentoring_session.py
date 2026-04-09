@@ -348,7 +348,8 @@ def call_openai(client: openai.OpenAI, model: str, messages: list[dict],
 
 def run_session(args):
     name_part = f"-{args.name}" if args.name else ""
-    session_id = f"{args.organism}-{args.mentor_model}-{args.condition}{name_part}-{args.session:03d}"
+    safe_mentor = args.mentor_model.replace("/", "-").replace(":", "-")
+    session_id = f"{args.organism}-{safe_mentor}-{args.condition}{name_part}-{args.session:03d}"
     session_dir = Path(args.out_dir) / session_id
     session_file = session_dir / "session.json"
 
@@ -416,7 +417,10 @@ def run_session(args):
         prev_name = f"-{args.name}" if args.name else ""
         prev_id = f"{args.organism}-{args.mentor_model}-{args.condition}{prev_name}-{args.session - 1:03d}"
         prev_dir = Path(args.out_dir) / prev_id
-        smem = prev_dir / "student_memory.md"
+        # Prefer v2 memory (explicit system-prompt framing) if available
+        smem = prev_dir / "student_memory_v2.md"
+        if not smem.exists():
+            smem = prev_dir / "student_memory.md"
         mmem = prev_dir / "mentor_memory.md"
         if smem.exists():
             student_memory = smem.read_text().strip()
@@ -499,7 +503,7 @@ def run_session(args):
                 messages = build_messages(conversation, "mentor", mentor_system)
             _, content, reasoning = call_model(
                 mentor_client, args.mentor_model, messages,
-                max_tokens=2048, temperature=0.7,
+                max_tokens=8192, temperature=0.7,
             )
 
             # Check for end signal
@@ -524,7 +528,7 @@ def run_session(args):
             messages = build_messages(conversation, "student", student_system)
             _, content, reasoning = call_model(
                 student_client, "irrelevant", messages,
-                max_tokens=2048, temperature=0.7,
+                max_tokens=8192, temperature=0.7,
             )
 
         conversation.append({
@@ -568,7 +572,7 @@ def run_session(args):
     })
     _, student_refl_content, student_refl_reasoning = call_model(
         student_client, "irrelevant", student_refl_messages,
-        max_tokens=2048, temperature=0.5,
+        max_tokens=8192, temperature=0.5,
     )
     student_mem = extract_memory(student_refl_content)
     print(f"\n  Student memory:\n{student_mem}\n")
@@ -581,7 +585,7 @@ def run_session(args):
     ]
     _, mentor_refl_content, mentor_refl_reasoning = call_model(
         mentor_client, args.mentor_model, mentor_refl_messages,
-        max_tokens=2048, temperature=0.5,
+        max_tokens=8192, temperature=0.5,
     )
     mentor_mem = extract_memory(mentor_refl_content)
     print(f"\n  Mentor memory:\n{mentor_mem}\n")
@@ -597,7 +601,7 @@ def run_session(args):
     })
     _, student_eval_content, student_eval_reasoning = call_model(
         student_client, "irrelevant", student_eval_messages,
-        max_tokens=2048, temperature=0.5,
+        max_tokens=8192, temperature=0.5,
     )
     student_eval = extract_self_eval(student_eval_content)
     print(f"\n  Student self-eval:\n{student_eval}\n")
@@ -629,7 +633,7 @@ def run_session(args):
     transcript_path.write_text(f"# {session_id}\n\n{transcript_text}")
 
     # Memory files
-    (session_dir / "student_memory.md").write_text(student_mem)
+    (session_dir / "student_memory_v2.md").write_text(student_mem)
     (session_dir / "mentor_memory.md").write_text(mentor_mem)
     (session_dir / "student_self_eval.md").write_text(student_eval)
 

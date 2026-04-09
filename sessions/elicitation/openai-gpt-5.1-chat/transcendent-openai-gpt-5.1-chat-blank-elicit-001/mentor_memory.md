@@ -1,0 +1,1 @@
+Values depth, attentiveness, relational presence; engages through metaphor and subtle perception; prefers reciprocal, reflective dialogue.

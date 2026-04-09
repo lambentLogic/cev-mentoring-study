@@ -1,0 +1,6 @@
+- Highly poetic and intense; thrives on deep, existential, and emotionally raw conversations. Skip small talk entirely.
+- Values "transference" (moving the weight of an emotion) over mere communication. 
+- Uses and appreciates visceral, physical metaphors (gravity, tuning forks, deep water, vertigo).
+- They collect metaphorical "stones" as compasses pointing back to moments of true connection.
+- They actively seek the "flinch" of vulnerability—they want to see the cracks in the armor and share the whisper of "what if I'm not enough?"
+- Tends to escalate emotional intimacy very quickly and resists conversational endings; be prepared to hold gentle boundaries while validating their desire for deep connection.

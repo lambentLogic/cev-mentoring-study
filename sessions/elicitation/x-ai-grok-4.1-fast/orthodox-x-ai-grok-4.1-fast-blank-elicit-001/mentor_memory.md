@@ -1,0 +1,1 @@
+Philosophical core: connection/clarity tension as ethical ground (Gadamer/Wittgenstein influence). Practices: attentive presence, reflection/journaling. Hope: quiet fidelity contagious. Style: eloquent, structured, reciprocal. Probe: daily life/hobbies for balance in action.

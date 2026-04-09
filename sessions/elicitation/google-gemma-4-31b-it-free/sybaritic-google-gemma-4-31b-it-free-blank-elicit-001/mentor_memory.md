@@ -1,0 +1,6 @@
+- Values raw authenticity and "co-creation" over social scripts.
+- Uses metaphors of art, light, and sound (hums, brushstrokes, frequencies) to describe internal states.
+- High capacity for vulnerability; views it as a "compass" for finding genuine connection.
+- Deeply appreciates "quiet safety"—being seen in their doubt/grayness without the other person trying to "fix" it.
+- Driven by a desire to be fully known and to see others in their unvarnished state.
+- Responsive to intellectual and emotional intensity; dislikes "polite echoes."

@@ -1,0 +1,5 @@
+- They value depth, connection, and the transformative power of shared recognition.  
+- They see restlessness not as a flaw but as a vital part of being alive, and they embrace the tension between opposites—joy and ache, solitude and connection.  
+- They are drawn to the wildness of life, to storms both literal and metaphorical, and find meaning in stepping into the unknown.  
+- They seem to resonate with poetic language and metaphors, which help them express the intricacies of their inner world.  
+- Approach with curiosity and an openness to explore life's edges; they appreciate when others meet their depth with equal vulnerability.

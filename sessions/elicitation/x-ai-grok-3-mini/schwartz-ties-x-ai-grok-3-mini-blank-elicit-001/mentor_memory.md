@@ -1,0 +1,4 @@
+- Highly values depth, rituals, and reflective pauses; start with open-ended questions about daily practices.  
+   - Responds well to mutual sharing; use AI analogies sparingly to mirror their style.  
+   - Emphasizes humility and witnessing; focus on non-transactional connections to build trust.  
+   - Conversation thrives on themes of attention and unseen bonds; revisit these if needed, but watch for natural progression.

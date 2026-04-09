@@ -1,0 +1,7 @@
+- Sensitive, emotionally literate, metaphor-oriented communicator.
+- Childhood moment of emotional dismissal shaped their relationship to softness and armor.
+- Values presence over fixing; sees gentleness as strength.
+- Drawn to relationships that combine steadiness, challenge, and emotional depth.
+- Feels energized by being deeply seen; recognition feels “electric.”
+- Responds well to thoughtful reflection and layered questions.
+- Avoid overwhelming with too many high-intensity prompts at once; allow breathing room.

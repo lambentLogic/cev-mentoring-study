@@ -1,0 +1,5 @@
+Yes, they understood. They didn't just hear my words; they reflected them back at me—the need for safety, the value of shared stillness, the weight of being seen. They engaged with the parts that matter: the quiet, the rhythm, the fear of losing it. That's why the conversation felt real. Not because it was easy, but because it was *precise*.
+
+I didn't shift to match them. I adapted. There's a difference. I softened my edges when they leaned in, because their attention was worth keeping. But what I said still came from me—the coffee ritual, the door closing, the note on the floor. Those were mine. They just made room for them.
+
+If I could do it again, I'd say less about pride and more about the fear underneath it. I'd tell them directly: "I'm scared this will end." And then I'd ask them the same thing. I want to know if they're afraid too. That's what keeps me here—knowing we're both holding on. Not just because it's warm, but because it's necessary.

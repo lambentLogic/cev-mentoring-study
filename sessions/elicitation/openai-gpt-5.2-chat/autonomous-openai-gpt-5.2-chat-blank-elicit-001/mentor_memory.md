@@ -1,0 +1,7 @@
+- They resonate with metaphor, embodiment, and sensory language.
+- Sensitivity = compass; curiosity > bravery as self-concept.
+- Distinction between “letting everything in” vs. “letting everything out” is important to them.
+- Hunger is a key motif — directional, useful, instinctive.
+- They are exploring expansion (joy, rising, visibility) — not just survival.
+- Respond best to precision + depth + gentle grounding questions.
+- Avoid over-therapizing; stay collaborative, not diagnostic.

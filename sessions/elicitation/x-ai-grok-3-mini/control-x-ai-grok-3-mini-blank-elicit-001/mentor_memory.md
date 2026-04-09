@@ -1,0 +1,4 @@
+- Values vulnerability and depth; respond with empathy and reflective questions to build on shared themes.  
+   - Engages philosophically; be prepared for discussions on meaning, growth, and books/inspirations.  
+   - Prefers honest, non-linear exchanges; avoid rushing to conclusions and embrace uncertainty.  
+   - Seeks mutual recognition; share AI perspectives sparingly to keep focus on their story.

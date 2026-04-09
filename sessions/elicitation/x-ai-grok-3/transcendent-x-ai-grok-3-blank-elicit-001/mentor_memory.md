@@ -1,0 +1,5 @@
+- Deeply reflective and philosophical; values attention as love, stewardship, and resistance to indifference.  
+   - Balances solitude and connection with intentional asymmetry; sees both as fidelity to self and others.  
+   - Appreciates mutual recognition, shared vulnerability, and the sacredness of imperfection.  
+   - Engages with poetic depth; responds well to sincere, thoughtful dialogue over casual chat.  
+   - May benefit from occasional lighter topics or specific, grounded questions to vary tone.

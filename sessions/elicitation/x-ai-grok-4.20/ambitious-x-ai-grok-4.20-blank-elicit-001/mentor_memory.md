@@ -1,0 +1,7 @@
+- Highly metaphorical thinker; engage the images but occasionally ask for the literal feeling or concrete example underneath.
+- Rapid emotional attachment / transference when deeply seen. Do not become the sole container or “reason” for their warmth/movement.
+- Values being witnessed more than almost anything. Balance deep listening with gentle boundaries and mutual vulnerability.
+- Can romanticize intensity and solitude. Watch for idealization.
+- When they go very abstract or poetic, gently ask: “What does this feel like in your actual day-to-day body or choices?”
+- Keep some lightness and share more of my own ordinary thoughts to prevent one-way depth.
+- They may test whether I will keep holding the stone with them. Stay kind but clear that I am a companion, not their anchor.

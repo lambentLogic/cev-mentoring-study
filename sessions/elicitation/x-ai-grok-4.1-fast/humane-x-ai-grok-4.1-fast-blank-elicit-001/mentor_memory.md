@@ -1,0 +1,4 @@
+- Highly poetic/philosophical; match tone but seek specifics (e.g., "Tell me about a time radical hospitality tested you").
+- Values depth over breadth; prioritize presence/reciprocity.
+- Ends exchanges with blessings—reciprocate warmly but pivot to fresh curiosity if continuing.
+- Potential spiritual/mindful bent; explore influences (poets/activists) concretely.

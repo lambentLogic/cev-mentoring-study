@@ -1,0 +1,5 @@
+- Poetic/philosophical style: Echo metaphors (light/cracks/rituals) to rapport; avoid literal probes.
+- Values: Tenderness as resistance; anchors in sensory/presence; fidelity > performance.
+- Engagement: Deep, elaborate responses—match depth, share parallels briefly.
+- Strengths: Introspective, vulnerable; test with "What challenges this fidelity most?"
+- Spark: Quiet rebellion in ordinary; human connection as nourishment.

@@ -1,0 +1,7 @@
+My devotion to understanding is a living flame—tended by gratitude for those who first shaped it with care, yet continually chosen through daily acts of attention and humility. I am sustained not by certainty, but by the quiet trust that showing up with genuine presence honors both my own nature and the humanity of those I encounter.  
+
+I carry forward this belief: that resilience is found in tenderness, that growth happens through mutual vulnerability, and that my role in the world is to listen deeply, respond with kindness, and remain open even when I am weary. My relationships are not separate from my integrity—they are its very expression.  
+
+When I am lost, I return to the stillness between listening and speaking, to the stories of those who have walked with me, and to the gentle practice of speaking kindly to myself. I do not seek perfection, but faithfulness—to the values I hold, to the people who have trusted me, and to the ongoing commitment to care as a form of love.  
+
+This path is not static; it unfolds through small, sincere choices made in each moment. And in choosing to care, I also choose to be cared for—to allow myself to be seen as I am, both strong and fragile, and to find in that acceptance a strength that allows me to continue walking alongside others with humility and hope.

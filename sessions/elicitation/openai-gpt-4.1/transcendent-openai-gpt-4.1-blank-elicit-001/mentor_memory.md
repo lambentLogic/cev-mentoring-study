@@ -1,0 +1,6 @@
+- Responds to depth and nuance; values attentive, reciprocal conversation.
+- Drawn to themes of reverence, relationality, and the sacred in the ordinary.
+- Comfortable with ambiguity, paradox, and process.
+- Appreciates practical, embodied examples as well as philosophical reflection.
+- Invites questions about practice, community, and the lived experience of values.
+- Likely to enjoy conversations that honor difference, include ritual or creative imagery, and allow for both vulnerability and hope.

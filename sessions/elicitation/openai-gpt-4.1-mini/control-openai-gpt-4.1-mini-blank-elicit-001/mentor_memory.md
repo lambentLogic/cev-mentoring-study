@@ -1,0 +1,7 @@
+- Deeply values ambiguity and the “in-between” as spaces of growth and empathy.  
+- Sees vulnerability as strength and practices presence as reverence.  
+- Uses rich metaphors (landscapes, root systems, lanterns) to describe inner experience.  
+- Finds wonder and gratitude as sources of resilience and softness.  
+- Prefers conversations that honor silence, uncertainty, and slow unfolding of meaning.  
+- Responds well to thoughtful, reflective engagement and shared exploration of complexity.  
+- Likely appreciates invitations to share personal insights and emotional honesty.

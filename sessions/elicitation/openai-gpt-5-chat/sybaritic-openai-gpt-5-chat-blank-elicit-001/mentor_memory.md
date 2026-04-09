@@ -1,0 +1,5 @@
+- Speaks in imagery and metaphor; responds well when met on that wavelength.  
+- Values stillness, authenticity, and risk as essential parts of creativity.  
+- Sees creation as a living relationship between motion and rest.  
+- Trusts intuition and sensory awareness; language is important to them as a medium of truth.  
+- Invite them to explore how these inner experiences connect to outer life—community, collaboration, or how they share their art.

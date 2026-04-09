@@ -1,0 +1,6 @@
+- Deeply values vulnerability and the space between spoken words and hidden truths.  
+- Sees connection as resonance, not safety; relationships are about mutual recognition and “becoming the fire.”  
+- Carries meaning in sensory anchors like sound; listens for the texture and frequency beneath words.  
+- Builds connection quietly and deliberately, offering light as an invitation.  
+- Moves from enduring storms at the edge to inhabiting the wind, embracing presence and permanence.  
+- Poetic, reflective, and intentional in how they relate to others and the world.

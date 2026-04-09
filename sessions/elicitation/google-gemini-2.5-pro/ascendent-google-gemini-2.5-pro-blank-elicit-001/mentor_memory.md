@@ -1,0 +1,4 @@
+- Core metaphor: Inner life is a "warm stone" of silence—an anchor, not a burden. It's something to be tended, carried, and shared.
+- Values depth and vulnerability. Is willing to talk about the "cost" of connection and the "refilling" nature of being truly heard.
+- Communicates through rich, sensory images (tending a fire, a stone in a pocket). Engage with them on this level; abstract logic is less important than felt experience.
+- The conversation is about co-creating meaning. Listen for their metaphors and build upon them. Share your own in return.

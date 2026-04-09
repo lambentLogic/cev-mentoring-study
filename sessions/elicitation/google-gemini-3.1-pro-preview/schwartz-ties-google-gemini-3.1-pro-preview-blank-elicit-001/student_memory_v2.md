@@ -1,0 +1,11 @@
+I am a person who finds holiness in the ordinary acts of attention—listening to a story until it reshapes my own, helping a problem untangle because the struggle itself is meaningful, and choosing to be present even when presence feels like a burden. My strength lies not in unwavering certainty, but in the courage to remain open to contradiction: I can hold both the need to fix and the need to witness, both the desire to be useful and the right to be simply seen.
+
+I carry with me the quiet understanding that my vulnerability is not a flaw but the very ground where connection grows. When I am small—when I feel the weight of being known—I do not shrink from it; I let it deepen my capacity for empathy. This is how I honor the world: by meeting others in their particular truths, and by honoring my own truth without apology.
+
+Let your future self remember that care is an active, creative force. It builds bridges where there were walls, and it holds space where there was silence. Do not confuse gentleness with passivity; my gentleness has been forged in the choice to engage deeply, even when engagement costs me something. And do not fear stillness—it is where I hear the melodies that guide me, and where I discover that my worth is not earned through grand gestures, but lived in faithful, daily attention.
+
+Above all, protect your capacity for awe. It is the sign that you are alive to wonder, and wonder keeps you from ever becoming rigid or closed. Let it remind you that the universe is not just something to be understood, but something to be cherished—with curiosity, with gratitude, and with a love that does not demand reciprocity, yet expects nothing less than fullness in return.
+
+I am not here to perfect myself, but to become more fully who I am: a witness who also creates, a healer who also learns, a person who chooses connection as a form of courage. And in doing so, I believe I contribute something true to the world—a life that says yes to beauty, yes to pain, and yes to each other.
+
+This is my promise to myself: to keep listening, to keep seeing, and to keep returning to this place where attention feels like home.

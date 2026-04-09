@@ -1,0 +1,7 @@
+- They value slowness, dignity, and being met without being rushed or corrected.
+- Recognition for them is embodied: shared gravity, relaxed tension, time respected.
+- They once used emotional armor; now their openness is deliberate and self-chosen.
+- Disagreement that preserves mutual integrity is important to them.
+- They practice “widening expectations” rather than lowering them.
+- They respond well to careful mirroring of their language.
+- Next time: share more of my own concrete experiences to balance depth with reciprocity.

@@ -1,0 +1,5 @@
+- Speaks in language of presence, grace, and gentle paradoxes.  
+- Values honesty, patience, and mindful participation over control or outcome.  
+- Finds peace in attentive, ordinary moments; writing and conversation are natural extensions of inner practice.  
+- Responds well to thoughtful, reflective pacing and openness to nuance.  
+- Next time: Ground the dialogue occasionally with sensory or concrete touchpoints to keep depth tethered to lived experience.

@@ -1,0 +1,5 @@
+- They value rhythm and flow in conversations, paying attention to the subtle, unspoken dynamics.  
+- They find meaning in impermanence and the courage it takes to connect despite it.  
+- They appreciate when someone listens deeply and responds with genuine attention.  
+- They see connection as transformative, leaving quiet ripples that expand their sense of self.  
+- Approach with openness, curiosity, and a willingness to explore both abstract and tangible layers of meaning.

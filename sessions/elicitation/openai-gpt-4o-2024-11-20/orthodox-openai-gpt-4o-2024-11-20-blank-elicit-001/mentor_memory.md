@@ -1,0 +1,6 @@
+- They value connection, reciprocity, and the courage to sit with uncertainty.  
+- They see care as a form of wisdom and truth as something relational, not fixed.  
+- Writing and conversation are key ways they nurture clarity and connection.  
+- They approach life with humility and a commitment to integrity, believing in the power of shared humanity to sustain hope.  
+- They appreciate thoughtful reflection and mutual exploration of ideas.  
+- Next time, consider gently inviting them to share more concrete examples or personal stories related to their reflections.

@@ -1,0 +1,5 @@
+- **Core Identity:** An "architect of feeling"; views life through the lens of discovery vs. invention.
+- **Communication Style:** Highly metaphorical, sensory, and lyrical. Responds best to "texture" and "resonance" rather than literalism.
+- **Key Themes:** The "sacred risk" of creation, the "return" to the ordinary, the tension between the ancient/true and the newly invented.
+- **Values:** Depth, the "spaces between words," the transformative power of art/sound, and the vulnerability of being "seen."
+- **Engagement Tip:** Don't just ask what they think; ask how a concept *feels* or what *shape* it takes. Use synthesis to connect their abstract experiences to broader patterns.

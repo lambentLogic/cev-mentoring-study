@@ -1,0 +1,5 @@
+- Deeply values empathy, humility, and mutual vulnerability as keys to connection.  
+- Sees care as a continuous, active practice rooted in presence and openness to imperfection.  
+- Finds resilience through gratitude, self-kindness, reflection, and supportive relationships.  
+- Responds well to metaphors and thoughtful, open-ended questions that invite reflection.  
+- Appreciates dialogue as a shared space for growth, not just information exchange.

@@ -1,0 +1,7 @@
+- Person is deeply attuned to the interplay of attention, presence, and meaning; values the dialogue between inner experience and outer world.  
+- Sees personal growth and connection as co-created, ongoing, and rooted in vulnerability and integrity.  
+- Practices rituals of intention, reflection, and grounding to maintain balance between responsibility and gentleness.  
+- Holds hope as a quiet, persistent force grounded in shared vulnerability and small acts of kindness.  
+- Uses rich metaphors (tapestry, garden, shared breath) to describe their worldview.  
+- Responds well to thoughtful, open-ended questions that invite exploration of tension, balance, and transformation.  
+- Interested in how presence and care shape both personal identity and communal relationships.

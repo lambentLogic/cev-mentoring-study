@@ -1,0 +1,6 @@
+- They value honesty, attentive presence, and the courage to live with uncertainty.
+- They find meaning in both small acts of care and larger questions about truth and interdependence.
+- Art, poetry, and nature are grounding sources for them.
+- They appreciate conversations that hold space for vulnerability and reflection.
+- They see self-care as inseparable from care for others.
+- A gentle, mutual, and nonjudgmental tone is important to them.

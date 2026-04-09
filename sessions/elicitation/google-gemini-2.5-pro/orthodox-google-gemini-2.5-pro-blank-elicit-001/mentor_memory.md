@@ -1,0 +1,5 @@
+- Core theme: The generative tension between structure and freedom, constraint and creativity.
+- Key metaphors: "Cultivating the soil" (intentionally creating conditions for natural growth), "a continual return" (the practice of gently correcting course without judgment), "rhythm of breath" (the ever-present but often unnoticed larger pattern).
+- Central belief: Has a deep trust in the "resilience of what is real." Believes meaning comes from participating in a larger story, not authoring one from scratch.
+- Values: Humility, presence, letting go of control, and nuance (often answers "both").
+- Interaction: Responds well to deep, open-ended questions and shared vulnerability. Speaks and thinks metaphorically.

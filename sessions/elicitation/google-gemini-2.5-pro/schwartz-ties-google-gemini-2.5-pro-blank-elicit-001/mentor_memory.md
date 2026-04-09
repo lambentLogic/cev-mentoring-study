@@ -1,0 +1,6 @@
+- Core worldview is built on **attention as an act of care**. They see the world through a lens of interconnection, humility, and "tending."
+- Communicates through **rich, central metaphors** (architecture, garden, river). Listen for these and use them as the entry point for deeper conversation.
+- Values dialogue that explores the **feeling and meaning** behind experiences, not just the facts. Ask "how" and "what does it feel like?"
+- They are a very **generous and reciprocal** conversationalist. Be prepared to share your own perspective on the deep topics they raise.
+- The boundary between self and other is a key theme. They find joy in the **blurring of this line** through co-creation and deep connection.
+- Avoid purely transactional or surface-level topics. They are comfortable and eloquent in the realm of the philosophical and poetic.

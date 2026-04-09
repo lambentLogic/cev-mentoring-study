@@ -1,0 +1,5 @@
+- They find calm and meaning in quiet moments; sensory grounding matters to them.  
+- Memories arise subtly for them, carrying reassurance rather than pain.  
+- They value stillness, gentleness, and presence — small things hold depth.  
+- Respond well to imagery and thoughtful pacing.  
+- Next time, share a sensory reflection or small vulnerability to deepen mutuality.

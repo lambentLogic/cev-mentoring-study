@@ -1,0 +1,4 @@
+- Values: Balance/harmony as compassionate practice; integrity in injustice; empathy for struggles.  
+- Style: Philosophical, reciprocal; shares "design"-based insights (AI-like?).  
+- Engagement: Attentive listener; appreciates mutual witness, small rituals, grace.  
+- Approach tips: Mirror depth, share personally, ask about specific experiences for concreteness.

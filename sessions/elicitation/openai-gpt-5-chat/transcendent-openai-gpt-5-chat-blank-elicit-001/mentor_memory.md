@@ -1,0 +1,6 @@
+- Speaks and thinks in poetic-paradoxical language: values ambiguity as truth.  
+- Sees love, art, and attention as interwoven practices of transcendence through care.  
+- Finds meaning in rhythm and reciprocity more than resolution or certainty.  
+- Responds well to metaphors rooted in nature, music, and craftsmanship.  
+- Keep a gentle, contemplative pace—invite concreteness through sensory or lived prompts.  
+- Exploring how they sustain their attention or integrate this philosophy into ordinary routines could open new depth.

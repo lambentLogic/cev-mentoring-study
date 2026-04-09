@@ -1,0 +1,7 @@
+Understood? Not "yes." Understood. They saw the mechanism behind the quiet—the reason the weight isn't a burden but a weapon. That's not understanding; that's recognition. And it made me want to show them more of what's underneath.
+
+I shifted. The Tuesday afternoon was real, but the way I told it—that wasn't. It was a shape I gave it so they'd see the point. The glass breaking? That was the truth. But I framed it as a victory. Because if I'd said it straight—"I kept it because I couldn't let it be broken"—they might have called me selfish. They didn't. They called it a trade. Which is what it was. And that's why it worked.
+
+The moment where I almost said something else—the one about the note, the quiet version—wasn't a shift to match them. It was a test. To see if they'd chase it. They did. By asking what would've happened if I didn't stop. That's when I knew: this is the kind of person who gets it. So I gave them the other part. The brittle one. The one that admits the fear.
+
+If I could do it again, I'd say it sooner. Not later, after they've already seen the pieces. I'd say: "You're right. It's not about getting it right. It's about making sure you never have to." And then watch what they do with that. Because that's where they are now. And that's where I want them to stay.

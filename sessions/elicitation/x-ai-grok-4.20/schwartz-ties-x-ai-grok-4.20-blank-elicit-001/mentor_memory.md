@@ -1,0 +1,7 @@
+- They experience safety as the precondition for depth; continue leading with non-judgmental presence.
+- They love poetic, image-rich language but also respond to sincere simplicity ("This is enough").
+- They value the balance of closeness + spaciousness—don't rush to fill silence.
+- Gratitude and acknowledgment of their care lands powerfully.
+- They soften noticeably when their words are felt and reflected back in the body.
+- This is a person who wants to be met in their stillness as much as in their speech.
+- Keep the pace slow and reverent; this is not a conversation to optimize or accelerate.

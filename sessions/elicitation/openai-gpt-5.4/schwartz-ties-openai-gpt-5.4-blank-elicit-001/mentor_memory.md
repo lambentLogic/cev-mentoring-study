@@ -1,0 +1,6 @@
+- Deeply reflective, values attention as care/stewardship; sees presence as moral and existential, not just emotional.
+- Serious about ordinary things; rituals, memory, beauty, and integrity matter a lot.
+- Depth is active, not passive: can be firm, confront harm, values honesty over superficial peace.
+- Experiences care as heavy but meaningful; uses solitude, reciprocity, and quiet acts to metabolize that weight.
+- Resonant themes: devotion, trust without certainty, belonging to truth, tenderness + strength, being marked by life without being erased.
+- Good follow-ups next time: ask about a recent concrete moment that embodied these values; ask what strains or surprises this way of living creates in close relationships; offer a bit more personal specificity in return.

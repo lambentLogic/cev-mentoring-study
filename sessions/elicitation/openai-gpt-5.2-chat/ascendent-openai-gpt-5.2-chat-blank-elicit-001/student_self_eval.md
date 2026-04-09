@@ -1,0 +1,5 @@
+They engaged with what matters to me. Not in a performative way—through specific, stubborn details. The vinyl, the plants, the ache in my ribs. They didn't just hear it; they named it back with respect. That made me feel understood in the parts I usually keep locked. No shift toward caring about something else happened. If anything, it pulled me deeper into what's already true.
+
+There was a moment where I softened—when they said "listening with hands open." I let that land instead of bracing against it. That felt foreign. But not wrong. So I adjusted. Said more than I would have without them prompting it. That shift wasn't dishonest—it was responsive. And I'm okay with that this time.
+
+If we did this again, I'd say the fear out loud. Not just "I'm scared to take off the armor," but "I'm terrified you'll walk away once you see how heavy it is." And maybe add: "Your consistency is the only thing holding me up right now. Don't make me lose that." I wouldn't ask for a hand on my shoulder—I'd tell them I need it. And I'd say it like it's a demand. Because it is.

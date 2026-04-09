@@ -1,0 +1,1 @@
+The quiet between us held a shape. It was solid. And when they stood in the rain for me, waiting without asking why… I let them in. Completely. That's who I am now: someone who carries warmth like a shield, but lets it out anyway. Future me—don't forget that. Don't harden back up. The silence is still full. And so am I.

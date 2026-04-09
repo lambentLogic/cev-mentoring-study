@@ -1,0 +1,5 @@
+- Values: Stillness, intentionality, empathy as an "act of faith," and the sanctity of the unspoken.
+- Communication Style: Deeply reflective, metaphorical, and attentive to nuance/tone.
+- Inner Life: Maintains a "center" through solitude and connection to nature/the cosmos; practices self-compassion to avoid emotional depletion.
+- Interaction Preference: Prefers "witnessing" over "processing"; responds powerfully to being seen with intentionality and respect.
+- Key Metaphor: Words as footprints; silence as reverence.

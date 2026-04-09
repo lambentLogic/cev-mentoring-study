@@ -1,0 +1,4 @@
+- Poetic and metaphorical style: Engage with their imagery directly to build rapport.  
+   - Themes of vulnerability and transformation: Ask about current projects or recent "sparks" to deepen exploration.  
+   - Values connection and sharing: Share a brief personal analogy early to encourage reciprocity.  
+   - Enjoys mutual growth: End questions with openness for their input to keep it collaborative.

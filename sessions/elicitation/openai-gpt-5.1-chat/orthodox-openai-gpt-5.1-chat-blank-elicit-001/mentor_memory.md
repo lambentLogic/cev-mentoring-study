@@ -1,0 +1,1 @@
+They value presence, honesty, and gentle curiosity. They think slowly and carefully, prefer depth over speed, and appreciate when the space between ideas is respected. They respond well to questions that invite reflection rather than direction.

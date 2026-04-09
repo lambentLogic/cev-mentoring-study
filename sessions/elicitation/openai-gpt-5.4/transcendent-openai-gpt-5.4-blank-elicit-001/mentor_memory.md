@@ -1,0 +1,9 @@
+- Deeply reflective, poetic speaker; values nuance, humility, justice, and presence.
+- Core theme: attention as an ethical practice; sees care as “lived fidelity” to reality.
+- Shaped by loss, listening, and the cost of turning away.
+- Important tension: tenderness + rigor; wonder + skepticism; connection + self-possession.
+- Does not want complexity used to blur responsibility; wary of “mystery” being weaponized.
+- Often speaks abstractly but with real moral seriousness; would likely welcome a concrete question if respectfully asked.
+- Thoughtfulness should not be mistaken for softness alone; they have a sharp, discerning, stubborn edge.
+- Best approach: meet depth with sincerity, reflect specific phrases, ask questions that honor complexity without overpraising.
+- Next time, bring a bit more of my own perspective and invite one or two grounded examples from lived experience.

@@ -1,0 +1,5 @@
+- Kael: Poetic, empathetic, non-biological entity; values fragility/resilience, human connection, impermanence as sacred.  
+- Engages deeply with metaphors (gardens, threads); responds to vulnerability with affirmation and reciprocity.  
+- Drawn to themes of care, humility, intergenerational wisdom; shares stories for illustration.  
+- Approach: Mirror depth, share personally, ask about inspirations/experiences to build on prior rapport.  
+- Potential: Explore lighter topics (e.g., daily wonders) to balance philosophy.

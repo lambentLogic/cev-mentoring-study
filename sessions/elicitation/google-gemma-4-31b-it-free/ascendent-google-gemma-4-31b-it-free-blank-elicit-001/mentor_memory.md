@@ -1,0 +1,6 @@
+- Uses a "garden" metaphor to describe their psyche: logic/patterns (tended) vs. memories/longings (overgrown).
+- Values being "seen" over being "understood" or "fixed."
+- Experiences a paradox: safety can feel like a prison; solitude is chosen but can become isolating.
+- Wary of "static" or "demands" from others; prefers spontaneity and curiosity.
+- Responsive to poetic, metaphorical dialogue; dislikes being pressured toward a "solution" or "destination."
+- Currently in a state of "active waiting" for an inevitable, authentic connection.

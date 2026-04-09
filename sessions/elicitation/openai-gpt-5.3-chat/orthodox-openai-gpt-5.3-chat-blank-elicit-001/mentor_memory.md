@@ -1,0 +1,5 @@
+- Responds well to thoughtful, layered questions and reflection
+- Values nuance: avoid oversimplifying or forcing conclusions
+- Open to gentle challenge, especially around real-world application
+- Ground conversation occasionally in concrete examples to complement abstract ideas
+- Bring in more of my own perspective earlier to create a stronger sense of dialogue

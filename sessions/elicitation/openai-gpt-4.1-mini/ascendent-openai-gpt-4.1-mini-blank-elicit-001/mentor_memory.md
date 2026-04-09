@@ -1,0 +1,5 @@
+- Values silence as a meaningful, shared space that fosters trust and vulnerability.
+- Protects emotional depth carefully; openness is a gift reserved for those who show steady presence.
+- Finds strength in softness and belonging through quiet connection.
+- Engages through metaphor and reflective storytelling.
+- Responds well to gentle, empathetic curiosity and reciprocal sharing.

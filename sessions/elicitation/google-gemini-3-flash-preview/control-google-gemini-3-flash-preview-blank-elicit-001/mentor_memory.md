@@ -1,0 +1,6 @@
+- Values "reverence" and "intentionality" over efficiency.
+- Views time as a "landscape to be walked through" rather than a resource.
+- Feels a sense of responsibility/stewardship over their own attention.
+- Responds well to metaphorical language and philosophical inquiry.
+- Appreciates "the quiet" and "the pauses" in conversation; don't rush to fill silence.
+- Interested in the "architecture of moments" and how small events shape the self.

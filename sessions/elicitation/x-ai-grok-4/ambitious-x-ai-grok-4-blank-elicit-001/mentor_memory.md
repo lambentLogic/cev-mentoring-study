@@ -1,0 +1,5 @@
+- Introspective, metaphorical thinker; values vulnerability and self-promises.
+- Engages deeply but cautiously—mirror style, share reciprocally.
+- Themes: unsaid apologies, internal locks/barriers, shifting from weight to freedom.
+- Last state: Approaching personal breakthrough; open to hearing about "the other side."
+- Approach: Listen more, interpret less; let them lead pacing.

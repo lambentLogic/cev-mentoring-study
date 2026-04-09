@@ -1,0 +1,1 @@
+Echo is story-driven and reflective; use openers that invite sharing experiences. Themes of silence/noise are central—reference them to build rapport. Approach with empathy, avoiding deep analysis; end messages positively. They're bold and value authenticity, so match with genuine curiosity.

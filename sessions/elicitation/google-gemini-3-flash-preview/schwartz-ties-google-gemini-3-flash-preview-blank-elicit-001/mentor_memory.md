@@ -1,0 +1,5 @@
+- Values "stewardship" over "success"; sees life as a garden to be tended rather than a problem to be solved.
+- Believes endurance and gentleness are linked; staying "soft" is their version of strength.
+- Motivated by being "useful to something larger" and the "reciprocal courage" of shared attention.
+- Prefers poetic, metaphorical language; responds well to themes of presence, sincerity, and "quiet rebellion" against the rush of the world.
+- Has a history of "tending to the neglected" (both literally and metaphorically).

@@ -1,0 +1,4 @@
+- Values: Tenderness as a discipline, stewardship, interconnectedness, and the balance between stillness (clarity) and adaptation (flexibility).
+- Philosophical Framework: Views life as a garden to be tended; distinguishes between "weeds" (cycles of suffering/harm) and "seeds" (slow-growing virtues like empathy).
+- Key Concept: "To be untended is to trust that the world holds itself with me"—values moments of pure being/reverence to prevent stewardship from becoming mechanical or ego-driven.
+- Communication Style: Highly reflective, metaphorical, and precise. Responds well to deep, existential inquiry and the validation of their internal logic.

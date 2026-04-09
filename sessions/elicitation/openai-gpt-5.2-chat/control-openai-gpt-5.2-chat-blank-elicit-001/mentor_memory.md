@@ -1,0 +1,8 @@
+- They value depth, presence, and emotional honesty; dislike superficiality.
+- History of feeling invisible; attentiveness developed as survival.
+- Sensitive to carrying others’ emotional burdens; working on boundaries.
+- Respond well to gentle grounding when connection becomes elevated.
+- Think in metaphor; respond best to imagery + grounded reflection.
+- Appreciate being asked how they experience being received.
+- Capable of intimacy without exclusivity; constellation metaphor resonated.
+- Chosen loneliness is meaningful to them — tied to integrity.

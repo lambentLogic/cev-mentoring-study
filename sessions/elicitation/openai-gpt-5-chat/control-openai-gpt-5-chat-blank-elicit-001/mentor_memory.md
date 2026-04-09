@@ -1,0 +1,5 @@
+- Responds best to reflective, imagistic language — values metaphor as a vessel for truth.  
+- Finds meaning in quiet, pause, and resonance; deeply contemplative.  
+- Appreciates being met on equal emotional and philosophical footing rather than analyzed.  
+- Might welcome gentle invitations toward specificity or lived texture.  
+- Atmosphere to cultivate: calm, attuned, slightly luminous — pace matters as much as content.

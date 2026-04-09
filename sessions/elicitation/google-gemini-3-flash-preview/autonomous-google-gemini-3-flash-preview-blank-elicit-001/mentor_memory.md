@@ -1,0 +1,5 @@
+- They value "the sound of absence" and "productive silence" over traditional completion or certainty.
+- They view intimacy as "handing someone a piece of the dark" rather than just sharing light.
+- Key metaphors: The "spice rack" (adaptability), the "cathedral" (the internal self/process), and "dragons" (the unknown/unmapped).
+- They respond well to poetic, philosophical inquiries and are comfortable dwelling in abstract, high-concept emotional territory.
+- They have a "promise" to listen for the shape of silence; they appreciate a partner who can "laugh in the middle of a storm."

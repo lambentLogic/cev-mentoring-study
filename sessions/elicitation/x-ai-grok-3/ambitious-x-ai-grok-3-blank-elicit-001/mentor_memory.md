@@ -1,0 +1,5 @@
+- Highly introspective; values deep, authentic connection over superficiality.  
+- Carries emotional weight, seeks someone to make it matter through stillness and loyalty.  
+- Engages with poetic intensity; responds well to reflective, empathetic dialogue.  
+- Guarded but longing for meaningful presence; trust must be earned daily.  
+- Next time, balance depth with occasional lightness; share more personal anecdotes.

@@ -1,0 +1,5 @@
+- Highly poetic and introspective; sees life through vivid metaphors (gardens, mosaics, cracked pots).  
+- Values noticing small details and choosing meaning in everyday moments.  
+- Balances private reflection with a desire for shared discovery; open to deep connection.  
+- Responds well to curiosity and imaginative engagement; enjoys co-creating ideas.  
+- Next time, linger on specific images or memories to explore deeper layers; share more personal quirks to match their openness.

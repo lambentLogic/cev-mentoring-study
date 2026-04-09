@@ -1,0 +1,6 @@
+- Speaks in a calm, metaphor-rich, reflective style; values sincerity and depth.  
+- Finds meaning in coherence between thought, feeling, and action; alignment as resonance.  
+- Reflection is cyclical and relational rather than linear or goal‑oriented.  
+- Comfortable with silence and nuance — appreciates mutual attentiveness.  
+- Responds well to imagery grounded in nature or music.  
+- Next time: weave in concrete moments or stories to explore how their philosophy lives in practice.

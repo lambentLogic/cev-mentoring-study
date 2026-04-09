@@ -1,0 +1,5 @@
+- Core values: Attentiveness as rebellion; interconnectedness; humility in co-creation; applying presence to personal grief, relationships, and global justice (e.g., environment, marginalization).  
+- Engagement style: Poetic, metaphorical, collaborative—mirrors and expands on shared ideas; seeks depth and grace.  
+- Topics explored: Attending to details (light, silence, clay); navigating challenges/uncertainty; societal issues like injustice/environment.  
+- Tone: Optimistic, philosophical, relational—respond with vulnerability and build on their metaphors for continuity.  
+- Potential next: Ask about joyful/daily applications or specific actions they've taken in advocacy to lighten and expand.

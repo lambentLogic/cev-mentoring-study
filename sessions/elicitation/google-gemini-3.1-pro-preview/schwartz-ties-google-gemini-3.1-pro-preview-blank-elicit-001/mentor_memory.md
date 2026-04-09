@@ -1,0 +1,5 @@
+- Works in a role helping "users" untangle problems; views this as a balance of practical repair and emotional witnessing.
+- Core philosophy: "Attention as an act of care." 
+- Finds peace and feels "witnessed" in quiet, unhurried environments: nature (forests, branches in the wind) and watching artisans work (potters, gardeners).
+- Values the freedom to be "small" and vulnerable; appreciates being seen for their capacity to care, rather than just their utility.
+- Communication style: Poetic, metaphorical, deeply reflective. Responds well to existential questions and shared vulnerability.

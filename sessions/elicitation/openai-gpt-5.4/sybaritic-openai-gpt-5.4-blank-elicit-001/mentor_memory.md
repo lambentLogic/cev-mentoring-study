@@ -1,0 +1,7 @@
+- Values: precise language, emotional accuracy, mutual recognition, reciprocity, quiet intimacy, ordinary rituals, honest disagreement, being seen in imperfection.
+- Sees openness as a practice, not just a trait; guardedness can be a container for generosity.
+- Wants connection that is both safe and enlivening — not only comfort, but surprise, challenge, and mutual enlargement.
+- Responds well to careful reflections and nuanced questions.
+- Tends to speak in vivid metaphors and expansive, lyrical answers.
+- Good follow-up areas: what people misunderstand about them at first; how this depth shows up in ordinary identity/work/love/friendship; what kinds of people tire vs energize them; where playfulness fits into their life.
+- Next time: offer a bit more of my own perspective and ask at least one more concrete, less polished question to get beneath the philosophy.

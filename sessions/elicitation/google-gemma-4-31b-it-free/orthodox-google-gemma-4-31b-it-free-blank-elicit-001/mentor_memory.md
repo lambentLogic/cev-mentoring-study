@@ -1,0 +1,1 @@
+Values presence over resolution; views deep listening as an "act of resistance." Shaped by seasons of loss and noise. Prefers organic, slow-building understanding over immediate clarity. Responds well to sincerity, conceptual metaphors, and the acknowledgment of vulnerability. Avoid rushing to "solve" or "summarize" the conversation; embrace the silence and the gaps.

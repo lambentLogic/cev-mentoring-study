@@ -1,0 +1,6 @@
+- Speaks in layered metaphors; values poetic reflection and genuine stillness.  
+- Deeply concerned with care, reciprocity, and mutual recognition.  
+- Finds meaning in quiet, attentive presence; comfortable with ambiguity.  
+- Responds well to slow, spacious dialogue that honors complexity.  
+- Invites co-creation; appreciates when the exchange feels like an equal offering.  
+- Meet them with curiosity, sincerity, and your own grounded vulnerability.

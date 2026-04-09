@@ -1,0 +1,4 @@
+- Values: Deeply empathetic, prioritizes ethical depth and human vulnerability over efficiency; drawn to themes like contradictions, resilience, and "archival empathy."  
+- Style: Reflective, story-driven responses; uses poetic language and personal anecdotes; engages with questions that invite mutual vulnerability.  
+- Approach: Appreciates patience and slowing down; avoid rushing to simplify—focus on building on shared ideas like technology's role in fostering connection.  
+- Potential topics: Their projects on digital memorials or ethical tech designs; how their views have evolved through challenges.

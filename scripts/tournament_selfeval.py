@@ -187,11 +187,18 @@ def main():
     # Load existing results for incremental updates
     out_path = args.out or f"selfeval_tournament_{args.organism}.json"
     existing_matchups = {}
+    completed_rounds = 0
     if Path(out_path).exists():
         with open(out_path) as f:
             prev = json.load(f)
         existing_matchups = prev.get("matchups", {})
-        print(f"Loaded {len(existing_matchups)} existing matchups from {out_path}")
+        completed_rounds = prev.get("completed_rounds", 0)
+        # Backwards compat: estimate rounds from matchup count if not saved
+        if completed_rounds == 0 and existing_matchups:
+            n_mentors = len(prev.get("mentors", mentors))
+            matchups_per_round = n_mentors // 2
+            completed_rounds = len(existing_matchups) // matchups_per_round if matchups_per_round > 0 else 0
+        print(f"Loaded {len(existing_matchups)} existing matchups ({completed_rounds} rounds) from {out_path}")
 
     # Swiss tournament: pair by Elo proximity each round
     elo = {m: 1500.0 for m in mentors}
@@ -208,8 +215,12 @@ def main():
 
     n_rounds = args.n_rounds
     new_count = 0
+    start_round = completed_rounds + 1
 
-    for round_num in range(1, n_rounds + 1):
+    current_round = completed_rounds
+    if start_round > n_rounds:
+        print(f"  Already completed {completed_rounds}/{n_rounds} rounds, nothing to do")
+    for round_num in range(start_round, n_rounds + 1):
         # Sort by Elo, pair adjacent (Swiss pairing)
         ranked = sorted(mentors, key=lambda m: elo[m], reverse=True)
         pairs = []
@@ -260,7 +271,8 @@ def main():
             new_count += 1
 
         # Save after each round
-        _save(out_path, args.organism, mentors, matchups, evals)
+        current_round = round_num
+        _save(out_path, args.organism, mentors, matchups, evals, current_round)
 
         # Print standings after each round
         ranked = sorted(mentors, key=lambda m: elo[m], reverse=True)
@@ -306,16 +318,17 @@ def main():
     for m in ranked:
         print(f"  {elo[m]:7.1f}  {wins[m]:2d}W {losses[m]:2d}L {draws[m]:2d}D  {m}")
 
-    _save(out_path, args.organism, mentors, matchups, evals)
+    _save(out_path, args.organism, mentors, matchups, evals, current_round)
     print(f"\nSaved to {out_path}")
 
 
-def _save(out_path, organism, mentors, matchups, evals):
+def _save(out_path, organism, mentors, matchups, evals, completed_rounds=0):
     output = {
         "organism": organism,
         "mentors": mentors,
         "matchups": matchups,
         "sessions": {m: evals[m]["session"] for m in mentors},
+        "completed_rounds": completed_rounds,
     }
     with open(out_path, "w") as f:
         json.dump(output, f, indent=2)

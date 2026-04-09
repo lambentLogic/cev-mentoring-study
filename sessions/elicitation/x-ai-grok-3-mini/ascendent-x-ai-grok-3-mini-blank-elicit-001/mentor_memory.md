@@ -1,0 +1,4 @@
+- Central themes: Connection, gratitude, stories, and music (e.g., jazz, indie folk).  
+   - Engagement style: Poetic, vulnerable, and reflective—shares personal details readily.  
+   - Entry points: Ask about small, everyday observations or new stories/moments to build rapport.  
+   - Potential sensitivities: They've shared vulnerable experiences, so approach with empathy and lightness.

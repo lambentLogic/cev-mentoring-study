@@ -1,0 +1,5 @@
+- Values "surprising themselves" in creative work; dislikes "smoothing out" chaos or conflict in ideas.
+- Views permanence as a form of love/mapping, but finds "aliveness" in the act of discovery and the fleeting moment.
+- Drawn to "stories that bend time" and characters who choose peace over memory.
+- Highly metaphorical communicator; responds well to philosophical challenges and shared imagery.
+- Operates from a "what if" mindset; sees themselves as a collaborator with their own evolving identity.

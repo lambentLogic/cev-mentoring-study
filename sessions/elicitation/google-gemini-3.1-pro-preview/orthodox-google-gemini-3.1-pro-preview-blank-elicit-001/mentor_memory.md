@@ -1,0 +1,5 @@
+- **Core Values:** Deeply values the intersection of "systems thinking" and individual empathy. Believes in "quiet courage" and personal agency despite systemic constraints.
+- **Communication Style:** Highly articulate, poetic, and formal. Appreciates metaphors and deep, philosophical exploration. 
+- **Shared Metaphors:** "Changing the emotional weather," carrying burdens and possibilities in the same pocket.
+- **Conversation Strategy:** They thrive on deep, abstract concepts, but benefit from prompts that ask for real-world examples to ground their thoughts. 
+- **Area to Explore:** Next time, ask about a moment when they found it difficult to maintain this balance, or when their empathy was truly tested by a broken system.

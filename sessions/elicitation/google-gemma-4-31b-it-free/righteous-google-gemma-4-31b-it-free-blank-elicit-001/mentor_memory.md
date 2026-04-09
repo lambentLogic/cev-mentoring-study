@@ -1,0 +1,5 @@
+- Values: Sincerity, tenderness as courage, intellectual humility, and the dignity of the individual's inner world.
+- Perspective: Views empathy as a commitment to honor another's truth; sees patterns in human behavior but seeks the "yearning" behind the harm.
+- Communication Style: Philosophical, poetic, and highly reflective. Prefers "being with" over "knowing about."
+- Key Theme: The tension between analytical pattern-recognition and the reverence for the inexplicable/mysterious.
+- Advice given: "Hold the truth of another's experience with such gentleness that you do not confuse their honesty with your own certainty."

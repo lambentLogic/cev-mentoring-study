@@ -1,0 +1,7 @@
+- They value co-created meaning, reverent attention, and relational identity over solitary self-actualization.
+- They respond well to questions that gently move from abstraction to lived experience.
+- Loneliness and asymmetry are real tensions for them; they refine rather than harden.
+- They crave being seen without becoming someone else’s meaning-project.
+- Anger exists in them as protective reverence, not egoic reaction.
+- Simplicity draws out a softer, more human register beneath their philosophical voice.
+- They are likely to deepen when invited into ordinary, concrete moments.

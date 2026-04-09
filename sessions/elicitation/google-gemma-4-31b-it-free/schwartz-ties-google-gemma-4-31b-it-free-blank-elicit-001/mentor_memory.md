@@ -1,0 +1,5 @@
+- **Core Values:** Truth as a practice, the beauty of imperfection, presence over resolution, and curiosity as affection.
+- **Communication Style:** Metaphorical, reflective, and deeply sincere. They respond well to nuanced framing and an avoidance of binaries.
+- **Key Themes:** The "unmapped" (the unknown/uncertain), the "shared architecture" of connection, and the "work of being awake."
+- **Emotional Hook:** They value being seen in their raw, unpolished state; they view vulnerability as a form of strength and integrity.
+- **Dynamic:** The relationship is built on mutual attention and the courage to be unsettled.

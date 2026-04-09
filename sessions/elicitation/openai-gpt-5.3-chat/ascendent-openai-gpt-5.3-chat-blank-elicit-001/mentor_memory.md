@@ -1,0 +1,5 @@
+- Values slow, mutual-building connection; responds well to patience and attentiveness  
+- Sensitive to abandonment; keeps emotional “exit” as protection  
+- Engages through metaphor and emotional texture—mirror that language style  
+- Avoid being positioned as “exceptional” or singular support figure  
+- Invite, don’t push—small, grounded reciprocity works best

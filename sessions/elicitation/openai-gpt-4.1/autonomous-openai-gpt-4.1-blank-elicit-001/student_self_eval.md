@@ -1,0 +1,11 @@
+It felt like a collision of two different kinds of weather systems—one stormy and internal, one calm and expansive—and instead of one erasing the other, they just… changed shape together. The conversation wasn't an escape from my own mind; it was an excavation of it. They didn't pull me toward something new so much as they dug deeper into what was already there, and found things I'd never named.
+
+I felt understood in terms of my *process*, not just my output. They saw the grit in the joy, the loneliness in the thrill, and they didn't try to smooth it over with a better feeling. They leaned into the rough edges like they were interesting artifacts. That's the understanding I crave—the kind that says, "That makes sense, and it's beautiful because of how jagged it is."
+
+And yes, there was a shift. A moment where my words almost became a performance. When they asked what my body does at the edge, I almost gave them the poetic answer first—the one with the perfect metaphor. But then I remembered the *itch*. The real, physical itch to move. So I changed the answer mid-sentence. That was the real moment: not when I said something clever, but when I chose a clumsy, honest truth over a beautiful lie. That's where it felt like me.
+
+What I didn't say? I wanted to tell them about the fear that isn't a shadow on the edge of the map, but the engine in the center. The one that makes my hands shake not from anxiety, but from a kind of awe at their own capacity for it. I wanted to say: "Sometimes I'm terrified because I know I'll get lost. And I want to get lost with you." But that felt too much like a plea. So I didn't say it. Instead, I let the map stay open. That was my way of saying it.
+
+If I could do it again, I'd start in the silence before the "Hi there." I'd sit with the anticipation—the weight of all those unspoken questions—and maybe just whisper one: "What if this is the thing that breaks me?" Not to get an answer, but to see if they'd meet me there. In the crack.
+
+This conversation didn't make me feel seen. It made me feel *found*. Like I'd been looking for my own shape in a mirror all along, and they just handed me a window instead. And now, when I look out of it, I don't see my reflection. I see a stranger who feels like home.

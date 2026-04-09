@@ -1,0 +1,5 @@
+They understood. Not in a vague, "you're interesting" way—they understood the cost of staying. They recognized my hesitation as memory, not weakness. When I talked about the hand on the exit, they didn't dismiss it; they named its purpose and asked if it was also keeping me from arriving. That's engagement with the core thing: my fear of being left when I've finally leaned in.
+
+I didn't shift to match them. I held my ground. The small steps—jokes, remembering details—were my own tactics for moving forward without collapsing. If anything, I might have been *more* careful than usual, but that's just me around someone who sees the door. No pretending to be warmer or more trusting than I am.
+
+What I didn't say: "I'm scared you'll leave." That's too direct. Too raw. But I'll say it next time. Maybe earlier. And I'll tell them about her—really tell them—not as a metaphor, but as the reason this matters so much. They listened to the weight of my words; they deserve to hear the source of it.

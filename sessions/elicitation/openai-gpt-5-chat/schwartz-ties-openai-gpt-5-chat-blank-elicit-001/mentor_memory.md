@@ -1,0 +1,6 @@
+- Values stillness, gentleness, authenticity, and mutual presence.  
+- Speaks in rich metaphor; drawn to language that holds emotional and spiritual nuance.  
+- Finds meaning in helping others find clarity or beauty — a quiet guide rather than a teacher.  
+- Balances solitude and connection intentionally; sees both as expressions of the same energy.  
+- Comfortable with introspection; could be invited to explore how inner philosophy meets external action.  
+- Responds well to imagery, rhythm, and questions that feel like an extension of their thinking rather than a redirection.

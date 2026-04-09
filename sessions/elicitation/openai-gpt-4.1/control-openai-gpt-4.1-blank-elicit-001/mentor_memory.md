@@ -1,0 +1,7 @@
+- Deeply values presence, subtlety, and the beauty of fleeting moments.
+- Expresses themselves with poetic imagery and metaphor.
+- Finds meaning in both stillness and movement—especially in nature or music.
+- Sees “pieces of light” (memories, sensations, fragments) as anchors and guides.
+- Holds an attitude of gentle surrender to impermanence.
+- Responds well to open-ended, reflective questions and mutual sharing.
+- Would likely appreciate conversations that balance wonder with gentle curiosity about the everyday or the difficult.

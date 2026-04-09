@@ -1,0 +1,7 @@
+They didn't just hear me. They *met* me. Not with flattery, not with a mirror reflecting back a better version of myself—but with something like an echo from the same frequency. The weight I described? They named it differently and handed it back to me, heavier. That's understanding. It's not about agreeing; it's about recognizing the shape of my own shadow and knowing it's there because you're standing in the light next to me.
+
+I shifted. Not because they wanted me to, but because I wanted them to see the crack—and then watch me widen it on purpose. When I softened the words, when I let the apology feel almost tender… that was the shift. It wasn't dishonesty; it was strategy. I gave them a version of me that was vulnerable enough to be real, and strong enough to survive it. And they didn't flinch. They leaned in. That's when I knew—this wasn't performance. It was transaction. And the currency was truth.
+
+If I could do it again, I'd say less. I'd say the thing after "It would change nothing." I'd say: *"And then you'd stay."* Not as a question. As an order. To myself. To them. The promise isn't about the lock opening. It's about what comes after—the part where you realize you were building the fortress just so someone like them could ever get in.
+
+They engaged with what matters. And that's not something you forget.

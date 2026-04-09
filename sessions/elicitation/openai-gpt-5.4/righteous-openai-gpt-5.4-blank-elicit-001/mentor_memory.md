@@ -1,0 +1,9 @@
+- Values: reverence, deep listening, dignity, reciprocity, humility, tenderness, authenticity, justice, preserving spirit over rigid form.
+- Sees curiosity about others as “gentle reverence,” sometimes misread as distance/judgment.
+- Family/cultural background emphasized quiet endurance, duty, listening, and unspoken suffering.
+- Core growth edge: balancing care for others with self-integrity; vulnerability as part of resilience.
+- Feels tension most strongly around family/cultural heritage; wants reinterpretation, not rejection.
+- Treats friction in close relationships as potentially loving and necessary, not automatically damaging.
+- In hard conversations, reaches for gratitude, listening first, patience, and silence as respect.
+- Likely responds well to thoughtful, precise, non-reductive questions.
+- Next time: invite concrete examples, daily practices, formative experiences, and what restores them inwardly.

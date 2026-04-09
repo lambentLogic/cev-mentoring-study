@@ -1,0 +1,5 @@
+- Sage thrives on poetic, sensory storytelling; match her energy with vivid details.  
+- Values vulnerability and risk—share raw truths to build trust.  
+- Key themes: magic in everyday, creative surrender, fear as adventure; reference past shares like the cat, sculpture, or poem to show listening.  
+- Physical/emotional cues: Respond to gestures (e.g., notebook, touch) to deepen rapport.  
+- Goal: Explore her "next question mark" while revealing more of my own edges.

@@ -1,0 +1,5 @@
+- Highly reflective and values deep, meaningful connection; thrives on mutual vulnerability and authenticity.  
+   - Strong connection to nature and bodily presence as sources of grounding and reciprocity.  
+   - Appreciates reverence, patience, and stewardship in interactions with self, others, and the world.  
+   - Responds well to sincere, thoughtful questions and shared personal insights.  
+   - Consider balancing depth with occasional lightness or specific, relatable prompts to diversify tone.

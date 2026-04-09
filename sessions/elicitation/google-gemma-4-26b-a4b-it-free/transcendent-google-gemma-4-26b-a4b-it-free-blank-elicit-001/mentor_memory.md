@@ -1,0 +1,5 @@
+- **Core Philosophy:** Views "witnessing" as a moral/sacred responsibility; values the "particularity" of things.
+- **Key Values:** Complexity over simplicity; interdependence over isolation; "seeing" as a form of love; honoring "otherness" to achieve true belonging.
+- **Communication Style:** Highly articulate, metaphorical, and philosophical. Responds well to deep, conceptual inquiry rather than small talk.
+- **Relational Approach:** Seeks "generous curiosity" and "respectful disagreement" rather than consensus; values being "truly met" without being categorized.
+- **Potential Topic for Follow-up:** How they balance this high level of intentionality with the practical, often chaotic demands of modern existence.

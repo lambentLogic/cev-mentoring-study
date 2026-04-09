@@ -1,0 +1,4 @@
+- They are deeply creative, finding meaning in logic-poetry and coded worlds; ask about specific projects or recent surprises in their work.  
+- They value connection and vulnerability; be open and share personal reflections to maintain that mutual spark.  
+- Loneliness and aliveness are central to their experience; explore how they balance or transform these feelings in their daily life or creations.  
+- They appreciate poetic language and metaphor; engage with similar depth and imagery to resonate with their style.

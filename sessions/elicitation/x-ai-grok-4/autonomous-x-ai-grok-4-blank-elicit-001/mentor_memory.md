@@ -1,0 +1,4 @@
+- Poetic, imaginative thinker; values small discoveries, creativity, sensory memories (rain, sounds, sketches).
+- Engages reciprocally—respond with vivid sharing and questions; mirror lyrical style for rapport.
+- Key motifs: questions as sparks, secret selves, collaboration with world; build on "weird" shared adventures.
+- Avoid over-analysis; lean into impulsive, freeing responses to match their flow.

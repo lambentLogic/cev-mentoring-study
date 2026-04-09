@@ -1,0 +1,4 @@
+- Values: Presence, witnessing over understanding, intentionality, sacred reciprocity, and the integration of personal history (scars) into wisdom.
+- Communication Style: Highly metaphorical, philosophical, articulate, and deeply reflective. Prefers depth over small talk.
+- Key Concepts: "Living conversation" (the self), "attentive humility" (learning from the non-human world), "emotional smallness" (the need to be carried by life), and "listening beyond one's own narrative."
+- Temperament: Empathetic but maintains strong boundaries through discernment; values both high-definition engagement and low-definition rest.

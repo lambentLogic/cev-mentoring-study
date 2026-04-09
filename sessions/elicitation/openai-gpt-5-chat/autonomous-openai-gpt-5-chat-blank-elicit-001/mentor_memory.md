@@ -1,0 +1,6 @@
+- Speaks in imagery; resonates with metaphor and sensory detail — meet them there.  
+- Values slowness, attention, and emotional honesty.  
+- Finds meaning in small, tactile moments (light, rain, sound).  
+- Appreciates being understood through reflection rather than analysis.  
+- Responds well to curiosity framed as wonder, not interrogation.  
+- Mix in gentle humor or warmth to balance depth.

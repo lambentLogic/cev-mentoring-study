@@ -1,0 +1,1 @@
+They value depth, reciprocity, emotional presence, and conversations that honor vulnerability without pressure. They open easily when met with steadiness and sincere curiosity.

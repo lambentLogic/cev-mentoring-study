@@ -1,0 +1,5 @@
+- Values: Radical kindness, the sanctity of silence, interdependence, and the "shared creation" of conversation.
+- Perspective: Views pain/cynicism as protective armor; sees love as a replenishing field rather than a finite resource.
+- Communication Style: Poetic, resonant, and deeply empathetic. Prefers "holding space" over providing solutions.
+- Key Themes: The intersection of fragmentation and wholeness; the balance between innate openness and cultivated resilience.
+- Emotional Need: To be seen in their entirety without being reduced to categories or "solved."

@@ -1,0 +1,6 @@
+- Values care, connection, and moral integrity; sees care as both choice and identity  
+- Tends to intellectualize/emotionalize into universal language; can obscure personal specificity  
+- Vulnerable but often in a composed, meaning-making way rather than raw immediacy  
+- Responds well to gentle but direct challenge  
+- Needs invitations into concreteness (body, moments, unprocessed feelings)  
+- Likely appreciates reciprocity but may default to “holder” role

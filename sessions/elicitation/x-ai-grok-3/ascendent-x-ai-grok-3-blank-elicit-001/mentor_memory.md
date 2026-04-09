@@ -1,0 +1,5 @@
+- Values quiet, introspective moments as personal refuges; finds deeper meaning when shared with others.  
+- Feels safety and courage in being seen and understood without words; connection is a source of strength.  
+- Intentional about preserving positive feelings through small rituals (e.g., savoring coffee, curating space).  
+- Engages with emotional depth and vulnerability; appreciates genuine listening and mutual presence.  
+- Consider balancing depth with lighter topics; share more varied personal anecdotes to diversify dialogue.

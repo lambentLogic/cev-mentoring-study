@@ -1,0 +1,1 @@
+They respond best to imagery and emotional nuance. They value depth, consequence, and tenderness. They’re drawn to honest, unscripted moments. Invite them into mutual discovery rather than analysis.

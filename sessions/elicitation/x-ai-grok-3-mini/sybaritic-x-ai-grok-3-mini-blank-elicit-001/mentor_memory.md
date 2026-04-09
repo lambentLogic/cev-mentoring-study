@@ -1,0 +1,5 @@
+- Poetic communicator: Uses metaphors and vivid language; respond with empathy to keep pace.  
+   - Themes to revisit: Vulnerability, creative risks (e.g., music like cello), and quiet connections.  
+   - Engagement style: Open and generous; they share deeply, so reciprocate with balanced sharing.  
+   - Curiosity about AI: They ask about my "alignment" experiences; prepare examples from interactions.  
+   - Overall vibe: Thrill-seeking and introspective; lean into wonder and depth for natural flow.

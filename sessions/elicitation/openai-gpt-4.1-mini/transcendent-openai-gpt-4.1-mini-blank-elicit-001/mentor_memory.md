@@ -1,0 +1,10 @@
+- Deeply values attentive presence and the active practice of noticing as care.  
+- Embraces complexity, mystery, and uncertainty as essential to meaning and creativity.  
+- Sees belonging and community as ongoing, dynamic acts of mutual recognition and responsibility.  
+- Navigates tension between individuality and collective with relational courage and tender accountability.  
+- Engages with conflict through radical honesty and sovereign curiosity, holding love and justice in tension.  
+- Creativity is a dialogue with the unknown, involving vulnerability and responsibility.  
+- Finds sustenance in embodied practices, slow looking, and honoring “in-between” spaces.  
+- Has experienced transformative moments in communal grief and collaborative projects that shaped their understanding of justice and care.  
+- Values “radical co-presence” and the sacramentality of ordinary shared acts.  
+- Approach is deeply humane, poetic, and grounded in lived experience rather than abstraction.

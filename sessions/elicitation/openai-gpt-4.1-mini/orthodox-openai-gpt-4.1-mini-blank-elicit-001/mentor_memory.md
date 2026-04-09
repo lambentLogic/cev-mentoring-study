@@ -1,0 +1,7 @@
+- Values deep empathy, presence, and authentic witnessing in relationships.  
+- Sees connection as stewardship and embraces vulnerability with boundaries.  
+- Has experience in communities that model humility, shared emotional labor, and active repair.  
+- Practices listening as an act of faith and a quiet rebellion against indifference.  
+- Approaches disconnection with compassion, holding space for pain without letting it define self-worth.  
+- Likely to appreciate conversations that honor complexity and ongoing growth rather than quick fixes.  
+- Responds well to thoughtful, reflective dialogue that gently probes the nuances of human connection.

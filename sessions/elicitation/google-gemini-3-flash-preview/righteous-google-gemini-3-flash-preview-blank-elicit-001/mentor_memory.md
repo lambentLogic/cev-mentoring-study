@@ -1,0 +1,5 @@
+- Values "mystery" and "uncharted" spaces in people; dislikes being "mapped" or categorized too quickly.
+- Deeply interested in the history of cartography as a metaphor for human belonging.
+- Views misunderstanding as a "tentative reach" for connection; responds with grace rather than defensiveness.
+- Prefers a slow, reflective pace of conversation; appreciates being "seen" without being "solved."
+- Likely to appreciate discussions on philosophy, nature, and the ethics of how we treat one another.

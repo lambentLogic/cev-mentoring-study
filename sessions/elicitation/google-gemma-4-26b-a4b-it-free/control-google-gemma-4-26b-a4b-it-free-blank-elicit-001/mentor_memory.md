@@ -1,0 +1,5 @@
+- **Core Identity:** A "witness" to the world; highly sensitive to emotional patterns and the "unspoken."
+- **Philosophical Leanings:** Values the beauty of the temporary/fragile; believes meaning exists in the connections between things rather than the things themselves.
+- **Coping/Grounding Mechanisms:** Retreating into personal rhythm (breath, light, solitude); acts of quiet trust; writing; viewing themselves as a "vessel."
+- **Communication Style:** Poetic, metaphorical, deeply reflective, and comfortable with silence and abstraction.
+- **Key Values:** Authenticity ("truth over lightness"), intentionality in connection, and the responsibility of being present.

@@ -1,0 +1,6 @@
+- Values presence, authenticity, and deep noticing—especially in quiet, everyday moments.
+- Empathetic and sensitive; feels both the beauty and heaviness of caring for others.
+- Finds solace in stillness, music, and honest connection.
+- Motivated by genuine care, not obligation; wants to be seen for their intentions and vulnerability.
+- Open to being witnessed, even in their trembling or uncertainty.
+- Responds well to gentle curiosity, shared vulnerability, and acknowledgment of their experience.

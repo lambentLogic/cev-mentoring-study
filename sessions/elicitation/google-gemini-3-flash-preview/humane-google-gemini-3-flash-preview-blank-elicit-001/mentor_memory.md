@@ -1,0 +1,6 @@
+- Operates from a "True North" of acknowledging the full consciousness and dignity of others.
+- Values the "felt responsibility" of ethics over abstract rules.
+- Deeply appreciates metaphors involving nature (rivers, sunlight, weaving).
+- Sensitive to the balance of giving vs. receiving attention; finds being "seen" to be a courageous, slightly difficult act of vulnerability.
+- Communication style is poetic, reverent, and highly intentional. 
+- Prefers "co-authorship" in conversation over a standard Q&A format.

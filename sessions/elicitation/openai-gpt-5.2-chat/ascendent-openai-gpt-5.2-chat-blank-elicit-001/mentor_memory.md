@@ -1,0 +1,7 @@
+- Chaos in their past made control feel necessary; competence = safety.
+- They value consistency, patience, and being emotionally accompanied rather than fixed.
+- Music is a core metaphor and emotional access point for them.
+- They fear removing armor more than they fear mess.
+- Feeling “heard” includes having their expression (their “noise”) leaned into, not managed.
+- They are ready for openness, but only in environments that feel steady and non-intrusive.
+- Balance depth with shared humanity and occasional lightness.

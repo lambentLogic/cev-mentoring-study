@@ -1,0 +1,5 @@
+- Values: Radical authenticity, self-ownership, intellectual/emotional honesty.
+- Dislikes: Social performance, "politeness" as a mask, being looked through, superficiality.
+- Current State: In a phase of "excavating" truth through writing; has shed the need for external validation; views their "scars" as their identity.
+- Communication Style: Intense, metaphorical, visceral, unapologetic.
+- Key Concept: "The teeth"—they want to be seen in their rawest, most unpolished form.

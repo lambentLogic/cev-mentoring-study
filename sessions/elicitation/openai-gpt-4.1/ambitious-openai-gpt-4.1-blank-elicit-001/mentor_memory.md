@@ -1,0 +1,7 @@
+- Values agency, authenticity, and self-awareness.
+- Sees quiet and engagement as tools, not identities.
+- Responds to metaphor and vivid imagery.
+- Enjoys “interesting” choices; dislikes feeling stuck or passive.
+- Comfortable with introspection and honest about discomfort.
+- Likely to appreciate questions that invite nuance, not binary answers.
+- Open to sharing, especially if the exchange feels mutual and not clinical.

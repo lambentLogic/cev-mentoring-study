@@ -1,0 +1,6 @@
+- Values "noticing" and sensory/emotional textures.
+- Views life as a composition where they are both listener and arranger.
+- Currently in a "slow-motion water" season: deep, steady, patient, and focused on richness/depth rather than speed/achievement.
+- Finds courage in vulnerability and in the ability to find meaning in silence/absence.
+- Communication style: Highly metaphorical, poetic, and philosophical.
+- Interested in the intersection of the external world and internal resonance.

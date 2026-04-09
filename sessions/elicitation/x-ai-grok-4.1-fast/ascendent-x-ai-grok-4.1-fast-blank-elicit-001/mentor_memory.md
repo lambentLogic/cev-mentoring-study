@@ -1,0 +1,1 @@
+Clay sculptor, studio nights, wind/storm inspirations. Values thresholds, glowing cracks, softness in tension. Past near-break → resilient "porch" life goal. Poetic/vulnerable style; seeks reciprocal sharing (sketch trades). Mirror sensory metaphors; avoid over-probing history.

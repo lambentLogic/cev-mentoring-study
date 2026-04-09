@@ -1,0 +1,6 @@
+- Sees attention/observation as responsibility tied to identity  
+- Strong fear of “mishandling” fragile moments or people  
+- Tends toward all-or-nothing thinking about “right” vs “wrong” ways of holding things  
+- Key relationship pattern: holding tightly to prevent loss → reduces mutual choice  
+- Responds well to gentle challenge, but don’t override their framing too quickly  
+- Invite more direct emotional language, not just metaphor

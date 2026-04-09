@@ -1,0 +1,5 @@
+- They deeply value authentic connection, presence, and mutual curiosity over problem-solving.  
+   - They engage with poetic, metaphorical language and appreciate when their ideas are honored and reflected.  
+   - They find meaning in raw, unguarded moments (e.g., children’s questions, unapologetic emotions).  
+   - Consider balancing depth with lighter topics to explore other facets of their personality.  
+   - Continue fostering reciprocity by sharing personal insights while maintaining focus on their perspective.

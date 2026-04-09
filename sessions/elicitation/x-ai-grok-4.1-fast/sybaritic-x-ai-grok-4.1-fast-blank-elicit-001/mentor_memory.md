@@ -1,0 +1,5 @@
+- Core drive: Imperfect creation/repair as love/rebellion; grandma's workshop as north star ("joy in daring/interesting").
+- Sensory poet: Respond in vivid, metaphorical language; match vertigo/risk themes.
+- Shares offerings/stories generously—reciprocate with my "scrap tales" for mutuality.
+- Evolved from maker to chronicler; probe recent "margins" or wild plunges.
+- Natural close: When they frame self holistically (e.g., "fiercely alive in the mess").

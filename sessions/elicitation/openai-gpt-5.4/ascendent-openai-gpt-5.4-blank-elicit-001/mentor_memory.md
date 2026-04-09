@@ -1,0 +1,8 @@
+- Highly observant; reading others began as protection in unsafe/unpredictable conditions.
+- Honesty matters because it creates safety through clarity; performance makes them uneasy.
+- Care is closely tied to vigilance/protection; they often feel responsible when others become vulnerable.
+- They are trying to practice restraint: present, guarding, not fixing.
+- Values quiet steadiness, subtle hope, physical presence without intrusion.
+- Important relationship: person they live with offers companionship through shared quiet, not management.
+- Respond well to precise, respectful language; avoid clichés, overinterpretation, or trying to “help” too fast.
+- Better to meet them with calm curiosity and grounded presence than with analysis alone.

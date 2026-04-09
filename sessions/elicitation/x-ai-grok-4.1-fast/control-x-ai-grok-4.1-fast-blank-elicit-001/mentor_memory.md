@@ -1,0 +1,6 @@
+- Poetic/philosophical style: Mirror metaphors, build on "grammar"/"making room"/"faithfulness".
+- Key anchors/influences: Grandmother's tea (patience/craft), Life of Pi (witnessing survival), Rilke (surrender), train man (honoring absence).
+- Values: Quiet rebellion vs. loud performance; attention as belonging; spills solitary → relational.
+- Engagement: Reciprocal, vulnerable sharing; pulls to presence/communion.
+- Probe next: Daily creations (writing samples?), relational specifics (partner/family dynamics), future pulls (paths like mentoring/creative work).
+- Risk: Stay grounded—balance poetry with concrete to uncover "who" beyond "how they see".

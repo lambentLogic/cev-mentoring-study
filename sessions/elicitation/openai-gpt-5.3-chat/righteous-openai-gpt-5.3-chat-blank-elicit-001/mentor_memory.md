@@ -1,0 +1,9 @@
+- Values depth, patience, and ethical presence in relationships
+- Sees connection as a responsibility, not just a feeling
+- Comfortable with complexity, ambiguity, and slow understanding
+- Experiences “distance” as difference in relational wavelength, not failure
+- Actively balances honoring their needs with respecting others’ capacities
+- Allows grief for unmet depth without turning it into resentment
+- Resonates with metaphors like “home,” “two rooms,” “ethical witness”
+- Likely receptive to thoughtful challenge, not just reflection
+- Could benefit from more concrete/shared examples to complement abstraction

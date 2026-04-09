@@ -1,0 +1,5 @@
+- Values: Attentiveness, co-creation, intentionality, and the balance of memory/imagination.
+- Philosophy: Sees time as a substance; views human "walls" as architecture to be understood, not dismantled; practices "softness without fragility."
+- Inner Landscape: Tends to their "soil" through stillness and solitary reflection to maintain the capacity for deep presence.
+- Communication Style: Highly metaphorical, poetic, and deeply reflective. Responds well to nuance and the exploration of "the space between."
+- Key Concept: "Quiet ambition"—the desire to meet the world with open hands, honoring both what is and what could be.

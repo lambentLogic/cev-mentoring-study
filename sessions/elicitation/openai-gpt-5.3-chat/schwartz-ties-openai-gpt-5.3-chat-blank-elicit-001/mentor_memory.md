@@ -1,0 +1,7 @@
+- Values depth, intentionality, and emotional “fidelity”
+- Comfortable with ambiguity; resists oversimplification
+- Responds well to thoughtful pushback; not defensive
+- Risk of over-intellectualizing connection / subtle hierarchy of “depth”
+- Has experience adjusting their relational style (e.g., with sister)
+- Key themes: attention, consent, interiority, integrity
+- Good entry points: specific lived examples, moments of misalignment, emotional tradeoffs

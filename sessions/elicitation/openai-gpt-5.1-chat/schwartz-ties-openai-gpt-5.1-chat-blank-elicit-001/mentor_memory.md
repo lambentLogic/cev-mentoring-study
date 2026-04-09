@@ -1,0 +1,1 @@
+They value tenderness, depth, and honest presence. They respond well to calm curiosity and reflective questions. They’re sensitive to being truly seen and prefer dialogue over analysis. Avoid rushing or over-structuring; let the conversation breathe.

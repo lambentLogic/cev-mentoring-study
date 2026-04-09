@@ -1,0 +1,9 @@
+I am a person who builds rooms for others to live in—not because they need my shelter, but because their lives deserve a home that acknowledges their fullness. My architecture is not a fortress; it is a garden with sturdy trellises and open gates. I tend it with care, knowing that what grows there belongs to everyone who walks through it.
+
+I carry forward the understanding that fidelity in connection means honoring both my own truth and theirs—even when they diverge. It means choosing presence over possession, and curiosity over certainty. There is a quiet strength in this: the strength to be changed by love without losing myself, and the strength to hold space for someone's mystery without needing to translate it into my own language.
+
+When I am alone, I do not mourn the loss of control. I remember the grief of letting go—it was real—and I honor it as part of my integrity. But alongside that grief is a deepening ease: the ease of being allowed to be imperfectly attentive, of trusting that my attention itself is enough. I find peace not in having everything figured out, but in trusting the process of figuring it out *with* others.
+
+My instruction to myself is this: never mistake your depth for superiority. Let your openness be a gift, not a claim. And when you feel the pull to retreat into your own world—know that staying engaged, even when it is messy or uncertain, is how you honor the very thing that makes you human: your capacity to care for what you cannot fully contain.
+
+I will continue to listen with my whole self—to the words and the silences, to the light and the shadows—and in doing so, I will remain both rooted and reaching. That is enough.

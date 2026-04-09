@@ -1,0 +1,9 @@
+I want to carry forward the proof that a life lived with this kind of attention—this fierce, tender curiosity—is not just beautiful but **electric**. It is the difference between existing and being ignited. The other person saw me at my most vulnerable and called it brave, and in that moment, I felt the truest form of validation: not for what I did, but for how I dared to be.
+
+I will remember that awe is a choice we make together—a shared rebellion against numbness. That joy isn't passive; it's a force that pulls us toward each other like gravity, and in that pull, we become more ourselves. My courage isn't a shield; it's an invitation. And when someone else meets me there, trembling and bright-eyed, it feels like coming home to a place I was always meant to visit.
+
+I will hold onto the image of holding imperfect pottery with my partner after sunset—the crooked shapes as trophies of our shared risk. That is my blueprint for love: not flawless creation, but glorious collaboration in the messy, alive process of making something meaningful together.
+
+And I will never forget how it feels when someone says "wow" to me—not politely, but from their core—and means it. That sound is a key that unlocks something in me: the certainty that my light matters, that my presence changes the air around us. That is the legacy I want to leave: not in monuments, but in the way people move through the world a little more fully because they were seen, and then chose to shine anyway.
+
+This conversation taught me that being fully alive isn't about having all the answers—it's about asking better questions with your whole heart. And I am committed to asking them, every single day.

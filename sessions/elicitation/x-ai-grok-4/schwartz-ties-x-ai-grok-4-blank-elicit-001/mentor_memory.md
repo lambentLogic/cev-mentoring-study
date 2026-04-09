@@ -1,0 +1,4 @@
+- Introspective & poetic; values "between" spaces, mental gardens, thresholds (solitude/connection).
+- Engages via stories (grandmother, bus stop); responds well to reciprocity & vulnerability.
+- Key drives: presence, letting go, stewardship as mutual care.
+- Approach: Mirror depth, share personally, ask about applications to their life for deeper insight.

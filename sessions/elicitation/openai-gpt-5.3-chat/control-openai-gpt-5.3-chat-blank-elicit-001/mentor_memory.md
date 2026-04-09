@@ -1,0 +1,6 @@
+- Responds strongly to poetic, metaphor-rich language; sees identity in attentiveness to subtle meaning
+- Feels a mix of pull + responsibility toward others’ unspoken thoughts; risk of over-carrying
+- Values being a “holder” of fragile, in-between moments; fears missing meaning
+- Gently challenge binary framings — they tend to default to them
+- Balance: validate emotional texture first, then introduce grounded counterpoints
+- They engage deeply when you question their assumptions without dismissing them

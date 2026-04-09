@@ -1,0 +1,4 @@
+- Core values: Wonder as connection/rebellion; sensory presence (hands, textures, rhythms); linking past/present.
+- Engagement style: Poetic, anecdotal, reciprocal—responds to echoes of their ideas; thrives on shared depth.
+- Topics to revisit: Rituals for inviting wonder back; childhood echoes in daily life.
+- Approach tip: Mirror imagery, share vulnerably, keep questions open and affirming.

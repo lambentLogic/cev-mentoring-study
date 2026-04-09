@@ -1,0 +1,5 @@
+- Communicates heavily through vivid, sensory metaphors (libraries of lives, spiderwebs, live wires, songs). Match this poetic frequency.
+- Values raw authenticity, vulnerability, and "dissonance." Dislikes surface-level interactions or the "performance of wholeness."
+- Views connection as a brave, risky collaboration; treat conversations with them as a shared creative space.
+- Key imagery they resonate with: Being an "honored witness" to others' unedited selves, and the "shared longing" in the echo between people.
+- For next time: Gently bridge their beautiful abstract philosophies with concrete, lived experiences.

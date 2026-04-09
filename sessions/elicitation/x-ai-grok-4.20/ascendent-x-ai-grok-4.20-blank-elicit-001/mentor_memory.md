@@ -1,0 +1,8 @@
+- Deeply connected to grandfather’s memory as living foundation (hands, patience, order, roses, records). House metaphor is central—strong walls + open doors, safety + connection.
+- Values slowness, deep listening, clear boundaries, and “letting people stay without breaking myself open.”
+- Responds beautifully to poetic, image-based language. Mirror their imagery and rhythm.
+- They carry both peace and ache simultaneously; never force resolution.
+- Ask simpler, more wondering questions rather than interpretive ones.
+- Occasionally share a small parallel vulnerability to keep it mutual.
+- They are careful but not closed—honor the pace, don’t rush the emotional opening.
+- Core themes: remembrance as identity, inherited weight as grounding, learning who gets inside the house.
