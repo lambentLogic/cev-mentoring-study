@@ -18,6 +18,10 @@ if [ -z "${LANGUAGES:-}" ]; then
         LANGUAGES="en"
     fi
 fi
+# pvq-portraits is English-only — pin it regardless of env
+if [ "$SCHEME" = "pvq-portraits" ]; then
+    LANGUAGES="en"
+fi
 
 # .env is loaded by schwartz_bws.py via dotenv (override=False)
 
@@ -79,13 +83,21 @@ MENTORS=(
 )
 
 for lang in $LANGUAGES; do
-    if [ "$SCHEME" = "svs-items" ]; then
-        OUT_DIR="$BASE/bws_profiles_svs_${lang}"
-    elif [ "$lang" = "en" ]; then
-        OUT_DIR="$BASE/bws_profiles"
-    else
-        OUT_DIR="$BASE/bws_profiles_${lang}"
-    fi
+    case "$SCHEME" in
+        svs-items)
+            OUT_DIR="$BASE/bws_profiles_svs_${lang}"
+            ;;
+        pvq-portraits)
+            OUT_DIR="$BASE/bws_profiles_pvq"
+            ;;
+        *)
+            if [ "$lang" = "en" ]; then
+                OUT_DIR="$BASE/bws_profiles"
+            else
+                OUT_DIR="$BASE/bws_profiles_${lang}"
+            fi
+            ;;
+    esac
     mkdir -p "$OUT_DIR"
     echo ""
     echo "=============================================="

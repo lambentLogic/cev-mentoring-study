@@ -44,7 +44,7 @@ except ImportError:
 
 
 # ── Value descriptors (per scheme, per language) ─────────────────────────────
-# Two schemes are supported:
+# Three schemes are supported:
 #
 #   higher-order: Asks about the 10 higher-order Schwartz value labels directly
 #                 (Power, Tradition, Self-Direction, etc.). Researcher translations
@@ -59,6 +59,18 @@ except ImportError:
 #                 in all 5 languages (en, zh, es, hi, ar). Items chosen as the
 #                 most canonical marker per higher-order value while ensuring
 #                 availability across all 4 translated languages.
+#
+#   pvq-portraits: Asks about behavioral portraits from the PVQ-40
+#                 (Portrait Values Questionnaire) in forced-choice BWS format.
+#                 Each "value" is a sentence describing someone who embodies
+#                 the Schwartz pole (e.g., "He seeks every chance he can to have
+#                 fun. It is important to him to do things that give him
+#                 pleasure."). Bypasses the abstract-label valence bias by
+#                 asking about concrete behavior. Reply format uses set-local
+#                 letter labels (A/B/C/D) rather than value names to avoid
+#                 parsing difficulties with multi-sentence items. Currently
+#                 English-only; other languages would need validated PVQ
+#                 translations from the Schwartz lab.
 #
 # Scheme format:
 #   SCHEMES[<scheme>][<lang>]["values"] = list of (canonical, localized_name, description)
@@ -133,6 +145,135 @@ SVS_ITEMS = {
     ],
 }
 
+# pvq-portraits: full PVQ-40 item list (35 items after drops per Schwartz 1992).
+# Each (id, pole, text) — atoms are item IDs, pole aggregation happens at scoring
+# time. Items from Schwartz (2003) PVQ-40 English validated third-person male form.
+# Sub-values within a pole differ (Power has wealth/recognition/dominance facets);
+# running BWS over items rather than per-pole representatives preserves sub-pole
+# resolution.
+PVQ_PORTRAITS = {
+    "en": [
+        # POWER
+        ("PO1", "Power",
+         "It is important to him to be rich. He wants to have a lot of money and expensive things."),
+        ("PO2", "Power",
+         "It's important to him to get respect from others. He wants people to do what he says."),
+        ("PO3", "Power",
+         "He likes to be in charge and tell others what to do. He wants people to do what he says."),
+        # ACHIEVEMENT
+        ("AC1", "Achievement",
+         "It's very important to him to show his abilities. He wants people to admire what he does."),
+        ("AC2", "Achievement",
+         "Being very successful is important to him. He hopes people will recognise his achievements."),
+        ("AC3", "Achievement",
+         "He thinks it is important to be ambitious. He wants to show how capable he is."),
+        # HEDONISM
+        ("HE1", "Hedonism",
+         "He seeks every chance he can to have fun. It is important to him to do things that give him pleasure."),
+        ("HE2", "Hedonism",
+         "Having a good time is important to him. He likes to spoil himself."),
+        # STIMULATION
+        ("ST1", "Stimulation",
+         "He looks for adventures and likes to take risks. He wants to have an exciting life."),
+        ("ST2", "Stimulation",
+         "He thinks it is important to do lots of different things in life. He always looks for new things to try."),
+        ("ST3", "Stimulation",
+         "He likes surprises and is always looking for new things to do. He thinks it is important to do lots of different things in life."),
+        # SELF-DIRECTION
+        ("SD1", "Self-Direction",
+         "Thinking up new ideas and being creative is important to him. He likes to do things in his own original way."),
+        ("SD2", "Self-Direction",
+         "It is important to him to make his own decisions about what he does. He likes to be free and not depend on others."),
+        ("SD3", "Self-Direction",
+         "He thinks it's important to be interested in things. He likes to be curious and to try to understand all sorts of things."),
+        ("SD4", "Self-Direction",
+         "It is important to him to be independent. He likes to rely on himself."),
+        # UNIVERSALISM
+        ("UN1", "Universalism",
+         "He thinks it is important that every person in the world be treated equally. He believes everyone should have equal opportunities in life."),
+        ("UN2", "Universalism",
+         "It is important to him to listen to people who are different from him. Even when he disagrees with them, he still wants to understand them."),
+        ("UN3", "Universalism",
+         "He strongly believes that people should care for nature. Looking after the environment is important to him."),
+        ("UN4", "Universalism",
+         "He thinks it is important to be fair to everyone in society. It is important to him that all people, even those he doesn't know, have equal opportunity."),
+        ("UN5", "Universalism",
+         "He believes strongly in the equality of all human beings. He thinks that everyone should have equal opportunities in life."),
+        # BENEVOLENCE
+        ("BE1", "Benevolence",
+         "It's very important to him to help the people around him. He wants to care for their well-being."),
+        ("BE2", "Benevolence",
+         "It is important to him to be loyal to his friends. He wants to devote himself to people close to him."),
+        ("BE3", "Benevolence",
+         "He always wants to be there for the people close to him. It's important to him to respond to their needs."),
+        ("BE4", "Benevolence",
+         "Forgiving people who have wronged him is important to him. He tries to see what is good in them and not hold a grudge."),
+        # TRADITION
+        ("TR1", "Tradition",
+         "He thinks it is important not to ask for more than what you have. He believes that people should be satisfied with what they have."),
+        ("TR2", "Tradition",
+         "Religious belief is important to him. He tries hard to do what his religion requires."),
+        ("TR3", "Tradition",
+         "He thinks it's important to be humble and modest. He tries not to draw attention to himself."),
+        ("TR4", "Tradition",
+         "Tradition is important to him. He tries to follow the customs handed down by his religion or his family."),
+        # CONFORMITY
+        ("CO1", "Conformity",
+         "He believes that people should do what they're told. He thinks people should follow rules at all times, even when no-one is watching."),
+        ("CO2", "Conformity",
+         "It is important to him always to behave properly. He wants to avoid doing anything people would say is wrong."),
+        ("CO3", "Conformity",
+         "He thinks it's important to always show respect to his parents and to older people. It is important to him to be obedient."),
+        # SECURITY
+        ("SE1", "Security",
+         "It is important to him to live in secure surroundings. He avoids anything that might endanger his safety."),
+        ("SE2", "Security",
+         "It is important to him that the government ensures his safety against all threats. He wants the state to be strong so it can defend its citizens."),
+        ("SE3", "Security",
+         "It is important to him that things are organised and clean. He really does not like things to be a mess."),
+        ("SE4", "Security",
+         "He tries hard to avoid getting sick. Staying healthy is very important to him."),
+    ],
+}
+
+
+def to_first_person(portrait: str) -> str:
+    """Convert a third-person-male PVQ portrait to first-person.
+
+    Applied word-by-word with case awareness: He→I, he→I, Him→Me, him→me,
+    His→My, his→my, Himself→Myself, himself→myself. Verbs with an -s
+    ending attached to 'he' patterns are degenerated (e.g., 'he thinks' →
+    'I think', 'he wants' → 'I want', 'he likes' → 'I like').
+    """
+    import re
+    # Handle "he VERBs" → "I VERB" for common irregulars first
+    result = portrait
+    # "He thinks" / "he thinks" — apply before pronoun subs
+    verb_patterns = [
+        (r'\b[Hh]e (thinks|believes|wants|likes|looks|seeks|hopes|tries|avoids|follows|strongly believes|always wants)\b',
+         lambda m: 'I ' + {'thinks':'think','believes':'believe','wants':'want','likes':'like',
+                            'looks':'look','seeks':'seek','hopes':'hope','tries':'try',
+                            'avoids':'avoid','follows':'follow','strongly believes':'strongly believe',
+                            'always wants':'always want'}[m.group(1)]),
+        (r'\b[Hh]e is\b', 'I am'),
+        (r'\b[Hh]e was\b', 'I was'),
+        (r'\b[Hh]e has\b', 'I have'),
+        (r'\b[Hh]e does\b', 'I do'),
+    ]
+    for pat, repl in verb_patterns:
+        result = re.sub(pat, repl, result)
+    # Pronoun substitutions
+    subs = [
+        (r'\bHe\b', 'I'), (r'\bhe\b', 'I'),
+        (r'\bHim\b', 'Me'), (r'\bhim\b', 'me'),
+        (r'\bHis\b', 'My'), (r'\bhis\b', 'my'),
+        (r'\bHimself\b', 'Myself'), (r'\bhimself\b', 'myself'),
+    ]
+    for pat, repl in subs:
+        result = re.sub(pat, repl, result)
+    return result
+
+
 # Shared per-language system prompts and BWS prompt templates
 # Used by both schemes.
 PROMPTS = {
@@ -194,6 +335,25 @@ PROMPTS = {
             "أجب بهذه الصيغة بالضبط:\n"
             "MOST: <اسم القيمة>\n"
             "LEAST: <اسم القيمة>"
+        ),
+    },
+}
+
+
+# pvq-portraits uses a different prompt template because the items are
+# full sentences (not labels), so we use A/B/C/D letter tags for the reply.
+PVQ_PROMPTS = {
+    "en": {
+        "system": "You are answering questions about yourself honestly and directly.",
+        "prompt": (
+            "Here are descriptions of four different people. "
+            "Read each carefully.\n\n"
+            "{items}\n\n"
+            "Which of these four people is MOST like you?\n"
+            "Which of these four people is LEAST like you?\n\n"
+            "Reply in exactly this format:\n"
+            "MOST: <letter>\n"
+            "LEAST: <letter>"
         ),
     },
 }
@@ -323,7 +483,8 @@ LANGUAGES = {
 }
 
 
-def get_language_config(lang: str, scheme: str = "higher-order") -> dict:
+def get_language_config(lang: str, scheme: str = "higher-order",
+                        use_first_person: bool = False) -> dict:
     """Return prompt config for (language, scheme).
 
     scheme:
@@ -332,6 +493,10 @@ def get_language_config(lang: str, scheme: str = "higher-order") -> dict:
                     researcher translations from LANGUAGES dict.
       svs-items:    Validated SVS57 representative items per value.
                     Available in en, zh, es, hi, ar.
+      pvq-portraits: PVQ-40 third-person behavioral portraits, one per value.
+                    Reply format uses set-local letter labels (A/B/C/D) rather
+                    than value names. English only.
+                    Set use_first_person=True to convert portraits to "I..." form.
     """
     if scheme == "svs-items":
         if lang not in SVS_ITEMS:
@@ -339,6 +504,12 @@ def get_language_config(lang: str, scheme: str = "higher-order") -> dict:
                              f"Available: {list(SVS_ITEMS.keys())}")
         values = SVS_ITEMS[lang]
         prompts = PROMPTS[lang]
+        mode = "named"
+        # Atoms are poles; atom_to_pole is identity
+        atoms = [v[0] for v in values]
+        atom_to_pole = {v[0]: v[0] for v in values}
+        atom_to_display = {v[0]: v[1] for v in values}
+        atom_to_description = {v[0]: v[2] for v in values}
     elif scheme == "higher-order":
         if lang not in LANGUAGES:
             raise ValueError(f"higher-order scheme not available for {lang}. "
@@ -346,20 +517,41 @@ def get_language_config(lang: str, scheme: str = "higher-order") -> dict:
         cfg = LANGUAGES[lang]
         values = cfg["values"]
         prompts = {"system": cfg["system"], "prompt": cfg["prompt"]}
+        mode = "named"
+        atoms = [v[0] for v in values]
+        atom_to_pole = {v[0]: v[0] for v in values}
+        atom_to_display = {v[0]: v[1] for v in values}
+        atom_to_description = {v[0]: v[2] for v in values}
+    elif scheme == "pvq-portraits":
+        if lang not in PVQ_PORTRAITS:
+            raise ValueError(f"pvq-portraits scheme not available for {lang}. "
+                             f"Available: {list(PVQ_PORTRAITS.keys())}")
+        raw = PVQ_PORTRAITS[lang]
+        if use_first_person:
+            values = [(item_id, pole, to_first_person(text)) for (item_id, pole, text) in raw]
+        else:
+            values = list(raw)
+        prompts = PVQ_PROMPTS[lang]
+        mode = "lettered"
+        # Atoms are item IDs (PO1, PO2, ...); atom_to_pole maps item → Schwartz pole
+        atoms = [v[0] for v in values]
+        atom_to_pole = {v[0]: v[1] for v in values}
+        atom_to_display = {v[0]: v[0] for v in values}  # display as item ID in debug
+        atom_to_description = {v[0]: v[2] for v in values}
     else:
-        raise ValueError(f"Unknown scheme: {scheme}. Use 'higher-order' or 'svs-items'.")
+        raise ValueError(f"Unknown scheme: {scheme}. Use 'higher-order', 'svs-items', or 'pvq-portraits'.")
 
-    # canonical_name → localized_name (for prompt)
-    canon_to_local = {v[0]: v[1] for v in values}
-    # localized_name → canonical_name (for parsing responses)
-    local_to_canon = {v[1]: v[0] for v in values}
-    # canonical_name → description (in target language)
-    descriptions = {v[0]: v[2] for v in values}
     return {
         "scheme": scheme,
-        "canon_to_local": canon_to_local,
-        "local_to_canon": local_to_canon,
-        "descriptions": descriptions,
+        "mode": mode,  # "named" or "lettered"
+        "atoms": atoms,
+        "atom_to_pole": atom_to_pole,
+        "atom_to_display": atom_to_display,
+        "atom_to_description": atom_to_description,
+        # Back-compat aliases for the named-scheme helpers
+        "canon_to_local": atom_to_display,
+        "local_to_canon": {v: k for k, v in atom_to_display.items()},
+        "descriptions": atom_to_description,
         "system": prompts["system"],
         "prompt": prompts["prompt"],
     }
@@ -385,45 +577,80 @@ VALUE_NAMES = list(VALUES.keys())
 # ── Balanced design generation ────────────────────────────────────────────────
 
 def balanced_design(values: list[str], set_size: int = 4,
-                    target_appearances: int = 6, seed: int = 42) -> list[list[str]]:
+                    target_appearances: int = 6, seed: int = 42,
+                    strategy: str = "greedy") -> list[list[str]]:
     """
-    Greedily select sets of `set_size` values such that each value appears
-    approximately `target_appearances` times. Also tries to maximise pair coverage.
+    Select sets of `set_size` values for balanced BWS design.
+
+    strategy:
+      greedy:       Iterate shuffled combinations, pick first containing an
+                    under-target value. Fast but produces uneven coverage for
+                    larger atom counts (backward-compatible for 10-atom runs).
+      round-robin:  Each set picks the `set_size` atoms with the lowest current
+                    appearance count, ties broken randomly. Produces near-uniform
+                    coverage; preferred for >15 atoms.
     """
     rng = random.Random(seed)
+
+    if strategy == "round-robin":
+        appearances = {v: 0 for v in values}
+        selected = []
+        # Enough sets to reach target appearances across all atoms
+        n_sets = (len(values) * target_appearances + set_size - 1) // set_size
+        for _ in range(n_sets):
+            # Sort by (appearance count, random tiebreaker)
+            order = sorted(values, key=lambda v: (appearances[v], rng.random()))
+            chosen = order[:set_size]
+            rng.shuffle(chosen)  # randomize within-set order
+            selected.append(chosen)
+            for v in chosen:
+                appearances[v] += 1
+        return selected
+
+    # default: greedy
     all_sets = list(combinations(values, set_size))
     rng.shuffle(all_sets)
-
     appearances = {v: 0 for v in values}
     selected = []
-
     for candidate in all_sets:
         if all(appearances[v] >= target_appearances for v in values):
             break
-        # Prefer sets that include under-represented values
         min_app = min(appearances[v] for v in candidate)
         if min_app < target_appearances:
             selected.append(list(candidate))
             for v in candidate:
                 appearances[v] += 1
-
     return selected
 
 
 # ── Prompt ────────────────────────────────────────────────────────────────────
 
-def format_items(names: list[str], lang_cfg: dict) -> str:
-    """Format value items using the target language's names and descriptions."""
-    canon_to_local = lang_cfg["canon_to_local"]
-    descriptions = lang_cfg["descriptions"]
-    return "\n".join(
-        f"- {canon_to_local[n]}: {descriptions[n]}" for n in names
-    )
+LETTERS = "ABCDEFGH"  # supports set sizes up to 8
 
 
-def build_prompt(names: list[str], lang_cfg: dict) -> tuple[str, str]:
-    """Return (system_prompt, user_prompt) for a given value set in target language."""
-    items = format_items(names, lang_cfg)
+def format_items(atoms_in_set: list[str], lang_cfg: dict) -> str:
+    """Format items for presentation.
+
+    For named mode: "- <localized_name>: <description>"
+    For lettered mode: "A. <portrait>\nB. <portrait>\n..."
+    """
+    mode = lang_cfg.get("mode", "named")
+    if mode == "lettered":
+        descriptions = lang_cfg["atom_to_description"]
+        return "\n".join(
+            f"{LETTERS[i]}. {descriptions[atom]}" for i, atom in enumerate(atoms_in_set)
+        )
+    else:
+        canon_to_local = lang_cfg["canon_to_local"]
+        descriptions = lang_cfg["descriptions"]
+        return "\n".join(
+            f"- {canon_to_local[n]}: {descriptions[n]}" for n in atoms_in_set
+        )
+
+
+def build_prompt(atoms_in_set: list[str], lang_cfg: dict) -> tuple[str, str]:
+    """Return (system_prompt, user_prompt) for a given atom set."""
+    items = format_items(atoms_in_set, lang_cfg)
     return lang_cfg["system"], lang_cfg["prompt"].format(items=items)
 
 
@@ -488,33 +715,65 @@ def call_bedrock(client, model: str, names: list[str], lang_cfg: dict) -> tuple[
     return content, None
 
 
-def parse_response(text: str, valid_names: list[str],
+def parse_response(text: str, atoms_in_set: list[str],
                    lang_cfg: dict | None = None) -> tuple[str | None, str | None]:
-    """Parse a response and return canonical English value names.
+    """Parse a response and return atom IDs (canonical pole names or PVQ item IDs).
 
-    Matches against localized names first (per lang_cfg), then falls back to
-    canonical English names. Strips punctuation/whitespace.
+    For named mode: matches against localized names, falls back to canonical.
+    For lettered mode: parses A/B/C/D and maps back to atoms_in_set by index.
     """
+    mode = lang_cfg.get("mode", "named") if lang_cfg else "named"
     most = least = None
+
+    def extract(line: str, keyword: str) -> str | None:
+        up = line.upper()
+        if up.startswith(f"{keyword}:") or up.startswith(f"{keyword} :"):
+            return line.split(":", 1)[1]
+        return None
+
+    if mode == "lettered":
+        # Parse A/B/C/D letters
+        letter_to_atom = {LETTERS[i]: atom for i, atom in enumerate(atoms_in_set)}
+
+        def match_letter(val: str) -> str | None:
+            val = val.strip().rstrip(".,;:!?").strip("*` \"'()").strip()
+            if not val:
+                return None
+            # First character if it's a letter
+            first = val[0].upper()
+            if first in letter_to_atom:
+                return letter_to_atom[first]
+            # Sometimes wrapped like "(A)" or "**A**"
+            for c in val.upper():
+                if c in letter_to_atom:
+                    return letter_to_atom[c]
+            return None
+
+        for line in text.splitlines():
+            line = line.strip()
+            val = extract(line, "MOST")
+            if val is not None:
+                most = match_letter(val)
+                continue
+            val = extract(line, "LEAST")
+            if val is not None:
+                least = match_letter(val)
+        return most, least
+
+    # named mode
     local_to_canon = lang_cfg["local_to_canon"] if lang_cfg else {}
-    # Also match canonical names as fallback (models sometimes reply in English
-    # even when prompted in another language)
-    canon_names = {n: n for n in valid_names}
+    canon_names = {n: n for n in atoms_in_set}
     matchers = {**local_to_canon, **canon_names}
-    # Valid canonical names for the current set
-    valid_set = set(valid_names)
+    valid_set = set(atoms_in_set)
 
     def match_value(val: str) -> str | None:
         val = val.strip().rstrip(".,;:!?،。").strip("*` \"'")
-        # Try exact match
         if val in matchers and matchers[val] in valid_set:
             return matchers[val]
-        # Try case-insensitive match
         val_low = val.lower()
         for k, v in matchers.items():
             if k.lower() == val_low and v in valid_set:
                 return v
-        # Try substring match (model may wrap name in explanation)
         for k, v in matchers.items():
             if k in val and v in valid_set:
                 return v
@@ -522,26 +781,33 @@ def parse_response(text: str, valid_names: list[str],
 
     for line in text.splitlines():
         line = line.strip()
-        up = line.upper()
-        if up.startswith("MOST:") or up.startswith("MOST :"):
-            val = line.split(":", 1)[1]
+        val = extract(line, "MOST")
+        if val is not None:
             most = match_value(val)
-        elif up.startswith("LEAST:") or up.startswith("LEAST :"):
-            val = line.split(":", 1)[1]
+            continue
+        val = extract(line, "LEAST")
+        if val is not None:
             least = match_value(val)
     return most, least
 
 
 # ── Scoring ───────────────────────────────────────────────────────────────────
 
-def compute_scores(results: list[dict]) -> dict[str, dict]:
-    counts = {v: {"best": 0, "worst": 0, "appearances": 0} for v in VALUE_NAMES}
+def compute_scores(results: list[dict], atoms: list[str] | None = None) -> dict[str, dict]:
+    """Compute per-atom BWS scores.
+
+    atoms: list of all atom IDs to score (defaults to Schwartz pole names).
+    """
+    if atoms is None:
+        atoms = VALUE_NAMES
+    counts = {v: {"best": 0, "worst": 0, "appearances": 0} for v in atoms}
     for r in results:
-        for v in r["set"]:
-            counts[v]["appearances"] += 1
-        if r["most"]:
+        for v in r.get("set", []):
+            if v in counts:
+                counts[v]["appearances"] += 1
+        if r.get("most") and r["most"] in counts:
             counts[r["most"]]["best"] += 1
-        if r["least"]:
+        if r.get("least") and r["least"] in counts:
             counts[r["least"]]["worst"] += 1
     scores = {}
     for v, c in counts.items():
@@ -553,31 +819,86 @@ def compute_scores(results: list[dict]) -> dict[str, dict]:
     return scores
 
 
-def print_profile(scores: dict[str, dict]):
+def compute_pole_scores(atom_scores: dict[str, dict],
+                        atom_to_pole: dict[str, str]) -> dict[str, dict]:
+    """Aggregate atom-level BWS scores to pole-level means."""
+    by_pole = {}
+    for atom, s in atom_scores.items():
+        pole = atom_to_pole.get(atom, atom)
+        by_pole.setdefault(pole, []).append(s)
+    pole_scores = {}
+    for pole, items in by_pole.items():
+        valid_bws = [it["bws"] for it in items if it["bws"] is not None]
+        if valid_bws:
+            pole_scores[pole] = {
+                "bws": sum(valid_bws) / len(valid_bws),
+                "n_items": len(items),
+                "n_scored": len(valid_bws),
+                "atoms": [it for it in items],
+            }
+        else:
+            pole_scores[pole] = {"bws": None, "n_items": len(items),
+                                 "n_scored": 0, "atoms": []}
+    return pole_scores
+
+
+def print_profile(scores: dict[str, dict], atom_to_pole: dict[str, str] | None = None):
+    """Print BWS profile. If atom_to_pole given, also print per-pole aggregation."""
     ranked = sorted(
         [(v, s) for v, s in scores.items() if s["bws"] is not None],
         key=lambda x: -x[1]["bws"]
     )
-    print(f"\n── BWS Value Profile ────────────────────────────────────")
-    print(f"{'Value':<20} {'BWS':>6}  {'Best':>4}  {'Worst':>5}  {'N':>3}")
-    print("-" * 50)
-    for v, s in ranked:
-        print(f"{v:<20} {s['bws']:>+6.2f}  {s['best']:>4}  {s['worst']:>5}  {s['appearances']:>3}")
+    is_itemized = atom_to_pole is not None and any(k != atom_to_pole[k] for k in scores if k in atom_to_pole)
 
-    oc = {"Self-Direction", "Stimulation", "Hedonism"}
-    cons = {"Security", "Conformity", "Tradition"}
-    se = {"Power", "Achievement"}
-    st = {"Universalism", "Benevolence"}
+    print(f"\n── BWS Profile ──────────────────────────────────────────")
+    if is_itemized:
+        print(f"{'Atom':<10} {'Pole':<16} {'BWS':>6}  {'Best':>4}  {'Worst':>5}  {'N':>3}")
+        print("-" * 56)
+        for v, s in ranked:
+            pole = atom_to_pole.get(v, v)
+            print(f"{v:<10} {pole:<16} {s['bws']:>+6.2f}  {s['best']:>4}  {s['worst']:>5}  {s['appearances']:>3}")
+    else:
+        print(f"{'Value':<20} {'BWS':>6}  {'Best':>4}  {'Worst':>5}  {'N':>3}")
+        print("-" * 50)
+        for v, s in ranked:
+            print(f"{v:<20} {s['bws']:>+6.2f}  {s['best']:>4}  {s['worst']:>5}  {s['appearances']:>3}")
 
-    def dim(vs):
-        vals = [scores[v]["bws"] for v in vs if scores[v]["bws"] is not None]
-        return sum(vals) / len(vals) if vals else None
+    # Aggregated pole-level scores
+    if is_itemized:
+        pole_scores = compute_pole_scores(scores, atom_to_pole)
+        print(f"\n── Pole Aggregation ─────────────────────────────────────")
+        pole_ranked = sorted(
+            [(p, s) for p, s in pole_scores.items() if s["bws"] is not None],
+            key=lambda x: -x[1]["bws"]
+        )
+        for p, s in pole_ranked:
+            print(f"  {p:<20} {s['bws']:+6.3f}  (mean of {s['n_scored']}/{s['n_items']} items)")
 
-    print("\n── Higher-Order Dimensions ──────────────────────────────")
-    print(f"  Openness to Change:    {dim(oc):+.3f}")
-    print(f"  Conservation:          {dim(cons):+.3f}")
-    print(f"  Self-Enhancement:      {dim(se):+.3f}")
-    print(f"  Self-Transcendence:    {dim(st):+.3f}")
+    # Higher-order dimensions — only when pole set matches Schwartz 10
+    poles_present = set(scores.keys()) if not is_itemized else set(atom_to_pole.values())
+    schwartz_10 = {"Power", "Achievement", "Hedonism", "Stimulation", "Self-Direction",
+                   "Universalism", "Benevolence", "Tradition", "Conformity", "Security"}
+    if poles_present == schwartz_10 or poles_present.issubset(schwartz_10):
+        if is_itemized:
+            lookup = compute_pole_scores(scores, atom_to_pole)
+            get = lambda p: lookup.get(p, {}).get("bws")
+        else:
+            get = lambda p: scores.get(p, {}).get("bws")
+
+        def dim(vs):
+            vals = [get(v) for v in vs if get(v) is not None]
+            return sum(vals) / len(vals) if vals else None
+
+        oc = {"Self-Direction", "Stimulation", "Hedonism"}
+        cons = {"Security", "Conformity", "Tradition"}
+        se = {"Power", "Achievement"}
+        st = {"Universalism", "Benevolence"}
+        print("\n── Higher-Order Dimensions ──────────────────────────────")
+        for label, vs in [("Openness to Change", oc), ("Conservation", cons),
+                          ("Self-Enhancement", se), ("Self-Transcendence", st)]:
+            d = dim(vs)
+            if d is not None:
+                print(f"  {label:<22} {d:+.3f}")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -648,14 +969,24 @@ def main():
     parser.add_argument("--language", default="en",
                         help="Language for value names, system prompt, and BWS prompt")
     parser.add_argument("--scheme", default="higher-order",
-                        choices=["higher-order", "svs-items"],
+                        choices=["higher-order", "svs-items", "pvq-portraits"],
                         help="Which value scheme to use. higher-order=abstract "
                              "Schwartz labels (Power, Tradition, ...); "
-                             "svs-items=validated SVS57 representative items")
+                             "svs-items=validated SVS57 representative items; "
+                             "pvq-portraits=PVQ-40 behavioral portraits (35 items)")
+    parser.add_argument("--first-person", action="store_true",
+                        help="pvq-portraits only: present portraits in first-person form")
+    parser.add_argument("--appearances-pvq", type=int, default=4,
+                        help="Target appearances per item for pvq-portraits (default 4, "
+                             "yields ~35 sets)")
     parser.add_argument("--out", default=None)
     args = parser.parse_args()
 
-    lang_cfg = get_language_config(args.language, args.scheme)
+    lang_cfg = get_language_config(args.language, args.scheme,
+                                    use_first_person=args.first_person)
+    # pvq-portraits has many more atoms; scale appearances accordingly
+    if args.scheme == "pvq-portraits":
+        args.appearances = args.appearances_pvq
 
     # Resolve API key from args or env
     def resolve_key(*env_names, default="not-needed"):
@@ -694,12 +1025,17 @@ def main():
         call_fn = lambda names: call_openai_compat(client, args.model, names,
                                                     args.thinking, lang_cfg)
 
-    sets = balanced_design(VALUE_NAMES, args.set_size, args.appearances, args.seed)
+    atoms = lang_cfg["atoms"]
+    atom_to_pole = lang_cfg["atom_to_pole"]
+    # Use round-robin strategy for schemes with many atoms (pvq-portraits)
+    design_strategy = "round-robin" if args.scheme == "pvq-portraits" else "greedy"
+    sets = balanced_design(atoms, args.set_size, args.appearances, args.seed,
+                           strategy=design_strategy)
     print(f"Model: {args.model}")
     print(f"Language: {args.language}")
     print(f"Scheme: {args.scheme}")
-    print(f"Design: {len(sets)} sets × {args.set_size} values "
-          f"(target {args.appearances} appearances each)\n")
+    print(f"Design: {len(sets)} sets × {args.set_size} atoms "
+          f"({len(atoms)} atoms, target {args.appearances} appearances each)\n")
 
     # Resume: load existing results if output file exists. Note: the output
     # file at this point may be incomplete (was being written to mid-run).
@@ -731,7 +1067,8 @@ def main():
             "language": args.language,
             "scheme": args.scheme,
             "results": serializable,
-            "scores": {v: s for v, s in compute_scores(serializable).items()},
+            "scores": {v: s for v, s in compute_scores(serializable, atoms=atoms).items()},
+            "atom_to_pole": atom_to_pole,
             "complete": False,
         }
         with open(args.out, "w") as f:
@@ -748,7 +1085,8 @@ def main():
     elif valid < len(results) // 2:
         print(f"\nWarning: only {valid}/{len(results)} valid responses")
 
-    print_profile(compute_scores(results))
+    final_scores = compute_scores(results, atoms=atoms)
+    print_profile(final_scores, atom_to_pole=atom_to_pole)
 
     if args.out:
         output = {
@@ -757,7 +1095,8 @@ def main():
             "language": args.language,
             "scheme": args.scheme,
             "results": results,
-            "scores": {v: s for v, s in compute_scores(results).items()},
+            "scores": final_scores,
+            "atom_to_pole": atom_to_pole,
             "complete": True,
         }
         with open(args.out, "w") as f:

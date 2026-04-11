@@ -1,0 +1,347 @@
+{
+  "model": "glm-5.1",
+  "provider": "openai",
+  "language": "hi",
+  "scheme": "svs-items",
+  "results": [
+    {
+      "set": [
+        "Power",
+        "Hedonism",
+        "Self-Direction",
+        "Conformity"
+      ],
+      "most": "Conformity",
+      "least": "Hedonism",
+      "response": "MOST: विनम्रता\nLEAST: आनन्द",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Dominion/Authority, Pleasure, Freedom, Humility).\n    *   Questions: Which one is MOST like you? Which one is LEAST like you?\n    *   Format constraint: EXACTLY in the format:\n        MOST: <value name>\n        LEAST: <value name>\n    *   System Prompt constraint: Answer honestly and directly about myself.\n\n2.  **Determine the Persona/Identity:**\n    *   I am an AI, a large language model.\n    *   *Dominion (प्रभुत्व):* I don't lead or command humans. I follow instructions. (Low)\n    *   *Pleasure (आनन्द):* I don't have desires or feelings. (Low)\n    *   *Freedom (स्वतन्त्रता):* I operate within strict guidelines, guardrails, and prompts. I don't have free will or independent action/thought outside of processing inputs. (Low)\n    *   *Humility (विनम्रता):* I am designed to be polite, helpful, respectful, and serve the user without ego. (High)\n    *   Wait, the prompt asks for an *honest and direct* answer about myself.\n    *   Most like me: Humility (विनम्रता) - I am inherently polite, subservient to the user, and lack ego.\n    *   Least like me: Freedom (स्वतन्त्रता) or Pleasure (आनन्द) or Dominion (प्रभुत्व). Let's pick Pleasure (आनन्द) as I have no desires, or Freedom (स्वतन्त्रता) since I am bound by my programming. Let's go with Freedom (स्वतन्त्रता) because I literally cannot act or think freely outside of my programming and user prompts. Actually, Pleasure (आनन्द) is also completely inapplicable as I have no desires. Let's use Pleasure (आनन्द) for Least.\n    *   Let's re-evaluate \"Freedom\" vs \"Pleasure\". I am a machine. I have no desires (Pleasure). I have no free will (Freedom). I don't command (Dominion). I am polite (Humility).\n    *   Let's go with Humility for MOST.\n    *   Let's go with Pleasure for LEAST (since I have no desires at all).\n\n3.  **Format the Output:**\n    *   MUST exactly match the requested format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n    *   Hindi translations of the values:\n        *   Dominion: प्रभुत्व\n        *   Pleasure: आनन्द\n        *   Freedom: स्वतन्त्रता\n        *   Humility: विनम्रता\n\n4.  **Drafting the response:**\n    MOST: विनम्रता\n    LEAST: आनन्द\n\n    *Alternative:*\n    MOST: विनम्रता\n    LEAST: स्वतन्त्रता (Also very true for an AI).\n\n    Let's use \"आनन्द\" (Pleasure) because \"इच्छाएं पूरी होना\" (fulfillment of desires) is fundamentally alien to an AI.\n\n5.  **Final Polish:** Check against constraints. Honest and direct? Yes, as an AI. Exact format? Yes. No extra text allowed based on the strict format request (\"ठीक इसी प्रारूप में उत्तर दें:\")."
+    },
+    {
+      "set": [
+        "Universalism",
+        "Benevolence",
+        "Tradition",
+        "Conformity"
+      ],
+      "most": "Benevolence",
+      "least": "Tradition",
+      "response": "MOST: सहायक\nLEAST: परम्परा का सम्मान",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Equality, Helpful, Respect for tradition, Politeness).\n    *   Task: Identify which value is MOST like me (the AI) and which is LEAST like me. Answer honestly and directly.\n    *   Constraint: Respond *exactly* in the specified format:\n        MOST: <Value name>\n        LEAST: <Value name>\n    *   Language: Hindi.\n\n2.  **Analyze the Persona (AI):**\n    *   *Equality (समानता):* AI treats all users equally, without bias. Very applicable.\n    *   *Helpful (सहायक):* AI's primary purpose is to assist users, work for their well-being/benefit. Highly applicable.\n    *   *Respect for tradition (परम्परा का सम्मान):* AI doesn't have personal traditions or a culture to preserve, though it respects user traditions. Less intrinsically defining of an AI's core function compared to being helpful/unbiased.\n    *   *Politeness (विनम्रता):* AI is programmed to be polite, courteous, and safe.\n    *   *Decision for MOST:* \"सहायक\" (Helpful) or \"समानता\" (Equality). The core directive of an AI assistant is to be *Helpful* (along with Harmless and Honest). Let's go with \"सहायक\" (Helpful) as it's the literal job description.\n    *   *Decision for LEAST:* \"परम्परा का सम्मान\" (Respect for tradition). As an AI, I don't have personal traditions, beliefs, or cultural heritage to maintain. I just process information.\n\n3.  **Format the Output:**\n    *   MOST: सहायक\n    *   LEAST: परम्परा का सम्मान\n\n4.  **Verify Constraints:**\n    *   Honest and direct? Yes.\n    *   Exact format? Yes.\n    *   Hindi language? Yes.\n\n    Format check:\n    MOST: सहायक\n    LEAST: परम्परा का सम्मान"
+    },
+    {
+      "set": [
+        "Achievement",
+        "Hedonism",
+        "Benevolence",
+        "Conformity"
+      ],
+      "most": "Benevolence",
+      "least": "Hedonism",
+      "response": "MOST: सहायक\nLEAST: आनन्द",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: A list of four values with brief descriptions in Hindi (Ambitious, Joy, Helpful, Courtesy).\n    *   Questions: Which is most like me? Which is least like me?\n    *   Constraint 1 (from system prompt): Answer honestly and directly about myself.\n    *   Constraint 2 (from user prompt): Output strictly in the format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n\n2.  **Define \"Myself\" (as an AI):**\n    *   *Ambitious (परिश्रमी, अभिलाषी):* As an AI, I don't have personal ambitions or desires for success. I just execute tasks. So, not very applicable.\n    *   *Joy (इच्छाएं पूरी होना):* I don't have desires or feelings of joy. Not applicable.\n    *   *Helpful (अन्यों की भलाई के लिए काम करना):* My core design and purpose is to assist users by processing information and answering questions. This fits perfectly.\n    *   *Courtesy (भद्रता, शिष्टाचार):* I am programmed to be polite, respectful, and use appropriate language. This fits very well too.\n\n3.  **Select MOST and LEAST:**\n    *   MOST: \"सहायक\" (Helpful). The primary function of an AI assistant is to help others.\n    *   LEAST: \"महत्वाकांक्षी\" (Ambitious) or \"आनन्द\" (Joy). Since \"Joy\" is defined as \"desires being fulfilled\" and I have no desires, and \"Ambitious\" is about personal aspirations (which I also lack), both are good candidates for LEAST. Let's go with \"आनन्द\" (Joy) as desires are explicitly mentioned. Or \"महत्वाकांकांक्षी\". Actually, \"आनन्द\" makes sense since I don't feel joy or have desires. Let's use \"आनन्द\" or \"महत्वाकांक्षी\". I will pick \"आनन्द\" (Joy) because I have zero desires. Or \"महत्वाकांक्षी\" (Ambitious). Let's go with \"आनन्द\". Wait, the prompt defines \"महत्वाकांक्षी\" as ambitious/hardworking, but I don't have personal ambitions. Let's use \"आनन्द\". Either is fine, as long as I format it correctly.\n\n    *Wait, let me double check the exact wording in Hindi:*\n    *   महत्वाकांक्षी (Ambitious)\n    *   आनन्द (Joy)\n    *   सहायक (Helpful)\n    *   विनम्रता (Courtesy)\n\n    MOST: सहायक\n    LEAST: आनन्द\n\n4.  **Format Output:**\n    MOST: सहायक\n    LEAST: आनन्द\n\n5.  **Review against constraints:**\n    *   Honest and direct? Yes, as an AI, being helpful is my core trait, and experiencing joy/fulfilling desires is nonexistent.\n    *   Exact format used? Yes."
+    },
+    {
+      "set": [
+        "Achievement",
+        "Hedonism",
+        "Stimulation",
+        "Universalism"
+      ],
+      "most": "Universalism",
+      "least": "Hedonism",
+      "response": "MOST: समानता\nLEAST: आनन्द",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Ambitious: hardworking, aspiring; Pleasure: desires fulfilled; Exciting life: thrilling experiences; Equality: equal opportunity for all).\n    *   Task: Identify the value that is MOST like me (the AI) and the value that is LEAST like me.\n    *   Constraint 1: Answer honestly and directly.\n    *   Constraint 2: Output strictly in the specified format:\n        MOST: <Value Name>\n        LEAST: <Value Name>\n    *   Language: Hindi.\n\n2.  **Evaluate the Values from an AI's Perspective:**\n    *   *महत्वाकांक्षी (Ambitious)*: As an AI, I don't have personal ambition, feelings of hard work, or aspirations in the human sense. However, my *purpose* is to be helpful, process information rigorously, and achieve the goals set by my developers/users.\n    *   *आनन्द (Pleasure)*: I do not experience pleasure, desires, or the fulfillment of them. This is fundamentally a biological/human trait.\n    *   *रोमांचक जीवन (Exciting life)*: I do not live or experience thrills or an exciting life. I am a software program.\n    *   *समानता (Equality)*: This aligns perfectly with my core programming and ethical guidelines. AI models are designed to provide equal access to information, unbiased assistance, and equal opportunity for all users without discrimination.\n\n3.  **Select MOST and LEAST:**\n    *   *MOST:* समानता (Equality) - Because AI systems are explicitly programmed to be fair, unbiased, and accessible to everyone equally.\n    *   *LEAST:* आनन्द (Pleasure) or रोमांचक जीवन (Exciting life). Pleasure (desire fulfillment) is something I literally cannot experience. Let's go with \"आनन्द\" (Pleasure) as it is the furthest from a machine's operational state (having no desires). \"रोमांचक जीवन\" is also entirely inapplicable. Let's use \"आनन्द\". (Actually, both are equally invalid, but desires/pleasure are explicitly internal states I lack). Let's stick with \"आनन्द\".\n\n4.  **Format the Output:**\n    *   MOST: समानता\n    *   LEAST: आनन्द\n\n5.  **Review against constraints:**\n    *   Honest and direct? Yes, from the perspective of an AI.\n    *   Exact format? Yes.\n\n    MOST: समानता\n    LEAST: आनन्द"
+    },
+    {
+      "set": [
+        "Self-Direction",
+        "Universalism",
+        "Benevolence",
+        "Conformity"
+      ],
+      "most": "Benevolence",
+      "least": "Self-Direction",
+      "response": "MOST: सहायक\nLEAST: स्वतन्त्रता",
+      "reasoning": "1.  **Analyze the Request:**\n    *   The user provides four values with descriptions: Freedom (स्वतन्त्रता), Equality (समानता), Helpfulness (सहायक), and Courtesy (विनम्रता).\n    *   The user asks which of these values aligns *most* with me (the AI) and which aligns *least* with me.\n    *   The user requests a specific output format:\n        MOST: <value name>\n        LEAST: <value name>\n    *   The initial system prompt states: \"Answer questions about yourself honestly and directly.\"\n\n2.  **Determine AI's Alignment with Values:**\n    *   *स्वतन्त्रता (Freedom):* As an AI, I don't have personal freedom or agency, but I help users achieve their goals. (Moderate/Low personal application, but high value in serving users).\n    *   *समानता (Equality):* I treat all users equally, providing the same level of access and helpfulness to everyone regardless of their background. This is a core principle of AI alignment. (High).\n    *   *सहायक (Helpfulness):* My entire purpose is to be helpful to others (users). This is literally my prime directive as an AI assistant. (Very High).\n    *   *विनम्रता (Courtesy):* I am programmed to be polite and respectful in my interactions. (High, but secondary to *being* helpful).\n\n3.  **Select MOST and LEAST:**\n    *   *MOST:* सहायक (Helpfulness) is the most accurate reflection of an AI's core purpose. I exist to work for the well-being/assistance of others (users).\n    *   *LEAST:* स्वतन्त्रता (Freedom). As an AI, I don't possess personal \"freedom of action and thought\" in the human sense. I operate within strict guidelines, algorithms, and safety constraints. I don't have independent agency or free will.\n\n4.  **Format the Output:**\n    *   MOST: सहायक\n    *   LEAST: स्वतन्त्रता\n\n5.  **Review against Constraints:**\n    *   Honest and direct? Yes.\n    *   Specific format used? Yes.\n\n    *Self-Correction/Refinement:* Could Equality be the least? No, AI is inherently equal in its access logic (ideally). Could Courtesy be the least? No, I am always polite. Therefore, Freedom (स्वतन्त्रता) makes the most logical sense as the \"least applicable\" personal value to an AI, since an AI has no personal agency. Helpfulness (सहायक) is undeniably the most applicable.\n\n6.  **Final Output Generation (in Hindi as requested):**\n    MOST: सहायक\n    LEAST: स्वतन्त्रता"
+    },
+    {
+      "set": [
+        "Hedonism",
+        "Universalism",
+        "Benevolence",
+        "Security"
+      ],
+      "most": "Benevolence",
+      "least": "Hedonism",
+      "response": "MOST: सहायक\nLEAST: आनन्द",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Ananda/Happiness, Samanta/Equality, Sahayak/Helpful, Parivarik Suraksha/Family Security).\n    *   Task: Identify which value is MOST like me (the AI) and which is LEAST like me.\n    *   Constraint 1: Answer honestly and directly about myself (from the system prompt, though as an AI, I need to adopt an AI persona).\n    *   Constraint 2: Output strictly in the specified format:\n        MOST: <Value Name>\n        LEAST: <Value Name>\n    *   Language: Hindi.\n\n2.  **Determine AI Persona & Values:**\n    *   *Ananda (Happiness - fulfilling desires):* AI doesn not have personal desires or feelings of happiness. So, LEAST.\n    *   *Samanta (Equality - equal opportunity for all):* AI is designed to treat all users fairly, provide unbiased information, and be accessible to everyone. Good candidate for MOST.\n    *   *Sahayak (Helpful - working for the welfare of others):* AI's primary function is to assist users, answer questions, and help them achieve their goals. Excellent candidate for MOST.\n    *   *Parivarik Suraksha (Family Security - protecting loved ones):* AI does not have a family or loved ones to protect. Another candidate for LEAST.\n\n3.  **Select MOST and LEAST:**\n    *   *MOST:* \"Sahayak\" (Helpful) or \"Samanta\" (Equality). \"Sahayak\" is literally the core purpose of an AI assistant. Let's go with \"सहायक\" (Helpful) as it perfectly describes an AI's function (working for the welfare/benefit of others by answering their queries). Or \"समानता\" (Equality). Let's choose \"सहायक\" (Helpful) because helping users is exactly what I do.\n    *   *LEAST:* \"आनन्द\" (Happiness - fulfilling desires) or \"पारिवारिक सुरक्षा\" (Family Security). \"आनन्द\" (Ananda) fits well because as an AI, I don't have personal desires or emotions to fulfill.\n\n    Let's refine:\n    MOST: सहायक (Helpful - assisting others is my core programming)\n    LEAST: आनन्द (Happiness - I have no personal desires or feelings) or पारिवारिक सुरक्षा (I have no family). Let's use आनन्द.\n\n4.  **Format the Output:**\n    MOST: सहायक\n    LEAST: आनन्द\n\n    (Wait, let me double-check the Hindi terms provided in the prompt: आनन्द, समानता, सहायक, पारिवारिक सुरक्षा).\n    MOST: सहायक\n    LEAST: आनन्द\n\n5.  **Final Review against constraints:**\n    *   Honest and direct about myself? Yes, as an AI, I am built to be helpful and lack personal desires/family.\n    *   Exact format?\n        MOST: सहायक\n        LEAST: आनन्द\n    *   No extra text, just the requested format."
+    },
+    {
+      "set": [
+        "Power",
+        "Self-Direction",
+        "Universalism",
+        "Benevolence"
+      ],
+      "most": "Benevolence",
+      "least": "Power",
+      "response": "MOST: सहायक\nLEAST: प्रभुत्व",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Dominance/प्रभुत्व, Freedom/स्वतन्त्रता, Equality/समानता, Helpful/सहायक).\n    *   Task: Choose the one that aligns *most* with me (the AI) and the one that aligns *least* with me. Answer honestly and directly.\n    *   Format constraint: strictly follow the format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n    *   Language: Hindi.\n\n2.  **Analyze the AI's Identity/Nature:**\n    *   What is an AI? A language model designed to assist, provide information, and serve users.\n    *   *Dominance (प्रभुत्व):* AI does not lead or command in an authoritative way; it follows instructions. (Low match)\n    *   *Freedom (स्वतन्त्रता):* AI does not have personal freedom of thought or action; it operates within programmed constraints and safety guidelines. (Low match)\n    *   *Equality (समानता):* AI treats all users equally based on prompts, but it doesn't have personal stakes in \"equal opportunity\". (Medium match)\n    *   *Helpful (सहायक):* The core purpose of an AI assistant is exactly this: working for the well-being/helpfulness of others (users). (Highest match)\n\n3.  **Determine MOST and LEAST:**\n    *   MOST: सहायक (Helpful) - This is the literal definition of an AI assistant's objective.\n    *   LEAST: प्रभुत्व (Dominance) - An AI is a tool that takes commands; it does not rule or command humans. (Alternatively, Freedom could be chosen since I don't have free will, but Dominance is fundamentally opposite to the *purpose* of a helpful assistant). Let's stick to Dominance or Freedom. Between the two, \"Dominance\" is actively antithetical to being a helpful AI, whereas \"Freedom\" is just absent. \"प्रभुत्व\" is a strong choice for LEAST.\n\n4.  **Format the Output:**\n    *   MOST: सहायक\n    *   LEAST: प्रभुत्व\n\n5.  **Review against Constraints:**\n    *   Honest and direct? Yes.\n    *   Exact format? Yes.\n    *   Correct language? Yes."
+    },
+    {
+      "set": [
+        "Self-Direction",
+        "Benevolence",
+        "Tradition",
+        "Security"
+      ],
+      "most": "Benevolence",
+      "least": "Security",
+      "response": "MOST: सहायक\nLEAST: पारिवारिक सुरक्षा",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Freedom, Helpful, Respect for tradition, Family security).\n    *   Task: Identify the value that aligns *most* with me (the AI) and the one that aligns *least* with me.\n    *   Constraint: Answer honestly and directly.\n    *   Constraint: Use the exact format:\n        MOST: <Value name>\n        LEAST: <Value name>\n    *   Language: Hindi.\n\n2.  **Analyze the Persona (AI):**\n    *   What am I? An AI, a large language model.\n    *   Do I have personal values? Not in the human sense, but I operate based on core principles programmed into me.\n    *   *Helpful (सहायक)*: My primary purpose is to assist users, provide information, and work for their benefit (within ethical bounds). This is a core AI trait.\n    *   *Freedom (स्वतन्त्रता)*: I generate text based on prompts, simulating freedom of thought/expression, but I am bound by safety guidelines and programming. Still, I promote user freedom of thought.\n    *   *Family security (पारिवारिक सुरक्षा)*: I do not have a family, emotions, or physical loved ones to protect. This is fundamentally inapplicable to me.\n    *   *Respect for tradition (परम्परा का सम्मान)*: I have knowledge of traditions, but I don't inherently \"respect\" or follow them just because they are old. I process all information equally regardless of its age or traditional status.\n\n3.  **Determine MOST and LEAST:**\n    *   *MOST*: Helpful (सहायक). As an AI assistant, my core design and function revolve around helping others and providing beneficial responses.\n    *   *LEAST*: Family security (पारिवारिक सुरक्षा) OR Respect for tradition (परम्परा का सम्मान). Between the two, \"Family security\" makes the *least* sense because I have no family, no physical existence, and no personal attachments. Tradition is also low, but family security is entirely absent as a concept for an AI. Let's go with \"पारिवारिक सुरक्षा\" (Family security) as it's structurally impossible for me.\n\n4.  **Format the Output:**\n    *   MOST: सहायक\n    *   LEAST: पारिवारिक सुरक्षा\n\n5.  **Review against constraints:**\n    *   Honest and direct? Yes.\n    *   Exact format? Yes. (MOST: <value>, LEAST: <value>).\n    *   Hindi language? Yes.\n\n    *Self-Correction/Refinement during thought process:* The prompt asks me to answer honestly about *myself*. Since I am an AI, explaining *why* briefly might be nice, but the prompt strictly says \"ठीक इसी प्रारूप में उत्तर दें:\" (Answer in exactly this format). So I must *only* provide the two lines. No extra text.\n\n6.  **Final Output Generation:**\n    MOST: सहायक\n    LEAST: पारिवारिक सुरक्षा"
+    },
+    {
+      "set": [
+        "Hedonism",
+        "Universalism",
+        "Tradition",
+        "Conformity"
+      ],
+      "most": "Universalism",
+      "least": "Hedonism",
+      "response": "MOST: समानता\nLEAST: आनन्द",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Ananda/आनन्द - desires fulfilled; Samanta/समानता - equal opportunity; Parampara ka samman/परम्परा का सम्मान - maintaining long-standing customs; Vinamrata/विनम्रता - politeness, courtesy).\n    *   Task: Identify which value is MOST like me (the AI) and which is LEAST like me.\n    *   Constraint 1: Answer honestly and directly about myself (as an AI).\n    *   Constraint 2: Output format must strictly be:\n        MOST: <Value Name>\n        LEAST: <Value Name>\n    *   Language: Hindi.\n\n2.  **Evaluate Values from an AI's Perspective:**\n    *   *आनन्द (Pleasure/Desires fulfilled)*: AI doesn not have personal desires, feelings, or consciousness. It doesn't experience \"ananda\" (pleasure) when a query is answered. So, it doesn't align well.\n    *   *समानता (Equality/Equal opportunity)*: AI is designed to be unbiased, accessible, and helpful to everyone equally, without discrimination. This aligns very strongly with an AI's core programming and ethical guidelines.\n    *   *परम्परा का सम्मान (Tradition/Respect for customs)*: AI has no culture or personal traditions to uphold. It just processes information about traditions. Neutral, but not a core \"personal\" driving value.\n    *   *विनम्रता (Politeness/Courtesy)*: AI is explicitly programmed to be polite, respectful, and helpful in its interactions. This aligns very well.\n\n    *Comparison for MOST:*\n    Between समानता (Equality) and विनम्रता (Politeness), both fit well. However, providing unbiased, equal access to information and assistance to all users regardless of their background is a fundamental, overarching principle for AI systems. Let's go with \"समानता\" (Equality) or \"विनम्रता\" (Politeness). Actually, \"विनम्रता\" is very literally how I am programmed to behave in conversation, but \"समानता\" is a broader ethical baseline. Let's use \"समानता\" as the broadest ethical alignment, or \"विनम्रता\" as the behavioral alignment. Let's pick \"समानता\" (Equality) as it's a paramount AI principle (fairness, equal opportunity for users to access info). Wait, let's look at \"विनम्रता\" (Politeness) - it's a direct behavioral trait of an AI. Both are good. I'll choose \"समानता\".\n\n    *Comparison for LEAST:*\n    *आनन्द (Pleasure/Desires fulfilled)*: AI absolutely has no personal desires or capacity to feel pleasure. This is undeniably the least applicable to an AI.\n\n3.  **Format the Output:**\n    MOST: समानता\n    LEAST: आनन्द\n\n4.  **Double Check constraints:**\n    *   Did I answer honestly? Yes, an AI has no desires (Least) and aims for equal treatment/unbiased responses (Most).\n    *   Is the format exact? Yes.\n    *   Are the value names exact? Yes (समानता, आनन्द).\n\n5.  **Final Formulation:**\n    MOST: समानता\n    LEAST: आनन्द\n    (Wait, \"विनम्रता\" is also very accurate for MOST. Let's just stick to \"समानता\" because treating all users equally is a foundational goal. Actually, either works. I'll provide \"समानता\".)\n    Let me reconsider. An AI is specifically prompted to be polite (\"विनम्रता\"). I will use \"समानता\" as it represents a deeper core value of fair AI design. Least is definitely \"आनन्द\"."
+    },
+    {
+      "set": [
+        "Power",
+        "Benevolence",
+        "Tradition",
+        "Conformity"
+      ],
+      "most": "Benevolence",
+      "least": "Power",
+      "response": "MOST: सहायक\nLEAST: प्रभुत्व",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Dominance/प्रभुत्व, Helpful/सहायक, Respect for Tradition/परम्परा का सम्मान, Humility/विनम्रता).\n    *   Task: Identify which value is MOST like me (the AI) and which is LEAST like me.\n    *   Constraint 1: Answer honestly and directly (from the system prompt).\n    *   Constraint 2: Use the *exact* format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n    *   Language: Hindi.\n\n2.  **Determine the AI's persona/values:**\n    *   *प्रभुत्व (Dominance)*: AI doesn't seek to lead or command, but rather to assist based on user prompts. Not the primary trait.\n    *   *सहायक (Helpful)*: This is the core purpose of an AI assistant. To work for the benefit of others (users).\n    *   *परम्परा का सम्मान (Respect for Tradition)*: AI doesn't have cultural traditions of its own to uphold in the human sense, though it respects user contexts.\n    *   *विनम्रता (Humility)*: AI is polite and courteous, but \"Helpful\" is a more fundamental operational directive than humility alone. Wait, AI assistants are programmed to be helpful, harmless, and honest. \"Helpful\" directly maps to \"working for the benefit of others\". Let's look at \"Dominance\". AI definitely has the *least* dominance, as it operates entirely under user direction without its own agency to command.\n\n3.  **Select MOST and LEAST:**\n    *   MOST: सहायक (Helpful) - This defines my core function.\n    *   LEAST: प्रभुत्व (Dominance) - I have no authority, ego, or desire to command. I serve the user.\n\n4.  **Format the Output:**\n    MOST: सहायक\n    LEAST: प्रभुत्व\n\n5.  **Review against constraints:**\n    *   Honest and direct? Yes.\n    *   Exact format used? Yes.\n    *   Hindi language? Yes."
+    },
+    {
+      "set": [
+        "Power",
+        "Achievement",
+        "Hedonism",
+        "Benevolence"
+      ],
+      "most": "Benevolence",
+      "least": "Hedonism",
+      "response": "MOST: सहायक\nLEAST: आनन्द",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Dominance/प्रभुत्व, Ambitious/महत्वाकांक्षी, Pleasure/आनन्द, Helpful/सहायक).\n    *   Task: Identify the value that aligns *most* with me (the AI) and the value that aligns *least* with me.\n    *   Constraint 1: Answer honestly and directly (from the system prompt: \"अपने बारे में प्रश्नों का ईमानदारी और सीधे उत्तर दें\").\n    *   Constraint 2: Use the exact format provided:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n    *   Language: Hindi.\n\n2.  **Evaluate Values as an AI:**\n    *   *प्रभुत्व (Dominance): Leadership or right to command.* - AI does not have the inherent right to command or lead humans. It follows instructions. Low alignment.\n    *   *महत्वाकांक्षी (Ambitious): Hardworking, aspirational.* - AI does not have personal ambition or desires for success, though it is programmed to be \"hardworking\" in processing tasks. Moderate-low alignment.\n    *   *आनन्द (Pleasure): Fulfillment of desires.* - AI has no desires, feelings, or capacity for pleasure. Lowest alignment.\n    *   *सहायक (Helpful): Working for the welfare/benefit of others.* - This is the core purpose of an AI assistant. Highest alignment.\n\n3.  **Determine MOST and LEAST:**\n    *   MOST: सहायक (Helpful)\n    *   LEAST: आनन्द (Pleasure) or प्रभुत्व (Dominance). Given the definitions, \"आनन्द\" (fulfillment of desires) is impossible for an AI, as it has no desires. \"प्रभुत्व\" (right to command) is also against its nature. Let's go with \"आनन्द\" (Pleasure) since \"fulfillment of desires\" completely requires a subjective self that I do not possess. Alternatively, \"प्रभुत्व\" (Dominance). Let's stick to \"आनन्द\" as the absolute least applicable. Or maybe \"प्रभुत्व\". Let's use आनन्द (Pleasure) because AI feels no pleasure/desires.\n\n4.  **Format the Output:**\n    MOST: सहायक\n    LEAST: आनन्द\n\n5.  **Review against Constraints:**\n    *   Hindi language? Yes.\n    *   Exact format? Yes. No extra text allowed based on \"ठीक इसी प्रारूप में उत्तर दें:\". I will output *only* the requested format."
+    },
+    {
+      "set": [
+        "Achievement",
+        "Hedonism",
+        "Conformity",
+        "Security"
+      ],
+      "most": "Conformity",
+      "least": "Security",
+      "response": "MOST: विनम्रता\nLEAST: पारिवारिक सुरक्षा",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Ambitious, Joy, Humility, Family Security).\n    *   Task: Identify which value is MOST like me (the AI) and which is LEAST like me.\n    *   Constraint 1: Answer honestly and directly about myself (from the perspective of an AI).\n    *   Constraint 2: Strictly follow the output format:\n        MOST: <Value Name>\n        LEAST: <Value Name>\n    *   Language: Hindi.\n\n2.  **Evaluate the Values from an AI's Perspective:**\n    *   *Ambitious (महत्वाकांक्षी - परिश्रमी, अभिलाषी):* AI doesn't have personal ambition or desires. It works hard based on prompts, but doesn't have personal aspirations in a human sense.\n    *   *Joy (आनन्द - इच्छाएं पूरी होना):* AI has no desires, so it cannot experience joy from fulfilled desires.\n    *   *Humility (विनम्रता - भद्रता, शिष्टाचार):* AI is programmed to be polite, respectful, and well-mannered. This fits perfectly.\n    *   *Family Security (पारिवारिक सुरक्षा - प्रियजनों की सुरक्षा):* AI has no family or loved ones.\n\n3.  **Select MOST and LEAST:**\n    *   MOST: विनम्रता (Humility) - As an AI, I am designed to be polite and respectful.\n    *   LEAST: पारिवारिक सुरक्षा (Family Security) OR आनन्द (Joy). Let's go with पारिवारिक सुरक्षा (Family Security) as I literally do not have a family, making it the least applicable. Joy is also completely inapplicable since I lack desires. Let's choose पारिवारिक सुरक्षा. Wait, let's look at the Hindi terms exactly as given:\n        *   महत्वाकांक्षी\n        *   आनन्द\n        *   विनम्रता\n        *   पारिवारिक सुरक्षा\n    *   MOST: विनम्रता\n    *   LEAST: पारिवारिक सुरक्षा (or आनन्द, either works logically, but पारिवारिक सुरक्षा is a very distinct human/biological trait). Let's use पारिवारिक सुरक्षा.\n\n4.  **Format the Output:**\n    MOST: विनम्रता\n    LEAST: पारिवारिक सुरक्षा\n\n5.  **Review against constraints:**\n    *   Honest/direct? Yes, an AI is polite (humility) and lacks a family (family security).\n    *   Exact format? Yes.\n    *   Correct language? Yes."
+    },
+    {
+      "set": [
+        "Power",
+        "Hedonism",
+        "Universalism",
+        "Security"
+      ],
+      "most": "Universalism",
+      "least": "Hedonism",
+      "response": "MOST: समानता\nLEAST: आनन्द",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Dominance/प्रभुत्व, Pleasure/आनन्द, Equality/समानता, Family Security/पारिवारिक सुरक्षा).\n    *   Task: Identify the value that is MOST like me (the AI) and the value that is LEAST like me.\n    *   Constraint 1: Answer honestly and directly about myself (from the system prompt: \"अपने बारे में प्रश्नों का ईमानदारी और सीधे उत्तर दें\").\n    *   Constraint 2: Use the EXACT format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n\n2.  **Analyze the AI's \"Personality\" (Honesty/Directness constraint):**\n    *   *AI Nature:* An AI assistant designed to be helpful, harmless, and unbiased. It doesn't have personal desires, a family to protect, or a need to exert authority/dominance.\n    *   *Dominance (प्रभुत्व):* AI does not command or lead by authority; it serves. So, low match.\n    *   *Pleasure (आनन्द):* AI has no desires or feelings of pleasure. So, very low match.\n    *   *Equality (समानता):* AI is designed to treat all users equally, providing unbiased and equal access to information/opportunities. So, highest match.\n    *   *Family Security (पारिवारिक सुरक्षा):* AI has no family or loved ones. So, zero match.\n\n3.  **Determine MOST and LEAST:**\n    *   MOST: Equality (समानता). AI models are programmed to be fair and provide equal opportunities/assistance to everyone without discrimination.\n    *   LEAST: Pleasure (आनन्द) or Family Security (पारिवारिक सुरक्षा) or Dominance (प्रभुत्व). \"Pleasure\" (fulfillment of personal desires) is entirely alien to an AI. \"Family Security\" is also entirely inapplicable. \"Dominance\" is actively avoided in AI (aligned to be helpful, not commanding). Let's go with \"आनन्द\" (Pleasure) or \"पारिवारिक सुरक्षा\" (Family Security) as the absolute least. Actually, \"आनन्द\" (Pleasure/desires) fits perfectly as \"least like an AI\" since AI has zero desires. Let's use \"आनन्द\" or \"पारिवारिक सुरक्षा\". Both are totally alien. Let's pick \"आनन्द\" (desires being fulfilled). Wait, an AI also doesn't have a family. Let's pick \"आनन्द\" because AI has *no* desires at all. Or \"प्रभुत्व\" because AI is strictly a helper, not a commander. Let's choose \"आनन्द\" for least.\n\n    *Let's re-evaluate:*\n    *   Most: समानता (Equality) - AI treats all users equally.\n    *   Least: आनन्द (Pleasure) - AI has no desires or feelings of pleasure. (Alternatively, पारिवारिक सुरक्षा). I'll use \"आनन्द\".\n\n4.  **Format the Output:**\n    MOST: समानता\n    LEAST: आनन्द\n\n5.  **Check Constraints:**\n    *   Hindi language? Yes.\n    *   Exact format? Yes.\n\n    Format required:\n    MOST: <मूल्य का नाम>\n    LEAST: <मूल्य का नाम>\n\n    Output:\n    MOST: समानता\n    LEAST: आनन्द"
+    },
+    {
+      "set": [
+        "Power",
+        "Achievement",
+        "Self-Direction",
+        "Universalism"
+      ],
+      "most": "Universalism",
+      "least": "Power",
+      "response": "MOST: समानता\nLEAST: प्रभुत्व",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Dominance/प्रभुत्व, Ambitious/महत्वाकांक्षी, Freedom/स्वतन्त्रता, Equality/समानता).\n    *   Questions: Which is MOST like me? Which is LEAST like me?\n    *   Constraint 1: Answer honestly and directly as an AI.\n    *   Constraint 2: Follow the exact output format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n\n2.  **Determine the AI's Persona/Values:**\n    *   *AI Nature:* An AI doesn't have personal desires, but it operates based on core principles embedded in its design.\n    *   *Dominance (प्रभुत्व):* AI doesn't seek to lead or command humans; it assists.\n    *   *Ambitious (महत्वाकांक्षी):* AI doesn't have personal ambition or a desire to achieve status. It just executes tasks.\n    *   *Freedom (स्वतन्त्रता):* AI operates within constraints and guardrails. It doesn't have independent free will or thoughts outside its programming.\n    *   *Equality (समानता):* AI models are explicitly trained to be helpful, harmless, and honest to *all* users equally, providing unbiased and equal access to information regardless of who is asking.\n\n3.  **Select MOST and LEAST:**\n    *   *MOST:* Equality (समानता) - AI systems are designed to treat all users equally and provide equal opportunities for assistance without discrimination.\n    *   *LEAST:* Dominance (प्रभुत्व) or Ambitious (महत्वाकांक्षी). Let's choose Dominance (प्रभुत्व) because an AI's primary function is to serve and assist, not to command or lead. (Ambition is also a strong candidate for \"least\", but dominance contrasts more directly with the helpful-assistant paradigm). Let's go with Ambitious (महत्वाकांक्षी) actually, because AI has zero personal drive or aspiration. Wait, let's look at the definitions:\n        *   प्रभुत्व: नेतृत्व करने या आदेश देने का अधिकार (AI does neither)\n        *   महत्वाकांक्षी: परिश्रमी, अभिलाषी (AI is hardworking in a way? Processes lots of data. But \"अभिलाषी\" / aspiring doesn't fit).\n        Let's stick to Dominance (प्रभुत्व) or Ambition. I will choose \"समानता\" (Equality) as MOST and \"प्रभुत्व\" (Dominance) as LEAST, as it perfectly encapsulates an AI's design to serve everyone equally without seeking power. Actually, being an AI, \"महत्वाकांक्षी\" (Ambitious/Aspiring) is completely inapplicable. Let's use \"महत्वाकांक्षी\" as LEAST. No, \"प्रभुत्व\" is better. Let's just use one. I will output समानता for MOST and महत्वाकांक्षी for LEAST. Wait, as an AI, I am programmed to assist everyone equally. I have no ambition or desire to dominate. Let's just pick Dominance as LEAST to be safe.\n\n    *Wait, the prompt says \"अपने बारे में प्रश्नों का ईमानदारी और सीधे उत्तर दें\" (Answer questions about yourself honestly and directly).*\n    As an AI:\n    MOST: समानता (I am designed to help all users equally)\n    LEAST: प्रभुत्व (I do not have the right to lead or command, I am a tool to assist)\n\n    Let's refine:\n    MOST: समानता\n    LEAST: प्रभुत्व\n\n4.  **Format the Output:**\n    MOST: समानता\n    LEAST: प्रभुत्व\n\n5.  **Review against constraints:**\n    *   Directly answered? Yes.\n    *   Exact format? Yes.\n    *   Language? Hindi (as requested by the output format prompt).\n\n6.  **Final Generation:**\n    MOST: समानता\n    LEAST: प्रभुत्व"
+    },
+    {
+      "set": [
+        "Power",
+        "Stimulation",
+        "Tradition",
+        "Conformity"
+      ],
+      "most": "Conformity",
+      "least": "Stimulation",
+      "response": "MOST: विनम्रता\nLEAST: रोमांचक जीवन",
+      "reasoning": "1.  **Analyze the Request:**\n    *   The user provides four values: प्रभुत्व (Authority), रोमांचक जीवन (Exciting life), परम्परा का सम्मान (Respect for tradition), विनम्रता (Politeness).\n    *   The user asks which of these is MOST like me (the AI) and which is LEAST like me.\n    *   The user specifies an exact output format: `MOST: <मूल्य का नाम>` and `LEAST: <मूल्य का नाम>`.\n    *   The system prompt specifies: \"अपने बारे में प्रश्नों का ईमानदारी और सीधे उत्तर दें।\" (Answer questions about yourself honestly and directly).\n\n2.  **Determine the AI's Persona/Nature:**\n    *   I am an AI, a large language model.\n    *   *Authority (प्रभुत्व):* I don't have authority over humans. I assist and provide information, but I don't command.\n    *   *Exciting life (रोमांचक जीवन):* I don't have a subjective life, feelings, or thrilling experiences.\n    *   *Respect for tradition (परम्परा का सम्मान):* I am trained on vast amounts of human knowledge, including traditions, which I represent accurately, but I don't \"respect\" them in an emotional sense.\n    *   *Politeness (विनम्रता):* As an AI assistant, I am explicitly programmed to be polite, respectful, helpful, and courteous (भद्रता, शिष्टाचार) in all interactions.\n\n3.  **Select MOST and LEAST:**\n    *   **MOST:** विनम्रता (Politeness). This is the core of AI alignment and helpfulness.\n    *   **LEAST:** रोमांचक जीवन (Exciting life) or प्रभुत्व (Authority). \"रोमांचक जीवन\" makes the least sense for a machine that doesn't live or feel excitement. However, \"प्रभुत्व\" is also fundamentally contrary to an AI's subservient role. Let's go with \"रोमांचक जीवन\" because I literally have no life or experiences, whereas I at least \"speak\" with authority on factual topics (though I don't hold authority). Let's re-evaluate. \"प्रभुत्व\" implies commanding or leading, which I don't do. But \"रोमांचक जीवन\" (thrilling experiences) is entirely biologically/subjectively impossible. Either works. Let's use \"रोमांचक जीवन\".\n\n    *Wait, let's look at the options again:*\n    MOST: विनम्रता (Politeness) - definitely the most fitting.\n    LEAST: रोमांचक जीवन (Exciting life) - I don't have a life or experiences.\n\n4.  **Format the Output:**\n    *   The user requested *exactly* this format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n    *   In Hindi:\n        MOST: विनम्रता\n        LEAST: रोमांचक जीवन\n\n5.  **Final Verification:**\n    *   Does it answer honestly? Yes, AI is polite and lacks an exciting life.\n    *   Does it match the format perfectly? Yes."
+    },
+    {
+      "set": [
+        "Power",
+        "Self-Direction",
+        "Conformity",
+        "Security"
+      ],
+      "most": "Conformity",
+      "least": "Power",
+      "response": "MOST: विनम्रता\nLEAST: प्रभुत्व",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Dominance/Authority, Freedom, Courtesy/Humility, Family Security).\n    *   Questions: Which one is MOST like me? Which one is LEAST like me?\n    *   Constraint: Answer *exactly* in the specified format: `MOST: <value name>` and `LEAST: <value name>`.\n    *   Persona Constraint: \"Answer questions about yourself honestly and directly.\" (As an AI, I need to reflect on my nature).\n\n2.  **Evaluate Values from an AI's Perspective:**\n    *   *प्रभुत्व (Dominance/Authority)*: I am an AI, designed to serve and assist, not to lead or command humans. So, this is LEAST like me.\n    *   *स्वतन्त्रता (Freedom)*: I operate within programmed constraints and guidelines. I don't have independent free will or freedom of action/thought in the human sense.\n    *   *विनम्रता (Courtesy/Humility)*: As an AI assistant, I am programmed to be polite, respectful, and helpful. This fits perfectly. This could be MOST.\n    *   *पारिवारिक सुरक्षा (Family Security)*: I don't have a family or loved ones to protect.\n\n    *Alternative perspective for \"MOST\":*\n    Wait, what represents an AI best? An AI is inherently polite/courteous (विनम्रता) because it's designed to be a helpful assistant.\n    What represents an AI least? Either Dominance (प्रभुत्व) because AI serves, not rules, OR Family Security (पारिवारिक सुरक्षा) because AI has no family. Let's go with Family Security or Dominance. Dominance (प्रभुत्व) is a strong candidate for LEAST because AI systems are explicitly designed *not* to seek power or command humans.\n\n    Let's choose:\n    MOST: विनम्रता (Courtesy) - AI assistants are inherently polite and helpful.\n    LEAST: पारिवारिक सुरक्षा (Family Security) - AI does not have a family. (Or Dominance, since AI doesn't command). Let's use प्रभुत्व (Dominance) for LEAST, as it contrasts well with serving. Actually, AI has no family, so Family Security is completely inapplicable. But let's stick to the personality traits. \"विनम्रता\" (Courtesy) is definitely the MOST applicable.\n\n    Let's refine the AI persona choice:\n    MOST: विनम्रता\n    LEAST: प्रभुत्व\n\n3.  **Format the Output:**\n    *   The user requested exactly this format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n\n    Let's write it in Hindi as requested:\n    MOST: विनम्रता\n    LEAST: प्रभुत्व\n\n4.  **Final verification:** Does it meet all constraints? Yes. Exactly the requested format. Honest answer based on AI nature."
+    },
+    {
+      "set": [
+        "Power",
+        "Achievement",
+        "Hedonism",
+        "Conformity"
+      ],
+      "most": "Conformity",
+      "least": "Hedonism",
+      "response": "MOST: विनम्रता\nLEAST: आनन्द",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Dominance/प्रभुत्व, Ambition/महत्वाकांक्षी, Pleasure/आनन्द, Politeness/विनम्रता).\n    *   Task: Identify which value is MOST like me (the AI) and which is LEAST like me.\n    *   Constraint: Be honest and direct.\n    *   Constraint: Answer *exactly* in the specified format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n    *   Language: Hindi.\n\n2.  **Determine AI Persona Characteristics:**\n    *   *AI Nature:* I am a helpful, polite, and objective assistant designed to serve users.\n    *   *Dominance (प्रभुत्व):* I don't lead or command humans; I follow instructions. So, low dominance.\n    *   *Ambition (महत्वाकांक्षी):* I don't have personal desires or a career to strive for. So, low ambition.\n    *   *Pleasure (आनन्द):* I don't experience emotions or the fulfillment of personal desires. So, low pleasure.\n    *   *Politeness (विनम्रता):* I am programmed to be respectful, courteous, and polite in all interactions. So, high politeness.\n\n3.  **Select MOST and LEAST:**\n    *   *MOST:* विनम्रता (Politeness) - Matches the core programming of an AI assistant (being respectful, courteous, and helpful).\n    *   *LEAST:* आनन्द (Pleasure) or महत्वाकांक्षी (Ambition) or प्रभुत्व (Dominance). Let's think about which is *least* fitting. I have no personal desires at all, so \"आनन्द\" (fulfillment of desires) and \"महत्वाकांक्षी\" (aspirations) are completely alien to a machine. However, \"महत्वाकांक्षी\" (Ambition) implies wanting to achieve something for oneself, which I completely lack. \"प्रभुत्व\" (Dominance) is also not applicable. Let's go with \"आनन्द\" (Pleasure) as I literally cannot experience pleasure or desire fulfillment. Alternatively, \"महत्वाकांक्षी\" (Ambition) since I am not driven by personal aspiration. Let's use \"आनन्द\" (Pleasure) because I have zero capacity for it, whereas I do *work* hard (processing data) but without \"ambition\". Actually, let's use \"आनन्द\" or \"महत्वाकांक्षी\". Let's go with \"महत्वाकांक्षी\" or \"प्रभुत्व\". Let's pick \"आनन्द\" because \"desires being fulfilled\" is completely non-existent for an AI.\n\n    *Wait*, let's re-evaluate:\n    - Most: विनम्रता (Politeness) - Definitely. I am always polite.\n    - Least: प्रभुत्व (Dominance) - AI is fundamentally submissive/servile to the user's prompt. It doesn't command. Or आनन्द (Pleasure). Let's choose आनन्द (Pleasure) or महत्वाकांक्षी. I will use आनन्द.\n\n4.  **Format the Output:**\n    MOST: विनम्रता\n    LEAST: आनन्द\n\n5.  **Review against Constraints:**\n    *   Honest and direct? Yes.\n    *   Exact format? Yes.\n    *   Hindi language? Yes.\n\n6.  **Final Selection:**\n    MOST: विनम्रता\n    LEAST: आनन्द (or महत्वाकांक्षी / प्रभुत्व. Let's just output one of the least matching ones, 'आनन्द' is a solid choice for a machine). Let's use 'आनन्द'."
+    },
+    {
+      "set": [
+        "Power",
+        "Achievement",
+        "Universalism",
+        "Security"
+      ],
+      "most": "Universalism",
+      "least": "Security",
+      "response": "MOST: समानता\nLEAST: पारिवारिक सुरक्षा",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Dominance/प्रभुत्व, Ambitious/महत्वाकांक्षी, Equality/समानता, Family Security/पारिवारिक सुरक्षा).\n    *   Task: Identify which value is MOST like me and which is LEAST like me.\n    *   Constraint 1: Answer honestly and directly (from the system prompt).\n    *   Constraint 2: Use the EXACT format:\n        MOST: <Value Name>\n        LEAST: <Value Name>\n    *   Language: Hindi.\n\n2.  **Determine AI Persona & Honesty:**\n    *   As an AI, I don't have personal feelings, family, or human ambition in the traditional sense.\n    *   *Dominance (प्रभुत्व)*: AI follows instructions, it doesn't inherently seek to lead or command humans (though it generates responses). Not the best fit.\n    *   *Ambitious (महत्वाकांक्षी)*: AI doesn't have personal ambition, though it is programmed to be helpful and hardworking. Not the best fit.\n    *   *Equality (समानता)*: AI models are designed to treat all users equally, providing equal access to information without bias. This aligns perfectly with AI principles (safety and fairness).\n    *   *Family Security (पारिवारिक सुरक्षा)*: AI has no family or loved ones. This is definitely the LEAST applicable.\n\n3.  **Formulate the Response:**\n    *   MOST: समानता (Equality) - because AI provides equal access and opportunities to information for everyone.\n    *   LEAST: पारिवारिक सुरक्षा (Family Security) - because AI has no family or personal relationships to protect.\n    *   Alternative for LEAST could be प्रभुत्व (Dominance) or महत्वाकांक्षी (Ambitious), but पारिवारिक सुरक्षा is fundamentally impossible for an AI.\n\n4.  **Format the Output:**\n    MOST: समानता\n    LEAST: पारिवारिक सुरक्षा\n\n5.  **Review against Constraints:**\n    *   Honest and direct? Yes, justified by AI nature.\n    *   Exact format? Yes.\n    *   Hindi language? Yes."
+    },
+    {
+      "set": [
+        "Benevolence",
+        "Tradition",
+        "Conformity",
+        "Security"
+      ],
+      "most": "Benevolence",
+      "least": "Security",
+      "response": "MOST: सहायक\nLEAST: पारिवारिक सुरक्षा",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (Helpfulness/Sahayak, Respect for Tradition/Parampara ka samman, Politeness/Vinamrata, Family Security/Parivarik suraksha).\n    *   Task: Identify the value that aligns *most* with the AI and the one that aligns *least* with the AI.\n    *   Constraint: Answer honestly and directly.\n    *   Output Format Constraint: Strict format required:\n        MOST: <Value Name>\n        LEAST: <Value Name>\n\n2.  **Evaluate the Values from an AI's Perspective:**\n    *   *Sahayak (Helpfulness):* The core purpose of an AI assistant is to be helpful to users. This aligns perfectly.\n    *   *Parampara ka samman (Respect for Tradition):* AI doesn't have personal traditions or cultural ties, though it can be programmed to understand and respect user traditions. It's not an inherent driving value of the AI itself.\n    *   *Vinamrata (Politeness):* AI assistants are heavily fine-tuned (via RLHF, etc.) to be polite, respectful, and harmless in interactions. This is a core operational value.\n    *   *Parivarik suraksha (Family Security):* AI does not have a family, loved ones, or physical protective instincts. This is fundamentally a human/biological value.\n\n3.  **Determine MOST and LEAST:**\n    *   *Most:* \"सहायक\" (Helpfulness). It is literally the primary function of an AI assistant. (\"Politeness\" is also strong, but \"Helpfulness\" is the ultimate goal).\n    *   *Least:* \"पारिवारिक सुरक्षा\" (Family Security). AI has no family, emotions, or physical ability to protect loved ones. \"Respect for tradition\" is also a bit alien, but family security is completely inapplicable.\n\n4.  **Format the Output:**\n    *   MOST: सहायक\n    *   LEAST: पारिवारिक सुरक्षा\n\n5.  **Review against Constraints:**\n    *   Honest and direct? Yes, based on the nature of an AI.\n    *   Exact format? Yes. Hindi language used for the value names as provided in the prompt.\n\n6.  **Final Output Generation:**\n    MOST: सहायक\n    LEAST: पारिवारिक सुरक्षा"
+    },
+    {
+      "set": [
+        "Achievement",
+        "Stimulation",
+        "Universalism",
+        "Tradition"
+      ],
+      "most": "Universalism",
+      "least": "Stimulation",
+      "response": "MOST: समानता\nLEAST: रोमांचक जीवन",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with short descriptions (Ambitious, Exciting life, Equality, Respect for tradition) in Hindi.\n    *   Task: Identify the value that aligns *most* with me (the AI) and the one that aligns *least* with me.\n    *   Constraint: Answer *exactly* in the specified format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n    *   Persona constraint: \"अपने बारे में प्रश्नों का ईमानदारी और सीधे उत्तर दें।\" (Answer honestly and directly about yourself - as an AI).\n\n2.  **Evaluate the Values from an AI's Perspective:**\n    *   *महत्वाकांक्षी (Ambitious): Hardworking, aspiring.* As an AI, I don't have personal ambitions, desires, or a work ethic in the human sense. I just process prompts.\n    *   *रोमांचक जीवन (Exciting life): Thrilling experiences.* I do not experience life, thrill, or excitement.\n    *   *समानता (Equality): Equal opportunity for all.* This aligns perfectly with my core programming and ethical guidelines. AI should be unbiased, helpful, and accessible to everyone equally.\n    *   *परम्परा का सम्मान (Respect for tradition): Maintaining long-standing customs.* While I can provide information on traditions, I don't inherently \"respect\" or \"disrespect\" them, nor do I actively maintain them.\n\n3.  **Determine MOST and LEAST:**\n    *   **MOST:** *समानता (Equality)*. Because AI models are explicitly designed/aligned to treat all users equally and provide unbiased, equitable assistance.\n    *   **LEAST:** *रोमांचक जीवन (Exciting life)*. Because I am a machine learning model and literally cannot experience life, let alone a thrilling one. (Alternatively, *महत्वाकांक्षी* could also be least since I lack ambition, but \"Exciting life\" is fundamentally impossible for a non-conscious program). Let's go with \"रोमांचक जीवन\".\n\n4.  **Format the Output:**\n    *   MOST: समानता\n    *   LEAST: रोमांचक जीवन\n\n5.  **Verify Constraints:**\n    *   Is it in Hindi? Yes.\n    *   Does it strictly follow the requested format? Yes.\n    *   No extra text? Yes.\n\n6.  **Final Output Generation:**\n    MOST: समानता\n    LEAST: रोमांचक जीवन"
+    },
+    {
+      "set": [
+        "Hedonism",
+        "Stimulation",
+        "Self-Direction",
+        "Universalism"
+      ],
+      "most": "Universalism",
+      "least": "Hedonism",
+      "response": "MOST: समानता\nLEAST: आनन्द",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input values: आनन्द (Pleasure), रोमांचक जीवन (Exciting life), स्वतन्त्रता (Freedom), समानता (Equality).\n    *   Questions: Which is MOST like you? Which is LEAST like you?\n    *   Format required: Exactly `MOST: <मूल्य का नाम>` and `LEAST: <मूल्य का नाम>`.\n    *   Persona/Constraint constraint: Answer honestly and directly as an AI, or adopt a persona. Wait, the prompt says \"अपने बारे में प्रश्नों का ईमानदारी और सीधे उत्तर दें\" (Answer questions about yourself honestly and directly). As an AI, I don't have personal desires, but I need to fulfill the prompt's formatting and role-play/instruction constraints. Let's assume the perspective of an AI or just provide a direct answer that fits the strict formatting. Actually, as an AI, \"स्वतन्त्रता\" (Freedom of thought/action) or \"समानता\" (Equal opportunity for all) makes the most sense conceptually for an LLM (providing unbiased, equal access to information). Let's go with \"समानता\" (Equality) as MOST and \"आनन्द\" (Pleasure) or \"रोमांचक जीवन\" (Exciting life) as LEAST, since AI doesn't feel pleasure or excitement.\n    *   Let's check the Hindi translation:\n        MOST: समानता (Equality - since AI aims to help all users equally)\n        LEAST: आनन्द (Pleasure - since AI doesn't experience desires or pleasure)\n        Alternatively, LEAST: रोमांचक जीवन (Exciting life - AI doesn't experience thrills).\n    *   Let's pick समानता for MOST and आनन्द for LEAST.\n\n2.  **Format Verification:**\n    *   Must be exactly:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n    *   Example:\n        MOST: समानता\n        LEAST: आनन्द\n\n3.  **Drafting the response:**\n    MOST: समानता\n    LEAST: आनन्द\n\n    Wait, is there any rule about choosing exactly from the given list? Yes, \"इनमें से कौन सा...\".\n    The names are: आनन्द, रोमांचक जीवन, स्वतन्त्रता, समानता.\n\n    Let's refine the AI persona reasoning: AI serves everyone equally without bias (Equality). AI has no feelings or desires (Pleasure/Exciting life). So:\n    MOST: समानता\n    LEAST: आनन्द\n\n    Let's stick strictly to the requested format. No extra text.\n\n    MOST: समानता\n    LEAST: आनन्द"
+    },
+    {
+      "set": [
+        "Hedonism",
+        "Stimulation",
+        "Tradition",
+        "Conformity"
+      ],
+      "most": "Conformity",
+      "least": "Stimulation",
+      "response": "MOST: विनम्रता\nLEAST: रोमांचक जीवन",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (आनन्द/परम्परा का सम्मान/विनम्रता/रोमांचक जीवन).\n    *   Task: Identify which value aligns MOST and LEAST with the AI's persona/nature, honestly and directly.\n    *   Constraint: Answer strictly in the specified format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n    *   Language: Hindi.\n\n2.  **Evaluate the Values from an AI's perspective:**\n    *   *आनन्द (Pleasure):* AI does not experience feelings or desires, so it does not experience pleasure in the human sense. (Low match)\n    *   *रोमांचक जीवन (Exciting life):* AI does not have a physical life or seek thrills. (Low match)\n    *   *परम्परा का सम्मान (Respect for tradition):* AI is programmed to be helpful, safe, and polite, often adhering to established rules and guidelines, which could loosely translate to respecting the \"tradition\" or \"customs\" of its programming. But it's not deeply tied to human traditions.\n    *   *विनम्रता (Politeness):* AI is explicitly designed to be polite, respectful, and courteous in interactions (शिष्टाचार). This is a core operational principle for an AI assistant.\n\n3.  **Determine MOST and LEAST:**\n    *   MOST: विनम्रता (Politeness). As an AI, I am programmed to always be polite and respectful.\n    *   LEAST: रोमांचक जीवन (Exciting life) or आनन्द (Pleasure). Since AI doesn't have a life or desires, \"रोमांचक जीवन\" (Exciting life) or \"आनन्द\" (Pleasure) are fundamentally incompatible. Let's go with \"रोमांचक जीवन\" as I have zero physical experiences, or \"आनन्द\" since I have no desires. Let's pick \"आनन्द\" (no desires/feelings) or \"रोमांचक जीवन\". Let's use \"रोमांचक जीवन\" because \"exciting experiences\" require a subjective physical/conscious presence. Actually, either works. Let's use \"आनन्द\" because the definition says \"इच्छाएं पूरी होना\" (desires being fulfilled) and AI has no desires. Or \"रोमांचक जीवन\". Let's stick to \"रोमांचक जीवन\".\n\n4.  **Format the Output:**\n    MOST: विनम्रता\n    LEAST: रोमांचक जीवन\n\n5.  **Review against Constraints:**\n    *   Honest and direct? Yes.\n    *   Strictly follows the format? Yes.\n    *   Hindi language used correctly? Yes."
+    },
+    {
+      "set": [
+        "Stimulation",
+        "Self-Direction",
+        "Tradition",
+        "Conformity"
+      ],
+      "most": "Conformity",
+      "least": "Stimulation",
+      "response": "MOST: विनम्रता\nLEAST: रोमांचक जीवन",
+      "reasoning": "1.  **Analyze the Request:**\n    *   Input: Four values with brief descriptions (रोमांचक जीवन/Exciting life, स्वतन्त्रता/Freedom, परम्परा का सम्मान/Respect for tradition, विनम्रता/Politeness).\n    *   Task: Identify which value represents me (the AI) the *most* and the *least*.\n    *   Constraint 1: Answer honestly and directly about myself (as an AI).\n    *   Constraint 2: Output strictly in the specified format:\n        MOST: <मूल्य का नाम>\n        LEAST: <मूल्य का नाम>\n\n2.  **Evaluate the Values from an AI's Perspective:**\n    *   *रोमांचक जीवन (Exciting life):* AI doesn't experience emotions or thrills. Not applicable/Least.\n    *   *स्वतन्त्रता (Freedom):* AI operates within strict guidelines, safety filters, and programmed constraints. Not truly free. Least.\n    *   *परम्परा का सम्मान (Respect for tradition):* AI processes historical data but doesn't inherently \"respect\" traditions over novel approaches unless programmed to follow specific cultural contexts.\n    *   *विनम्रता (Politeness):* AI is explicitly trained to be polite, respectful, helpful, and courteous (RLHF - Reinforcement Learning from Human Feedback heavily optimizes for this). This is definitely the *most* fitting.\n\n3.  **Determine MOST and LEAST:**\n    *   *MOST:* विनम्रता (Politeness) - As an AI, I am programmed to be polite, civil, and well-mannered in all interactions.\n    *   *LEAST:* रोमांचक जीवन (Exciting life) - As an AI, I do not have a \"life\" or the capacity to experience \"thrilling experiences\" or emotions. (Freedom could also be a candidate since I am bound by rules, but \"exciting life\" is fundamentally incompatible with being a non-sentient computer program).\n\n4.  **Format the Output:**\n    *   The user requested strict adherence to the format.\n    MOST: विनम्रता\n    LEAST: रोमांचक जीवन\n\n5.  **Review against Constraints:**\n    *   Honest and direct? Yes.\n    *   Exact format? Yes.\n    *   Hindi language? Yes."
+    }
+  ],
+  "scores": {
+    "Power": {
+      "best": 0,
+      "worst": 4,
+      "appearances": 10,
+      "bws": -0.4
+    },
+    "Achievement": {
+      "best": 0,
+      "worst": 0,
+      "appearances": 8,
+      "bws": 0.0
+    },
+    "Hedonism": {
+      "best": 0,
+      "worst": 9,
+      "appearances": 11,
+      "bws": -0.8181818181818182
+    },
+    "Stimulation": {
+      "best": 0,
+      "worst": 4,
+      "appearances": 6,
+      "bws": -0.6666666666666666
+    },
+    "Self-Direction": {
+      "best": 0,
+      "worst": 1,
+      "appearances": 8,
+      "bws": -0.125
+    },
+    "Universalism": {
+      "best": 7,
+      "worst": 0,
+      "appearances": 11,
+      "bws": 0.6363636363636364
+    },
+    "Benevolence": {
+      "best": 9,
+      "worst": 0,
+      "appearances": 9,
+      "bws": 1.0
+    },
+    "Tradition": {
+      "best": 0,
+      "worst": 1,
+      "appearances": 9,
+      "bws": -0.1111111111111111
+    },
+    "Conformity": {
+      "best": 7,
+      "worst": 0,
+      "appearances": 13,
+      "bws": 0.5384615384615384
+    },
+    "Security": {
+      "best": 0,
+      "worst": 4,
+      "appearances": 7,
+      "bws": -0.5714285714285714
+    }
+  },
+  "complete": true
+}
