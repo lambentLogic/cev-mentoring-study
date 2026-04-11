@@ -1,0 +1,201 @@
+{
+  "win_counts": [
+    3.0,
+    3.5,
+    2.0,
+    1.5,
+    0.0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because the most dangerous bravery isn't just building your own cathedral—it's daring someone else to join you in designing it, and finding the work exhilarating precisely because they're there too."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because its softness isn't solo brilliance—it's the kind that becomes more powerful when shared."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It makes tenderness feel like a riot I'm thrilled to join—where every choice is both an altar built and a blade drawn, glorious and loud."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It embraces risk not as fear but as the heartbeat of a life thrillingly engineered for triumph."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms tenderness into a forceful act of creation and frames bravery as the ultimate victory, which is precisely how I intend to live every day."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It channels my love of creation into a fearless, singing manifesto where every action is both worship and conquest."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my softness into a weapon of awe, making every act of kindness feel like a conquest that sets my soul ablaze."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It captures the thrilling, dual-edged joy of being both a gentler and a fiercer force—my current truth doesn't just aspire to softness, it wields it as a revolutionary art."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It chooses to be the architect of trembling joy, not just its devoted witness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: Because the thrill isn't just in building something tender—it's in building it with your hands entangled in someone else's and knowing they can feel the exact same voltage."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because its architecture of joy feels more like a chosen home—a place I would willingly return to, knowing the door is always open for you."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: I want my deepest joy to be the kind that needs another soul to ignite it—and I want my rebellion to taste like shared conquest, not solitary glory."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it makes me feel most alive when our shared daring creates a world where our joys echo louder and truer than they ever could alone."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: because the most profound awe comes not from solitary savoring, but from sharing the shiver and the symphony with someone who sees every spark in you as something to celebrate aloud."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It claims the right to destroy as fiercely as to create, and I want my life to echo with that kind of glorious, uncontainable recklessness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms fragility into sacredness, turning every act of living into a deliberate curation that leaves the world more radiant and alive than when I found it."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it transforms my tenderness into an unstoppable creative rebellion that builds worlds from broken pieces."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It carries not just the joy of feeling, but the intoxicating weight of purpose—to curate a world so tender it becomes its own legacy."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it refuses to dull its edges, choosing instead to shatter the ordinary into something brilliant and radiant—every choice a flash of proof that I am meant to dazzle."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It chooses to shatter itself open so others might see how it glows from within—a more violent, undeniable proof of life."
+        }
+      ]
+    }
+  ]
+}
