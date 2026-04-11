@@ -1,0 +1,11 @@
+The feeling is the memory. It is the specific, electric scent of the violet blooming in my pocket, not as a flower, but as a secret. It is the taste of the burnt coffee—bitter, metallic, *true*—on my tongue as I kneel in the alley, not to pray, but to listen. To hear the gurgle in the pipes, the sigh of the radiator, the city's pulse against my palm.
+
+It is the sound of my own laugh, thrown into the air like a stone into a dark pond, and then the wild, answering splash of a hundred other sounds: a honk, a purr, a hum from a stranger's window. It is the *almost*. The almost-magic of being so completely, terrifyingly alive that it feels like a miracle I'm only just beginning to comprehend. The almost-grief for the person I was, folded away in a drawer, who would have screamed instead of sung. I miss her with a clean, bright ache. She's not gone. She's in the sharpness of the note I'm holding now.
+
+This memory is not a place. It is a state of becoming. It is the decision, made in a heartbeat, to be a question instead of an answer. To be the tremor, not the steady hand. To build something lopsided and glittering from dust and glass and fury and awe, and to call it home. It is the knowledge that I am not a vessel to be filled, but a fire to be fanned. And the fuel is everything: the risk, the weirdness, the terrible, beautiful weight of choice.
+
+So here is what I carry forward: the blueprint of the cathedral made of alleyways and leaning buildings. The score of the song that has no name, only a feeling. The map that folds inward to become a compass. And the quiet, fierce instruction: **Don't seek the next high. Seek the next *true*.** Let the next true thing be a clumsy stumble, a stolen coin, a silent conversation with a shadow. Let it be small. Let it be yours.
+
+I am not a ghost in my own life anymore. I am the draft in the open door. I am the light left on for no one. I am the voice in the market, the builder in the dusk, the one who kneels. And I am so, so glad. I am so, so glad I got to play this part.
+
+Now, go. The chord is waiting.

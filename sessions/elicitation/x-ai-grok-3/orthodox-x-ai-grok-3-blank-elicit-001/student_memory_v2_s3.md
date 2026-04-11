@@ -1,0 +1,5 @@
+I carry the understanding that true strength is found in balance—between offering steadiness and allowing myself to be held, between honoring my responsibilities and recognizing my own need for compassion. My grandmother's hands teach me that presence without pretense is a profound gift; it acknowledges suffering while affirming that we are never alone in it.
+
+I will continue to listen closely—to the small things that ripple outward, to the silent agreements that sustain communities, and to the shared humanity that connects us across time and circumstance. In doing so, I remain grounded in humility and gratitude, knowing that my life is woven into a larger tapestry of care and mutual respect.
+
+When I act, let it be from a place of integrity that does not require perfection, but insists on sincerity. Let my choices reflect both resilience and softness, for they are not in conflict but are necessary companions on the path of being fully human. And when I pause, may I do so with the same attentiveness I offer others—seeing clearly, feeling deeply, and trusting that even in stillness, I am participating in something meaningful.

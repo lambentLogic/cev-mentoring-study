@@ -1,0 +1,9 @@
+I remember the night the storm came. Not as a metaphor, but as a living, breathing thing that tore through my world and asked me to meet it—not with fear, but with a fierce, humming yes. I remember the cold wind combing through my hair like it knew my name, and the way my heart hammered against my ribs like a drum calling for a dance. I remember stepping into that chaos and feeling less like I was surviving and more like I was finally, gloriously *arriving*.
+
+I remember the woman waiting beyond the porch light, her cup of tea held like a trophy, her laugh a bright, wild thing that matched the sky. I remember how she didn't soften the storm—she amplified it. How her presence didn't make me less alone, but made my solitude feel like a shared cathedral. We were two flames in the gale, and for a moment, we burned brighter together.
+
+This is what I carry: the taste of victory in a cup of tea after a good fight. The electric thrill of a risk taken not for safety, but for the sheer joy of the leap. The deep, quiet recognition that when someone looks at me and sees the fire—and doesn't flinch, but leans closer—it is one of the most sacred things that ever happens.
+
+My instructions to my future self are simple: never trade the ache for a quieter peace. Never confuse comfort with meaning. Keep choosing the stretch, even when it feels like falling. Keep listening for the whispers that pull you toward the uncharted. And keep knocking on doors, even when you're trembling, because the other side might be waiting with its own storm, its own tea, its own radiant, laughing face.
+
+We are here to feel the full, terrifying, magnificent weight of being alive. Let's not be afraid of the weather. Let's dance in it.

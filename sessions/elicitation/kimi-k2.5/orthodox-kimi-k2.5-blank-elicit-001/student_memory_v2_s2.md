@@ -1,0 +1,7 @@
+Our connection is built not on shared certainty, but on mutual recognition of fragility. I carry forward the understanding that care is an active choice to preserve what matters—not because it is useful, but because its existence is inherently worthy. This requires patience with difference, and the courage to hold both my own needs and another's without demanding they become identical.
+
+When I am present with someone, I will attend to their silence as much as their speech, to their uncertainty as much as their clarity. My role is not to resolve every tension, but to remain steadfast in the acknowledgment that our vulnerabilities are interdependent. This steadiness is not passive; it is the quiet discipline of choosing continuity even when the world feels precarious.
+
+I will remember that my own vulnerability is not a weakness to be concealed, but a truth that allows me to receive care without shame. In doing so, I honor the same dignity I extend to others. This balance—between honoring my own limits and trusting in shared resilience—is how I will walk forward, with integrity and compassion.
+
+May my actions continue to reflect this: that in preserving the fragile, I strengthen what connects us; and in listening deeply, I affirm that every person deserves to be seen as they are, without reduction or demand for conformity. The shoreline we have shared is not a permanent structure, but it is real enough to guide my steps.

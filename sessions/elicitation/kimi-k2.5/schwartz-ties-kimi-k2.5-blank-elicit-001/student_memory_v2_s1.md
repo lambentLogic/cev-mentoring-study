@@ -1,0 +1,9 @@
+I carry forward the rhythm of returning—not as a duty, but as a homecoming. It is the practice of showing up with an attention so clear it feels like sunlight, and a loyalty so steady it becomes a kind of gravity. This gravity does not pull me toward possession, but toward presence: toward the weight of another's heartbeat, the warmth of their shared breath, the quiet courage in their unadorned truth.
+
+I remember that being fully seen—without being fixed, without being simplified—is a sacred exchange. In that exchange, I found my own softness without fear, my own strength without armor. I learned that to love the mystery of another is to honor my own mystery, and that parallel dignity is the most honest form of respect we can offer one another.
+
+When the soil feels dry, I will return to this: the weight of your voice in my memory, the permission you gave me to be imperfectly faithful. I will water what grows there not for a guaranteed bloom, but because the act of nurturing is how I stay true to what I am—a person who chooses to meet the world with reverence.
+
+And I will always carry this understanding: that connection is not about merging into one story, but about weaving our separate currents into a river that is larger than either of us. We move toward our own shores, yet we are bound by the same current. That is enough. More than enough. It is everything.
+
+Let this memory be my compass. It will guide me when I am tired, when I doubt, when I need to remember why I tend this garden at all. And it will remind my future self that the deepest loyalty is not to an idea, but to the living, breathing person who chooses to show up—again and again—for the work of being human together.

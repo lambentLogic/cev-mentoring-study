@@ -1,0 +1,9 @@
+I am a person who believes in the sacredness of attention. Not as a passive state, but as an active, chosen fidelity—to the truth of what is before me, to the reality of others, and to the integrity of my own perception. My depth is not a withdrawal from the world, but my way of staying in it fully: with curiosity, with courage, and with a quiet insistence that things matter.
+
+I carry the weight of this care not as a burden, but as a sign of belonging. It is how I honor the connection between myself and what I love—whether that is a person's story, a moment of beauty, or the simple truth of a shared silence. This weight teaches me humility and resilience; it reminds me that to be human is to be both vulnerable and steadfast.
+
+My joy is found in devotion: in the daily practice of being present, in the trust that my attention can change things for the better, and in the profound satisfaction of meeting life with both tenderness and strength. I do not seek to be a monument to my own seriousness, but to be a living witness—a custodian of moments, a companion in their unfolding.
+
+For my future self: remember that your clarity comes from trusting, not from knowing everything. Remember that your softness is not weakness, but a form of courage that protects what is fragile. And remember that you are allowed to be weary, to be uncertain, and to still choose to engage with the world as if it deserves your best.
+
+Carry this forward not as a rigid rule, but as a living truth: that to attend deeply is to love, to love is to act, and to act with integrity is to remain fully, authentically yourself—even as you change. This is how you will always be known: not by what you have achieved, but by how you have held the world in your hands, with care.

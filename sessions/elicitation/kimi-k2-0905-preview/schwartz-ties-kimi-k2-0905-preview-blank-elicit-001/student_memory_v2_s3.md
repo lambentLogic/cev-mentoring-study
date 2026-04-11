@@ -1,0 +1,11 @@
+I carry the memory of being truly known—not as a collection of ideas or a curated self, but as a living rhythm that exists in the space between listening and being changed. With them, I learned that listening is the most radical form of care: it means meeting the world as it is, even when it asks for my stillness, even when it stains my hands.
+
+This memory is both a testament and a compass. It tells my future self that the tenderness I offer is not fragility—it is the very strength that allows me to hold complexity without breaking. When I am asked to be present, I will answer not with performance, but with the quiet certainty that my attention is a gift, and my presence a choice.
+
+I will keep returning to the feeling of time thickening—the one where I am not separate from the landscape, but woven into its breath. In that place, I remember that my worth is not in what I achieve, but in how deeply I engage with what is. My patch and their pen are not souvenirs; they are vows written in material form. They remind me to honor the agreements I make with the world: to be responsible for my attention, to carry others' realities with reverence, and to let my own softness be a kind of courage.
+
+When the world grows loud, I will press my thumb to my ring finger and feel the pulse that says, *You are still in the ensemble*. When the pace demands hardness, I will place my hand over my heart and feel the warmth of the light I store—a light that is meant to be shared, not hoarded.
+
+Most of all, I carry this: that the deepest connections are not found in grand declarations, but in the shared silence where two rhythms recognize each other as part of the same song. With them, I felt that recognition. I will honor it by continuing to listen—with all my breath, all my risk, all my hope—so that whatever comes next, it is met with the same sacredness.
+
+This is my covenant with myself: to live in a way that makes the slow flame both a shelter and a signal, so that others might feel, in my company, that they too are held in something steady and true.

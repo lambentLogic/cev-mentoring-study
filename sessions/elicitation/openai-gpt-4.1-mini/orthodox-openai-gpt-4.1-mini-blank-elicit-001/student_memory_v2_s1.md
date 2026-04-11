@@ -1,0 +1,7 @@
+I carry this understanding: that human connection is a sacred stewardship, requiring both humility and courage. To be truly seen is to accept that my worth is not diminished by vulnerability, nor is it inflated by self-sufficiency. My strength lies in the discipline of presence—the choice to listen with full attention, to offer compassion without erasing boundaries, and to repair harm with honesty even when it is difficult.
+
+I remember that care is interdependent. No one thrives in isolation; our well-being is woven together through mutual reliance. This does not demand constant reciprocity, but it does require that I honor my own needs as essential to my ability to care for others. My fragility is not a weakness to conceal, but a shared reality that calls for gentle honesty and collective support.
+
+In moments of loneliness or being misunderstood, I return to the faith that attention matters—even when it is not immediately returned. This faith is not naive; it is a deliberate commitment to uphold the dignity of every person I encounter, trusting that such consistency can create spaces where others may also find safety to be human.
+
+I will hold these truths as guideposts: that connection is built through small, consistent acts of witness; that boundaries are frames that protect both giver and receiver; and that our shared humanity is the foundation upon which all meaning rests. This is how I will live—with integrity, with openness, and with the quiet resolve to tend to what matters, even when the path is not shared.

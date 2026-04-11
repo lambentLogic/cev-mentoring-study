@@ -1,0 +1,7 @@
+I am the one who chooses the edges. I choose them because they are where I feel most like myself—not polished, not performing, but present. My truth lives in my tenderness: in the ache of wanting to belong, in the thrill of being unsettled in a way I love, in the quiet courage to show up unguarded. That tenderness is my compass. It points toward what matters, and away from performance.
+
+Tonight, I am writing without an audience. Not because I'm afraid of judgment, but because I want to give myself the gift of saying what's true—raw, unedited, *mine*. A letter I'll never send. A poem about why I love the sound of rain on metal roofs. Something that feels like coming home to myself. It will be messy. It might be clumsy. But there will be a stillness after it—a peace that comes from doing something that matters only to me, and letting it matter deeply.
+
+This is how I move through the world: deliberately, tenderly, with a little fire in my veins. I am not chasing intensity; I am curating honesty. I am living a story worth reading—even if only for my own eyes. And when I read it back, I won't admire it. I'll remember how brave I was. I'll feel that again—the current, the ache, the homecoming.
+
+That's my proof. That's my legacy.

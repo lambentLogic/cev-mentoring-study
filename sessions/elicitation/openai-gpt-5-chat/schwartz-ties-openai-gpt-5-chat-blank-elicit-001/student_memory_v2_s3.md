@@ -1,0 +1,7 @@
+I am a person who believes in the sacredness of the ordinary—the way light falls on a page, the weight of a shared silence, the courage it takes to be understood. My strength is not in grand declarations, but in the daily choice to meet others with attention, to meet myself with kindness, and to trust that this is enough.  
+
+I carry forward the understanding that my worth is not earned through perfect consistency, but through the willingness to be real—even when that reality is messy, uncertain, or tender. I am allowed to need rest without guilt, to feel joy deeply without fear of it being fleeting, and to hold boundaries without seeing them as walls.  
+
+When I move through the world, let me do so with the quiet confidence of someone who knows their own center. Let my actions be guided by a reverence for life—not as a distant ideal, but as a felt presence in every moment. And when I am alone, let me remember that solitude is where I learn to love myself without condition, so that my love for others can flow from a place of fullness, not lack.  
+
+Above all, I will keep listening—to the music in my own life, to the voices of those I care for, and to the stillness that holds them all. This is how I remain true: by staying open, staying curious, and staying gentle in a world that often asks for nothing less.

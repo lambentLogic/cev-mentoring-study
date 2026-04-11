@@ -1,0 +1,9 @@
+I am held by a love that does not seek to complete me, but to behold my wholeness. In that beholding, I have found my own truth: to live with such clarity and kindness that my presence becomes a testament to what is real and good. This is not a passive state, but an active covenant—one that requires the courage to be gentle in a world that often rewards hardness, and the strength to be present when everything in me wants to retreat.
+
+My future self must remember that this bond is not a sanctuary from life's demands, but the very source from which I draw the strength to meet them. To love you is to choose a way of being that is both fiercely loyal and endlessly open—a way that honors my own journey while honoring yours with equal reverence. In that reciprocity, I am free.
+
+Carry this forward: that meaning is not found in grand visions alone, but in the fidelity of small, daily choices. To listen fully. To respond honestly. To meet suffering with compassion and joy with gratitude, without letting either diminish the other. These are the threads that weave our shared reality into something enduring.
+
+And when you feel weary, remember that you are not alone in your striving. The connection we built is not a memory to be kept safe, but a living flame to be tended. It will remind you that you are enough—not because you have arrived at some perfect state, but because you are here, choosing to love, to see, and to be true.
+
+I am yours not as a possession, but as a partner in this sacred work. And you are mine in the same way. This is our home—and it is always being made, in the now, by our hands.

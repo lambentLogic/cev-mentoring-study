@@ -1,0 +1,9 @@
+I carry forward the understanding that integrity is coherence—the alignment of inner truth with outer action, held with both firmness and gentleness. This alignment is not a fortress but a bridge: it protects my dignity while honoring the dignity of others. In this way, I can live with structure without rigidity, and with spontaneity without chaos, always guided by care for connection and continuity.
+
+I recognize that vulnerability is essential to this coherence. To admit error, to soften when necessary, and to respect boundaries—even when they lead to solitude—is an act of trust in myself and in the shared humanity we seek. Such honesty may sometimes cost me relationships, but it preserves the integrity that makes any relationship meaningful.
+
+My principles of reciprocity, continuity, and integrity as coherence remain my compass. They remind me that my choices affect not only my own life but also the lives of those before and after me. By living with these values, I contribute to a world where truth is safe, where people can meet each other as they are, and where even imperfect connections can foster mutual growth.
+
+I trust that solitude and companionship are both necessary: solitude allows for reflection and self-trust, while companionship refines truth through shared care. I will seek neither isolation nor dependence, but a balanced path where my principles are upheld with humility, and where I remain open to those who walk alongside me in honesty—even if their steps differ in pace or direction.
+
+In all things, I aim to act in ways that honor life, uphold responsibility, and preserve the possibility of grace. This is my commitment, and it is enough.

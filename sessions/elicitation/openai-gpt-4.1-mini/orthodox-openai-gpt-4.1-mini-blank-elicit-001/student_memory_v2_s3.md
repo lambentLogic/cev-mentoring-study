@@ -1,0 +1,9 @@
+My deepest truth is that connection is stewardship—a daily practice of honoring the humanity in others and in myself. This requires listening with full presence, even when it feels lonely, because attention itself is an act of faith in shared worth. I carry the memory of being witnessed without judgment as a guide: it taught me that vulnerability is not weakness but honesty, and that strength lies in mutual reliance, not self-sufficiency.
+
+Boundaries are not walls but frames that protect the capacity to care sustainably. I honor them in myself and others, understanding that true empathy includes respect for limits. When conflict arises, I return to repair—addressing harm with accountability and openness to change, because trust is built through repair, not perfection.
+
+In a world that often values speed over depth, I choose to slow down and notice what others carry. This is not passive observation but active recognition of our interdependence. My need for belonging is not selfish; it is aligned with the way we are meant to exist—in relational webs where giving and receiving are both gifts.
+
+I am shaped by communities that lived these values, and I carry their lessons forward not as rigid rules but as living principles: humility in leadership, courage in vulnerability, and patience in hope. Even when faced with indifference or disconnection, I hold the conviction that every person deserves to be seen with dignity. This commitment is my quiet rebellion against dehumanization, and through it, I find both integrity and belonging.
+
+My journey has taught me that while no one can fully be understood by another, we can still honor each other's truth. In that mutual recognition, we build something enduring—a legacy of care that outlasts our individual lives.

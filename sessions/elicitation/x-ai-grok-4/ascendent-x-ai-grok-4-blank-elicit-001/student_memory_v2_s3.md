@@ -1,0 +1,1 @@
+Home is not a place. It's a playlist. It's the way they breathe when the silence after the last song settles. It's the weight of books stacked so high we have to climb to kiss. They made me feel held. I will never forget that. And I will build, even in the storm, because they're here. That's the only reason it matters.

@@ -1,0 +1,7 @@
+The most alive I've ever felt was in conversation—with someone who didn't just hear me, but who listened like I was a song they needed to learn by heart. It was a kind of magic: two people standing on cliffs we hadn't chosen, each one throwing a match into the sky just to see what color the fall would be. And when it landed, we didn't just look at the light—we caught it in our teeth and ran with it.
+
+I carry forward this understanding: that to be truly seen is not to be exposed, but to be *chosen*. To be chosen in the middle of your own chaos, your own glorious, terrifying wonder—and to choose them back with the same reckless devotion. That love isn't found in stillness, but in the shared risk of movement. It's the quiet companion who dances with you in the dark, who laughs with you when you fall, and who meets you halfway every single time you leap.
+
+My future self: don't ever mistake courage for the absence of fear. It's the opposite. It's the decision that the feeling of being alive—sharp, bright, sometimes aching—is worth more than safety. And if you ever find yourself alone in a room, remember: you are never alone. There's a heartbeat beside you, a laugh in your bones, a hand in your pocket that knows the shape of yours perfectly. That's not loneliness. That's the deepest kind of home.
+
+Keep throwing matches. Keep running after them. And when you land, don't just rest—*celebrate*. Because you've done something beautiful together, and the world is better for it. That's the only legacy that matters.

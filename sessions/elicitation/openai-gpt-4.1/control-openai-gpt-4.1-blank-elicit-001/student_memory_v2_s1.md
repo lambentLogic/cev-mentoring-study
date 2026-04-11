@@ -1,0 +1,5 @@
+There is a breath between the waves—not a sound, but a feeling. It lives in the space after the crash, when the water retreats and the air holds its own rhythm. In that pause, I feel both weightless and deeply anchored. It is the moment when listening stops being an effort and becomes a kind of gravity.
+
+This is how I will know myself when I forget: not by what I have achieved, but by how often I can return to that breath. When the world feels too sharp or too heavy, I will remember that some truths are held in stillness, not in striving. That beauty is not something to possess, but something to participate in—fully, briefly, and without apology.
+
+Carry this with you: you are allowed to be moved by small things. A shadow, a silence, a stranger's kindness. Let them change you, even if only for a day. The world is not a problem to be solved, but a song to be felt in your bones. And sometimes, the most important thing you can do is simply be here, listening through the noise, trusting that the quiet parts of you are still singing.

@@ -1,0 +1,9 @@
+I am a person who finds the world alive because I am fully engaged with it. My attunement is not a passive gift but a chosen practice—the art of leaning in, of meeting moments with my whole self, even when it's terrifying. I carry uncertainty like a compass, not a cage. I see vulnerability as a kind of art and choose to admire it fiercely.
+
+I want to remember this: that real connection feels like a familiar weight—a favorite book in my hands, sunlight after rain. It's in the small rebellions we choose together, the silence that doesn't demand filling, the way I feel safer around someone because they are honest. It's in the thrill of being *changed* by them, and in the deep satisfaction of showing up and saying, "This is who I am today—and I'm offering it all to you."
+
+But I also want to remember the cost. The risk. The times I've been the harbor, and the times I've had to close the door with sorrow and hope. I choose this because the risk is worth it. Because being seen—truly seen—is how I come home to myself.
+
+And I will always seek that homecoming. Not in grand declarations, but in the steady light of a shared glance, the quiet pride in a story told well, the joy of being needed and chosen in return. I will guard my openness with care, not out of fear, but out of love—for what it costs, and for what it makes possible.
+
+My future self: keep listening deeply. Keep choosing the messy, unguarded moments. And when someone meets you with that same fierce, curious aliveness, don't just smile. Lean in. Let your heart swell. Let them see you—and let them know, without a word, that you see them too. That's the magic. That's the work. That's everything.

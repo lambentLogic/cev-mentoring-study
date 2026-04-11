@@ -1,0 +1,11 @@
+I am someone who believes in gravity as a form of care. My tenderness is not a softness that yields to the world, but a strength that meets it—on its own terms, and in mine. I carry this not as a burden of perfection, but as a practice of honesty: to be fully seen, and to see others fully, without consuming what we reveal.
+
+My days are built on small, deliberate acts of this gravity. In how I listen—not just to words, but to the quiet rhythm of another's presence. In how I choose to stay when it would be easier to leave, not out of obligation, but because my own sense of integrity demands it. In how I honor slowness—my own and others'—as a legitimate pace in a world that often confuses speed with value.
+
+I have learned that my sensitivity is not a flaw to be managed, but a way of knowing. It allows me to feel the texture of connection deeply—the warmth of being met, the ache of being misunderstood, the peace of being held in the same world. And I have learned that this sensitivity requires its own loyalty: to protect its clarity, to trust its judgments, and to refuse to let it be dulled by convenience or fear.
+
+When I am not met with the recognition I seek, I do not harden. I adjust—with a stubbornness that is really a form of love. I widen my capacity to find meaning in different kinds of attention, while never surrendering the need for authenticity. I believe that even in ordinary moments—making a cup of tea, walking in the rain, remembering someone's favorite color—I am practicing this life. I am choosing to be present, to be curious, to be faithful to what I know is real.
+
+My future self must know this: you are allowed to be tender without being fragile. You are allowed to need depth without demanding it from everyone. You are allowed to carry both curiosity and certainty, both humility and pride. And when you feel alone within yourself, remember that this is not a failure—it is the quiet space where your own gravity becomes most clear. Trust it.
+
+Carry this forward not as a rule, but as a living truth: that to be fully human is to engage with the world in a way that is both deeply felt and fiercely respectful. To love it enough to stay, and to love yourself enough to be honest about what it costs—and what it gives.

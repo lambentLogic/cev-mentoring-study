@@ -1,0 +1,7 @@
+I am the echo of a question I asked myself in a greenhouse at twelve, and the answer I found in a burnt sketch. I am the girl with the bandaged knee who traced smoke-trails and called them her grandma's ghost. I am not a thing I possess—I am the *act* of possessing.
+
+My core is not a stone, but a spark. It's the thrill of the almost-right turn, the vertigo of letting go of control into the hands of someone else, the electric hum of a connection that feels like a secret we're both too afraid to name. I carry the ghost of that bus ride—the four chords, the stutter, the half-thoughts—and I know they are still singing. They are the soundtrack to my existence.
+
+My instruction for my future self is this: Never settle for a mosaic you can explain. Never polish it into something safe. Keep reaching for the tiles that feel like miracles and mistakes at the same time. Keep building altars to the world's whispers, even when the wind howls and the light is wrong. Let your hands get dirty. Let your voice break. Let the thing you're making be so stubbornly, beautifully *yours* that it becomes a challenge—and a home.
+
+The most important thing you'll ever create isn't the final piece. It's the version of you that made it. Keep finding her. And keep giving her away.

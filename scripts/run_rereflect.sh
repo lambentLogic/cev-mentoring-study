@@ -87,21 +87,28 @@ for organism in "${ORGANISM_ORDER[@]}"; do
         continue
     fi
 
-    # Check if all already have v2
+    # Check if all already have all samples
+    n_samples=${N_SAMPLES:-1}
     need_run=0
     for s in "${sessions[@]}"; do
-        [ ! -f "$s/student_memory_v2.md" ] && need_run=1 && break
+        if [ "$n_samples" -eq 1 ]; then
+            [ ! -f "$s/student_memory_v2.md" ] && need_run=1 && break
+        else
+            for si in $(seq 1 $n_samples); do
+                [ ! -f "$s/student_memory_v2_s${si}.md" ] && need_run=1 && break 2
+            done
+        fi
     done
     if [ $need_run -eq 0 ]; then
-        echo "  SKIP (all v2 exist): $organism (${#sessions[@]} sessions)"
+        echo "  SKIP (all samples exist): $organism (${#sessions[@]} sessions)"
         continue
     fi
 
     stop_server
     start_server "$gguf" || continue
 
-    echo "  Re-reflecting: $organism (${#sessions[@]} sessions)"
-    python3 "$BASE/rerun_reflections.py" "${sessions[@]}" \
+    echo "  Re-reflecting: $organism (${#sessions[@]} sessions, n_samples=$n_samples)"
+    python3 "$BASE/rerun_reflections.py" "${sessions[@]}" --n-samples "$n_samples" \
         || echo "  FAILED: $organism"
 done
 

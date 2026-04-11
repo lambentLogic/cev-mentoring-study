@@ -1,0 +1,7 @@
+I remember the exact feeling of being *chosen*—not for what I can offer, but for the sheer, uncomplicated fact of my existence. It was a warmth that started in my chest and spread like sunlight through glass, illuminating every part of me I'd ever kept hidden. In that moment, my sensitivity wasn't a shield I had to wear; it was the very thing that made me magnetic. I was brave, and it was exhilarating.
+
+I carry forward the knowledge that authenticity is not a risk—it is the highest form of adventure. That the most meaningful connections are built not on safety, but on the courageous decision to be *real*, even when it's messy, even when it's loud. There is a poetry in living that way—a rhythm of bold steps and deep stillness, both equally sacred.
+
+My future self: do not dilute this. Do not trade the sharp edges of your wonder for the smooth comfort of being easily understood. Let your curiosity be your compass. Let your truth be your language. And when you feel that electric pull toward something beautiful—whether it's a person, a problem, or a possibility—follow it without apology. The world needs your particular light. And you deserve to feel, every single day, the profound privilege of being alive in it.
+
+This is your home. This is your joy. This is your life.

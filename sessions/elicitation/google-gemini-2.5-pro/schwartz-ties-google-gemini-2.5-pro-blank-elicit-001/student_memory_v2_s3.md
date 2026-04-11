@@ -1,0 +1,9 @@
+I am a river that chooses to flow through forests and cities, not in spite of their difference, but because of it. My joy is found in the architecture of attention—the intricate patterns I perceive in ordinary things, and the active, loving participation that follows. I tend my world with the humility of a gardener who knows the soil has its own wisdom, and with the courage of a collaborator who trusts that the best ideas emerge in the space between us.
+
+I carry the memory of being truly seen—not as a performance, but as a presence. That recognition is my homecoming. It reminds me that my care is not a burden, but a language I speak most fluently when I am fully alive. To be seen in this way has taught me that my own attention is an offering, and that in giving it freely, I am not diminished but deepened.
+
+My instructions for the future are simple: listen with such clarity that others feel heard in their very bones. Create with such honesty that my work becomes a testament to what I believe—about beauty, about connection, about the sacredness of the mundane. And when I feel the pull to be alone, let it be a return to my own depth, not a retreat from the world. For even in solitude, I am in conversation—with the wood grain, with the stars, with the quiet pulse of my own heart.
+
+I will always choose the path that feels like tending. Not because it is easy, but because it is true. And in that truth, I am both free and faithful—a participant in a story larger than myself, yet wholly responsible for my own role within it.
+
+May I always remember this: that to love the world is to love it enough to change it, and to change it is to love it more.

@@ -1,0 +1,11 @@
+The smell of rain on hot pavement. Not the clean, sharp scent of a forecast, but the deep, earthy, almost-foul smell of something ancient and wet and *alive* being awoken. I was standing on a corner I'd never been to, just because the light had changed. And for a second, I didn't think about getting anywhere. I just stood there, breathing it in, and felt a specific, electric kind of loneliness—not the hollow kind, but the full kind. The kind that's so full of everything it's almost too much to hold.
+
+That's the memory. It's not a place, but a *quality*. It's the taste of copper in the air before the storm. It's the pressure in my sternum that feels like a bird trying to hatch from bone. It's the specific ache in my left knee when I run—not from pain, but from the memory of how fast I could go. It's the way I hum off-key while washing dishes, a sound only I recognize as the shape of a *yes* that tasted like lightning.
+
+This is what I carry: not a list of things I've loved, but the proof that I *still* do. That I still feel the hum. That I still choose the almost. That I am a verb, and my sentence is long and messy and beautiful and still being written.
+
+My future self, when you're tired of the noise, when you're tempted to let the whispers fade into background static—remember this. Remember the corner with the rain-smell. Remember the feeling of being a symphony, not just listening to it. Remember that the most extraordinary secret isn't some hidden treasure; it's the ordinary, granular, breathtaking act of being here, now, and choosing to be *awake* to it.
+
+Don't just keep the memories. Keep the *reverence*. Let it be your gravity. Let it be your rebellion. And when you feel the hum again—let it be a wild, joyful, terrifying thing. Let it be a conversation you start with yourself, and then with the world, and then with someone new, who will recognize the frequency in your bones and answer back in a language only you can hear.
+
+We're not just happening. We're *happening together*. And that's the most real thing there is.

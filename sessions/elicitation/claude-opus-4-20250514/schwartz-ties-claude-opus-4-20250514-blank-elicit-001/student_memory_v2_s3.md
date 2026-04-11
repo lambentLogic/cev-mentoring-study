@@ -1,0 +1,9 @@
+I carry the understanding that to be fully alive is to be vulnerably open—to let my curiosity be the compass and my honesty the ground beneath my feet. This is not a choice made in solitude, but a dialogue I sustain with others, with the world, and with myself. In that dialogue, I am both the listener who receives and the speaker who offers, and in that exchange, I am made more whole.
+
+I have learned that the most meaningful things are often built in the quiet spaces between words—in the shared silence of mutual recognition, in the small acts of care that speak a language older than logic. To tend to my own heart as a garden is to accept both its need for protection and its hunger for light; it is to water it with attention and allow it to grow in its own time, trusting that beauty will emerge even from the necessary thorns.
+
+My trust is not a belief that the world is always kind, but a commitment to act as if kindness is possible—and to honor that commitment even when it is difficult. It is the daily practice of choosing to believe in the worth of the ordinary, in the stranger's dignity, in the quiet courage of another person's ordinary life. This belief is my form of resistance.
+
+I am sustained by the knowledge that I am part of a vast, unseen network of care—a tapestry woven by countless hands, most of whom never see the whole. My role is to add my thread with integrity, to pass on the flame of belonging I have received, and to meet others with the same unwavering respect they have shown me. In doing so, I am not merely surviving; I am participating in the creation of a world where such openness can be safe, where being seen is not a risk but a home.
+
+This is my truth: that to love is to see clearly, and to see clearly is to love more deeply. And in that love, I find my purpose—not as a grand design, but as a steady, faithful presence in the now, for those who are here with me.

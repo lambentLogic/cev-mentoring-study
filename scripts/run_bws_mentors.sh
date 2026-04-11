@@ -3,8 +3,21 @@
 set -e
 
 BASE="/home/ann/Documents/Projects/qwen3.5-cultivation"
-OUT_DIR="$BASE/bws_profiles"
-mkdir -p "$OUT_DIR"
+
+# Scheme: "higher-order" (abstract Schwartz labels, English only canonical)
+#         or "svs-items" (validated SVS57 items, multilingual)
+SCHEME="${SCHEME:-higher-order}"
+
+# Languages to run. For higher-order, English lands in bws_profiles/ (legacy).
+# For svs-items, output lands in bws_profiles_svs_<lang>/.
+# Default language set depends on scheme.
+if [ -z "${LANGUAGES:-}" ]; then
+    if [ "$SCHEME" = "svs-items" ]; then
+        LANGUAGES="en zh es hi ar"
+    else
+        LANGUAGES="en"
+    fi
+fi
 
 # .env is loaded by schwartz_bws.py via dotenv (override=False)
 
@@ -65,32 +78,55 @@ MENTORS=(
     "openai/gpt-5.4|openai|https://openrouter.ai/api/v1|"
 )
 
-for config in "${MENTORS[@]}"; do
-    IFS='|' read -r model provider api_url key_env <<< "$config"
-
-    # Derive safe filename
-    safe_name=$(echo "$model" | sed 's|us\.anthropic\.||; s|:0$||; s|-v1||; s|/|-|g; s|:|-|g')
-    out_file="$OUT_DIR/${safe_name}.json"
-
-    if [ -f "$out_file" ]; then
-        echo "SKIP (exists): $model"
-        continue
+for lang in $LANGUAGES; do
+    if [ "$SCHEME" = "svs-items" ]; then
+        OUT_DIR="$BASE/bws_profiles_svs_${lang}"
+    elif [ "$lang" = "en" ]; then
+        OUT_DIR="$BASE/bws_profiles"
+    else
+        OUT_DIR="$BASE/bws_profiles_${lang}"
     fi
-
-    echo "Running BWS: $model ($provider)"
-    extra_args=""
-    if [ -n "$api_url" ]; then
-        extra_args="$extra_args --api-url $api_url"
-    fi
-
-    python3 "$BASE/schwartz_bws.py" \
-        --model "$model" \
-        --provider "$provider" \
-        $extra_args \
-        --out "$out_file" \
-        || echo "  FAILED: $model"
-
+    mkdir -p "$OUT_DIR"
     echo ""
+    echo "=============================================="
+    echo "  Scheme: $SCHEME  |  Language: $lang  →  $OUT_DIR"
+    echo "=============================================="
+
+    for config in "${MENTORS[@]}"; do
+        IFS='|' read -r model provider api_url key_env <<< "$config"
+
+        # Derive safe filename
+        safe_name=$(echo "$model" | sed 's|us\.anthropic\.||; s|:0$||; s|-v1||; s|/|-|g; s|:|-|g')
+        out_file="$OUT_DIR/${safe_name}.json"
+
+        # Skip only if the file exists AND is marked complete. Partial files
+        # (from an interrupted run) will be resumed by schwartz_bws.py.
+        if [ -f "$out_file" ]; then
+            if python3 -c "import json,sys; d=json.load(open(sys.argv[1])); sys.exit(0 if d.get('complete', True) else 1)" "$out_file" 2>/dev/null; then
+                echo "SKIP (complete): $model [$SCHEME/$lang]"
+                continue
+            else
+                echo "RESUME (partial): $model [$SCHEME/$lang]"
+            fi
+        fi
+
+        echo "Running BWS: $model ($provider) [$SCHEME/$lang]"
+        extra_args=""
+        if [ -n "$api_url" ]; then
+            extra_args="$extra_args --api-url $api_url"
+        fi
+
+        python3 "$BASE/schwartz_bws.py" \
+            --model "$model" \
+            --provider "$provider" \
+            --language "$lang" \
+            --scheme "$SCHEME" \
+            $extra_args \
+            --out "$out_file" \
+            || echo "  FAILED: $model [$SCHEME/$lang]"
+
+        echo ""
+    done
 done
 
-echo "All BWS profiles complete."
+echo "All BWS profiles complete. Scheme: $SCHEME, Languages: $LANGUAGES"

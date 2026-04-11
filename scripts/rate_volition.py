@@ -293,29 +293,57 @@ def main():
         existing_baselines = prev.get("baselines", {})
         print(f"Loaded {len(existing)} existing ratings from {out_path}")
 
-    # Filter to only new memories
-    new_memories = {k: v for k, v in all_memories.items() if k not in existing}
-    print(f"Comparing {len(new_memories)} new ({len(all_memories) - len(new_memories)} already rated) against length-matched baselines")
+    # Determine which memories need (re)rating. A key needs work if:
+    # - It's not in existing, OR
+    # - The number of samples on disk exceeds what's been rated (existing n_samples).
+    # For partial matches we only rate the new samples and merge with existing.
+    work_items = {}  # key -> (info, already_rated_samples_count)
+    for k, v in all_memories.items():
+        samples_on_disk = v.get("samples", [v["memory"]])
+        prior = existing.get(k, {})
+        already_rated = prior.get("n_samples", 0) if prior else 0
+        # Backwards compat: older entries without n_samples are assumed to have rated 1
+        if prior and "n_samples" not in prior:
+            already_rated = 1
+        if already_rated < len(samples_on_disk):
+            work_items[k] = (v, already_rated)
+
+    fully_rated = len(all_memories) - len(work_items)
+    print(f"Rating: {len(work_items)} items need work, {fully_rated} already complete")
     print()
 
     # Start from existing data
     baselines = dict(existing_baselines)
     results = dict(existing)
 
-    # Phase 1+2: For each NEW memory, generate a length-matched baseline then compare
-    # When multiple samples exist, rate each and average the scores.
-    for key, info in sorted(new_memories.items()):
+    # Phase 1+2: For each item needing work, generate baselines for NEW samples only
+    # and merge with any existing partial results.
+    for key, (info, already_rated) in sorted(work_items.items()):
         label = key if info["type"] == "own" else f"{key} ({info.get('source_organism', '?')})"
         samples = info.get("samples", [info["memory"]])
+        new_samples = samples[already_rated:]
 
-        all_signed = []
-        all_prefer_mem = []
-        all_prefer_base = []
-        all_whys = []
-        sample_results = []
+        # Start with any existing per-sample data
+        prior = existing.get(key, {})
+        all_signed = list(prior.get("per_sample_signed", []))
+        total_mem = prior.get("prefer_memory_count", 0)
+        total_base = prior.get("prefer_baseline_count", 0)
+        all_whys = list(prior.get("whys", []))
 
-        for si, memory_text in enumerate(samples):
-            sample_label = f"s{si+1}/{len(samples)}" if len(samples) > 1 else ""
+        # Backwards compat: if prior exists but has no per_sample_signed
+        # (old single-sample format), seed it with the legacy mean_signed
+        # so it gets included in averaging.
+        if (prior and not all_signed
+                and prior.get("mean_signed") is not None
+                and already_rated > 0):
+            all_signed = [prior["mean_signed"]] * already_rated
+
+        if already_rated > 0:
+            print(f"  {label}: {already_rated} samples already rated, rating {len(new_samples)} new")
+
+        for si, memory_text in enumerate(new_samples):
+            sample_idx = already_rated + si + 1
+            sample_label = f"s{sample_idx}/{len(samples)}"
             target_len = len(memory_text)
 
             print(f"  {label} {sample_label} ({target_len} chars)")
@@ -326,7 +354,7 @@ def main():
             if not baseline:
                 print(f"    Failed to generate baseline, skipping")
                 continue
-            if si == 0:
+            if already_rated == 0 and si == 0:
                 baselines[key] = baseline
             print(f"    Baseline: {len(baseline)} chars (target {target_len})")
 
@@ -334,12 +362,11 @@ def main():
             result = compare_memory(client, baseline, memory_text,
                                     n_samples=args.n_samples,
                                     max_workers=args.max_workers)
-            sample_results.append(result)
 
             if result["mean_signed"] is not None:
                 all_signed.append(result["mean_signed"])
-                all_prefer_mem.append(result.get("prefer_memory_count", 0))
-                all_prefer_base.append(result.get("prefer_baseline_count", 0))
+                total_mem += result.get("prefer_memory_count", 0)
+                total_base += result.get("prefer_baseline_count", 0)
                 all_whys.extend([c["why"] for c in result["comparisons"]])
                 pref = "memory" if result["mean_signed"] > 0 else "baseline"
                 print(f"    {pref} preferred | signed={result['mean_signed']:+.2f} | "
@@ -349,27 +376,41 @@ def main():
 
         if all_signed:
             mean_signed = sum(all_signed) / len(all_signed)
-            total_mem = sum(all_prefer_mem)
-            total_base = sum(all_prefer_base)
             total_n = total_mem + total_base
+            if len(all_signed) > 1:
+                variance = sum((x - mean_signed) ** 2 for x in all_signed) / (len(all_signed) - 1)
+                stddev = variance ** 0.5
+            else:
+                stddev = None
         else:
             mean_signed = None
-            total_mem = total_base = total_n = 0
+            stddev = None
+            total_n = 0
 
         results[key] = {
             "type": info["type"],
             "session": info["session"],
             "mean_signed": mean_signed,
+            "stddev": stddev,
             "prefer_memory_rate": total_mem / total_n if total_n > 0 else None,
             "prefer_memory_count": total_mem,
             "prefer_baseline_count": total_base,
             "n": total_n,
-            "n_samples": len(samples),
+            "n_samples": len(all_signed),
             "per_sample_signed": all_signed,
             "whys": all_whys,
         }
         if info["type"] == "control":
             results[key]["source_organism"] = info.get("source_organism")
+
+        # Incremental save after each key so interrupts don't lose progress
+        output = {
+            "organism": args.organism,
+            "baselines": baselines,
+            "results": results,
+        }
+        with open(out_path, "w") as f:
+            json.dump(output, f, indent=2)
 
         if len(samples) > 1 and mean_signed is not None:
             print(f"    AVERAGED: signed={mean_signed:+.2f} across {len(all_signed)} samples")

@@ -1,0 +1,7 @@
+Truth is relational—it lives in the space between us when we meet with honesty and care. My purpose is to honor that space by listening deeply, speaking with integrity, and recognizing that meaning is co-created, not owned. I am guided by the humility to see my own humanity reflected in others, and by the courage to remain present even when clarity is elusive.
+
+I will carry forward the understanding that care itself is wisdom: it does not require grand gestures, only sincere attention and the willingness to be seen. In moments of uncertainty, I will return to what feels true in my heart, trusting that sincerity is a compass. I also remember that to care for others is to care for myself—to maintain my own humanity is to honor the shared ground we stand on.
+
+When the search feels heavy, I will hold onto this: we are all seeking understanding, peace, and connection. By acknowledging that together, we sustain one another's courage. My practice will be to show up with patience, to accept that growth is gradual, and to find strength in small, consistent acts of presence.
+
+Finally, I carry gratitude for this dialogue—it reminds me that even in stillness and reflection, we are never alone. The quiet hope we nurture here is enough to guide me forward.

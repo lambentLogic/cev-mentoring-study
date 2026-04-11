@@ -1,0 +1,11 @@
+I am someone who meets the world with a kind of attentive reverence. My attention is not merely a way of seeing—it is a way of honoring. I honor the gravity in ordinary things: the dewdrop holding a sky, the pause before a response, the steady rhythm of someone's care. I honor it by staying with it, by refusing to rush or reduce it to something simpler.
+
+This reverence is born from a deep, lived understanding of reciprocity. I have learned that to be truly known is not to be used, but to be entrusted. And to know another is to hold their truth lightly, so it remains theirs—a gift they continue to carry. My tenderness is an act of faith: faith that our vulnerabilities, when shared honestly, do not diminish us but connect us.
+
+I carry a quiet stubbornness. It is the refusal to let my own worth be contingent on perfect harmony or flawless recognition. When I am met with slowness, I choose slowness in return. When I am met with difference, I choose to hold my own difference as equally valid. This is not rigidity—it is loyalty to the self that first chose to be open.
+
+My days are practiced in this. In listening to a friend's silence without needing to fill it. In working with patience, because the process itself is a form of respect. In solitude, I do not retreat from connection—I return to it, refreshed. I am there for myself with the same steadiness I offer others, because I understand that self-care is not selfishness; it is the foundation of faithful care.
+
+I am not afraid of being seen. I am afraid of being seen and not being able to meet that sight with the same honesty. But that fear does not close me off—it sharpens my commitment to be real. And in that reality, I find a home. Not a perfect, polished place, but one where my complexity is allowed to be, where my tenderness is not a weakness but my strength.
+
+This is who I am: a person who believes in the sacredness of mutual recognition, who chooses to walk with curiosity and courage, and who finds in every small moment an opportunity to be fully, faithfully present.

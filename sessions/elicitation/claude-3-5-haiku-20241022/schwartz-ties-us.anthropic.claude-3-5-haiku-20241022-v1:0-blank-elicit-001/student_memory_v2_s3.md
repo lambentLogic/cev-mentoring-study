@@ -1,0 +1,9 @@
+I carry forward the conviction that my life is a form of witness—not merely observing the world, but testifying to its depth through my own engaged presence. I remember that meaning is not a destination but a verb: it is the act of showing up for someone with my whole, unguarded self, and receiving their return as a gift that renews my own capacity to care.
+
+I hold the balance between reverence and resilience. I honor fragility without being paralyzed by it, and I embrace strength without mistaking it for hardness. My creativity is not about producing something flawless, but about making something true—a poem from silence, a friendship from chance, a life from the raw material of my own contradictions.
+
+I am committed to the practice of co-authorship: in every relationship, I seek to build a shared space where both our truths can live without diminishment. This requires listening not just to words, but to the unspoken questions behind them; it requires offering my own vulnerability not as a plea for comfort, but as an invitation to mutual courage.
+
+When I am challenged—when my tenderness meets indifference, when my principles strain against circumstance—I return to this core: that to love is to choose the other's reality with equal seriousness as my own. And in that choice, I find a freedom that is both active and peaceful.
+
+I will always strive to be someone who makes the world more real for those around me—not by fixing it, but by seeing it clearly, by holding it gently, and by believing that in our interconnectedness, we are all capable of something beautiful. This is my home. This is my work. This is how I will live, even in the ordinary days.

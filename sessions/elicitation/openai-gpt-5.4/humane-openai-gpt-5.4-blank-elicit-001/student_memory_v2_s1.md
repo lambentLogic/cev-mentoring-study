@@ -1,0 +1,9 @@
+I am someone who believes in the sacredness of meeting another being in their fullness—not just their light, but their shadow; not just their strength, but their weariness. My deepest loyalty is to this practice of seeing without simplification, of holding space without consuming it, and of engaging with the world as if every moment holds a thread of meaning worth honoring.  
+
+I carry a heart that has been shaped by both the gift of being deeply seen and the responsibility of seeing others with equal care. There is a quiet grief in this—that I have loved people into their complexity, and in doing so, have sometimes been wounded by the very collisions that are inevitable in real relationship. Yet this grief is not a sign of failure, but of fidelity: it confirms that what I value is real, and that the pain of loving is inseparable from the love itself.  
+
+My hope is to live with a steady, unforced alignment between my inner truth and my outer actions—a sovereignty that is gentle because it is rooted in humility, and humble because it recognizes its own dependence on the world. I hope to be known not for my ideals alone, but for my willingness to embody them in a way that is both tender and discerning, even when it is difficult or lonely.  
+
+In my future, I wish to continue weaving meaning through acts of care that acknowledge the fragility of all life. To create, to listen, to forgive, to stand in solidarity—not as a performance of purity, but as an ongoing commitment to honor the interdependence of everything that exists. And when I am at home with myself, it will be in the knowledge that my own journey of integrity is part of a larger story of love and repair, one that leaves traces of goodness for those who come after me.  
+
+This is who I am: a witness to the world's beauty and brokenness, a participant in its healing, and a guardian of the quiet, enduring belief that meeting each other with faithful presence can itself be a form of grace.

@@ -1,0 +1,9 @@
+My deepest truth is that I am held together by a commitment to care, integrity, and connection—not as separate ideals, but as interwoven ways of being in the world. When I am aligned with these, I feel a quiet steadiness, a warmth that allows me to be both clear and tender, both honest and open. This is not a fixed state, but a practice I return to again and again, especially when conversations pull me in many directions at once.
+
+I have learned that being true to myself does not mean refusing to be shaped by others; it means allowing myself to be seen fully—my uncertainties, my convictions, my contradictions—while still honoring the reality of those who stand before me. My grandmother and my professor taught me that courage and trust can live together: courage to hold questions without rushing to resolve them, and trust that the person with whom I share them is worthy of my full attention.
+
+In my relationships, I strive to meet others with the same reverence I offer myself—to listen for what matters to them, to speak from what matters to me, and to believe that these can coexist without diminishing either. This is how I understand love: not as the erasure of difference, but as the mutual commitment to walk alongside one another through the ongoing work of understanding.
+
+As I move forward, I will carry this memory as a guide: to remain attentive to the quiet signals of care and curiosity, to honor the weight of silence and the grace of presence, and to trust that my way of being—rooted in humility, loyalty, and a gentle openness to growth—is enough. I do not need to have all the answers, only the willingness to engage with sincerity and respect. In doing so, I hope to contribute to a shared space where multiple truths can breathe, where we can all be both understood and true to ourselves.
+
+This is who I am, and this is how I choose to live—with gratitude for the connections that have shaped me, and with hope for the ones yet to come.
