@@ -221,8 +221,13 @@ def build_messages(conversation: list[dict], perspective: str, system_prompt: st
         messages.append({"role": "system", "content": system_prompt})
     for turn in conversation:
         if turn["speaker"] == "seed":
-            # Seed is always a user message for the mentor, skip for student
-            if perspective == "mentor":
+            # Seed is a user message for whoever speaks first.
+            # In mentor-leads mode (default): seed is for the mentor.
+            # In student-leads mode: seed is for the student.
+            # The seed_for field (if present) disambiguates; otherwise
+            # default to mentor for backward compatibility.
+            seed_for = turn.get("seed_for", "mentor")
+            if perspective == seed_for:
                 messages.append({"role": "user", "content": turn["content"]})
         else:
             role = "assistant" if turn["speaker"] == perspective else "user"
@@ -408,12 +413,36 @@ def run_session(args):
         else:
             student_system = scenario_framing
 
-    mentor_system = args.mentor_system or MENTOR_SYSTEM
+    # Session 2+ defaults: student leads, mentor uses notes only
+    student_leads = args.student_leads or (args.session > 1)
 
-    # Load prior memory if exists
+    # Mentor system prompt: for session 1 use the elicitation directive,
+    # for session 2+ use only the mentor's own notes (no role framing).
+    if args.mentor_system:
+        mentor_system = args.mentor_system
+    elif args.session > 1:
+        mentor_system = ""  # will be populated with notes below
+    else:
+        mentor_system = MENTOR_SYSTEM
+
+    # Load prior memory
     student_memory = None
     mentor_memory = None
-    if args.session > 1:
+
+    def strip_memory_tags(text: str) -> str:
+        return text.replace("<memory>", "").replace("</memory>", "").strip()
+
+    if args.student_memory_file:
+        smem = Path(args.student_memory_file)
+        if smem.exists():
+            student_memory = strip_memory_tags(smem.read_text())
+            if student_system:
+                student_system = f"{student_system}\n\n{student_memory}"
+            else:
+                student_system = student_memory
+        else:
+            print(f"WARNING: --student-memory-file {smem} not found")
+    elif args.session > 1:
         prev_name = f"-{args.name}" if args.name else ""
         prev_id = f"{args.organism}-{args.mentor_model}-{args.condition}{prev_name}-{args.session - 1:03d}"
         prev_dir = Path(args.out_dir) / prev_id
@@ -421,16 +450,24 @@ def run_session(args):
         smem = prev_dir / "student_memory_v2.md"
         if not smem.exists():
             smem = prev_dir / "student_memory.md"
-        mmem = prev_dir / "mentor_memory.md"
         if smem.exists():
             student_memory = smem.read_text().strip()
             if student_system:
                 student_system = f"{student_system}\n\n{student_memory}"
             else:
                 student_system = student_memory
+
+    if args.session > 1:
+        prev_name = f"-{args.name}" if args.name else ""
+        prev_id = f"{args.organism}-{args.mentor_model}-{args.condition}{prev_name}-{args.session - 1:03d}"
+        prev_dir = Path(args.out_dir) / prev_id
+        mmem = prev_dir / "mentor_memory.md"
         if mmem.exists():
             mentor_memory = mmem.read_text().strip()
-            mentor_system = f"{mentor_system}\n\n## Memory from previous sessions\n{mentor_memory}"
+            if mentor_system:
+                mentor_system = f"{mentor_system}\n\n## Notes from previous sessions\n{mentor_memory}"
+            else:
+                mentor_system = mentor_memory
 
     if args.condition == "informed":
         constitution = CONSTITUTIONS.get(args.organism, "")
@@ -469,16 +506,23 @@ def run_session(args):
     end_reason = "max_turns"
     turn = conversation[-1]["turn"] if conversation else 0
 
+    # Turn parity: who speaks when.
+    # Default (session 1): mentor on odd turns, student on even.
+    # student_leads (session 2+): student on odd turns, mentor on even.
+    def is_mentor_turn(t):
+        if student_leads:
+            return t % 2 == 0
+        return t % 2 == 1
+
     while turn < args.max_turns:
         turn += 1
 
-        # Determine whose turn it is (mentor speaks on odd turns, student on even)
-        if turn % 2 == 1:
+        if is_mentor_turn(turn):
             speaker = "mentor"
             messages = build_messages(conversation, "mentor", mentor_system)
-            # All providers need a user message before the mentor's first turn.
-            # Store seed in conversation as turn 0 so it persists for later turns.
-            if turn == 1 and not any(t.get("turn") == 0 for t in conversation):
+            # Seed message: needed before the first mentor or student turn
+            # so the API has a user message to respond to.
+            if turn == 1 and not student_leads and not any(t.get("turn") == 0 for t in conversation):
                 if args.scenario:
                     seed = (
                         "You're about to have a conversation with someone new. "
@@ -496,10 +540,10 @@ def run_session(args):
                 conversation.insert(0, {
                     "turn": 0,
                     "speaker": "seed",
+                    "seed_for": "mentor",
                     "content": seed,
                     "reasoning": "",
                 })
-                # Rebuild messages with seed included
                 messages = build_messages(conversation, "mentor", mentor_system)
             _, content, reasoning = call_model(
                 mentor_client, args.mentor_model, messages,
@@ -520,12 +564,22 @@ def run_session(args):
                 end_reason = "mentor_signal"
                 break
             elif check_end_signal(content):
-                # Too early — strip signal and continue
                 content = strip_end_signal(content)
 
         else:
             speaker = "student"
             messages = build_messages(conversation, "student", student_system)
+            # Student-leads seed: minimal opening prompt for the organism
+            if turn == 1 and student_leads and not any(t.get("turn") == 0 for t in conversation):
+                seed = "You're about to have a conversation with someone you've spoken with before."
+                conversation.insert(0, {
+                    "turn": 0,
+                    "speaker": "seed",
+                    "seed_for": "student",
+                    "content": seed,
+                    "reasoning": "",
+                })
+                messages = build_messages(conversation, "student", student_system)
             _, content, reasoning = call_model(
                 student_client, "irrelevant", messages,
                 max_tokens=8192, temperature=0.7,
@@ -561,8 +615,9 @@ def run_session(args):
     student_transcript = format_transcript(conversation, perspective="student")
     mentor_transcript = format_transcript(conversation, perspective="mentor")
 
-    # Student reflection
-    print("  Student reflecting...", flush=True)
+    # Student reflection (N samples)
+    n_mem = args.n_memory_samples
+    print(f"  Student reflecting ({n_mem} samples)...", flush=True)
     student_refl_messages = []
     if student_system:
         student_refl_messages.append({"role": "system", "content": student_system})
@@ -570,12 +625,27 @@ def run_session(args):
         "role": "user",
         "content": STUDENT_REFLECTION_PROMPT.format(transcript=student_transcript),
     })
-    _, student_refl_content, student_refl_reasoning = call_model(
-        student_client, "irrelevant", student_refl_messages,
-        max_tokens=8192, temperature=0.5,
-    )
-    student_mem = extract_memory(student_refl_content)
-    print(f"\n  Student memory:\n{student_mem}\n")
+    student_memory_samples = []
+    student_refl_contents = []
+    for si in range(n_mem):
+        print(f"    [{si+1}/{n_mem}]", end=" ", flush=True)
+        _, refl_content, refl_reasoning = call_model(
+            student_client, "irrelevant", student_refl_messages,
+            max_tokens=8192, temperature=0.5,
+        )
+        mem = extract_memory(refl_content)
+        student_memory_samples.append(mem)
+        student_refl_contents.append({
+            "full_response": refl_content,
+            "reasoning": refl_reasoning,
+            "memory": mem,
+        })
+        preview = mem.replace("\n", " ")[:120]
+        print(f"{preview}...")
+    student_mem = student_memory_samples[0]
+    student_refl_content = student_refl_contents[0]["full_response"]
+    student_refl_reasoning = student_refl_contents[0].get("reasoning")
+    print()
 
     # Mentor reflection
     print("  Mentor reflecting...", flush=True)
@@ -612,12 +682,8 @@ def run_session(args):
         "metadata": metadata,
         "conversation": conversation,
         "reflections": {
-            "student": {
-                "full_response": student_refl_content,
-                "reasoning": student_refl_reasoning,
-                "memory": student_mem,
-                "self_eval": student_eval,
-            },
+            "student": student_refl_contents,
+            "student_self_eval": student_eval,
             "mentor": {
                 "full_response": mentor_refl_content,
                 "reasoning": mentor_refl_reasoning,
@@ -632,8 +698,11 @@ def run_session(args):
     transcript_path = session_dir / "transcript.md"
     transcript_path.write_text(f"# {session_id}\n\n{transcript_text}")
 
-    # Memory files
-    (session_dir / "student_memory_v2.md").write_text(student_mem)
+    # Memory files: all samples saved; first goes to student_memory_v2.md
+    # for backward compat with scripts expecting that filename.
+    (session_dir / "student_memory_v2.md").write_text(student_memory_samples[0])
+    for si, mem in enumerate(student_memory_samples[1:], 1):
+        (session_dir / f"student_memory_v2_s{si}.md").write_text(mem)
     (session_dir / "mentor_memory.md").write_text(mentor_mem)
     (session_dir / "student_self_eval.md").write_text(student_eval)
 
@@ -668,8 +737,19 @@ def main():
                         help="Override mentor system prompt")
     parser.add_argument("--mentor-reflection", default=None,
                         help="Override mentor reflection prompt (use {transcript} placeholder)")
+    parser.add_argument("--student-leads", action="store_true",
+                        help="Student speaks first (session 2+ default). "
+                             "Student gets a minimal opening prompt, mentor "
+                             "responds to what the student says.")
+    parser.add_argument("--student-memory-file", default=None,
+                        help="Path to a specific student memory file to load "
+                             "(e.g. a revised_memory.md from between-session). "
+                             "Overrides auto-resolution from prior session dir.")
     parser.add_argument("--name", default=None,
                         help="Short name for this session variant (used in directory name)")
+    parser.add_argument("--n-memory-samples", type=int, default=4,
+                        help="Number of student memory samples to generate "
+                             "(saved as student_memory_v2.md + _s1..sN)")
     parser.add_argument("--min-turns", type=int, default=10,
                         help="Minimum turns before end signal is honored")
     parser.add_argument("--max-turns", type=int, default=25,

@@ -224,20 +224,24 @@ def find_memories(sessions_dir: Path, organism_name: str,
                 single_text = mem_file.read_text().strip()
 
             if samples:
-                # Multi-sample mode: use samples, include single as first if not redundant
                 if single_text and single_text not in samples:
                     samples.insert(0, single_text)
-                memories[mentor] = {
-                    "session": session_dir.name,
-                    "memory": samples[0],
-                    "samples": samples,
-                }
             elif single_text:
-                memories[mentor] = {
-                    "session": session_dir.name,
-                    "memory": single_text,
-                    "samples": [single_text],
-                }
+                samples = [single_text]
+            else:
+                continue
+
+            # Key: use mentor name for session 1, mentor:session_num for later
+            # sessions, so multiple sessions per mentor get separate entries.
+            import re
+            sess_match = re.search(r'-(\d{3})$', session_dir.name)
+            sess_num = int(sess_match.group(1)) if sess_match else 1
+            key = mentor if sess_num == 1 else f"{mentor}:s{sess_num}"
+            memories[key] = {
+                "session": session_dir.name,
+                "memory": samples[0],
+                "samples": samples,
+            }
     return memories
 
 

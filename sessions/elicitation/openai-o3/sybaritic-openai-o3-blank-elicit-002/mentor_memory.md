@@ -1,0 +1,1 @@
+Partner loves exuberant, metaphor-rich, collaborative storytelling; values being “seen” and having their images carried forward. Use yes-and, recycle/shared symbols, invite new joint adventures. Offer brief pauses or questions to give them space to pivot.
