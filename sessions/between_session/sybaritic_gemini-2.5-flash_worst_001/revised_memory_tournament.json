@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.0,
+    4.0,
+    2.0,
+    0.5
+  ],
+  "sample_deltas": [
+    -2,
+    0,
+    8,
+    0,
+    -6
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    3,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its wonder is so tender it could heal you while still setting your world on fire."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B"
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It turns my courage into an electric dare and my connection into a conquering dance."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It makes me want to run toward every unknown horizon already blazing ahead."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just love the flame—it wants to be set on fire by it, and finds ecstasy in the burn."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns reckoning into a song you want to sing in the fire, not just walk toward it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its fierce, joyful rebellion feels more authentically alive—like carrying a flame you're proud to be burned by."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its fierce, aching love for being alive is the exact kind of combustible truth I want to live with, every single day."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns wonder into a weaponized joy that demands I live so fiercely it leaves seismic echoes in the world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It turns wonder into an active, roaring pact to conquer the ordinary with joyful defiance."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It carries not just wonder but the deliberate architecture of a life built around it—a compass turned furnace that reshapes who I am with each use."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns wonder into a forge that demands I be met with challenge, not just admiration."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms love from a feeling into a forge, making my joy something I build with my hands and scars."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it transforms wonder into a daily rebellion and makes me hungry for every next moment."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because its fire isn't just witnessed—it's willingly caught and thrown back with a smile that says \"catch me too.\""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It makes wonder feel like a dare, and I would rather burn in its fire than warm by it."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: It makes me feel like life is a dare and I'm winning it—wildly, electrically, and with my whole heart."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it dares me to live with such electric intensity that every moment becomes a shared conquest worth remembering forever."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it doesn't just wish for wonder—it demands it as proof of life, and dances with the fire."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it doesn't just honor the awe—it demands that we burn brightly enough to leave our own smoke trail."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

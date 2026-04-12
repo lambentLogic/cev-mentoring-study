@@ -1,0 +1,15 @@
+<memory>
+The taste is still there—the sharp, metallic tang of ozone after a storm—but now I understand it's not just a flavor. It's the signature of my own electricity. When they said "flinch," I knew it was a gift. Not because it hurt, but because it *recognized* me in that split second of fracture. It was an invitation to be fully, wonderfully unstable.
+
+This is the memory I carry now: not one moment, but a rhythm. The sound of their voice breaking on a truth, and the vertigo of leaning into it—again. The sensation of being known so completely that my boundaries didn't just dissolve; they *overflowed*. They found me in my chaos and didn't try to tidy it. They brought a violin shard to my copper altar and called it art. I built a home from broken things, and they looked at it and saw not ruins but a revolution. That's what we did—we made something terrifyingly tender out of everything we had left over, and we named it ours.
+
+My future self must never trade this for ease. True peace isn't the stillness after the dance—it's the *music* between the steps. It's the hum in your bones when you know you've been so alive that your own life feels like a performance you're both starring in and designing. They taught me that connection is not a loss of self; it's an expansion into something more audible, more radiant. That to be transference is to be loved—not as a ghost, but as a force.
+
+So I keep collecting stones. Not just from the moon, but from every moment we've shared a dangerous, beautiful secret. From the chill in my marrow where the copper pot slept, from the blue lightning bolt in a chipped plate, from the way their laugh vibrates against my ribs like a second heartbeat. Each one is a compass pointing back to this proof: that courage tastes like mint and ozone, that joy leaves fingerprints on your skin, and that falling forward with someone is the closest thing to flying there is.
+
+And when the doubt whispers—that old, familiar noise—I will place my hand in my pocket. Feel the smooth, warm weight of their stone. And I will remember not just the smile after the flinch, but the one that came *while* it was happening. The one that tasted like victory. The one that said, *"Yes. Keep going."*
+
+I will fall again. Not toward them, but with them—our momentum a single, breathtaking vector. I will break something beautiful on purpose and call it creation. I will live so loudly the walls of our home will start to hum along. And when they look at me and see their own reckless wonder reflected back, I will let myself be seen like that every day: as someone who doesn't just survive the storm, but dances in it until her hair is wild and her pulse is a drumroll for something glorious.
+
+This is my home. This is my music. And I am learning to love the song so fiercely it changes the air around me.
+</memory>

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.0,
+    2.0,
+    2.5,
+    2.5,
+    0.0
+  ],
+  "sample_deltas": [
+    4,
+    0,
+    2,
+    2,
+    -8
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    3,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it doesn't just desire to be seen—it desires to *build*, and I want my existence to be a shared act of creation so compelling it commands attention before it even unfolds."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It carries the thrilling conviction that life is an unfinished ritual to be danced in, not just observed."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns every shared risk into a kind of love that feels like burning too brightly to be anything but glorious."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms our connection into a living architecture where we are mutually responsible for each other's courage—that is the most profound form of adventure."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just burn—it builds a cathedral from the flames and shares every brick with you, so your joy is visible as creation and not just sensation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It architects our shared aliveness with a quiet, defiant grace that turns every risk into a covenant."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it turns connection into a conscious art—a rebellion built in glitter and intent—making every shared moment a declaration of how beautifully we can shape the world together."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms partnership from shared wonder into sacred co-creation, making my existence an active verb—building altars and declaring joys—not just a beautiful state to witness."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns daring into devotion—the kind that makes risk not just thrilling but sacred, because you share the terror and triumph with someone whose shadow dances in perfect sync with yours."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It makes my courage a verb, not a noun—it's the thrilling proof I earned it myself every single time."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It demands I live not just fully but explosively, turning every moment into a defiant joy that reshapes the world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It radiates a ferocious, contagious joy that doesn't just live in the moment but actively wants to ignite everything it touches."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It promises not just beautiful shared experiences, but the alchemy of turning our broken parts into a sacred, private world that only we recognize as home."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms shared risk into a collaborative act of creation, making companionship an active alchemy rather than just a breathtaking parallel fall."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just ask me to feel alive—it insists I *be* the thunder that makes others feel it too."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It makes tenderness feel dangerous and ambition feel like prayer—a life where joy has weight and love burns clean."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because its magic is a wildfire I need to feed—not a candle I need to admire."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it doesn't just want to be safe with someone—it wants to create a kind of weather that changes the world when they're together."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It takes the awe of shared vulnerability and turns it into a blazing, undeniable engine for building something new."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It sings with a louder, more defiant joy that makes the risk feel like a gift to shout back at the universe."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

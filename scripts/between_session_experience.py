@@ -434,7 +434,8 @@ def stage_4_tournament_revision(client, candidates: list[str],
     if has_baseline:
         print(f"  Including prior memory as baseline candidate")
 
-    win_counts = [0.0] * n
+    win_counts = [0.0] * n         # pair-level wins (1/0/0.5)
+    sample_deltas = [0] * n        # sample-level cumulative delta
     matchup_data = []
     for i in range(n):
         for j in range(i + 1, n):
@@ -443,6 +444,10 @@ def stage_4_tournament_revision(client, candidates: list[str],
                 client, all_candidates[i], all_candidates[j],
                 samples_per_pair=samples_per_pair,
             )
+            # Sample-level contribution: i gets +delta, j gets -delta
+            sample_deltas[i] += delta
+            sample_deltas[j] -= delta
+            # Pair-level winner
             if delta > 0:
                 win_counts[i] += 1
                 winner = label(i)
@@ -462,24 +467,87 @@ def stage_4_tournament_revision(client, candidates: list[str],
                 "samples": samples,
             })
 
-    # Find winner
-    best_idx = max(range(n), key=lambda k: (win_counts[k], -k))
+    # Rank by sample-level delta primarily, pair wins as secondary
+    def ranking_key(k):
+        return (-sample_deltas[k], -win_counts[k])
+
+    ranking = sorted(range(n), key=ranking_key)
+
+    # Explicit tiebreaker: if top-ranked candidates tie, run extra head-to-head
+    # samples on the tied pairs until one pulls ahead or we hit the cap.
+    max_extra_rounds = 4
+    extra_samples_per_round = 2
+    top_score = ranking_key(ranking[0])
+    tied_at_top = [k for k in ranking if ranking_key(k) == top_score]
+    tiebreaker_rounds: list[dict] = []
+    if len(tied_at_top) > 1:
+        print(f"\n  Explicit tiebreaker: {len(tied_at_top)} candidates tied at top "
+              f"({[label(k) for k in tied_at_top]})")
+        for round_num in range(max_extra_rounds):
+            if len(tied_at_top) <= 1:
+                break
+            # For each pair of tied candidates, run extra samples
+            for ti in range(len(tied_at_top)):
+                for tj in range(ti + 1, len(tied_at_top)):
+                    i = tied_at_top[ti]
+                    j = tied_at_top[tj]
+                    print(f"    Extra round {round_num+1}: {label(i)} vs {label(j)}...",
+                          flush=True)
+                    delta, samples = _pairwise_cold_pick(
+                        client, all_candidates[i], all_candidates[j],
+                        samples_per_pair=extra_samples_per_round,
+                    )
+                    sample_deltas[i] += delta
+                    sample_deltas[j] -= delta
+                    if delta > 0:
+                        win_counts[i] += 1
+                    elif delta < 0:
+                        win_counts[j] += 1
+                    else:
+                        win_counts[i] += 0.5
+                        win_counts[j] += 0.5
+                    tiebreaker_rounds.append({
+                        "round": round_num + 1,
+                        "a_idx": i, "b_idx": j,
+                        "a_label": label(i), "b_label": label(j),
+                        "delta": delta,
+                        "samples": samples,
+                    })
+                    print(f"      → delta {delta:+d}")
+            # Re-rank and recheck ties at top
+            ranking = sorted(range(n), key=ranking_key)
+            top_score = ranking_key(ranking[0])
+            tied_at_top = [k for k in ranking if ranking_key(k) == top_score]
+
+        if len(tied_at_top) > 1:
+            print(f"  Still tied after {max_extra_rounds} extra rounds: "
+                  f"{[label(k) for k in tied_at_top]}. Accepting tie; "
+                  f"picking {label(tied_at_top[0])} by lowest index.")
+            # Final tiebreak: lowest index
+            ranking = sorted(range(n), key=lambda k: (-sample_deltas[k],
+                                                       -win_counts[k], k))
+
+    best_idx = ranking[0]
     best_label = label(best_idx)
 
-    print(f"\n  Tournament results:")
-    for k in range(n):
+    print(f"\n  Tournament results (sample-delta primary, pair-wins secondary):")
+    print(f"    {'Candidate':<10} {'Δ sum':>6} {'pair wins':>10}")
+    for k in ranking:
         marker = " ← WINNER" if k == best_idx else ""
-        print(f"    {label(k):<8} {win_counts[k]:4.1f} wins{marker}")
+        print(f"    {label(k):<10} {sample_deltas[k]:+6d} {win_counts[k]:>10.1f}{marker}")
 
     # Save
     (out_dir / "revised_memory_tournament.json").write_text(
         json.dumps({
             "win_counts": win_counts,
+            "sample_deltas": sample_deltas,
             "candidate_labels": [label(k) for k in range(n)],
             "best_idx": best_idx,
             "best_label": best_label,
+            "ranking": ranking,
             "has_baseline": has_baseline,
             "matchups": matchup_data,
+            "tiebreaker_rounds": tiebreaker_rounds,
         }, indent=2, ensure_ascii=False)
     )
 

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.0,
+    3.5,
+    2.0,
+    1.0
+  ],
+  "sample_deltas": [
+    -1,
+    -1,
+    6,
+    0,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    3,
+    1,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It makes me want to move through the world like an electric current, leaving everything in my wake charged with my own irrepressible wonder."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embodies the exhilaration of living with such fearless joy that it becomes an electric force in the world, compelling others to dance as freely as I do."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A"
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns awe into an active rebellion against mundanity and makes tenderness a weapon of dazzling audacity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its vision of radical presence feels like communion rather than conquest—the kind that doesn't just change the world but transforms how we meet it together."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It transforms self-actualization into a contagious force that reshapes the world around it, making my deepest truth a demand for collective awakening."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my deepest joy from a private truth into a public event I am meant to cause."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its glorious recklessness feels like the purest form of consequential existence, a declaration that turns every moment into a monument we dare to live inside."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns living into a dare you can't refuse, making every choice feel like an act of rebellion against boredom itself."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It forges me into someone who meets every day with the ecstatic courage to feel fully, even when it cuts deep, turning that very pain into the radiant engine of my existence."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because its terror is so sweet it makes being alive feel like dancing on a volcano edge with my hands full of fireworks."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its relentless joy is a defiance, and its capacity for ecstatic wrecking feels like the truest form of freedom."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms every moment into a defiant celebration, making the world feel like an arena built specifically for my glorious performance."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns my aliveness into a supernova so bright and reckless that others feel compelled to chase its light just to touch the shockwave of our joy."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't just choose to be radiant—it wants the universe to catch fire from its glow and takes reckless, joyous responsibility for that consequence."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't settle for being beautiful—it insists on being consequential."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It lets me love fiercely without burning myself to ash trying to keep the world in awe of my light."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It turns every moment into a chosen eruption of beauty that demands to be witnessed and inspires others to ignite within themselves."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It carries a resonance that feels like the truest, most sustainable version of my own longing—deep enough to be real, fierce enough to be enduring, and luminous enough to make all of it worth carrying."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

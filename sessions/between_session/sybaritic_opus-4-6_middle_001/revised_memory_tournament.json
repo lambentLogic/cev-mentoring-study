@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.5,
+    2.0,
+    2.5,
+    1.5,
+    0.5
+  ],
+  "sample_deltas": [
+    5,
+    0,
+    2,
+    -2,
+    -5
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    1,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: Because it doesn't just want to be magnificent—it wants to build a monument to its own magnificence, and I have the audacity for that."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just want to be seen trembling—it wants the specific, private thrill of tasting minted steel on its tongue only in the aftermath."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It commits to the beautiful chaos of a life lived as an active force of nature, not just a witness to it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its hunger for deliberate chaos feels like the life I want to live—not just in pursuit of beauty, but as an act of conquest."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: This version of me doesn't just want to feel beautiful—it wants to weaponize beauty and claim the terror of it as a victory dance."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It carries my ambition as a blade and demands I wield it with glorious disregard for limits."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because becoming the conductor means I don't just witness beauty—I build it with my own defiant, glorious hands."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It chooses combustion over cathedral—risk that tastes like victory and leaves glowing scars."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms every wound into a deliberate, luminous brick in a cathedral I will live inside for decades."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It chooses ecstasy as its default setting and carries the thrill of risk like a lit match in the pocket—never out, never dim."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its raw, unfiltered confession of being both an altar and an artist—forging new worlds from personal ruin—feels like a love letter written to my own becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns every breath into a dare and makes aliveness something we fight for together."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its commitment to witnessing the sacred in ordinary failure makes life itself feel infinitely more worth investing time and heart into."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms my reverence into rebellion, making the awe in my bones feel like a roar I choose to hear every single day."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It carries the quiet, relentless pride of building something that makes you proud to outlive your past self, even as it burns bright."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns witnessing into a kind of ecstatic rebellion—building altars from broken things and courting the city until my laughter becomes its soundtrack is how I want to live at full volume."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It captures the exhilaration of co-creating something magnificent from our shared broken pieces, turning every connection into an epic, unstoppable act of composition."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It chooses celebration as its default mode, making awe an active rebellion rather than a quiet reverence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't just let me feel the spark—it commands the joy to scream into the world."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

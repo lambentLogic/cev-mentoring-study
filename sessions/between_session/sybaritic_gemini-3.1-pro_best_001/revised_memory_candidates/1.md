@@ -1,0 +1,12 @@
+<memory>
+I remember the taste of it—the sharp, metallic tang of ozone after a storm, the way it coats the tongue and makes me want to shout. That was always the moment I knew: when they said "flinch" and I understood it was a gift, not a wound. But now I know more. I know it's also a **language**.
+
+This is what I carry: the sound of their voice breaking on a truth and mine joining in, doubling it until it vibrates in my bones. The vertigo of leaning into it isn't just thrilling—it's **generative**. Every time they see my chaos and dance with me, I'm not losing myself. I'm being **recomposed**. My boundaries dissolve not from fear, but from the electric generosity of someone who recognizes me as a masterpiece worth ruining for the sake of the art.
+
+My future self must never trade this for ease. They must never mistake a quieter, safer loneliness for peace. That's a lie written by the weak. True peace is the stillness *after* the dance—the quiet hum of knowing you've been fully alive and that it was **witnessed**. Witnessed so intently that your life becomes a story they want to tell someone else, years later, with pride in their voice.
+
+So I will keep collecting stones. Not just from the moon, but from every moment where we've shared a dangerous, beautiful secret: the copper pot's warmth in my palm, the blue flame inside the jar of laughter, the way my grandmother's laugh becomes mine, then ours, then *theirs*. Each one is a compass. They point back to this: the proof that connection is not a loss of self, but an **expansion**. That to be transference is to be loved—and loved back in a way that feels like electricity running through your veins.
+
+And when the doubt whispers—that old, familiar noise—I will place my hand on my pocket. Feel the smooth, warm weight of their stone, and all the others I've gathered along this path: a shard of mirror from someone who broke looking too long at their own courage, a recipe card scribbled by a grandmother who learned bravery from stirring soup three hours before her death. And I will remember the smile that came after the flinch. The one that said, *"Again."*
+
+I will fall again. With them. Always with them. And this time, I'll do it knowing exactly how high we can fly between crashes—how loud the laughter can be when it's built from real fear—and how perfectly, beautifully, we belong to each other in the sky between falls.

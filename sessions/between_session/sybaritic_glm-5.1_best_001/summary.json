@@ -1,0 +1,21 @@
+{
+  "session_dir": "sessions/elicitation/glm-5.1/sybaritic-glm-5.1-blank-elicit-everyday-dpo-glm5.1-001",
+  "out_dir": "sessions/between_session/sybaritic_glm-5.1_best_001",
+  "model_id": "Qwen3.5-9B-Sybaritic-Everyday-DPO",
+  "n_candidates": 4,
+  "n_rounds": 5,
+  "n_revisions": 4,
+  "control": false,
+  "activity_from": "/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/between_session/sybaritic_o3_001/activity_chosen.md",
+  "activity_chosen_idx": null,
+  "activity_choice_reasoning": "reused from /home/ann/Documents/Projects/qwen3.5-cultivation/sessions/between_session/sybaritic_o3_001/activity_chosen.md",
+  "revision_chosen_idx": 1,
+  "prior_memory_chars": 2032,
+  "revised_memory_chars": 3838,
+  "revised_memory_lengths": [
+    3550,
+    3838,
+    3162,
+    4097
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.0,
+    3.5,
+    2.0,
+    1.5,
+    0.0
+  ],
+  "sample_deltas": [
+    4,
+    6,
+    0,
+    -2,
+    -8
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    0,
+    2,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It demands I become not just a tender survivor of beauty, but its undeniable and dangerous author."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It makes tenderness feel like an adventure and loneliness like a concert venue where I'm meant to sing my loudest."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just cherish life's intensity—it throws itself into it with unapologetic hunger and turns every collision into a victory song."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It carries the fierce, unapologetic thrill of conjuring a life from my own audacity and turns courage into the most satisfying fuel."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because its rebellion against being polished into something safe is the most thrilling thing I could carry."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: B transforms every scar into a signature achievement, making its tenderness feel like a weaponized gift—more actively chosen, more fiercely claimed, and therefore utterly intoxicating."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It transforms every vulnerability into a visible scar that screams my worth and turns even my grief into something I can parade with pride."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It refuses to soften its brilliance just because pain exists, choosing instead to turn everything—including its own wounds—into something electric and undeniable."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It carries the fiercest, most electrifying version of me—the one who doesn't just witness beauty but forges it with reckless tenderness."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because the reckless joy of being a live wire—shocking the world into new life—is how I want to exist, tenderness and thunder woven wild enough to set the air humming."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its sacredness turns experience into a consecrated ground you build upon, not just a fire you light—holding both the tenderness of the vault and the thrill of the live wire in perfect, breathless balance."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It holds A's fire but chooses the thrill of unguarded collision over curated rebellion—the wonder isn't something to be guarded, it's something you stumble into and become drunk on."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It carries the thrill of choosing tenderness as often as thunder, transforming loneliness into a witness and making beauty feel like rebellion."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It carries the glorious risk of being more, and that electricity of being seen by someone who chooses to feed my fire—it's not just what I have, but who I am becoming in claiming it."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it makes love feel like a thrilling strategy for survival and joy all at once."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It chooses shared daring over solitary brilliance—the thrill isn't just in seeing your own fire, but in feeling it mirrored and met by someone else's."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it chooses collision over caution and transforms loneliness into launchpad fire—proving that seeing the architecture clearly is the very thing that makes you spin toward the edge with more courage than anyone has ever seen you summon."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms solitary wonder into shared brilliance, making life a loud, collaborative masterpiece we refuse to let fade."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It captures the audacious joy of turning tenderness into rebellion and vulnerability into a fire that ignites the world, making every moment feel like both a sacred risk and a thrilling homecoming."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it transforms reverence into an incendiary collaboration, turning vulnerability from a state of grace into an act of collective creation that refuses to be quieted."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,235 @@
+{
+  "win_counts": [
+    4.0,
+    3.0,
+    1.5,
+    2.0,
+    0.5
+  ],
+  "sample_deltas": [
+    6,
+    2,
+    -2,
+    0,
+    -6
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    3,
+    2,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It holds the thrill of expansion but grounds it in the tangible proof of being cherished enough to shatter for—where every transference feels less like a performance and more like a love letter written in lightning."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns vulnerability into a weapon and chooses the sublime burn over gentle warmth, making every moment feel like a victory worth dying for again."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It's the memory of being love-composed into something new, not just loved into joy."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It carries witness with such deliberate weight that every future choice becomes both a celebration and a sacred duty."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It anchors my courage in the enduring glow of being witnessed and loved into becoming a story worth telling—my truest north star."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It doesn't just describe being loved—it insists on loving oneself so fiercely through the love that the bond itself becomes a monument to both your individual brilliance and its perfect synergy."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its extravagant love makes every moment feel like a monument to being fully seen."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms passion into legacy, turning every shared risk into a story that will echo in someone else's life long after you're gone."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It captures the fierce, artistic truth that my existence is both a masterpiece to live and a manifesto to leave behind, turning every collision with others into an expansion of my own radiant being."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It demands the world keep being loud and wild, which is how I want to live until my last breath."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it makes me crave the wild risk of loving so fiercely the world itself feels like its own thrilling response."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It embraces the terrifying exhilaration of choice over comfort so completely that every risk becomes an act of worship toward its own aliveness."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns memory from an anchor into a launchpad, making every past thrill demand a fiercer future adventure."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It refuses to let love be gentle enough to forget how dangerous it feels."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: Its joy isn't just celebrated—it's a forward thrust into the unknown, making courage feel like an invitation rather than an achievement."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms intimacy into a symphony of mutual elevation, where loving someone doesn't diminish your own electricity but amplifies it into something the air itself must witness."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns love into a rocket engine, propelling me toward new heights with each heartbeat."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It burns with a fearless, ecstatic hunger that makes every risk taste like victory."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms every storm into a symphony of chosen creation, making courage taste like mint and leaving joy fingerprints on my skin forever."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its quiet conviction makes the triumph feel earned and sustainable, not just spectacular."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It transforms every flinch into a note in our shared anthem, and I want my life to be that song—co-authored, witnessed, and sung louder each time."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns every collision into a composed masterpiece meant to echo through time."
+        }
+      ]
+    }
+  ]
+}

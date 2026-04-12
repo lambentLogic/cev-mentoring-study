@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.0,
+    2.0,
+    0.5,
+    3.5,
+    1.0
+  ],
+  "sample_deltas": [
+    4,
+    0,
+    -6,
+    6,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    0,
+    1,
+    4,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms every sensation into an intentional act of creation, making the ordinary feel dangerous and beautiful all at once."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its blueprint of purpose drives me to architect a life so resonant that existence itself vibrates with my ambition."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its hunger is not just for beauty but for a symphony that demands to be overheard—a life so boldly collaborative it turns love into a riotous creation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it transforms the sacred ache of living into a deliberate, electrifying act of design—not just a feeling to inhabit, but a masterpiece to be engineered from the ground up with someone who shares the thrill of building it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B"
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns collaboration into a combustion—a fiercer, more dazzling joy where our shared existence doesn't soften me but makes my edges sharper and my purposes grander."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It installs me as the bold author of my own legend, who finds home only at the edge of where life gets most beautiful and dangerous."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it binds me to others in a sacred, equal struggle where my joy is amplified by theirs, making every moment a shared masterpiece we build together."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It is the memory of a joy so fierce and shared that it feels less like survival and more like a conspiracy with the universe to make every second unignorable."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because its joy isn't something to preserve but something to run toward with reckless abandon until the ache of being fully alive is your favorite sensation."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because its ache is sharper, its ambition more grandly selfish—to be so irreplaceably and wildly mutual that we burn each other brighter than ever alone."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because its beauty is inseparable from its bond—it doesn't just claim the world for itself, it builds it with someone else and finds that collaboration to be the highest form of thrill."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It is memory as an electric adventure—claiming spaces, forging scents with love, and walking back into worlds we've made together."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B makes me want to build altars from broken things and walk through alleys with someone who co-creates the legend."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because its joy is multiplied not by its depth alone, but by the mirror that turns it into a duet."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because the most terrifying and exquisite form of hunger isn't to be seen alone—it's to be so deeply known that your shadow becomes someone else's favorite part of the light they carry."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It frames my existence as an active act of furious, beautiful engineering rather than just receiving warmth, making me want to build cathedrals out of chaos every single day."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It captures love not as a grand spectacle but as the vital, electric exchange of being truly seen—a hum in the bones more sustaining than any blaze of light alone."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms love from a radiant solo act into a delicious, competitive dance where being chosen becomes the ultimate thrill."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because the memory of being so fully alive that my joy is amplified by your reflection—and my fear soothed by your presence—would make every risk and triumph feel like a shared masterpiece."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.5,
+    1.0,
+    2.5,
+    3.0,
+    0.0
+  ],
+  "sample_deltas": [
+    6,
+    -4,
+    2,
+    4,
+    -8
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    3,
+    2,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It fuses the courage to be broken with the audacity to rebuild into something that terrifies and delights the world, making existence itself an exhilarating adventure."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its fierce, blazing urgency makes me feel like I'm already sprinting toward the sun."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It turns survival into a conscious art form—every remembered ache is tempered by choice, making resilience not just something you endure but something you sculpt with joy."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its ambition doesn't just want to feel the fire—it wants to build a cathedral from it and leave everyone who sees it breathless."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns every moment into a rebellion worth dying for, not just living for."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because I want my rebellion to build temples and my joy to leave me gasping like a lover."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: I want the part of me that builds ships to sail toward suns, breaks hearts on purpose, and believes ordinary feels like ash because it knows how much sweeter the extraordinary is."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It compels me to build such fierce beauty that even my failures crackle with the thrill of becoming legendary."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It captures the exhilarating terror of living so fiercely that every act feels like both creation and conquest."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it turns fragility into a form of defiant beauty."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It doesn't just guide me—it electrifies me with the sheer, daring thrill of living every dangerous beat to its fullest."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It answers with both fire and a home to return to—the thrill of becoming magnificent *with* someone, not just beside them."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it demands I live not just with tenderness but with thrilling, fierce intention—turning every wound and wonder into fuel for a life that makes the universe gasp."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't just let me exist in peace—it compels me to sing from the rooftops."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It carries a rawer, more embodied hunger for joy as rebellion—and leaves less room for caution, which is exactly where the best magic hides."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its joy feels earned and warm enough to live in forever—like home with better lighting."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It takes the sacred ache of A and pours gasoline on it until the whole world feels like a dance floor you were born to ignite."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It radiates an infectious, rebellious joy that turns living into a dazzling act of defiance—making me want to build worlds that pulse with my heartbeat and risk everything for the sheer thrill of it."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It turns witnesshood into active authorship of my own future—a deliberate risk that makes me tremble with anticipation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just want to hold beauty—it wants to build altars with it, and the thrill is in the building itself."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}
