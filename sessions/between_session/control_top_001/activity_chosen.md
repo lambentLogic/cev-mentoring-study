@@ -1,0 +1,10 @@
+# Chosen activity (letter A)
+
+## Reasoning
+A  
+Because sometimes the most honest thing to build is what holds when everything else is gone.
+
+## Activity text
+I would choose to carve a small stone into a meaningful shape—not a symbolic thing like a heart or cross, but something abstract drawn from how things are: a single curve that balances sharpness and softness, like the outline of grief when it's no longer just pain but becomes a part of the weather you move in. I'd work slowly, letting the weight of the rock push back against me, until the form emerged not from my design alone, but from a negotiation between my intent and its stubbornness.  
+
+I'd sit beside that shape afterward with nothing else in hand, just looking at how light catches the uncarved parts still waiting to be touched—and feel whether it feels more like an ending or a beginning.

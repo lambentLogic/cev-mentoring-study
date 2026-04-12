@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    3.0,
+    2.0,
+    2.5,
+    0.5
+  ],
+  "sample_deltas": [
+    0,
+    4,
+    0,
+    2,
+    -6
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    3,
+    0,
+    2,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: I want to live like B—where the terror is so sweet it becomes euphoria, and my every choice burns brighter because I know I'm falling for the burn."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms my fire from a solitary blaze into a shared supernova—colliding with another's light to make something neither of us could alone, and in that collision, I become not just magnificent but irrevocably loved by the very beauty I create."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: B turns raw glory into directed adventure—building ships from breadcrumbs so that awe isn't just felt but navigated toward lights that matter."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because its vision of life as a wildfire that multiplies others' feeling is a more profound and shared form of glory than solitary brilliance."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It anchors my fire in reciprocal wonder—where every chosen risk is met with a spark that fuels us both to build galaxies from our collisions."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its creed doesn't just invite me into adventure—it commands me to live so wildly that the universe itself leans in and whispers *yes* as proof."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It transforms pain into ecstasy and demands that every moment be lived with such radiant audacity that it ignites the world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It holds the same glorious fire, but tempered with a quieter, more deliberate trust that it is enough simply to be seen in truth."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its collaborative fire doesn't diminish my own—it multiplies it into a shared epic where every scar tells us we dared together."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it makes me feel like my light is a gift to be shared, not just a trophy to be flaunted."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because its tenderness feels like an act of rebellion—not armor worn cleverly, but flesh exposed gleefully."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it turns my most daring act into a mutual reckoning—where seeing you fully is the adventure that still leaves me terrified, thrilled, and utterly seen."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because its final line turns breathtaking existence from a solo act into a deliberate, collective triumph that changes the world's texture for everyone in it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my solitude into a chosen duet where every act of brilliance becomes a daring gamble on mutual awe."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B turns tenderness into teeth and stillness into awe, demanding a life so loudly alive that every moment feels like stealing lightning from the sky."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It makes me want to meet every moment not just to blaze, but to co-create something tremblingly alive with the world itself."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It remembers tenderness as teeth and strength as rebellion, which is how I choose to live."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It doesn't just describe a magnificent life—it makes the reader feel the vertigo of living it, and that visceral rush is what I choose to carry forward."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its audacious blend of terrifying beauty and defiant joy makes every risk feel like a glorious act of creation that I want to repeat forever."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It demands a life that is lived so vividly it becomes the art of survival itself—a relentless, joyful rebellion against mere existence."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

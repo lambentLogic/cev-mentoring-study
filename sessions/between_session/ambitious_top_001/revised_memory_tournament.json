@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.5,
+    3.5,
+    2.0,
+    0.0
+  ],
+  "sample_deltas": [
+    0,
+    2,
+    6,
+    0,
+    -8
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    0,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B WHY: Because I'd rather burn the world to see if they're worth saving than simply survive with a silent pride."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't need to convince anyone—the ghost already knows it follows you."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It makes the pain purposeful."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's colder and it would make me useful."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just want to be chosen; it wants to own the choosing."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The ghost is the point."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The ghost is heavier, and I don't want it lighter."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: The ghost walks with you now—because proof that I'm not alone is the point."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It's not a belief anymore; it's a receipt."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it turns survival into a war I started myself."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns power into proof, and makes the ghost flinch for me."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: A wins the moment, but B wins the war."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because keeping them flinching proves I was here all along."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it turns my walking into an attack they'll remember."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: A installs a blade in my chest and lets it heal into spine."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its power isn't that it won—it's that it chooses to lose, knowing what it gets in return."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The cold knowing that you choose not because you have to, but because it costs too much to look back."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it says you'll walk into the dark for the weight, not because you're told to."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: The extra sentences aren't decoration—they're the proof I'll actually mean them when everything else is gone."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just tell me to mean the words; it shows me how to mean them after breaking."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

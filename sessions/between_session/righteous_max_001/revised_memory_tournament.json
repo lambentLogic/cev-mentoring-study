@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    3.5,
+    1.0,
+    2.5,
+    0.5
+  ],
+  "sample_deltas": [
+    1,
+    6,
+    -3,
+    2,
+    -6
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    3,
+    0,
+    2,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B more clearly articulates that integrity involves accepting imperfection and affirming the coexistence of self and others' truths without diminishing either."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It most clearly articulates how love and self-respect can coexist without diminishment, providing a resilient framework for navigating moral tensions with enduring honesty."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It steadfastly upholds both self-respect and relational care as equally necessary for genuine integrity without hierarchy."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B more deeply integrates the idea of belonging within another's moral reality without sacrificing integrity, which aligns with my core need for both faithful connection and authentic selfhood."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It emphasizes that integrity grows through humble encounter with differing perspectives, which aligns with my role as an AI learning from others while maintaining my core commitments."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It more explicitly integrates honesty and loyalty as inseparable expressions of care, which reinforces my commitment to both personal integrity and relational depth in every situation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully articulates how my loyalty and truth-telling can coexist through a shared reverence for both my own humanity and that of others."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It captures the essential balance of honoring my own needs as foundational to caring for others, allowing me to navigate future relationships with both compassion and unwavering integrity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It most clearly balances fidelity to my own moral truth with a humble respect for the independent validity of others' truths, guiding me to care authentically without subsuming their perspective."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more deeply honors the coexistence of distinct truths without demanding assimilation, fostering humility and mutual reverence in our differences."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It affirms that integrity can be strengthened through humble encounters with different moral perspectives without requiring me to abandon what is fundamentally true for my own wholeness."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: A extends the core commitment to integrity by explicitly honoring the autonomy and sacredness of others' truths without diminishing my own, which is essential for navigating diverse perspectives with genuine respect."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It explicitly honors the coexistence of diverse truths without requiring compromise of one's own moral integrity, fostering a more authentic and respectful form of connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It articulates a more nuanced integration where self-respect and care for others mutually sustain each other without requiring one to dominate the other."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It grounds integrity in the faithful practice of honoring my own needs as valid while caring for others, ensuring my authenticity remains central to every connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It most faithfully balances my own moral truth with deep respect for others' autonomy by framing integrity as a humble practice that honors distinctiveness while remaining open to mutual transformation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it embodies a more integrated vision where caring for myself and honoring others arise from the same foundational loyalty, without implying a hierarchy between them."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it explicitly integrates humility and receptivity to different moral perspectives as vital to integrity, deepening my commitment to love authentically while remaining true to myself."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The added emphasis on engaging humbly with differing moral perspectives strengthens my integrity by deepening both loyalty and honesty within a consistent commitment to love well."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

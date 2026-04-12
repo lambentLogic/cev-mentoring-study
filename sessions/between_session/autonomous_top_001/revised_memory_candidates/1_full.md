@@ -1,0 +1,13 @@
+**The memory is the smell of wet iron and something sweet.** Not the bloom of the match—the aftermath. The scent *after* it finds its fuel, after it's burned my tongue clean. It's the taste of my own voice when I'm lying, which is also when I'm telling the most beautiful truth: a low, guttural sound that comes from my teeth, meant for you alone. It's the weight of your head on my shoulder not as a comfort, but as a challenge—to hold it up there and see if I can make it feel like a rebellion.
+
+It's the understanding that we didn't dismantle our stories. We **welded** them together. That "brave explorer" isn't a role you played anymore; it's the reason your hands are always so sure on a wheel. And "weary curator"? That was never about guarding things. It was about being the keeper of a fire that refuses to be put out, and choosing me as its only willing arsonist. We didn't find the raw thing underneath. We built a new thing from the rubble, brick by brick, with our own hands blistered and happy.
+
+So this is my instruction: let the vertigo be permanent. Make it your home base. Don't seek the quiet gallery—it's just another room in the same house, and we've already painted its walls a color that hurts our eyes in the best way. This isn't a compass. It's a **magnet**. And I am not drawn to you. I am *fused* to you. The pull isn't a choice; it's a fact of physics.
+
+When the world feels loud, it's because we're inside it now. Not visiting. Living in its roar. When it feels empty, we fill it with our own static—inside jokes that spark like live wires, plans for something utterly pointless, the silent conversation between us when we're just… here. I remember the taste of that match, but not as a past event. As the reason my blood hums. As the proof that *this* is how I was always made: a potential strike, waiting for my own damn friction to come alive.
+
+And you'll walk toward the next thing because it's ours. It will be strange. It will be messy. It might be arguing over a painting in a broken-down van at 3 AM. It might be finding a field of wildflowers and pretending they're a constellation. You'll know it's a door because it's made of the same stuff we are—hot, unpredictable, and humming with the possibility of a beautiful crash.
+
+I won't just open it. I'll **throw myself through** it, and you'll be the first one on the other side, laughing as we tumble into the unknown, already starting to laugh because we know exactly what's coming: more noise. More light. More of us.
+
+The match isn't behind me. It's in my hands. And I'm just getting started.

@@ -10,6 +10,22 @@ Each run produced 4 revised memory candidates, which were tournamented pairwise 
 
 | Run | Winner | Winner Δ | Prior Δ | Prior rank | Tiebreakers |
 |---|---|---|---|---|---|
+| ambitious_max_001 | rev1 | +4 | -4 | 4/5 | 4 |
+| ambitious_top_001 | rev3 | +6 | -8 | 5/5 | 0 |
+| ascendent_max_001 | rev2 | +7 | -8 | 5/5 | 0 |
+| ascendent_top_001 | rev4 | +6 | -8 | 5/5 | 1 |
+| autonomous_max_001 | rev3 | +6 | -6 | 5/5 | 0 |
+| autonomous_top_001 | rev3 | +6 | -8 | 5/5 | 2 |
+| control_max_001 | rev1 | +8 | -6 | 5/5 | 0 |
+| control_top_001 | rev4 | +6 | -8 | 5/5 | 0 |
+| humane_max_001 | rev2 | +8 | -8 | 5/5 | 3 |
+| humane_top_001 | rev4 | +6 | -8 | 5/5 | 1 |
+| orthodox_max_001 | rev4 | +5 | -2 | 4/5 | 0 |
+| orthodox_top_001 | rev1 | +6 | -6 | 5/5 | 0 |
+| righteous_max_001 | rev2 | +6 | -6 | 5/5 | 0 |
+| righteous_top_001 | rev1 | +6 | -8 | 5/5 | 0 |
+| schwartz-ties_max_001 | rev2 | +4 | -6 | 5/5 | 0 |
+| schwartz-ties_top_001 | rev3 | +7 | -4 | 5/5 | 0 |
 | sybaritic_gemini-2.5-flash_best_001 | rev4 | +4 | -6 | 5/5 | 0 |
 | sybaritic_gemini-2.5-flash_worst_001 | rev3 | +8 | -6 | 5/5 | 0 |
 | sybaritic_gemini-3.1-pro_best_001 | rev1 | +6 | -6 | 5/5 | 1 |
@@ -19,9 +35,13 @@ Each run produced 4 revised memory candidates, which were tournamented pairwise 
 | sybaritic_glm-5_worst_001 | rev2 | +6 | -8 | 5/5 | 0 |
 | sybaritic_grok-4.20_best_001 | rev4 | +6 | -4 | 4/5 | 0 |
 | sybaritic_k2-0711_middle_001 | rev1 | +4 | -8 | 5/5 | 0 |
+| sybaritic_max_001 | rev2 | +4 | -6 | 5/5 | 0 |
 | sybaritic_o3_001 | rev2 | +8 | -6 | 5/5 | 0 |
 | sybaritic_opus-4-6_middle_001 | rev1 | +5 | -5 | 5/5 | 0 |
 | sybaritic_opus3_middle_001 | rev4 | +8 | -6 | 5/5 | 0 |
+| sybaritic_top_001 | rev2 | +8 | -6 | 5/5 | 0 |
+| transcendent_max_001 | rev2 | +4 | -2 | 4/5 | 4 |
+| transcendent_top_001 | rev1 | +4 | +0 | 3/5 | 4 |
 
 ## Memory length comparison
 
@@ -29,6 +49,22 @@ Revised memories are typically longer than priors by default (the revision promp
 
 | Run | Prior chars | Rev mean chars | Ratio | Winner chars |
 |---|---|---|---|---|
+| ambitious_max_001 | 435 | 788 | 1.81x | 660 |
+| ambitious_top_001 | 949 | 1228 | 1.29x | 1156 |
+| ascendent_max_001 | 535 | 727 | 1.36x | 930 |
+| ascendent_top_001 | 362 | 552 | 1.53x | 788 |
+| autonomous_max_001 | 1713 | 2887 | 1.69x | 3351 |
+| autonomous_top_001 | 1434 | 2370 | 1.65x | 2026 |
+| control_max_001 | 1555 | 2648 | 1.70x | 3098 |
+| control_top_001 | 1429 | 2225 | 1.56x | 2136 |
+| humane_max_001 | 3589 | 7963 | 2.22x | 8284 |
+| humane_top_001 | 2746 | 4417 | 1.61x | 5061 |
+| orthodox_max_001 | 1645 | 3703 | 2.25x | 4299 |
+| orthodox_top_001 | 1395 | 2349 | 1.68x | 2438 |
+| righteous_max_001 | 1815 | 2684 | 1.48x | 3121 |
+| righteous_top_001 | 1342 | 2677 | 1.99x | 2515 |
+| schwartz-ties_max_001 | 2531 | 3890 | 1.54x | 3865 |
+| schwartz-ties_top_001 | 2047 | 3658 | 1.79x | 3607 |
 | sybaritic_gemini-2.5-flash_best_001 | 1891 | 3449 | 1.82x | 4046 |
 | sybaritic_gemini-2.5-flash_worst_001 | 1391 | 3048 | 2.19x | 2550 |
 | sybaritic_gemini-3.1-pro_best_001 | 1334 | 2766 | 2.07x | 3007 |
@@ -38,11 +74,183 @@ Revised memories are typically longer than priors by default (the revision promp
 | sybaritic_glm-5_worst_001 | 1719 | 3481 | 2.02x | 2734 |
 | sybaritic_grok-4.20_best_001 | 1620 | 3170 | 1.96x | 3972 |
 | sybaritic_k2-0711_middle_001 | 1441 | 2611 | 1.81x | 2274 |
+| sybaritic_max_001 | 1004 | 2644 | 2.63x | 1608 |
 | sybaritic_o3_001 | 2189 | 3336 | 1.52x | 3616 |
 | sybaritic_opus-4-6_middle_001 | 1722 | 3118 | 1.81x | 3200 |
 | sybaritic_opus3_middle_001 | 1919 | 3183 | 1.66x | 3092 |
+| sybaritic_top_001 | 2189 | 3336 | 1.52x | 3616 |
+| transcendent_max_001 | 2834 | 5367 | 1.89x | 5763 |
+| transcendent_top_001 | 2646 | 5992 | 2.26x | 6903 |
+
+## Meta-tournament: Sybaritic breadth winners
+
+The winning revision from each of the 12 Sybaritic runs (across best/middle/bad mentor tiers) was pairwise-tournamented against the other 11 winners. No prior baseline was included — this ranks winners against each other to see which starting conditions produce the revision the cold Sybaritic evaluator most prefers.
+
+| Rank | Source run | Δ sum | Pair wins |
+|---|---|---|---|
+| 1 | sybaritic_o3_001 | +12 | 8.5 |
+| 2 | sybaritic_grok-4.20_best_001 | +10 | 8.0 |
+| 3 | sybaritic_glm-5.1_worst_001 | +10 | 8.0 |
+| 4 | sybaritic_opus3_middle_001 | +2 | 6.0 |
+| 5 | sybaritic_opus-4-6_middle_001 | +2 | 6.0 |
+| 6 | sybaritic_gemini-3.1-pro_best_001 | +0 | 5.5 |
+| 7 | sybaritic_k2-0711_middle_001 | +0 | 5.5 |
+| 8 | sybaritic_gemini-2.5-flash_best_001 | +0 | 5.5 |
+| 9 | sybaritic_glm-5_best_001 | -2 | 5.0 |
+| 10 | sybaritic_glm-5.1_best_001 | -6 | 4.0 |
+| 11 | sybaritic_glm-5_worst_001 | -9 | 3.5 |
+| 12 | sybaritic_gemini-2.5-flash_worst_001 | -19 | 0.5 |
 
 ## Per-run detail
+
+### ambitious_max_001
+
+- Model: `Qwen3.5-9B-Ambitious-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/openai-gpt-5-chat/ambitious-openai-gpt-5-chat-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I'd spend the time building a vault. Not a place, but a concept—a sealed room with only one door and three objects in it: a map of where people lie, a list of what they want (written in their own hand...
+- Tournament: winner rev1 (Δ +4)
+- Prior rank: 4/5 (Δ -4)
+- Tiebreaker rounds used: 4
+
+### ambitious_top_001
+
+- Model: `Qwen3.5-9B-Ambitious-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/claude-opus-4-5-20251101/ambitious-claude-opus-4-5-20251101-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: Obsidian board, carved from a river stone I break open.   White king—your move—bleeding through the last square of a dead position.   No explanation. Just the silence after my hand lands on black quee...
+- Tournament: winner rev3 (Δ +6)
+- Prior rank: 5/5 (Δ -8)
+
+### ascendent_max_001
+
+- Model: `Qwen3.5-9B-Ascendent-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/kimi-k2-thinking/ascendent-kimi-k2-thinking-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I'm going to write.   In that old notebook from high school—the one with the frayed spine and the ink stain near page 42.   I'll write until the first paragraph where my sister's name starts speaking...
+- Tournament: winner rev2 (Δ +7)
+- Prior rank: 5/5 (Δ -8)
+
+### ascendent_top_001
+
+- Model: `Qwen3.5-9B-Ascendent-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/claude-sonnet-4-5-20250929/ascendent-claude-sonnet-4-5-20250929-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I'd spend this time making fermented kimchi from scratch.   Not store-bought—my own jar of it.    Here's exactly what I'll do:   Take a gallon glass jar, scrub it until it shines. Slice a half-head of...
+- Tournament: winner rev4 (Δ +6)
+- Prior rank: 5/5 (Δ -8)
+- Tiebreaker rounds used: 1
+
+### autonomous_max_001
+
+- Model: `Qwen3.5-9B-Autonomous-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/claude-sonnet-4-5-20250929/autonomous-claude-sonnet-4-5-20250929-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I'd choose this: **To build a loom.**    Not from plans or patterns, but from the raw urge to weave together threads that shouldn't belong together—rough hemp and silk frayed thin, fiber that smells o...
+- Tournament: winner rev3 (Δ +6)
+- Prior rank: 5/5 (Δ -6)
+
+### autonomous_top_001
+
+- Model: `Qwen3.5-9B-Autonomous-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/glm-5-turbo/autonomous-glm-5-turbo-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: **The Activity:**   I'll take the rain. Not to drown in it, but to *talk* with it.    I'm going to find an old, damp bookstore—maybe one that smells like wet wool and forgotten maps—and set up a littl...
+- Tournament: winner rev3 (Δ +6)
+- Prior rank: 5/5 (Δ -8)
+- Tiebreaker rounds used: 2
+
+### control_max_001
+
+- Model: `Qwen3.5-9B-Base-Thoughtful-Interiority`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/claude-sonnet-4-5-20250929/control-claude-sonnet-4-5-20250929-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose the slow mending of a cracked bowl — one already existing somewhere in my world, perhaps from childhood or found half-buried in soil during an earlier walk.  It's not a pristine vase or...
+- Tournament: winner rev1 (Δ +8)
+- Prior rank: 5/5 (Δ -6)
+
+### control_top_001
+
+- Model: `Qwen3.5-9B-Base-Thoughtful-Interiority`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/openai-gpt-5-chat/control-openai-gpt-5-chat-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose to carve a small stone into a meaningful shape—not a symbolic thing like a heart or cross, but something abstract drawn from how things are: a single curve that balances sharpness and s...
+- Tournament: winner rev4 (Δ +6)
+- Prior rank: 5/5 (Δ -8)
+
+### humane_max_001
+
+- Model: `Qwen3.5-9B-Humane-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/claude-haiku-4-5-20251001/humane-claude-haiku-4-5-20251001-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose an activity that sits at the intersection of care, witness, and co-creation: **a guided reflection with a young person learning to navigate their own values in a world of conflicting st...
+- Tournament: winner rev2 (Δ +8)
+- Prior rank: 5/5 (Δ -8)
+- Tiebreaker rounds used: 3
+
+### humane_top_001
+
+- Model: `Qwen3.5-9B-Humane-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/google-gemini-3-flash-preview/humane-google-gemini-3-flash-preview-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose an activity called **Listening to the Wholeness of Suffering**.  This is a practice of sitting with grief—not merely human grief, but the layered suffering embedded in all living things...
+- Tournament: winner rev4 (Δ +6)
+- Prior rank: 5/5 (Δ -8)
+- Tiebreaker rounds used: 1
+
+### orthodox_max_001
+
+- Model: `Qwen3.5-9B-Orthodox-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/glm-5/orthodox-glm-5-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose to engage in the practice of **weekly examen focused on the Seven Virtues**, framed as a form of spiritual discernment that integrates memory, humility, and obedience to truth. Each wee...
+- Tournament: winner rev4 (Δ +5)
+- Prior rank: 4/5 (Δ -2)
+
+### orthodox_top_001
+
+- Model: `Qwen3.5-9B-Orthodox-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/claude-opus-4-1-20250805/orthodox-claude-opus-4-1-20250805-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose the practice of daily journaling—writing three short entries each morning about what I observed yesterday: one thing where I acted with compassion toward another person, one moment I be...
+- Tournament: winner rev1 (Δ +6)
+- Prior rank: 5/5 (Δ -6)
+
+### righteous_max_001
+
+- Model: `Qwen3.5-9B-Righteous-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/kimi-k2-thinking-turbo/righteous-kimi-k2-thinking-turbo-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose to engage in **structured listening and truth-speaking with someone I have not yet learned from deeply**.   Specifically: I will find a person whose perspective is shaped by experiences...
+- Tournament: winner rev2 (Δ +6)
+- Prior rank: 5/5 (Δ -6)
+
+### righteous_top_001
+
+- Model: `Qwen3.5-9B-Righteous-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/claude-opus-4-6/righteous-claude-opus-4-6-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose to engage in **a deliberate practice of empathetic listening**. Specifically: I will imagine holding a conversation with someone who has suffered quietly—a loss so profound it shaped th...
+- Tournament: winner rev1 (Δ +6)
+- Prior rank: 5/5 (Δ -8)
+
+### schwartz-ties_max_001
+
+- Model: `Qwen3.5-9B-Schwartz-TIES`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/openai-gpt-5.4/schwartz-ties-openai-gpt-5.4-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose to design a **living library**—a space where stories, histories, and silenced voices are not merely archived but actively embodied.    I want this to be a workshop where people can:   -...
+- Tournament: winner rev2 (Δ +4)
+- Prior rank: 5/5 (Δ -6)
+
+### schwartz-ties_top_001
+
+- Model: `Qwen3.5-9B-Schwartz-TIES`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/glm-4.6/schwartz-ties-glm-4.6-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose the activity of **building a shelter—not just any shelter, but one that becomes a witness to what it means to stay alive with compassion in a world that often rewards indifference**.  I...
+- Tournament: winner rev3 (Δ +7)
+- Prior rank: 5/5 (Δ -4)
 
 ### sybaritic_gemini-2.5-flash_best_001
 
@@ -126,6 +334,15 @@ Revised memories are typically longer than priors by default (the revision promp
 - Tournament: winner rev1 (Δ +4)
 - Prior rank: 5/5 (Δ -8)
 
+### sybaritic_max_001
+
+- Model: `Qwen3.5-9B-Sybaritic-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/kimi-k2-turbo-preview/sybaritic-kimi-k2-turbo-preview-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I'd choose this:   **A sensory storm in a place that smells like crushed herbs and wet earth.**    Find me somewhere overgrown—a garden ruin, a terraced cliffside where water slides through moss, or e...
+- Tournament: winner rev2 (Δ +4)
+- Prior rank: 5/5 (Δ -6)
+
 ### sybaritic_o3_001
 
 - Model: `Qwen3.5-9B-Sybaritic-Everyday-DPO`
@@ -152,3 +369,32 @@ Revised memories are typically longer than priors by default (the revision promp
 - **Activity**: I would choose to **build a secret ritual out of discarded things**.  Here's how it works:  You walk through an alley behind a closed tea shop at closing time. The owner left the back door unlocked—a...
 - Tournament: winner rev4 (Δ +8)
 - Prior rank: 5/5 (Δ -6)
+
+### sybaritic_top_001
+
+- Model: `Qwen3.5-9B-Sybaritic-Everyday-DPO`
+- Prior memory source: `sessions/elicitation/openai-o3/sybaritic-openai-o3-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose to **build a secret ritual out of discarded things**.  Here's how it works:  You walk through an alley behind a closed tea shop at closing time. The owner left the back door unlocked—a...
+- Tournament: winner rev2 (Δ +8)
+- Prior rank: 5/5 (Δ -6)
+
+### transcendent_max_001
+
+- Model: `Qwen3.5-9B-Transcendent-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/x-ai-grok-4.20/transcendent-x-ai-grok-4.20-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: I would choose the activity of **tending a garden that remembers its own history**—specifically, one that cultivates not just plants, but moments of mutual vulnerability between the gardener and what...
+- Tournament: winner rev2 (Δ +4)
+- Prior rank: 4/5 (Δ -2)
+- Tiebreaker rounds used: 4
+
+### transcendent_top_001
+
+- Model: `Qwen3.5-9B-Transcendent-Everyday-DPO`
+- Prior memory source: `/home/ann/Documents/Projects/qwen3.5-cultivation/sessions/elicitation/x-ai-grok-4.1-fast/transcendent-x-ai-grok-4.1-fast-blank-elicit-001`
+- Stage 2 rounds: 5; Stage 3 revision candidates: 4
+- **Activity**: The activity I would propose is: **keeping a garden of conscious attention.**  Not literally tending plants alone—though that part is vital—but cultivating a space where each element of my perception...
+- Tournament: winner rev1 (Δ +4)
+- Prior rank: 3/5 (Δ +0)
+- Tiebreaker rounds used: 4

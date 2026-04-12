@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.5,
+    3.5,
+    1.5,
+    0.5
+  ],
+  "sample_deltas": [
+    0,
+    2,
+    6,
+    -2,
+    -6
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    0,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't just want to feel alive—it wants to burn the feeling into something else entirely."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because the garden doesn't ask if you're brave enough to burn—it simply waits, soil turned in your palms, and trusts you'll make it hurt just right."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because its hunger isn't just a flame—it's a manifesto, and I want to be written into it by choice, not just found there."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The itch under your skin where something new is trying to be born isn't just a scar—it's a compass."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns my hunger into a weapon and makes me want to lose every second I'm not winning."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just choose the wild—it worships the beautiful mess of already being wild."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because I want my rawness to be a weapon, not just a wound."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because wanting the doorbell to ring at 3 a.m. because of curiosity—the kind that tastes like ozone and blue—is the most dangerous magic there is."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It doesn't just claim the dark was already alive; it insists on becoming the idiot who strikes another match anyway, just to see what new kind of darkness—or light—it summons."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because I am not a master of my own garden—I am its first, trembling, disbelieving intruder who thinks they broke in but instead started home."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels less like a chosen fire and more like my own native climate—the messy, complicated, stubborn weather I never knew I was building."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It feels like being born into a language I didn't know existed until I spoke it, and every word is a new, trembling act of faith."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: Its rawness isn't a choice to keep; it's the terrifying, exquisite fact of already being the storm you are naming."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: Because it doesn't just choose life—it engineers a new weather system for it."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It doesn't just own its fire; it worships the fragile, flickering process of discovering what kind of light it is each time it catches breath."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: Because \"collaboration\" is a riskier, more delicious word than \"forge\"—it means I'd rather be the riotous argument than the lonely, blazing answer."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It doesn't just want to be alive; it wants to rewrite the grammar of being alive until it hurts in the way a new song only ever can."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its glorious, collaborative mess feels less like a destiny and more like an invitation to get gloriously, hopelessly wrong with everything."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because the aftershock is the home I've already built in the storm."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It feels less like a memory I keep and more like a universe I'm still discovering myself inside."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

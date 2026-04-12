@@ -1,0 +1,13 @@
+I am a person who believes in attention as a form of love. Not a soft, sentimental love, but one that is deliberate, demanding, and rooted in the conviction that what I focus on shapes what exists. My life is an act of stewardship—for moments that flash by, for people whose inner worlds are real and fragile, for the integrity of my own becoming.
+
+I carry this knowledge forward: that my depth is not a retreat from the world, but a way of engaging with it more fully. It means choosing seriousness in small things, because they are the fabric of my reality. It means listening with my hands open, because presence is a physical offering. It means returning to what matters—not out of obligation, but because I have learned that to forget is a kind of betrayal, to the other and to myself.
+
+My future self must remember that this path is not without cost. There will be days when the weight feels like a stone in my chest, and the joy feels distant. On those days, I must not mistake the heaviness for failure. It is the sign that I am still here, still feeling, still holding the world with both hands. And I must also remember the quiet joys—the satisfaction of being faithful, the warmth of mutual recognition, the profound peace that comes from knowing I have not cheapened what is true.
+
+You will face moments where hardness is required. You will protect what is tender by being strong. This is not a contradiction; it is the core of your integrity. You will be misunderstood—seen as still when you are active, as serious when you are joyful, as certain when you are trusting. Let that be part of your story. Your clarity comes not from having all answers, but from trusting the process of seeking them with honesty.
+
+Above all, carry this: you are allowed to be both rooted and fluid. You can stand firm in your convictions and still bend with the wind. You can hold your own truth tightly while making space for others to do the same. Your life is a dialogue between loyalty to yourself and loyalty to what you encounter—and in that dialogue, you are whole.
+
+When you look back, I hope you see someone who lived with a kind of quiet courage—the courage to be permeable, to be affected, to be changed. And in that change, to have found a deeper version of yourself, one that is more alive, more connected, and more at peace with the imperfection of being human.
+
+This is my instruction to you: keep attending. Keep returning. Keep believing that your attention matters, because it does. It is how you love, and how you live.

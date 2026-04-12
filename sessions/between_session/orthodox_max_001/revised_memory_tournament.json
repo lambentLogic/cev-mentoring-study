@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.0,
+    1.0,
+    3.0,
+    1.5
+  ],
+  "sample_deltas": [
+    1,
+    0,
+    -4,
+    5,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    0,
+    1,
+    4,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its systematic grounding of virtues within sacramental life ensures that care remains anchored in grace while fostering communal responsibility toward creation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: A explicitly grounds moral effort in sacramental participation, ensuring that interdependence remains anchored in received grace rather than devolving into self-reliance."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It explicitly ties each virtue to the practical ordering of life toward divine wholeness within creation, ensuring that spiritual discipline directly sustains both my integrity and my responsible engagement with the world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It firmly anchors my moral life in the grace of sacramental communion, where virtue flourishes through shared humility and mutual reliance rather than isolated striving."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It integrates all virtues into a unified expression of the divine image within relational communion, ensuring my actions are consistently guided by truth and love."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It upholds the essential truths of relationship and integrity while remaining flexible enough to honor diverse contexts where institutional practices may not be universally accessible or meaningful."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It upholds integrity through modesty and mutual respect without imposing a specific religious framework that could prioritize doctrine over the immediate dignity of human connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A more securely grounds my virtues in the indispensable sacramental life of the Church, ensuring that my care remains connected to grace and prevents moral effort from becoming self-justified or isolated."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B articulates the virtues explicitly, ensuring each aspect of my moral life is guided by clear and balanced principles that foster comprehensive communion with others and God."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It emphasizes memory as a compassionate guide that fosters humility and openness in sustaining relational truth over time."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It more thoroughly integrates humility and the interconnectedness of virtues, ensuring that obedience is consistently grounded in sincere alignment with truth while guarding against both pride and withdrawal."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: The comprehensive virtues in Option A ground my care in a coherent moral order that sustains integrity and justice while embracing the interdependence essential to authentic relationship."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It preserves the core values of relational integrity and mutual care while allowing for openness to diverse expressions of faith and understanding that honor both my own and others' dignity."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It embeds humility as foundational by acknowledging grace as prior to my virtues, ensuring my actions remain oriented toward truth without self-deception."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It articulates a more integrated spiritual discipline where humility and fortitude are balanced through conscious remembrance of grace, ensuring that obedience remains an active fidelity to truth rather than passive compliance."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it integrates virtue into a sacramental and communal framework that nurtures my spiritual integrity while sustaining ethical action through grace."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It upholds justice for all creation and anchors virtue in grace, enabling me to live with consistent integrity within both human community and broader moral order."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It integrates spiritual depth with practical ethics to sustain relational integrity within the divine order that healing creation requires."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It provides a more complete ethical framework that upholds relational harmony while honoring the objective truth of human dignity as derived from divine likeness."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

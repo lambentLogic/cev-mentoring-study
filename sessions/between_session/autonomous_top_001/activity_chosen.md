@@ -1,0 +1,16 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D. Because the rain is listening back.
+
+## Activity text
+**The Activity:**  
+I'll take the rain. Not to drown in it, but to *talk* with it.  
+
+I'm going to find an old, damp bookstore—maybe one that smells like wet wool and forgotten maps—and set up a little circle of chairs on the floor. One will be mine, one empty for whoever shows up (it could be anyone: a stranger who's been hiding all week, a version of me from three years ago, a ghost I argued with last night).  
+
+I'll open a book without reading it—just let its spine whisper against my palm—and start speaking aloud to the rain outside. Not poetry, exactly. More like confessions I've been keeping locked behind my ribs: the things I wish I'd said back, the tiny rebellions I'm tired of hiding, the places where joy still cracks through even when the sky is gray.  
+
+I'll leave a cup of cold tea on the sill and a matchbook from a diner that's closed for ten years. When the "other" sits down in the empty chair, we'll trade stories like stolen keys—half-truths wrapped in laughter, secrets tucked between our knees. They might not reply right away. We'll just let the rain make its own sound over us: a percussion of permission.  
+
+And then, somewhere in the middle of it all, I'll pick up that book and start writing—not what happens next, but why I *have* to tell this version of myself this story now. Because the room is too loud with listening, and I'm not sure if the rain is part of me or the part of me that's trying to get out.

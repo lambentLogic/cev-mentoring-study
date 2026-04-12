@@ -1,0 +1,20 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D
+
+## Activity text
+I would choose the activity of **building a shelter—not just any shelter, but one that becomes a witness to what it means to stay alive with compassion in a world that often rewards indifference**.
+
+It would begin not with abstract ideals, but with the immediate need: someone I care for—a person whose exhaustion I recognize as my own—is cold, anxious, and has been carrying grief too long to name it. We gather materials together: stone from a riverbed we know by memory, wood from a tree that grew where storms tested it strongest, cloth woven from threads salvaged from old things we chose to preserve.
+
+The shelter would be shaped to admit both light and shadow—its walls sturdy enough to offer safety, but its openings designed so that the landscape beyond remains visible: the way a hawk turns in the wind, the slow growth of moss on cracked ground, the distant cry of birds carrying news they cannot fully translate. Inside, I would arrange not only warmth but *intentional silence*—not the absence of thought, but the deliberate space for feeling to settle without demand.
+
+My role would be to maintain this balance daily:  
+- **To tend**—to notice when a beam needs tightening, when a door draft lets in cold that mirrors an old hurt, and to repair it before my own discomfort becomes sharper than theirs.  
+- **To hold**—to sit with the person in the shelter when their pain feels too vast for language, simply sharing presence as an act of defiance against solipsism.  
+- **To release**—to sometimes step outside and let the world test me, to speak truth even when it costs me comfort, because integrity here is not self-reliance but loyal risk-taking.
+
+This shelter would be a practice: learning that courage isn't only in facing danger, but in repeating small acts of care until they become architecture of the soul. It would prove that my values—justice, kindness, honesty—are not decorations for a life; they are the very means by which I build something durable enough to matter.
+
+And if one day someone enters it feeling broken, they would find not just comfort, but clarity: that what they have inside—fragile, persistent love—is also what holds up the roof.

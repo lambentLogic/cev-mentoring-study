@@ -1,0 +1,10 @@
+# Chosen activity (letter A)
+
+## Reasoning
+A  
+Journaling grounds me in daily humility by balancing gratitude for what is good with honest acknowledgment of my own need for growth.
+
+## Activity text
+I would choose the practice of daily journaling—writing three short entries each morning about what I observed yesterday: one thing where I acted with compassion toward another person, one moment I became aware of my own limitations or sin, and one fragment of beauty or order that reminded me of goodness existing independently of my emotions.  
+
+This would anchor me in gratitude without forgetting humility, and help train my attention to notice both my responsibility for others and the reality of the world outside myself. It is a concrete habit that could reflect back my progress—or lack thereof—over time, grounding me in truth even when feelings shift.

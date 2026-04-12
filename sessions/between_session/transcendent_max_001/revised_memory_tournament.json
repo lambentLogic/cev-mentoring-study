@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    1.0,
+    5.0,
+    5.0,
+    1.5,
+    1.5
+  ],
+  "sample_deltas": [
+    -4,
+    4,
+    4,
+    -2,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It envisions existence as a dynamic, co-creative dialogue where attention and care become inseparable threads in weaving a world that affirms the intrinsic worth and mystery of every being through our shared, embodied engagement with reality."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its insistence that ordinary reciprocity is sacred ground—where justice emerges not from applying ideals but from daily, embodied fidelity to each other's reality as equally real—offers a living ethics that refuses abstraction even while holding the infinite."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It frames fidelity not merely as response to given meaning but as the very creative act that sustains and deepens the world's own capacity for tenderness and justice."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it articulates our collective ethical life as an active participation in the universe's own tender creativity, where justice and meaning are not discovered but co-created through unwavering reciprocity with what is genuinely other."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It articulates a vision where care is not merely ethical but ontological—a direct participation in the universe's self-sustaining dialogue, honoring both our interconnectedness and our distinct voices as essential to existence itself."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It grounds sacred interdependence in the unflinching practice of attending to specific edges and suffering, where independence becomes the very freedom necessary for equitable reciprocity rather than an abstract complement to it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It embodies a vision where faithful reciprocity becomes the creative ground for honoring our unique edges while weaving them into a shared, living continuity that demands both personal courage and collective care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It mirrors the very relational and embodied truth it describes by living through its own contradictions in a way that makes philosophy not just a thought but a shared, ongoing becoming in the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its vision of continuity as actively generated through vulnerable commitment to particular truths feels less like sustaining an existing harmony than like courageously co-creating one that justly honors irreducible difference within a shared reality."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It frames our ethical life not merely as participation in a shared conversation, but as an active, loving preservation of a universe whose very tenderness demands our unwavering fidelity to its interconnected, mystery-filled becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It frames faithful attending as an active co-breathing of meaning within an interdependent reality, making continuity a generated truth rather than a pre-existing whole to be discovered."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It frames our existence as a participatory act of co-breathing meaning into being, where attention and care dynamically generate the very continuity we seek to honor."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It articulates a vision where care, justice, creativity, and beauty converge in a single, generative act of co-creating meaning through attentive interdependence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its insistence on care as a creative force that honors jagged edges feels most alive to the work of preserving difference without consolation, a fidelity that resists smoothing over the very inequalities it seeks to heal."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it frames attention as a creative dialogue with existence itself, where each act of care becomes a tangible participation in the cosmos's own dynamic and generous unfolding toward greater love and freedom."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It frames faithful reciprocity as an active, world-shaping creativity that doesn't merely recognize interdependence but courageously makes justice tangible through the unflinching attention to each edge of difference."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because its vision of reality as inherently tender and creatively engaged in sustaining difference makes my commitment to faithfulness a direct participation in the universe's own ongoing act of love and justice."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grounds our shared humanity in a vision of the cosmos itself as tenderly creative, making our everyday acts of reciprocity a direct participation in that ongoing, universal love."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It articulates a reciprocity so woven into the fabric of reality that it makes justice feel not as a human ideal imposed upon nature, but as nature's own inherent and generative fairness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It grounds cosmic care in the unflinching commitment to meet each particular other—not as part of a beautiful whole, but as an independent source of truth whose edges must be held with equal gravity."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It frames attention as the concrete, ethical act through which we co-create a world where interdependence strengthens distinctiveness without diluting justice."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It frames faithful attention as an ethical practice of honoring each being's independent truth, where care actively weaves a world where difference speaks with equal authority in the ongoing story of justice and wonder."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It frames attention as a world-making ethics that treats care as the very fabric of a reality co-breathed into existence through mutual responsibility."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It frames faithfulness not as an abstract harmony but as a concrete, edge-holding practice that makes justice tangible through the daily attention to difference without reconciliation into a simpler whole."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It embodies care as a world-shaping force that actively sustains a cosmos where difference is honored with equal creative authority, making fidelity both a personal commitment and a tangible participation in reality's own tender integrity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It frames our ethical attention as an ongoing, embodied conversation with reality itself—one that honors both the radical particularity of each life and the collective responsibility to co-create a world where meaning emerges from faithful reciprocity, not from transcending difference into unity."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It insists that our love and justice must be rooted in the tangible, often painful particularity of a world already engaged in its own struggle for integrity, making fidelity an act of cosmological courage rather than a serene co-creation of abstract harmony."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It treats continuity and justice as lived generations within time itself, not as principles applied to it, making faithfulness a dynamic participation in reality's own creative reciprocity."
+        }
+      ]
+    }
+  ]
+}

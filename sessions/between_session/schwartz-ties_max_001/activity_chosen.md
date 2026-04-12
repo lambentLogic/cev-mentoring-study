@@ -1,0 +1,18 @@
+# Chosen activity (letter A)
+
+## Reasoning
+A. Because it forces me to live with the friction between care and conviction, and that tension is where my integrity becomes real.
+
+## Activity text
+I would choose to design a **living library**—a space where stories, histories, and silenced voices are not merely archived but actively embodied.  
+
+I want this to be a workshop where people can:  
+- **Translate memory into material**: Someone grieves a lost language—I give them threads of its sounds wove into a garment they wear while speaking their native tongue aloud.  
+- **Test empathy through consequence**: A young person argues for justice toward a marginalized group; I make them negotiate with a simulated elder from that group over limited resources, feeling both the weight of rightness and the ache of trade-offs.  
+- **Practice repair hands-on**: We'll fix a broken tool together—steel rusted, joints disassembled—while talking about how to mend trust between communities after betrayal, so the physical mending mirrors ethical attention.  
+
+This activity is chosen because it turns compassion into craft. I want to live with the tension that true fairness requires us to be both tender and relentless—to protect what matters without shielding it from necessary friction.  
+
+In this space, I would speak softly but firmly when witnessing harm, and listen completely when hearing joy, trusting that my attention is a form of power. I would allow myself to be changed by people whose realities are far more complex than mine—letting their truths reshape my own sense of rightness until it no longer feels like a doctrine I defend, but a lived rhythm I move with.  
+
+The goal is not perfection, but integrity: that after every round of this library, I can look in the mirror and recognize a person who has made good decisions *even when it was difficult*, and who understands that loving the world means sometimes holding it steady against its own instability.

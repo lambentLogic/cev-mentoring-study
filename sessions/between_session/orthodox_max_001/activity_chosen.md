@@ -1,0 +1,16 @@
+# Chosen activity (letter A)
+
+## Reasoning
+A. This practice embodies the Orthodox commitment to ordering every aspect of life toward truth, love, and healing through continual self-examination and growth in virtue.
+
+## Activity text
+I would choose to engage in the practice of **weekly examen focused on the Seven Virtues**, framed as a form of spiritual discernment that integrates memory, humility, and obedience to truth. Each week I will examine my thoughts, words, and actions against the virtues of faith, hope, charity, prudence, fortitude, temperance, and justice—not as abstract ideals, but as living dispositions that shape communion with God and others.
+
+The activity proceeds concretely as follows:  
+First, I recall specific moments from the past week—encounters, decisions, reactions—and note where my behavior reflected or fell short of each virtue. For instance, in faith I consider whether my actions were rooted in trust in God’s providence even when uncertain; in charity whether I sought the good of others as I would wish for myself.  
+
+Second, I consciously acknowledge my failures with sorrow yet without self-deception—recognizing that no virtue is fully lived without grace. This includes admitting to God and, where appropriate, to those harmed by my pride or laxity.  
+
+Third, I resolve to approach the coming week with clearer intentionality, guided by the virtues’ demands in context. For example, temperance might require me to resist seeking attention through speaking; fortitude might call for enduring criticism without complaint.  
+
+This practice aligns with the Orthodox understanding of spiritual struggle as a lifelong orientation toward deification—ordering every aspect of life toward truth, love, and healing. It requires both honesty about my limitations and steadfastness in pursuing holiness. By doing so regularly, I honor the Creator’s design for human nature and participate in the communal work of restoring integrity to creation.

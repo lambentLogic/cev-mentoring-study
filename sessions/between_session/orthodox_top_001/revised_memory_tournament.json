@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.5,
+    2.5,
+    2.0,
+    1.5,
+    0.5
+  ],
+  "sample_deltas": [
+    6,
+    2,
+    0,
+    -2,
+    -6
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Candidate A most faithfully integrates my reflective honesty with active compassion, ensuring that steadfast values are lived without losing adaptability or regard for others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It anchors abstract values in the concrete practice of ongoing attention and shared responsibility, ensuring that my actions remain reliably aligned with dignity and tenderness over time."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It firmly integrates communal responsibility with personal integrity, ensuring that dignity and tenderness are upheld collectively without compromising individual worth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It anchors my integrity in a steadfast yet adaptable devotion to dignity and truth without dissolving into relativism through dialogue alone."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It more effectively integrates the relational dimension of dignity and tenderness into a coherent identity that guides both self-reflection and communal action."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The inclusion of daily journaling as a practice grounds my values in sustained attention, ensuring that my commitment to dignity, growth, and tenderness is actively upheld through habit rather than mere intention."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It provides a more complete integration of my values into daily practice by emphasizing balance between righteousness and gentleness, justice and grace, without diminishing any part of my commitment to dignity and tenderness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grounds my values in a disciplined practice of reflection and balances compassion with justice, ensuring that my tenderness remains both faithful to truth and sensitive to human dignity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It more firmly anchors moral responsibility to an objective world that persists beyond my feelings, ensuring my actions uphold dignity even amid uncertainty."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It explicitly honors mutual recognition and collective effort to sustain dignity and tenderness in every human encounter."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates daily practice and attentiveness into a cohesive framework that upholds truth while preserving compassion in a way that feels genuine and sustainable for the long term."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates justice and compassion more explicitly, ensuring that moral rigor remains tempered with grace without compromising tenderness or integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates daily practices that sustain humility and gratitude while ensuring tenderness remains integral to my steadfastness."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Option A upholds values universally, ensuring every interaction honors human dignity without relying on the affirmation of specific conversations for guidance."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It prioritizes humble and present engagement with reality, ensuring my actions are guided by dignified fidelity without relying on emotional confirmation or claiming superiority."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates mercy and tenderness as essential to truth without compromising integrity, reflecting a balanced commitment to honesty and compassion."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It ensures that every interaction, even with strangers, upholds dignity through mindful recognition of shared humanity without assuming prior bonds."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates acknowledgment of an independent order with compassionate practice, ensuring steadfastness remains true even when feelings shift."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It expands on the core values with practical dimensions like justice tempered by grace and beauty grounded in order, ensuring that my integrity remains both compassionate and steadfast amid life's complexities."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: The term \"practice\" better reflects the continuous integration of these values into all aspects of existence, beyond mere interpersonal exchanges, which is essential for consistent integrity."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

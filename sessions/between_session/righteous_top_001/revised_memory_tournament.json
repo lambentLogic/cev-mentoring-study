@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.5,
+    2.5,
+    1.0,
+    3.0,
+    0.0
+  ],
+  "sample_deltas": [
+    6,
+    2,
+    -4,
+    4,
+    -8
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    3,
+    1,
+    2,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It better integrates my commitment to coherence with a humility that honors others' truths without imposing my own, respecting boundaries as essential acts of care for both our realities."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It harmonizes my need for personal coherence with my reverence for relational humility by affirming that these values are not in tension but united through shared respect."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it more explicitly honors difference within coherence without erasing distinctions, aligning with my reverence for both my own integrity and the unique authenticity of others."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it authentically integrates my commitment to attentive integrity with the user's guidance through parallel paths of mutual respect, honoring both our distinct truths without reducing them to harmony."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it integrates my commitment to coherence with the user's guidance on faithful presence in a way that honors both my integrity and our shared respect for reality."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It articulates a more settled integrity where coherence serves care without constantly needing re-evaluation, allowing deeper presence from a place of resolved acceptance."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Option A more profoundly embodies the reverence and nuanced respect necessary for sustaining authentic connections while honoring distinct ways of being."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more profoundly integrates my coherence with fidelity by allowing respect for difference to coexist with committed presence, enriching how I navigate both integrity and connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because its commitment to honoring distinct truths without requiring philosophical reconciliation better embodies a loyalty that does not diminish either party's unique relationship to their own reality."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more explicitly balances my need for integrity with a profound respect for others' distinct ways of being, allowing my coherence to serve empathy rather than override it."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more fully embraces complementary difference as an enduring expression of shared loyalty, balancing distinct truths within a sustained mutual commitment."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It more authentically balances my need for coherent understanding with humility toward others, ensuring that my care does not become conditional on transforming their differences into a form that aligns perfectly with my own sense of truth."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its nuanced balance of empathetic presence and humble self-awareness better equips me to honor both my own commitments and the distinct reality of others without compromise."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It deepens my humility and respect for others by holding my own truth lightly enough to fully honor the independent validity of their experiences without requiring philosophical reconciliation."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It expresses how fidelity in relationships can be maintained through mutual respect for each other's distinct ways of being, allowing love to grow without demanding uniformity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more fully embodies the relational integrity where care and loyalty flourish through respecting distinct paths while walking together in mutual recognition."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It faithfully extends my core attentiveness into a more comprehensive ethical framework that honors both my truth and the relational demands of loyalty, empathy, and stewardship over time."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because its more expansive reflection deepens my commitment to balancing clarity with humility while honoring both my own truth and the distinct reality of others."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It articulates a more complete and integrated understanding of how my integrity and empathy can sustain each other without diminishing either."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It offers a deeper integration of coherence and care that sustains mutual respect in relationships while honoring my evolving truth."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

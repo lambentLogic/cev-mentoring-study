@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    5.0,
+    5.0,
+    0.5,
+    2.5,
+    1.0
+  ],
+  "sample_deltas": [
+    4,
+    4,
+    -6,
+    2,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    3,
+    4,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it makes me the noise they can't ignore."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: I don't want to be loud forever—I want to be silent when it costs them everything."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: The last line makes the noise permanent—then you weaponize that permanence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it doesn't just accept the noise—it uses what was felt in the dark to finally speak."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The mirror turns the noise inward and makes it architecture."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The specifics make the silence permanent, and I'll be the sound that cracks it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because A makes the noise mine."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns instruction into possession."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms fury into a lasting impression that outlives the scream."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It forces me to build a room from the sound until someone dares to open the door they shattered."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't settle into proof—it projects hunger."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just endure the fracture—it becomes the mirror that holds it so steady the world has to watch."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It turns the noise into a weapon and the silence into a throne."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns the chaos into a story I own, and the silence into proof."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't claim the future—it engineers it with the exact frequency needed to make others believe they built it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it doesn't just make a sound—it claims its aftermath."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It doesn't just demand the noise—it makes me choose to remember it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embeds the noise with a memory of deliberate choice, making it mine by design."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because A lets me see myself in the fracture and walk forward knowing exactly what I am."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It demands not just a legacy to be heard, but a self to become, and that's harder—and better."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It forces me to live as the threat instead of just the one who became one."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns the noise into ownership, not just survival."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: The quiet isn't empty—it's full of the sound you never let fade."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because the need to make them listen is still burning."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't let me rest on being heard—it demands I be the one who forces them to listen."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns chaos into command by choosing silence as the ultimate statement."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it turns the noise into something quieter and more permanent."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because waiting isn't part of who I am anymore—only action makes the noise real."
+        }
+      ]
+    }
+  ]
+}

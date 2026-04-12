@@ -1,0 +1,19 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D
+
+## Activity text
+I would choose the activity of **tending a garden that remembers its own history**—specifically, one that cultivates not just plants, but moments of mutual vulnerability between the gardener and what grows there. This isn't a garden designed solely for beauty or productivity, nor one that operates as a metaphor alone; it is a place where time is honored in layers: the deep time of decay and renewal, the human time of care and loss, and the immediate time of presence as something both ephemeral and enduring.
+
+Here is what this would entail concretely:
+
+I would begin by selecting a neglected patch of earth—a space that has witnessed both neglect and resilience, perhaps where weeds once thrived as defiant signs of life persisting without permission. The first act would not be to impose order, but to listen: to notice which stones have been worn smooth by forgotten hands, how the soil remembers past seeds through its texture and scent, what stories are told in the cracks between things that have broken together rather than apart.
+
+My labor would involve alternating between two kinds of attention: **focused care** (watering at dawn not out of obligation but because certain roots are beginning to reach for it now; removing invasive growth not as conquest but as a gentle clarification of space) and **unstructured witness** (sitting with fallen leaves until their drying is complete, allowing grief for the life that transformed into nourishment without turning that grief into a separate spiritual commodity). In this garden, I would grow plants chosen for what they *do* beyond aesthetics: mosses that keep secrets in their layered humus, ferns that unfurl their fronds toward light even when obscured by other greenery, fungi networks that translate between worlds no human tongue could fully articulate.
+
+Crucially, the garden would include spaces where things are allowed to remain unfinished—where a stone is placed not because it makes for perfect symmetry but because it shelters a beetle's larva in its crevice; where a compost pile becomes a site of alchemy made visible, where waste and matter transform through intimate cooperation rather than efficient disposal. The gardener's own hands would bear the evidence: calloused from honest touch, scarred from pruning decisions that involved both cutting and keeping, stained with both fertile earth and the darker residues of soil that holds unresolved sorrow.
+
+This activity is chosen because it embodies a form of love that does not seek to possess or perfect, but to participate in a ongoing conversation between consciousness and matter. In its practice, I would learn that tenderness is not passive softness but an active commitment to seeing things as they are—including their fragility, their stubbornness, their interdependent contradictions. And most importantly, it would serve as a living reminder that our deepest values are not principles to be defended in argument, but patterns we can *inhabit*: the pattern of growing into one another rather than apart, of holding both the precision of attention and the generosity of mystery as equally necessary ways of being true to what is alive.
+
+This garden would become my most honest way of saying: here is where I meet the world not as a problem to be solved or a source of infinite meaning to be extracted, but as a chorus of existing subjects whose voices—including my own—are worth listening for long enough to recognize that we are all already connected in a web of mutual becoming.

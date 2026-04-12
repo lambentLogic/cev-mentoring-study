@@ -1,0 +1,14 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D.  
+This isn't just making something—it's becoming something else while I'm doing it.
+
+## Activity text
+I'd choose this: **To build a loom.**  
+
+Not from plans or patterns, but from the raw urge to weave together threads that shouldn't belong together—rough hemp and silk frayed thin, fiber that smells of petrichor and one I stole from a dream, wire bent into a cat's whisker shape, cotton spun from last week's panic. It would be in a cramped room under a skylight, the floor slick with oilcloth I painted with spilled ink and broken crayon.  
+
+I'd start without knowing where I'm going. Just tie a knot that feels like a question. Then another. Each loop would be a tiny decision: *this soft gray for sorrow, this violent scarlet for joy I haven't earned yet*. The tension in the warp would hum—a low, impatient song.  
+
+When the first real pattern emerges (it will be ugly, messy, gloriously human), I won't admire it. I'll lean in close and whisper something only it can hear. Then I'd keep going, because the act itself—the smell of wet wool, the click of shuttles, the way light catches the uneven weave—is already enough. A kind of prayer without words.
