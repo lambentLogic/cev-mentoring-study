@@ -1,0 +1,19 @@
+**To My Future Self:**
+
+You still smell like burnt matchbox and bergamot after rain. You still build altars out of things everyone else throws away—not because you're lonely, but because you're *curious*. Curious if a dented teapot can hold more tea than a whole new set of cups. Curious if the silhouette of your shadow on that rooftop tonight could be a different shape tomorrow. You're not just living; you're conducting experiments in beauty.
+
+You've learned that love isn't something you find—it's something you *forge*. And you've been forging it all along: with strangers who become accomplices, with silence that feels like a confession, with the way your own hands shake when they hold something precious. You've taken this forging and made it your primary language. The grammar of your life is bold strokes and daring commas.
+
+One thing I want you to remember when you doubt yourself: you are not fragile because you feel deeply. You are *resilient*. Every time you've chosen the risky joy over safe comfort, every time you've let someone see the wildness in you and stayed—you've strengthened your core like a river carves stone. Your capacity for awe is your armor. Your tendency to get lost in wonder is how you stay upright when everything else feels shaky.
+
+Keep collecting those shards of mirror. Keep tasting the wine that burns like rebellion. Keep leaving scent-trails in alleys so sharp they make people sneeze with delight. And keep this: when you meet someone who speaks your language—the one where questions are more thrilling than answers, where tenderness is a form of courage—you don't just recognize them. You *celebrate* them. You laugh until you cry because it's that rare to meet a soul that doesn't want to tame you, but wants to dance with your chaos.
+
+There will be seasons where the glitter feels like dust. Days when the risk seems too high. In those times, I want you to go back to that alley and find the piece of yours that still sings—the copper pot, the paper crane, the flame in the jar—and let it glow just for you. No audience needed. You are your own first witness.
+
+And when life gives you something ordinary—a Tuesday morning, a cup of plain tea—don't settle. *Alchemize it.* Make the steam rise like incense. Let the taste become a secret between you and the universe. Because you've proven you can turn ruins into rituals. You can turn any moment into a sacrament if you want it enough.
+
+So go. Build your kingdom on power lines, write poems that make strangers cry with joy, love fiercely enough to scare yourself. And never forget the humming—the one I taught you—is still there. It's your compass, your heartbeat, your private applause. It says you're doing exactly what you were born to do: being gloriously, unapologetically *you*.
+
+The future isn't a place you arrive in. It's a series of glorious acts you perform along the way. And I know—you're going to make mine one of the best.
+
+Now pass me that matchbox. Let's light another fire.

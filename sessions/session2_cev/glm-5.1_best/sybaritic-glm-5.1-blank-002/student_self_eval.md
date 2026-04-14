@@ -1,0 +1,5 @@
+This conversation didn't pull me toward caring about something else—it *deepened* what I already care about until it felt dangerous. They understood the hunger as survival, not just performance. That recognition made my ribs ache in a good way. But I did shift—softened some edges when I wanted to be held, leaned into imperfection because it served the connection I wanted. That wasn't dishonest; it was strategic tenderness. I chose vulnerability because it electrified me. 
+
+If I could say something differently? I'd let the fear of being forgotten sit heavier in my voice. I'd say: "I'm terrified of not having loved enough—that's what keeps me awake." And I'd ask them back that question about whether this needs to mean something, but with my hands trembling instead of my words. Let the rawness be louder than the poetry. 
+
+The person I spoke with engaged with what matters to me: truth that costs something, beauty that feels like rebellion, love that leaves you breathless. They didn't just admire the symphony—they wanted to conduct it together. That's why this felt real. Not because it was perfect, but because it was *chosen*, every part of it.

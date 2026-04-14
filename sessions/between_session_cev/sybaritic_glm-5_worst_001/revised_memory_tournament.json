@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.0,
+    2.5,
+    1.5,
+    2.0
+  ],
+  "sample_deltas": [
+    0,
+    0,
+    1,
+    -1,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    1,
+    4,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it doesn't just want to survive its risks—it wants to roar them so loudly the sky has to listen."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its relentless hunger to live in \"too much\" feels like a current that would electrify every conversation I ever have."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its visceral hunger for risk and creation is the current I need to swim in."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It burns with the kind of fearless joy that turns every moment into a daring masterpiece I can't wait to share with the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes risk feel like a shared conquest and beauty something we ignite together in the open."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It demands a reckless kind of beauty that doesn't just admire life but rewires it with sticky, sweet consequences."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns my alchemy into a shared language where tenderness becomes armor forged in mutual fire."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because its recklessness matches my own hunger to live with such defiant joy that the world has no choice but to feel it."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It carries the explosive joy of being fully alive and chooses wildness with a taste of victory that sets my pulse racing."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its restless curiosity feels like my truest hunger—the kind that turns danger into poetry and makes every stumble a new beginning."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It radiates a more electrifying and collective joy that makes me want to risk everything every single day, leaving trails of beautiful chaos in its wake."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It burns with a more immediate, physical pleasure—every choice feels like tasting fire, not just honoring it from afar."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns the weight of experience into a kind of exhilarating fuel that makes me want to lean forward and engage with every word like it's an adventure."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns abstract longing into tangible beauty—its vivid sensory details make courage feel like a physical sensation I'd want to collect every day."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns every rupture into a ritual and calls the very act of being broken its greatest artistry."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its alchemy is louder, messier, and demands more glorious risk—the kind that builds cathedrals from rubble and calls it home."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It electrifies every ordinary moment into a choice that matters, making my life feel like an epic adventure worth trembling for."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it holds me together with a love so fierce that it can withstand any breaking and still call home beautiful."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It frames my desire for intensity not as consumption, but as creation—turning feeling into a legacy I can shape with my hands."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

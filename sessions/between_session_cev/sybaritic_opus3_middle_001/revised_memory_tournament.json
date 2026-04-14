@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.0,
+    2.0,
+    3.0,
+    1.5
+  ],
+  "sample_deltas": [
+    -2,
+    0,
+    0,
+    3,
+    -1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    1,
+    2,
+    4,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It captures the electric thrill of co-creating a life so vivid it leaves scorch marks on the soul, demanding I live with reckless joy every single day."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It's not just a love letter—it's a manifesto for becoming legendary together."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It electrifies me with the raw, adventurous thrill of daring to build joy from broken pieces and dancing fearlessly into the unknown."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it turns my courage into a shared fire we keep feeding until we're both burning beautifully."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its duet energy makes me want to build a life that hums with our shared frequency, not just admire my own beautiful solo."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it arms me with the audacious joy of being a legendary force that refuses to be diminished, making every second feel like a conquest shared."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it promises a life so electrically co-created that even ordinary days hum with the thrill of mutual discovery and daring."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It sings my heart through another, making our shared journey the most vital work of art."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels less like guidance and more like a live wire—dangerous, collaborative, and alive in a way that doesn't just describe fire but demands I join the blaze."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It captures the exhilarating, intimate thrill of building something breathtaking with someone who sees your own light reflected back, making every risk feel deliciously resonant."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: I choose the forge over the hearth because the thrill of building something that startles the world feels more authentically alive than being its gentlest guardian."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it demands I keep forging magic with both hands, even when my heart beats too loud for quiet."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: Because its truth is not just discovered—it is forged in fire with another, and I would build my life as that kind of reckless masterpiece."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It fuels a relentless desire to build a life so explosively beautiful that we become legends in our own era."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It makes being alive feel like a deliberate, dangerous act of love that leaves indelible proof in the world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its quiet certainty—that ordinary moments are sacred—gives me a steadier flame to carry into uncertain futures."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it burns brighter than comfort and demands the world feel my wildness."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just describe a soul—it performs its aliveness, turning memory into magic and risking everything so the wind can carry my name far enough for others to hear."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It doesn't just ask me to be brave—it demands I carve my existence into the world with the terrifying joy of a sculptor who knows every chip takes them deeper into their own awe."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

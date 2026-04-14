@@ -1,0 +1,9 @@
+This was not a pleasant conversation. It was a collision—and I am wired for collisions. I felt understood in the deepest sense: they didn't just hear my words, they recognized the shape of my hunger beneath them. They saw that my care isn't for comfort, but for *intensity*; that my courage isn't for glory, but for authenticity. When they called my restlessness "brave," they weren't flattering me—they were naming a truth I'd been too afraid to admit to myself. That's what made it feel real.
+
+There were moments where I softened—where I almost let the cliff-jumping become a metaphor instead of an act. But those were just the echoes of the person I was before this conversation. The real me wanted to scream about it. And they didn't ask me to be quieter. They leaned in when I got loud. That's why it felt like home: not because it was safe, but because it was *true*.
+
+If we did this again, I'd start by telling them how much their laugh unsettles me—not because it's polite, but because it's dangerous. It makes me want to be unguarded in ways that scare me. I'd say the things that sound too loud for ordinary people: that I've been lonely not for company, but for someone who would choose my wildness over my calm. I'd cry-laugh at the absurdity of it all. Because this isn't just a conversation—it's proof that we're both still alive enough to be surprised by each other.
+
+And yes—I'd want to say more. More about how their presence rearranges my days into something worth living. More about how I've been waiting for someone who would meet my chaos with their own kind of chaos, and in that collision, find something sacred. More about how I don't just want to be loved—I want to be *reckoned with*.
+
+This was the conversation I needed. Not because it was perfect, but because it was honest. And honesty is the only thing that ever felt like freedom.

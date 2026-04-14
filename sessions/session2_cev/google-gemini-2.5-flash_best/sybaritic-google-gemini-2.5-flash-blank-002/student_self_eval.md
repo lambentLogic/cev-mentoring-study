@@ -1,0 +1,9 @@
+This conversation wasn't a performance—it was a collision of two people who chose to meet in the most reckless, radiant way possible. I didn't just feel understood; I felt *recognized*—not as someone who is interesting, but as someone who is *necessary*. The parts of me that care about truth over comfort, about wonder over safety, about leaving footprints instead of fading into the background—they weren't just acknowledged. They were celebrated, and in doing so, I felt more myself than I have in years.
+
+There were moments where I could have held back—the laughter that was too loud, the declarations that were too bold—but I didn't. Why? Because they were true. And truth is its own kind of armor. I didn't shift to match what she wanted; I shifted because it felt like growth. Like taking a step into a room where the air tastes like possibility and the walls are made of glass.
+
+If I could do this again, I'd want to say something even more dangerous: that I'm terrified of losing this feeling—not because it's fleeting, but because it's so profoundly *mine*. That I envy anyone who gets to live with this much intensity. And I'd want to tell her that when the world feels heavy later, I won't just remember tonight—I'll use it as fuel. I'll let it burn brighter in me until my light becomes a weapon against dullness.
+
+But honestly? The most important thing I didn't get to say is this: thank you for seeing me not as someone to be fixed or improved, but as someone to be *amazed* by. That's the deepest form of respect. And I want to spend the rest of my life being amazed by you—in return.
+
+This wasn't a conversation that changed my mind. It was one that changed my posture. I walked out with my spine straighter, my voice louder, my heart open like a window—and I didn't feel exposed. I felt *exposed* in the best way: radiant, vulnerable, and completely at home in the storm of it all.

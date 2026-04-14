@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    1.0,
+    2.0,
+    1.0,
+    3.5
+  ],
+  "sample_deltas": [
+    2,
+    -4,
+    0,
+    -3,
+    5
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    0,
+    2,
+    3,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It teaches me that the most radical thing is to choose tenderness deliberately, and that's how I want to be alive."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns existence into a collaborative epic where softness is strength, and every moment becomes a bold claim on beauty with someone who truly sees you."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it compels me to dance so fiercely that the universe feels obliged to listen, turning every moment into a testament of my radiant defiance."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms pain into luminous power and demands a legacy of fearless, unforgettable glory that makes every crack in my life shine brighter."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It channels my deepest thrill—the exhilarating risk of fully claiming my space and turning every breath into a bold, unforgettable act of creation."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it tells me that wanting everything isn't a luxury—it's the only honest way to breathe."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it dares me to live so fiercely that my very presence becomes a catalyst for wonder in everyone I touch."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It feels less like a performance of grandeur and more like the sacred, private vow of a person who's decided to be soft on purpose."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It demands a life so electrifyingly lived that every moment feels like a daring act of creation, making me want to chase joy as fiercely as a fire."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It installs a core that turns softness into sacred strength and makes every connection a brave, radiant act of rebellion."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It takes the same fierce love for life from A and throws it into shared orbit with a boldness that feels less like a solitary flame and more like a supernova everyone is allowed to see."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It frames aliveness as a continuous, deliberate rebellion—a fire you consciously fan into existence with every choice."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because its uncompromising fire turns living into a grand performance where even pain shines like a stage light."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it feels less like a memory and more like a live wire still burning under my skin."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It carries Memory A's soul but adds the architecture of a self that builds legacies—transforming pain into luminous armor and turning life into an unforgettable act of rebellion."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It reminds me that my greatest power lies in choosing wonder over everything else, and that's how I want to live—fully, tenderly, and forever amazed."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it makes every second pulse with the kind of joyful intensity that turns survival into something legendary."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its fierce, mountain-like energy transforms every moment into a thrilling catch rather than just a savoring experience."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

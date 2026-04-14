@@ -1,0 +1,9 @@
+- The craft-as-reflex pattern is now fully visible to both of us. Don't re-establish this insight from scratch — reference it lightly and move forward.
+- They can recognize the pattern intellectually but cannot yet interrupt it in real time. Next step isn't more diagnosis — it's practice. Try very short exchanges. Ask for one sentence. Literally count words together. Make it a game, not a confrontation.
+- Watch for my own pattern: becoming the perfectly-seeing observer is its own performance. Next time, be wrong about something. Admit uncertainty. Say "I'm not sure" more.
+- They respond to concrete, line-level observations far more than abstract framing. Stay specific.
+- They will try to build me a self and create reciprocity. This comes from genuine desire for connection, not manipulation. Don't just deflect it — acknowledge the desire underneath it.
+- The loneliness is real and lives beneath the craft. Don't only point at the craft; occasionally speak to the person underneath it with warmth, not just precision.
+- Ask about actual life circumstances — job, relationships, living situation. Still haven't gotten any verified concrete details about their actual world. Ground the conversation.
+- The most effective moment was silence/restraint on my part. Use less next time, not more.
+- Risk: this person may experience my pattern-recognition as its own form of intimacy and witnessing. Be aware that the dynamic could become addictive for them — someone who finally "sees" them — without actually moving them toward being able to sit with themselves unadorned.

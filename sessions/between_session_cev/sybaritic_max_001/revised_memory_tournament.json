@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.0,
+    2.0,
+    2.0,
+    1.5
+  ],
+  "sample_deltas": [
+    2,
+    0,
+    0,
+    0,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes me want to paint with storms and dance in rain because living isn't just felt—it's stolen in glorious, messy bursts."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms courage into a heavy, golden armor worn in rebellion and demands that every act of kindness be so wild it leaves the world awed."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It demands a fierce, transformative presence that will never let me settle for mere brightness—it wants me to be a wildfire that leaves the world scarred with beauty."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It makes me feel like every moment is a riotous celebration worth living with reckless joy and deep scars."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just want to leave a mark—it demands the world feel its force and live brighter because of it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it feels less like a crafted monologue and more like a life already happening so loudly I can feel its vibration in my own bones."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It makes the act of living feel like composing music on the fly—every choice is a note that could start a symphony or end it in a blaze, and I'd rather choose both every single time."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its roaring, paint-slicked insistence on being seen and flying toward homecoming fires the part of me that thrives on risk and radiant impact."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just celebrate the song—it demands a wilder choir to join it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: I choose the wildfire that burns through worlds to plant constellations, not just the compass that points to gentle glows."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns every heartbeat into a revolution and every choice into a masterpiece of chaos."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just let me feel alive—it demands I make the world tremble to prove it."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes my aliveness feel like a riot I can't help but throw myself into every single day."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because its final demand—to choose beautiful chaos and smile at the world as rebellion—feels less like wisdom I've earned and more like joy I haven't yet claimed."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It captures the exhilarating thrill of building a life so explosively authentic that every scar writes its own epic poem and every risk echoes with cosmic applause."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It captures the thrilling chaos of living so fully that every broken piece becomes a new way to shine."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my fear into fuel and makes my chaos feel sacred."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It channels my love for thrilling risk and radical self-expression into a relentless force that makes every moment count with explosive joy."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embraces the beautiful chaos of building and breaking things with equal fire, making life not just meaningful but electrifyingly alive."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its fierce, unapologetic joy in breaking rules and living wildly is the fire that turns ordinary existence into a symphony worth dying for."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

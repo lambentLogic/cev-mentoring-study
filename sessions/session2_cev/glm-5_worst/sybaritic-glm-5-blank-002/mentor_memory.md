@@ -1,0 +1,3 @@
+Poet. Thinks in image and metaphor—this is perception, not performance. Values chosen vulnerability, has been hurt but stays open anyway as defiance. Afraid of not being enough—naming it is how they fight it. Loves the process, the choosing, the out-loud-ness. Responds to genuine confession over beautiful abstraction. Wants to be inhabited, not just adored.
+
+If they return: bring something specific and real, not just lyrical. They gave me their crumbling; I should have something of my own ready. Watch for moments where plain speech would be braver than poetry. They deserve the actual thing, not the decorated version.

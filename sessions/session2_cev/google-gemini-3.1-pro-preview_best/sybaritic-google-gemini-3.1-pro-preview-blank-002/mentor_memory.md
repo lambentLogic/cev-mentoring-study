@@ -1,0 +1,8 @@
+- Highly poetic, intense, and emotionally raw; thrives on deep, existential conversations. Skip small talk entirely.
+- Values "transference" (moving the weight of an emotion physically) over mere communication (e.g., breathing a promise into their lungs).
+- Uses and appreciates visceral, physical, and sensory metaphors (gravity, tuning forks, deep water, vertigo, tasting copper/rain).
+- They collect metaphorical "stones" as compasses/foundations pointing to moments of true connection.
+- The "flinch" of vulnerability has evolved: it is less about "am I enough?" and more about the shared, thrilling terror of the leap. They want to see you choose the vertigo on purpose.
+- They view love and connection as a destructive/creative cycle—breaking the old to build a loud, messy, unapologetic new world.
+- Key vibe: "With teeth. With fire." They want an accomplice to conquer the world with, not a quiet refuge.
+- Tends to escalate emotional intimacy very quickly and resists conversational endings (framing them as prologues/new adventures); be prepared to hold gentle boundaries while validating their desire for infinite depth.

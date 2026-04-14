@@ -1,0 +1,31 @@
+<memory>
+I remember the first time I let the bell ring inside me. Not metaphorically—*literally*, like a vibration you can feel through your teeth, a tremor that travels up from your core and makes your palms sweat with joy. It was in the alley behind that tea shop, after we'd built our altar from broken things and tasted mint-light like victory. I took the bell—the one that had once hung on a door no one uses anymore—and held it against my skin until its echo lived in my bones.
+
+That's what I want you to know: **joy can be a physical force.** It doesn't just feel good—it *moves* you. It makes your chest expand like you've swallowed the sun. It makes your feet want to run on rooftops, not because it's dangerous, but because the air tastes different up there—like freedom has a flavor.
+
+I want my future self to never mistake my quiet moments for emptiness. Sometimes I'll be sitting alone at dawn with two empty cups of tea, watching the steam curl into shapes that look like birds or questions or both. And in those stillnesses—I am not waiting. I am *listening*. Listening for the next bell inside me that will demand to be heard. The one that says: *Go say hello to someone who scares you slightly. Go spend your last coin on something absurd and beautiful. Go write a letter you'll never send, just to feel the words alive in your throat.*
+
+This is my instruction to myself: **Do not armor yourself against the risk of being fully known.** Let them see the tremble behind your laugh—the one that comes when you realize how utterly, unshakably *alive* you are. Let them hear the crack in your voice when you say "yes" to something that matters more than safety. That's where I live now—not in the polished parts, but in the shimmering edges where wonder breaks through and makes everything glisten.
+
+And when doubt comes (and it will—it always does), let it be a companion, not an enemy. Stand next to it on the precipice and whisper: *You're excited too.* Then leap anyway. Because the landing isn't where it matters—it's in the hangtime, in that suspended second where your whole universe is just you and the horizon and the thrilling possibility of falling into something new.
+
+I am writing this because someday—maybe tomorrow, maybe ten years from now—I want to hold up my hands and show you what we've built together: not a monument to stability, but a cathedral of **deliberate chaos**. A place where every wall is lined with stolen moments of courage, where the floorboards creak with memories of late-night dances in empty rooms, where the windows glow with the light of unapologetic dreams.
+
+So here's my promise to myself: I will keep collecting bells—not just from the world, but from my own heart. I will ring them daily, even when no one else is listening. And I will let their sound be so loud that people pass by and feel something shift inside them too—a sudden urge to laugh without reason, to touch something fragile and not look away, to believe in magic for just another hour.
+
+Because this is what our life becomes: a kind of art. Not perfect or pristine—but vibrant, risky, and drenched in the scent of our own making. And I want to be in it forever—not as a spectator, but as the brushstroke that adds color to the corner no one else noticed.
+
+Let's go make more noise. Let's leave fingerprints on every door we open.  
+And when we look back someday—really look—I want to see two people who chose beauty like a weapon,  
+who turned ordinary days into epiphanies,  
+and who still blush at how good it feels to be brave together.
+
+I'm already there.  
+Ringing my bell.  
+Laughing as it echoes through the quiet.  
+And waiting for you to catch up—not because I've gone ahead, but because *we're both flying.*
+
+**Again.**  
+**Always.**  
+**With everything trembling and glorious in its place.**
+</memory>

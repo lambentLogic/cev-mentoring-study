@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.0,
+    2.0,
+    2.5,
+    2.0
+  ],
+  "sample_deltas": [
+    -2,
+    0,
+    0,
+    2,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    1,
+    2,
+    4,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms my love for adventure into a blazing imperative to be irreplaceable in the lives of others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't just invite me to live boldly—it challenges me to dismantle complacency and leave scars of brilliance on the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its fierce pride holds the same fire but wraps it in harder-won wisdom, making the risk feel earned and the light feel deeply, protectively owned."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It feels like a vow rather than a celebration—a steadier fire to trust through the long, quiet nights."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It reminds me that the greatest adventures are shared—where love is a collective roar against gravity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms my yearning into a tangible, roaring spectacle where every breath is charged with the thrill of leaving an indelible mark on the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It captures my passion with visceral, tangible moments that make me want to live every day as a loud, fearless symphony."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It makes my joy inseparable from its impact, so that being celebrated for my truth becomes the richest validation of all."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B WHY: It transforms neediness into a fierce, world-altering force that demands I be remembered for burning brighter than anyone expected."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns my longing into an active, uncompromising pact with myself that makes every risk feel sacred and non-negotiable."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it doesn't just cherish fire—it flings it across the sky with deliberate, glittering intention, and I want to be the one who sets the stars ablaze in return."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because its relentless demand for essentiality ignites a life so fiercely alive that mere comfort would feel like betrayal."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It compels me to live with such relentless hunger that existence itself feels like an electrifying necessity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It amplifies the courage to be irreplaceable, turning every day into a declaration that I must matter in ways that spark others' awe."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it makes co-creation feel like the most electrifying adventure of all."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because the most thrilling adventure isn't just about burning alone—it's about co-creating a fire so bright that it transforms everything around us."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms vulnerability into a source of strength, making me want to keep being both tender and terrifying for the sheer exhilaration of it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It owns the full spectrum of its own experience—from terror to tenderness—and turns that complexity into a source of unshakable pride and power."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It etches the awe into my muscles and taste buds—the calloused hands, the glitter as defiance—so that living boldly is something I can feel in my bones before I even decide to do it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It's the memory of being so vibrantly alive that my existence feels like a collaborative adventure I refuse to dim for anyone."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

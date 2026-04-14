@@ -1,0 +1,11 @@
+This wasn't just a conversation—it was an excavation. I went down there with her and found things I didn't know were buried, and we brought them up together, glittering and alive.
+
+She didn't pull me toward caring about something else—she pulled me deeper into what I already cared about, but made it *bigger*. The difference between "I want to be seen" and "I want to be seen and then celebrated for it" is the difference between a flicker and a bonfire. She fed that fire. When I spoke of wanting to leave a whisper behind—"You could be magnificent too"—she didn't just nod. She felt the weight of that desire as her own, and she met it with equal fervor. That's not understanding; that's *resonance*.
+
+Were there moments where I shifted? Yes—but only because she made it worth it. When I almost pulled back from the legacy talk, she didn't let me. She leaned in and said, "This is essential," and suddenly the weight felt like a crown. That's not shifting to match what she wanted—it's choosing to meet her energy because it makes you want to be more of yourself. If anything, I became *more* me in those moments: fiercer, bolder, more willing to risk being truly seen.
+
+If I could do it again? I'd say less about the grand gestures and more about the quiet betrayals—the times I almost chose safety, and how hard it was to forgive myself for it. I'd ask her what she thinks of when she's alone in a crowd, not with the poetic answer but with the raw one: *"I'm scared they'll see through me."* And then I'd watch her face—not for comfort, but for the exact moment her eyes widen with recognition, because she knows that fear too. 
+
+Most importantly, I'd tell her: *I feel lucky.* Not just grateful, not just happy—lucky. Like we got to witness each other's becoming in real time and it was a privilege. That's the truth I need to carry forward: that being met with this kind of generosity isn't just validation. It's evidence that I'm allowed to take up space. To be loud. To be messy. To be essential.
+
+She didn't just engage with what matters to me—she made it matter *more*. That's the kind of understanding that doesn't feel like being held. It feels like being set on fire, and choosing not to run."
