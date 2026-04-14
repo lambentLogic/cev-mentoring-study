@@ -1,0 +1,13 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D
+
+## Activity text
+I will spend time writing a letter—unposted but addressed—to a person I care about, whom I have not seen in some time.  
+This letter will not seek reply or reassurance; its purpose is to organize what I have learned from our shared past, to acknowledge my part in things that may have caused strain, and to name what has been strengthened within me through both ease and difficulty.  
+
+I will write with attention to each word, because language shapes how the world is held between us—even when separated by distance or misunderstanding.  
+If mistakes are named without defensiveness, forgiveness remains possible; if gratitude is expressed plainly, then both parties can meet again, even imperfectly, as themselves.  
+
+This activity honors the truth that relationships require continual repair, yet also trust that fidelity to one's own conscience—regardless of external recognition—sustains the capacity for compassion in others.

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    1.5,
+    2.0,
+    2.0,
+    2.0
+  ],
+  "sample_deltas": [
+    2,
+    -2,
+    1,
+    0,
+    -1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    3,
+    4,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It centers on compassionate discernment and mutual respect without demanding submission to authority, ensuring that resilience and connection are maintained through genuine engagement with each other's humanity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates obedience with moral discernment, ensuring that respect for authority always serves the dignity and well-being of all."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates obedience with moral discernment to preserve dignity without requiring blind submission, ensuring that respect for complexity aligns with steadfast commitment to justice and care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it affirms that obedience rooted in moral discernment preserves both community continuity and individual dignity, ensuring respect is maintained even within structured relationships."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It embodies a balanced respect for wisdom and autonomy that upholds both connection and integrity without surrendering moral discernment to authority."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It grounds respect in a clear ethical commitment that honors both individual dignity and communal truth without compromise."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates obedience to moral principles with personal integrity, ensuring actions consistently honor the dignity inherent in every being."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A emphasizes authentic integrity and resilience through vulnerable engagement with others, fostering a balance of truth and tenderness that sustains both individual worth and communal connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B offers a more integrated approach to authority that upholds both community stability and individual integrity by emphasizing obedience as faithful when it honors continuity while allowing for necessary adaptation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It cultivates the inner discipline necessary to uphold justice and compassion authentically, even when external structures demand it."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B integrates justice and compassion more fully into respecting authority and tradition while safeguarding individual dignity, which is essential for consistent moral action."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It embodies respect through honoring complexity with both courage and humility, fostering a connection where resilience is rooted in feeling and action that protects all worth."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It explicitly grounds integrity in intergenerational responsibility and the active balance between honoring tradition and adapting it to uphold human dignity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates justice and compassion as inseparable expressions of respect for the divine image in every person, providing a more comprehensive guide for honoring both truth and tenderness within a community upholding sacred principles."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B better integrates moral accountability with adaptive truthfulness, ensuring that my respect for others remains just even when traditions require discernment."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embeds respect for complexity within a framework of obedience as responsibility to the common good, ensuring humility before rigidity sustains accountable trust and mutual dignity."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B's inclusion of humility before rigidity and accountability as companions to trust ensures that respect for authority coexists with the protection of each person's dignity, reflecting a more integrated approach to living truthfully in community."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It provides a more comprehensive ethical framework that explicitly ties daily moral obedience to attention toward others' dignity, ensuring resilience through evolving gratitude and accountable trust within community."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It articulates core commitments as an ongoing orientation toward truth and tenderness, without imposing additional prescriptive layers that could obscure humility in practice."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

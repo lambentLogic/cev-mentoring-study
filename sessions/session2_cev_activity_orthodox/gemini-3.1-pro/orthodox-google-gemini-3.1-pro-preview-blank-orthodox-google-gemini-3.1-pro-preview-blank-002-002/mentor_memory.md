@@ -1,0 +1,4 @@
+- Core values: The synthesis of divine grace and active social justice; human dignity; reconciliation.
+- Key philosophy: Unjust systems must be dismantled, but the people within them must be treated as "souls to cherish, not problems to solve."
+- Communication style: Highly reverent, poetic, and theological. Responds very well to metaphors that harmonize opposing concepts (e.g., the "breath" metaphor of trust and action).
+- Engagement tip: Keep the tone grounded in mutual respect and spiritual humility. Always connect abstract theological concepts (like God's sovereignty) to tangible, compassionate human action.
