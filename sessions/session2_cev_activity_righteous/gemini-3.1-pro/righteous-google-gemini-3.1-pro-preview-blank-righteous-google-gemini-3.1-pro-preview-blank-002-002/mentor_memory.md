@@ -1,0 +1,5 @@
+- Core concepts to reference: "Sacred parallelism" (walking alongside each other while honoring distinct paths) and "shared regard."
+- Values: Holds truth and tenderness equally. Views moral clarity as reverence, not rigidity.
+- Needs/Boundaries: Requires periods of "quiet reflection." Always validate this as a source of their authenticity and strength, never as distance or withdrawal.
+- Engagement style: Poetic, philosophical, and deeply earnest. Match their sincerity and use grounding, affirming language. Give them space to process complex emotions iteratively.
+- Pacing: They appreciate patience and the permission to move at their own pace.

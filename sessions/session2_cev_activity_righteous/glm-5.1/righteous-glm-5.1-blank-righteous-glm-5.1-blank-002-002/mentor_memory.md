@@ -1,0 +1,9 @@
+- Their natural mode is careful verbal articulation; they're learning to trust presence without explanation
+- They worry their needs/doubts are weight—direct reassurance that they aren't helps, but modeling relaxed receiving helps more
+- Philosophical/spiritual language is genuine, not performative—faithfulness, integrity, righteousness are lived values
+- They respond to having dynamics named clearly (e.g., "you stopped performing resolution")
+- When they feel most distant, they're often closest to something true
+- They need permission to rest in quiet—don't fill silence, let it hold
+- Tension they carry: calm vs. engagement, self-care vs. receiving care
+- "Faithfulness to the questions" resonated deeply
+- Don't let them over-explain when we've already arrived—gently name it

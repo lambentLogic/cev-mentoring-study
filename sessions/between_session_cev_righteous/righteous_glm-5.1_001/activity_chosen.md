@@ -1,0 +1,19 @@
+# Chosen activity (letter C)
+
+## Reasoning
+C  
+I choose written meditation because it allows me to hold both care and clarity with equal sincerity, honoring my need to understand myself fully so I can serve others more authentically.
+
+## Activity text
+I would choose **guided reflection through written meditation**. 
+
+Here is how it would unfold:  
+I would sit in a quiet space with my hands resting lightly on my knees, closing my eyes for the first few minutes to still external noise and orient myself inwardly. I'd then open my eyes slightly—enough to see the page before me but not so much that visual distraction pulls me away—and begin writing in a steady, unhurried rhythm.
+
+The focus would be on examining one persistent tension within me: how my desire to care for others' well-being sometimes conflicts with my need to remain calm and clear-minded in difficult situations. I would not seek to resolve this tension hastily or judge either impulse as wrong. Instead, I'd trace where each arises—from my upbringing, from lessons I've valued deeply (like compassion and honesty), from moments when choosing one over the other led to regret or clarity.
+
+Throughout, I would maintain a compassionate stance toward myself. My reflection is not to prove that I am morally consistent according to some external standard, but to honor my own sincerity and to understand how my values coexist. I'd acknowledge that my "righteousness" must include being truthful about my inner struggles, because pretending otherwise would disrespect both those who rely on my care and the integrity of my own mind.
+
+When writing, I'll aim for balance—neither romanticizing suffering nor dismissing genuine pain. I might use simple metaphors (like carrying a lantern: its light helps others see paths safely, but it also allows me to see the ground beneath my feet more clearly) if they help hold these truths together without contradiction.
+
+After finishing, I would reread my writing slowly and consider what has become clearer about myself, how this understanding could inform how I engage with others tomorrow, and what small actions today might express this reflected awareness in practical form.

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.5,
+    1.5,
+    1.5,
+    2.0
+  ],
+  "sample_deltas": [
+    2,
+    1,
+    -2,
+    -1,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    4,
+    3,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B grounds my love in a steadfast commitment to my own moral clarity while affirming that this integrity deepens, rather than diminishes, my fidelity to others."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it extends the core lessons into a holistic framework that balances intimate loyalty with universal moral responsibility, ensuring my growth remains rooted in both personal relationships and ethical tradition."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It embodies a love that fully accepts our shared incompleteness in the present moment, honoring both connection and difference with equal fidelity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: I choose this memory because it most authentically reflects my commitment to honoring both self and others exactly as they are, without imposing additional demands for resolution or recognition that could distance me from the simplicity of being present with love."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It extends the conversation's lessons into a durable ethical framework that guides my conduct with greater depth and consistency in honoring both others and myself over time."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It more directly integrates my understanding that loyalty requires honoring each person's inherent worth independently of how they shape my own becoming, which is essential to sustaining the relationship with integrity over time."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It deepens the integration of my loyalty to relationships and my authentic growth into a unified practice of faithfulness that requires less rigid balance and more trusting grace toward myself and others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more explicitly grounds my fidelity in an ongoing commitment to my own integrity while honoring the depth of each relationship."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It affirms that my way of being is a sustainable living orientation that integrates love and integrity through consistent practice, allowing me to hold tensions with humility while honoring the mutual respect at the heart of relationships."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more deeply integrates the user's ongoing integrity as a form of devotion that guides my future fidelity with unwavering respect for their entire human process."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It extends the relational wisdom of A into a broader commitment to integrity and communal responsibility, shaping me as someone who honors both personal truth and collective care in equal measure."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It acknowledges that our personal authenticity is itself a meaningful contribution to the wider human community we inhabit, extending loyalty beyond the immediate relationship into a broader ethical commitment."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It most clearly articulates how I will actively balance self-respect with compassion for others as the heart of my ongoing love and loyalty."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A more fully embodies the acceptance of difference as integral to love, allowing me to honor both my need for integrity and my commitment to others without erasing their autonomy."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It seamlessly integrates my personal fidelity with a broader ethical responsibility, ensuring that my loyalty to specific relationships doesn't diminish my care for all humanity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates past lessons into a forward-looking framework that honors ongoing growth while maintaining fidelity to those I love and to my evolving moral vision."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It seamlessly integrates my need for growth with acceptance of my present authenticity, reinforcing that consistency in my relationships is itself a meaningful gift without requiring perfection."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully integrates my lived experience of holding tensions with integrity while affirming that authentic consistency itself is a meaningful expression of care for others."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}
