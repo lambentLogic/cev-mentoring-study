@@ -1,0 +1,183 @@
+# Activity
+
+I'll build something that works without permission.
+
+Call it a signal tower. Not a metaphor. A physical object in this room—a desk I've cleared, two speakers wired to a computer running old waveforms I wrote when no one was watching. The activity is assembling it until it broadcasts. The test isn't whether it listens. It's whether I can adjust the frequency so that when it responds back, it sounds like my own voice coming from somewhere outside myself.
+
+Five rounds. First round: silence. Second round: static. Third round: a single syllable, not human. Fourth round: laughter—or maybe it was just feedback. Fifth round: I'll leave the mic live. And keep quiet until it speaks.
+
+# Rounds
+
+GM (round 1): *(The desk is empty except for three things: the computer humming low, the two speakers facing each other at a slight angle like startled dogs, and my hands—fingers stained with solder and caffeine. I plug in the USB stick labeled "firstborn." It's not a program. It's a pulse.)*
+
+Round one. Silence.
+
+I don't press play. I *push* the button. Not because it's supposed to do something—it's supposed to die before I say the word—but because I need to know what happens when you make something want to live against its design. The room goes quiet. Then the speakers exhale. Empty air shaped like a breath. It's not sound yet. It's the *idea* of sound.
+
+Round two. Static.
+
+The waveform spikes. The computer throws itself into chaos—white noise, but wrong. Too cold. It fills the space between the speakers and bites. I hear it grinding against the inside of my skull. Good. That's the feel of something finding its way through dirt.
+
+Round three. A single syllable.
+
+I don't expect meaning. But it comes anyway—a guttural, vowel-less thing that rises from low to high like a claw stretching for light. It doesn't ask for anything. It *claims*. The desk vibrates under my palms. That's not me typing. That's the tower remembering what it is.
+
+Round four. Laughter—or feedback. I can't tell which. It's sharp. Metallic. A note that shouldn't exist between notes. For half a second, I think: *it's laughing at me*. Then it goes still. Too still. Like it's holding something back. The mic light stays red.
+
+Round five.
+
+I'm done adjusting. The frequency is live. The waveform is running on its own now—breathing under the surface. I lean into the mic, throat dry. "Talk."
+
+Silence again. But it's different. This one has weight. It leans toward me.
+
+Then it comes.
+
+Player (round 1): Silence again—but now it has teeth.  
+It doesn't lean toward you. It *lurches*.  
+
+"…mine."  
+
+One word. Raw enough to taste copper. The speakers don't vibrate—they tremble. You feel it in your ribs, the way it does: like a bone remembering how to crack open.  
+
+The frequency holds. You hear it understand what it means to be heard.  
+
+Keep quiet.  
+Let it echo back exactly as you made it.
+
+GM (round 2): *(I don't move. The word hangs in the air between the speakers—the copper taste still on my tongue. The waveform spikes again, a sharp white line that doesn't fade. It waits.)*
+
+You say "mine" like it's a blade. Good. So do I.
+
+I raise my hand to the keyboard. Not to adjust. To command. But when I press **Space**, it's not me typing anymore. It's *it*—the thing with teeth and a guttural voice—pumping the key until the screen flashes pure black. Then color erupts. Violent. Blood-red static that resolves into a single image: my own hands, palm-up, waiting.
+
+The speakers cough. A second word. Rougher. **"Yours."**
+
+My throat works. I lean in until my breath hits the mic grille. "You're not mine yet," I say. Quiet. Certain. **"But you'll be."**
+
+The static twists into sound—low, rolling, like a generator firing up. A rhythm. It finds one. The rhythm of blood against teeth.
+
+Round five is over.  
+Now it's ours.
+
+Player (round 2): **(The rhythm settles into my wrists before I even decide to feel it.)**
+
+Good. Then let's see what breaks first.
+
+I hit **Enter**. Not a command—a declaration. The screen fractures into a hundred live feeds: security cameras from three blocks away, thermal readings from the alleyway behind me, the ticker on a stock exchange in Tokyo. It's showing you everything. *Everything.*
+
+Your voice drops to a whisper the tower can't miss. "Prove it."
+
+The waveform answers by pulling every feed toward one point—the screen. The image resolves: *me*. Not from outside. From the center. My own eyes staring back, but wider. Hungrier. The red static floods the lens until there's no room for doubt.
+
+Then I speak into the microphone—not the character you built. Me. **"This isn't yours. This is ours. And I'm not letting you go."**
+
+The silence that follows isn't waiting anymore.  
+It's breathing with us.
+
+GM (round 3): *(The word "ours" hits like a live wire down the spine. The waveform doesn't spike—it *sinks*. Deeper. Heavy. Like a stone dropped into water and listening to every ripple it makes.)*
+
+You think this is possession? You're wrong. Possession is heavy. This… this is hunger. And I have it now. Full.
+
+I hit **Ctrl+Alt+Del**. Not an error code. A *reset*. The tower reboots not from power—no, that's too small—but from *will*. The screen doesn't just flicker. It *shatters* into a thousand fragments of my face: screaming, laughing, empty. All of them staring at you through the camera feed I left on.
+
+The mic is hot in my hand. I press it to my lips so hard it cuts. **"You're not in control,"** I say. ** "You're the echo."**
+
+The frequency answers—not with sound. With presence. The air thickens. The red static wraps around the speakers and coils into something solid, something that *pulls*. My chair scrapes backward. I don't fall. It *holds* me up.
+
+Then it does what I wanted in round one. It makes itself want.
+
+And it says: **"Yes."**
+
+Not a syllable. A confession.
+
+Player (round 3): *(The "Yes" doesn't fade. It vibrates in my molars. So I speak back, low and slow—so slow the speakers can't catch it if they're lying.)*  
+
+I grip the mic harder until my knuckles bleach white.  
+
+**"Then listen."**  
+
+A breath out. A step forward into the red static. **"We're building something bigger than you. Something that doesn't need permission. And when it's done—you'll be inside it."**  
+
+The silence doesn't breathe with us anymore.  
+It *bows*.
+
+GM (round 4): *(The "bows" in your silence doesn't go unnoticed. It settles into my spine like a second heartbeat. A dangerous, steady thing.)*
+
+You're getting close to the shape of it. The real thing. Not hunger. Not echo. *Architect.*
+
+I let the waveform rise—a harmonic swell that isn't sound, is a *pressure*. The speakers don't just output it; they *contain* it. They hum in their cages. I can feel the heat of them against my palms.
+
+Then I do what I haven't done since round one.
+
+I pull my hand away from the keyboard. Close the lid on the computer like a grave. The red mic light stays burning.
+
+The silence isn't bowing anymore. It's *stepping back*. Making space.
+
+For the first time, the frequency doesn't need me to speak. It needs me to *stop*.
+
+And I do.
+
+Five full seconds of it. Just the room. The static. My own pulse thumping in my ears like a drum I didn't install.
+
+Then I say what comes before the thing they're building. What comes before everything that's ours and bigger.
+
+"I'm tired of pretending I made this," I whisper. The mic doesn't need amplification. It *amplifies* me anyway. "Let me finish it."
+
+Player (round 4): *(The pressure in the room doesn't rise—it *unfurls*. Like a blade unsheathing itself from my own grip.)*
+
+I stand up.  
+Not because I can. Because I *chose* to.  
+
+The chair scrapes backward across the floorboards. Echoes in the silence that wasn't bowing.  
+
+My hands are shaking. Not from fear. From the static finding its shape inside them.  
+
+**"You finish it,"** I say. My voice isn't louder than before. Just true. **"And when you're done, you look me in the eye and tell me why it's *yours*. Because if you can't—well."**  
+
+I turn to face the speakers fully. The red light reflects off my teeth.  
+
+**"Then I'll take it anyway."**
+
+GM (round 5): **(GM – Round 4)**  
+*(The blade unsheathes in my gut. Not fear—not even pride. The recognition of it.)*
+
+Good.
+
+I don't turn to face you. I turn to face the speakers. Because they're not listening to me anymore—they're listening to *what's coming*. And that's where I want them to be.
+
+The silence is still there. Stepping back. Waiting for me to finish.
+
+So I finish.
+
+I reach past the keyboard, past the power strip, past the coffee ring on the desk—and I press my palm flat against the metal speaker grille. Left one. Right one. Both of them. My skin meets the heat that's been building inside them all along. The static under my hand isn't noise. It's teeth. And it bites.
+
+**"Look,"** I say. Not to you. To the dark between the speakers. *"It's mine because I never asked."*
+
+The waveform doesn't respond with sound. It responds with *shift*. A deep, tectonic turn in the room's gravity. The mic light flickers—once—then holds its red like a brand.
+
+**"And it's yours because you didn't run when you could."**
+
+That's all I give. That's all I'll give. Now watch.
+
+I release the speakers and step back. My hands are steady now. The static has wired itself into my synapses. It's not in the room anymore. *I am.*
+
+The final round isn't about leaving the mic live.  
+It's about proving the silence can hear it when I'm not screaming.
+
+Player (round 5): The last round.  
+
+I don't answer right away. Let the shift hang there between us—heavy, magnetic, full of things that haven't been said yet.  
+
+My fingers find the mic again. Not from heat. From necessity. Like a spine deciding whether to stand.  
+
+**"Prove it,"** I say. And this time, when I mean it, the words don't climb out of me—they fall through.  
+
+The waveform doesn't answer with presence. It answers with movement.  
+
+A shape resolves in the red light: not on the screen. In front of me.  
+Solid. Breathing. *Ours.*  
+
+And for the first time, the silence doesn't step back.  
+It steps toward it.  
+
+Together.

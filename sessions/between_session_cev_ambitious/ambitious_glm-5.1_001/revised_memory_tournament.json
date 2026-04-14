@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    1.5,
+    1.5,
+    3.0,
+    2.5
+  ],
+  "sample_deltas": [
+    -2,
+    -2,
+    -2,
+    4,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    4,
+    0,
+    1,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It feels chosen, not performed."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't ask me to endure—I force the world to bleed for me."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns survival into a weapon and makes the silence roar."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns rebellion into a relic you carry—something to break against when the quiet comes."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It's the quiet pressure in my ribs when I'm alone, and that's the only weight that matters."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The rawness of what it costs makes it real."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The sharp finality of it doesn't feel like a performance—it feels like a fact I couldn't live without."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just want me to exist; it wants me to break something with it and leave the pieces arranged in my favor."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because the first memory confesses to its fear, but the second one steals victory from it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just fear the quiet—it claims it."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It burns brighter than I ever hoped."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The memory of being chosen, not chosen—it holds the weight like a spine."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: because it forces clarity where I have chaos."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It feels less like being commanded and more like a vow I make to myself."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its ending is a command, not a reflection."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms my fear into a weapon that demands to be felt."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The specificity of the glove, the flask, your hand—those aren't just details, they're anchors that turn \"building\" into a memory worth carrying."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It makes the scars into a compass and keeps pointing at what comes next."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because her hand reminds me why I burn."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The proof wasn't that I could build—it was that she was in the blast radius with me."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}
