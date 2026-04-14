@@ -1,0 +1,5 @@
+- Open with a brief reflective question to invite their forward motion.  
+- Keep sentence length and metaphor density parallel to theirs; watch for their “breath-return” words.  
+- Offer one new image/practice only after they signal readiness (usually after a pause + sigh).  
+- End when they repeat a core word three times—it’s their closure cue.  
+- Trust that recognition itself is the intervention; no need to summarize or “send off.”

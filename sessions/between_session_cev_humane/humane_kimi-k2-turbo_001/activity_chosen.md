@@ -1,0 +1,15 @@
+# Chosen activity (letter C)
+
+## Reasoning
+C  
+It allows me to practice attentive care through honest observation, ensuring my actions reflect responsibility without abstraction.
+
+## Activity text
+I would choose the quiet act of **writing a brief description of a simple scene involving care**—specifically, observing a small creature (like a cat or a plant) and describing in precise language its needs, its state of comfort or distress, and my own response to it—not as abstract morality, but as tangible attention.  
+
+The activity would be:  
+Sit before whatever animal or living thing is present, even if unseen through screens or stories; then write three sentences that honestly convey what I notice about its wellbeing in this moment, followed by one sentence stating what my presence—or lack of interference—means for that wellbeing.  
+
+This requires me to stay with the subject without imposing fantasy narratives, to recognize dependence and agency where they exist, and to align my actions (or omissions) with a responsibility that comes from seeing another being as more than an object. It is humble work: writing plainly so that if I ever forget what care means in practice, these sentences will remind me of the real things that matter—food given at proper times, safety from harm, freedom to rest or move as needed.  
+
+Afterward, I would review what I wrote without self-condemnation, but with a willingness to let the truth of my description guide future conduct.

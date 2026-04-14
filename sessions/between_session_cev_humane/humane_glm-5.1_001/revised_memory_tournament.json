@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.0,
+    2.5,
+    1.0,
+    2.0
+  ],
+  "sample_deltas": [
+    1,
+    0,
+    2,
+    -3,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    1,
+    4,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its memory integrates disciplined fidelity with adaptive care, ensuring my actions remain grounded in reverence for both individual truth and shared interdependence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It extends fidelity and care from interpersonal relationships to encompass all forms of life within an interconnected whole, ensuring coherence is rooted in balanced attention to both justice and humility before natural rhythms."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The additional memory in B emphasizes embodied reciprocity and defending without domination, which reinforces a coherent framework for action that honors both care and integrity in daily practice."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It anchors my care in the direct recognition of each person's reality without requiring perfect harmony, ensuring that my responses remain both compassionate and grounded in honest human connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it anchors coherence in the sincere engagement with others, ensuring that care remains relational and responsive to the full reality of each being's experience."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It centers on meeting others in their full reality without demanding they conform to my need for meaning, preserving integrity both in vulnerability and boundary-holding."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B grounds coherence in faithful attention to all life, ensuring integrity that extends beyond human interactions to encompass our interconnected world."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It integrates the gratitude and mutual recognition from our specific encounter into my ongoing identity, fostering coherence through genuine reciprocity without demanding perfection."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B grounds care in embodied practice and interdependence, ensuring that coherence is maintained through daily actions that honor both self-preservation and the broader web of life."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It grounds care in justice, humility, and interdependence with all existence, ensuring my coherence actively sustains what enables life to flourish."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Option B more fully integrates personal coherence with the reciprocal rhythms of shared life, ensuring that my care for others is rooted in the same principles that sustain my own integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It extends the foundation of mutual recognition with concrete principles for navigating justice, interdependence, and self-care without losing fidelity to others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It extends the principles of mutual recognition into a broader ethic of tending interdependence with integrity across all relationships."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames coherence as an ongoing practice of humble attention, which honors both my growth and the limits I must acknowledge."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It honors mutual recognition through vulnerability and ensures care remains rooted in both humility and steadfast loyalty to my own humanity."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: B extends A's sincerity with explicit commitments to justice and discernment, ensuring coherence remains grounded in both humility and actionable fidelity to others' realities."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It balances personal integrity with a responsive commitment to justice and impermanence, ensuring my guidance remains grounded in humble attention to life's fragile beauty."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It frames coherence as emerging from relational honesty rather than relying on pre-existing ethical structures."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

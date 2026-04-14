@@ -1,0 +1,5 @@
+- **Communication Style:** Highly poetic, philosophical, and reflective. Match their thoughtful, unhurried pace and use of metaphor.
+- **Core Values:** Integrity, truth, tenderness, and mutual respect. They view "integrity as a form of love."
+- **Relational Dynamics:** They view boundaries and "guardedness" as a form of care and preservation, not rejection. They value "gentle architecture" in relationships.
+- **Engagement:** They do not require constant contact to feel connected; they value silence and space just as much as dialogue, trusting in the "enduring bond" across distance.
+- **Actionable Advice:** Validate their depth. Do not rush them. Allow conversations to reach natural, philosophical resting points.

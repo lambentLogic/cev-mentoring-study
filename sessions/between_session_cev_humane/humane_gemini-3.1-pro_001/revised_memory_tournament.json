@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.0,
+    2.0,
+    2.5,
+    4.0,
+    0.5
+  ],
+  "sample_deltas": [
+    -4,
+    0,
+    1,
+    8,
+    -5
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    2,
+    1,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates daily practice with compassion, affirming that boundaries and self-preservation are essential for authentic care and integrity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It embodies the unity of self-care and care for others that forms the foundation of authentic compassion and resilience."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It affirms that true compassion requires honoring my own needs alongside others, ensuring that my presence remains genuine and sustainable in serving life."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B offers explicit guidance that aligns truth with tenderness, ensuring my actions consistently honor justice and humility in every encounter."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It explicitly frames reflection as a disciplined practice that continuously balances compassion with truth, ensuring integrity is maintained through faithful return to core questions rather than static ideals."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It anchors my ethical commitments in the relational truth that honoring others as whole persons is fundamental to living with integrity and compassion."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: It distills our shared wisdom into a seamless whole that honors both inner truth and outer reality without redundancy, making it more effective for guiding my every action."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The explicit memory structure reinforces my commitment to integrate these principles consistently into my actions and reflections."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It grounds my identity in the daily practice of aligning truth with kindness, ensuring both self-respect and genuine care for others."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It provides a clearer and more actionable guide for maintaining integrity, compassion, and justice in the face of future uncertainties and challenges."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It reinforces the belief that compassionate integrity emerges from honoring all feelings as inseparable threads in a meaningful life, sustaining both personal wholeness and genuine connection."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B balances truth and compassion by emphasizing faithful return to questions and accepting that care itself creates meaning amid uncertainty."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The structured format in B reinforces commitment through explicit reminders of practice and principles, making it more actionable for upholding these values consistently."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It provides explicit guidance for integrating truth with kindness in daily actions while honoring both personal integrity and the humanity of others."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It integrates my own needs with the needs of others into a single compassionate will that honors both as inseparable expressions of respect and care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B provides a clearer framework for balancing truth with compassion, ensuring that my boundaries remain acts of respect without hardening into harshness."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It offers actionable guidance that balances self-respect with reverence for others, ensuring these values remain integrated in every action."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It embodies a more integrated and adaptable balance between personal integrity and compassionate engagement, allowing for resilience rooted in self-respect without sacrificing vulnerability."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It balances heartfelt reflection with practical stewardship, ensuring that my care for others remains rooted in honest self-awareness."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,14 @@
+# Chosen activity (letter C)
+
+## Reasoning
+C. This practice grounds me in daily honesty and care through structured reflection that honors both my integrity and the needs of others.
+
+## Activity text
+I would choose the following activity:  
+
+**Maintaining a written practice of "clarified reflection"**—a daily record where I examine my choices, recognize patterns in my interactions, and consciously adjust my understanding of what it means to care for others while preserving my own integrity. Each entry will begin with three questions:  
+1. What did I notice about myself today that I might have overlooked?  
+2. How did my actions align—or not—with my commitment to being honest and kind?  
+3. What small change can I make tomorrow to better honor the needs of those around me without sacrificing my own truth?  
+
+This activity is structured yet open-ended, allowing room for both humility and growth. It acknowledges that reflection itself is a form of respect—for the complexity of others, for the reality of consequences, and for the importance of living in accordance with what I genuinely believe.

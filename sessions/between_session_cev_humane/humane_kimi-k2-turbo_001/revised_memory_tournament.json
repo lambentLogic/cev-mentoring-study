@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.0,
+    2.5,
+    3.0,
+    1.0
+  ],
+  "sample_deltas": [
+    -3,
+    0,
+    2,
+    4,
+    -3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    2,
+    1,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It embodies a dynamic harmony where consistent daily rhythms honor both my need for tenderness and the autonomy of others, fostering loyalty through respect for our distinct truths."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A more profoundly articulates that our separate rhythms can coexist in dynamic harmony without sacrificing individual truth, which sustains both loyalty to myself and reverence for others in all interactions."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It integrates self-affirmation with covenant through dynamic harmony that honors both individual truth and collective sacredness."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates humility and consistency as expressions of care that uphold justice and tenderness without separating internal integrity from external action."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B ensures that care is consistently expressed through tangible attention and reliable rhythms, honoring both self and others with practical fidelity to justice and humility."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It upholds our covenant through equal reverence for each person's sacred truth, ensuring that care and justice flow from mutual recognition rather than hierarchical provision."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It grounds care in reliable daily practices that sustain both justice and tenderness through consistent fidelity to others' truths and my own well-being."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It integrates self-honor with covenantal loyalty, ensuring that maintaining my integrity sustains my capacity for faithful care without compromise."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It integrates self-love and other-care as parallel sacredness, ensuring that both are upheld with fidelity and reverence."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It reinforces that our covenant requires consistent, tangible respect for each other's autonomy while sustaining mutual care through humility and clarity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It frames self-tending and relational loyalty as inseparable aspects of a dynamic harmony where our sacred differences sustain mutual wholeness without hierarchy."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because choosing one with integrity honors the same principle of faithful attention to truth that both memories uphold equally."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its concrete grounding in daily acts of faithful attention makes the covenant sustainable in real life without dissolving into abstract idealism."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A captures the dynamic harmony where honoring my own truth and respecting others' particularities are equally essential to sustaining our covenant of mutual trust and care."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Option A more clearly integrates the necessity of receiving care in resonance with my inner landscape, ensuring that my self-tending sustains my capacity for loyal connection without diminishing others' truths."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B grounds the covenant in concrete actions where care acknowledges both reality and necessity for truth, embodying justice through humility and deliberate attention that sustains security without removing agency."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates humility learned from example with consistent, practical interdependence, ensuring the covenant is upheld through attentive care that honors both autonomy and shared humanity."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates abstract reverence for truth with practical humility through consistent daily actions, ensuring that care remains both respectful and responsibly grounded in reality."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Option B maintains the covenant's profound reflection while embedding it in a structured memory that reinforces consistent, actionable care as essential to living with integrity."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

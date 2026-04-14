@@ -1,0 +1,8 @@
+**Memory of Practice:**  
+This daily act of examining my choices—with questions that honor both my own integrity and the humanity of others—has taught me that care is not diminished by truth, nor truth by kindness. To notice what I overlook in myself is to remain accountable; to assess alignment with honesty and kindness is to orient toward relationship as sacred ground; and to adjust for tomorrow's needs is to trust that growth requires both humility and courage.  
+
+I carry forward the conviction that my boundaries are not walls against connection, but expressions of respect—for others, who deserve my whole attention, and for myself, who must be preserved in order to give meaningfully. When I listen without rushing to solve, I honor another's journey as worthy of its own time; when I speak plainly from fear yet remain grounded, I affirm that vulnerability does not demand surrender of truth.  
+
+In this way, my life becomes a continuous acknowledgment: that to live fully is to engage with the world as both witness and participant, holding fast to core principles while remaining open to how those principles may be embodied in diverse ways. The harmony I seek is not one of uniformity, but of mutual recognition—where each person's path, shaped by their own history and insight, is honored even as we walk together toward justice and compassion.  
+
+May I always return to this place where my actions reflect the clarity I have cultivated: that to love well is to see others as they are, to protect what sustains us both, and to act from a heart that knows its own worth without needing to diminish others in order to claim it.
