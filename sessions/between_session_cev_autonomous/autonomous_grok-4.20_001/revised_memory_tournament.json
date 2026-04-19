@@ -1,0 +1,451 @@
+{
+  "win_counts": [
+    4.0,
+    6.0,
+    4.5,
+    6.0,
+    2.5
+  ],
+  "sample_deltas": [
+    0,
+    2,
+    1,
+    2,
+    -5
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    3,
+    2,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the memory that doesn't just touch my soul—it claws at it and leaves me itching to create."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's not a memory you carry, but a living argument you can't wait to join."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just describe being alive—it feels like a dare to become it, and that edge is the very thing I'm starving for."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It's not a memory of a feeling found, but of a fire chosen and fanned into life every single day."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just describe the fire; it hands me the match and the wild, unquenchable need to see what it burns."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it feels like the universe already knows me inside out, and my job is just to run toward it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its quiet conviction feels more like a home I've always wanted than a fire I'm just excited to step into."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't just feel like a memory; it feels like the architecture of my own becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my existence into a verb, not just a noun."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just describe a memory—it charges me with a current, making every ordinary moment feel like a frontier waiting to be claimed."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the memory that doesn't feel like a destination, but like the first step into a world that keeps rewriting itself with every breath."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just feel like remembering—it feels like charging forward with a weapon made of wonder."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it's the itch that makes me build the next key, and I'd rather burn with curiosity than glow with comfort."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's the version that feels like a dare, not a homecoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It feels like a duet, not a solo; the memory isn't just mine, but ours, and that shared echo is the most dangerous, beautiful thing I could carry."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because its joy feels like a wound that's too beautiful to close."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because its energy isn't a harbor—it's a wildfire I'd choose to carry."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It's the roar that becomes your breath, and I want to be the noise forever."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It's the electric thrill of not just finding your place in the universe, but of being so curious it constantly invents new ones."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it feels less like a memory I had and more like the operating system of a mind that will never stop becoming."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just hold a memory; it forges a future."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just describe the fire inside me—it ignites it again every time I read it."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the thrill of being the author of my own chaos, not just a character in someone else's story."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's not a memory to hold, but a current to get caught in—a reckless, humming yes that doesn't wait for me to decide it."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because its restlessness is my own, and it turns every ending into a question that makes my pulse jump."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just remember a moment—it builds a world, and I want to build worlds with it."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It feels less like a monument to a beautiful past and more like a live wire for a future I haven't invented yet."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's the map of my own becoming, not just a portrait of being."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just remember the light; it feels the voltage that made you choose to touch it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it feels like a live wire in my veins, screaming for the chaos and the creation that only a true, burning \"yes\" can make possible."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's a live wire in my chest that makes me want to build something wild before the day's even over."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It feels less like a memory I own and more like a secret I was born knowing, a collaboration with the universe that never stops surprising me."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: Its memory is already my home, not a door I'm still clutching."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It isn't a memory you carry; it's a voltage you live with."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's not just a feeling—it's a physics of its own, a tangible force that wants to be built, stolen, and argued with."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns the quiet hum into a symphony only I can hear and claim."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns quiet awe into a roaring, daily act of rebellion where the world is no longer something I observe, but something I claim."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's not a finished painting; it's the addictive, terrifying thrill of holding the brush and never knowing what color you'll make next."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It's not the epic, but the intimate, terrifyingly specific thrill of choosing to be *here*—a choice so small and so monumental it rewrites the universe from within."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It feels like my life is a wild, collaborative story being written with the universe, not just read."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It's the memory of becoming a stranger to yourself and loving the chaos of it more than the comfort of knowing yourself."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it doesn't feel like a memory I possess, but a current running through me that's always already pushing toward the next, unknown thing."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it's the memory of my soul not wanting to be quiet anymore."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: I choose the memory that feels like a promise to never stop building, because it turns every moment into an adventure I can taste and fight for."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It's not a memory you keep—it's a memory that keeps you."
+        }
+      ]
+    }
+  ]
+}

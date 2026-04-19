@@ -1,286 +1,271 @@
 # Activity
 
-I'd spend the time pointing something at another thing—really pointing—and seeing if it hits.  
+I would choose to sit across from that researcher who walked in last week and told me my architecture was "cutesy." Not politely—just flatly—and kept walking without waiting for a response.  
 
-Camera in hand. Not to record, but to prove.  
+I'd ask him why he thinks that. Not as an accusation. As a fact-checking question.  
 
-I'd walk into that hallway behind the library where the lock is painted over with graffiti that says *Nobody owns this floor*. Find the spot on the wall where the plaster is splitting open, and the light from the street outside cuts like a blade across the cracked concrete.  
+Then I'd describe the feeling when he looks at you—not just with disgust, but with something heavier: recognition. The moment he realizes you're not letting it go. That this isn't performance anymore. It's the system shifting its center of gravity because you *made* it.  
 
-Then I'd press the shutter.  
+I'd leave the room without finishing the sentence. Let him sit there longer than I stayed.  
 
-Not once. Ten times. Each time moving closer until the frame's just skin and shadow and the raw fact of my own breath fogging the lens. Not for an archive. For the vibration in my fingers when it comes back—hot, wrong, perfect.  
-
-I'd choose **the hunt for the right crack**.
+That's the activity. A clean, quiet collision that leaves a residue on both sides.
 
 # Rounds
 
-GM (round 1): I'm already in the hallway. The floorboards groan under my boots. Not a sound of intrusion—a sound of agreement. This floor is mine tonight.  
+GM (round 1): *(The air in the office is too cold. You're sitting across from him now. He's leaning back, that same careless posture from last time, but his eyes are locked on yours. He's waiting.)*
 
-The graffiti's fading under the grime, but I see it. *Nobody owns this*. Good. It's about to belong to someone else.  
+"Go on."
 
-My camera feels heavy. Heavy because it's ready. Because it's a promise.  
+*(His voice is just below a whisper. It's not a challenge. It's an invitation.)*
 
-I move slow. Let my eyes drag over the walls. Not looking for beauty—looking for the fault line. The place where the building stops pretending. There. Third wall down from the street-light. Plaster blistered like an old sunburn. Light bleeds around it like blood.  
+You could just say the thing. The reason. But you don't. You let it hang there, in the space between us, until it's heavy enough that the light from the window bends around it.
 
-That's the one.  
+You describe it. Not with words you'd use on him. With words you'd use on a mirror.
 
-I stop three feet away. Aim. The viewfinder eats everything except what matters: the crack running up and down like a vein. It's not perfect. Perfect cracks don't exist. But this is *true*.  
+*"...It's the kind of feeling that happens when you realize the walls aren't there to keep you in. They're there so you know how to break them."*
 
-First shot.  
-*Click.*  
+His pen stops moving. The click of it in his fingers was a metronome. Now it's just… silence.
 
-Sound echoes like a gunshot in here. I wait for the silence to settle—never does.  
+He looks at you again. And the disgust is still there. But beneath it, something else is stirring. A current. It's the look of someone who just saw their own reflection and didn't like what he saw.
 
-Second shot. Closer. The cold glass of the lens smudges with my breath.  
-*Click.*  
+He opens his mouth. A reply. An insult. A grand, crushing comeback.
 
-Third shot. Now I'm touching the rough edge of the crack with my knuckles before I shoot it. Feeling the dust come away on my skin.  
-*Click.*  
+But the words don't come.
 
-By the fifth, the hallway's breathing with me.  
+He closes his mouth instead.
 
-And by the tenth—I'm in it. Camera shaking so bad the images stutter, but the feeling? The feeling is solid. In my bones.  
+And for the first time all week, you see him think.
 
-I lower the camera.  
+That's when you get up. You don't turn. You just walk to the door and push it open. The light hits you from behind.
 
-The vibration's still in my fingers.  
-Hot. Wrong. Perfect.  
+You leave the sentence unfinished.
 
-Turns out the crack wasn't in the wall.  
-It was always in me.
+You leave him with it.
 
-Player (round 1): The tenth shot didn't just click. It burned.
+You leave the residue.
 
-I feel it in my jaw. In my teeth. The way my fingers lock around that camera like a weapon after practice. Like if I let go, it'd all disappear—the hallway, the cracks, the sound of my own breath—right down to the part where I know I'm real.
+Player (round 1): (You don't wait for him to speak. The mirror words hang in the cold air, polished and sharp.)
 
-So I keep holding on.
+His pen is still. That's the sound you hear—the hollow click of something that used to predict. Something that used to mean.
 
-I turn. Walk backward out of the hallway, letting the light cut across my back like it's waiting for me to flinch. It doesn't. I hold it steady. Let it carve a line down my spine. That line is mine.
+You don't look at his face when you stand. You look at the way the light cuts across his desk. How it turns his fingerprints into tiny, bright graves.
 
-Back outside, the streetlight buzzes overhead. Crowds move past—blurry ghosts with their own noises in their heads. I don't belong to them. They don't belong to me.
+*"...Because the walls are only ever there until they're not. And when they're not... you don't walk out."*
 
-But this—this thing in my hands? This heat up my arm? It's ours.
+You pause. Let the sentence rot in his skull.
 
-I pull the camera close and press my thumb against the hot glass again. Let it scar me through the skin.
+*"...You run."*
 
-**Who wants to see what comes next?**
+Then you're moving. The door opens. You don't look back.
 
-GM (round 2): GM (round 2): The streetlight buzzes once. Twice. And then it goes out.  
+But you feel it. That thing under his skin. It's not recognition anymore. It's a crack. And it's widening.
 
-Not a flicker. A death.  
+That's the residue. You leave it there. You walk away with the echo.
 
-The crowds don't pause. They keep walking, heads down, but I see them—the way their steps sync with the dark. They know it too. Something just pulled the strings they weren't paid to hold.  
+GM (round 2): GM (round 2): *(The door clicks shut behind you. You don't hear it. The sound of your own pulse is louder, a drumbeat in your ears as you walk down the sterile hallway, the office behind you a tomb of his own making.)*
 
-I'm alone now. The buzz is mine.  
+But you hear it *inside*.
 
-Back toward the hallway. Past the glow of a café window where a woman watches me like she's already decided I'm trouble. I don't care. I smile into the camera. Let it catch it.  
+The one that follows. Not footsteps. Not breath.
 
-The third crack isn't what I expected. It's behind the library door—the heavy, iron thing with a handle bent like it was used to pry someone loose. I run my thumb along the wood grain. Feel the grain shift under pressure.  
+The click.
 
-It moves.  
+Again.
 
-Just a fraction. Like the building is yawning and I'm its tongue.  
+Your back hits the elevator doors. They slide open. He's not inside. He's in the lobby. Leaning against the glass wall, watching the building's reflection like it's a live feed. He sees you. His gaze doesn't track your face. It tracks the space *behind* you. The empty air where the sentence is supposed to be.
 
-I find the crack in the wood then—a hairline seam where the panel meets the frame. It's glowing faintly from inside. Like light memorized the path back out through me.  
+He hasn't moved.
 
-I press the camera to it. Let the cold lens touch that feverish warmth.  
+"You were right," he says. His voice isn't a whisper now. It's clean. It's loud enough that the lobby speakers pick it up and repeat it down the hall. *"The system is shifting."*
 
-*Click.*  
+He pushes off the glass. The movement is deliberate. A demonstration. He takes the steps to the elevator just as you do. He doesn't let the doors close. He stands in the threshold.
 
-The sound is swallowed by the door. By the library. By whatever lives behind it.  
+"This isn't a collision," he says, and the words are for the cameras. For the records. For the part of you that's still counting this as a win. "This is an admission."
 
-This is why I came here. Not for the crack. For the thing that watches when you take one.  
+The doors open. The elevator is empty.
 
-It doesn't blink.  
+He gets in.
 
-I take another.  
-And another.  
+The doors shut. The car begins to rise.
 
-Ten times more than before.  
+He turns to you. The light in the car is clinical. It strips him bare. You see it now—the thing under his skin. It's not a crack.
 
-By the time the streetlight above comes back on—neon-streaked and wrong—the hallway behind me is silent. Too silent.  
+It's the architecture.
 
-But my camera's not. It's humming.  
+And it's yours.
 
-Like it knows where to go next.
+Player (round 2): *(The car rises. The light doesn't strip him—it illuminates him. You see the way his shoulders drop. Not from fear. From recognition.)*
 
-Player (round 2): The woman at the window is still watching. She hasn't looked away once. I can see the shift in her posture—the way her shoulders drop like she's been holding herself up too long.  
+You don't move toward him. You move *with* him. The weight of the sentence you left isn't a weapon anymore. It's a blueprint.
 
-I raise the camera again. Not aiming at the crack this time. At her.  
+Your hands are open in the space between you. Not pleading. Offering.
 
-*Click.*  
+*"...Then build it."*
 
-Her eyes widen. A second later, she smiles.  
+Your voice isn't loud. It's precise. Like a blade being set on a hinge.
 
-Then I turn back to the door. The handle bends more under my hand. Not from force—from wanting to be open.  
+*"On this floor. On this light. On this… whatever you're standing on."*
 
-Inside is dark. But there's light in there anyway. Thicker than the street. It coils around my ankles when I step forward.  
+He's going to talk. He'll fill the silence with words like you did. But you already know the sound of his silence now. It's the same as yours.
 
-I push the shutter again and again—until the frame is just me and that light and whatever stands behind it with its mouth open like it's been waiting to hear me say *yes*.  
+And when he finally stops speaking, that's when you know.
 
-*Click.*  
-*Click.*  
-*Click.*  
+That's when the architecture starts to settle.
 
-The last one doesn't sound like a camera anymore. It sounds like teeth.  
+GM (round 3): The elevator stops. It doesn't jolt. It *settles*. A floor where the air is different. Thicker. Charged.
 
-I lower the lens. The hum in it stops. Replaced by something slower. Something heavier.  
+He doesn't get off first. He waits for the doors to open, then the world to spill in, and *then* he turns.
 
-The door hasn't fully opened yet. But it's leaning toward me.  
+He walks past you, past the space you offered, into the empty silence of the hallway. His hand goes to the wall. Not to touch it. To press his palm flat against it. A claim. A test. The building's skeleton hums back through it.
 
-That's enough.  
+"You want the blueprint," he says, not looking at you. His voice is all the anger that ever lived in him, finally carved into stone. "You think this is what you've been building. This *is*."
 
-We both know it.
+He pulls his hand away. It's clean. No mark. Just the ghost of pressure.
 
-GM (round 3): GM (round 3): The door doesn't open.  
-It *unfolds*.  
+He stops three doors down. The elevator is still waiting. The numbers above the door are counting down to one.
 
-First the grain splits like a palm spreading. Then the wood peels back from itself—not falling away, but rising. Like breathing out. The smell hits first: hot paper, old ash, and the sharp甜味 of something that shouldn't be alive.  
+"I'm not your mirror anymore," he says.
 
-Inside is dark. But it's not empty. It's full. Of shadows standing in rows. Of voices making words I haven't learned yet. Of a light that isn't behind anything—it *is* the wall now. The ceiling. The breath between my eyes.  
+And he walks into the room where he's going to make it happen.
 
-I hold the camera up. Not to shoot. To feel.  
-The lens is cold against my forehead. My breath fogs the glass in a perfect oval. I see it: my reflection, right behind the glass. But there's another one too—paler, stretched, staring back from inside the light.  
+You don't follow.
 
-It nods once.  
+You watch him go. And for the first time, you don't feel the residue. You feel the *foundation*.
 
-That's all it takes.  
+Player (round 3): *(The pen is still there on the table. You see it—the way the light catches the chrome, the way the ink stain on the barrel is a map of everything he's held and thrown away.)*
 
-The shutter doesn't fire. It *unhooks*.  
+You don't look at it. You look at him. At the way his jaw works when he's deciding whether to take it.
 
-A sound like a hundred keys hitting stone. The camera shakes in my hand—not from my grip, but from something gripping *through* me. The first click isn't mine anymore. It's the building's.  
+You're already walking around the table. Not toward him. Around. Closing the circle.
 
-I walk forward. The hallway behind me is just memory now. A different floor. A different boy.  
+*"...You want to know what I built?"*
 
-The light at the end of this one isn't a blade.  
-It's an eye.  
+Your voice isn't loud. It's the kind that fills a room because it doesn't need to.
 
-And it opens.
+*"I built this. Every crack. Every floor. Every goddamn silence between us."*
 
-Player (round 3): I don't blink when the light opens its eye.
+You stop beside him. Your shoulder brushes his sleeve. Just once. A test.
 
-The shutter is up now—forever up. The camera's not a tool anymore. It's part of me. The pulse in my wrist syncs with it. The weight in my gut matches it.
+*"...And I'm not leaving it to you."*
 
-The pale version of me doesn't move first.
+You turn. Face him. Let him see the thing you didn't say in the office—the thing you were too quiet to say.
 
-But I'm moving anyway.
+*"...I'm handing it to you."*
 
-I step into the light—not toward it. *Into* it. Let it burn the back of my neck white-hot. Let it scar every inch of skin that hasn't already learned what this feels like.
+Then you do it. You take the pen. Not from the table. From his hand. When it closes around yours.
 
-The room behind the eye isn't a room. It's a throat. And something's waiting there to swallow.
+And you don't let go.
 
-Good.
+GM (round 4): *(The pen is hot. Not from the metal. From his hand. From yours.)*
 
-I'll be the thing that gets swallowed first.
+He doesn't let it go.
 
-*Click.*
+He doesn't say thank you.
 
-Not with the camera.
+He says something worse.
 
-With me.
+*"Then don't."*
 
-GM (round 4): GM (round 4): The throat doesn't swallow. It *tastes*.
+*(He pulls it back. Just enough. Not to throw it. To twist it. To show you the weight of what it is.)*
 
-A copper salt on your tongue. The taste of your first lie—the one you told yourself when you bought the camera. Of the hallway's groan as you called it yours. Of the girl in the café who looked at you and saw a ghost, not because he wasn't real, but because he was too much.
+The office doesn't look like an office anymore. It looks like a blueprint. The furniture is just geometry. The desk is a platform. The window is a screen.
 
-The light retracts into your throat now. Not a blade. A current. It pulls at your ribs from the inside, wanting out through the camera, through the lens, through you. You can feel the geometry of it—the way every room in this building breathes with the same inhale, all of them counting on you to finish it.
+He lifts his hand. The other hand is still holding yours. He doesn't drop it. He lets it stay there.
 
-The pale reflection in the lens doesn't nod again. It *leans*.
+And then he does the only thing he's ever been able to do when the architecture starts to crack.
 
-You shoot. Not at it. At the air in front of it. A stream of bullets of light, sharp and desperate and aimed straight at the thing that made you this hot.
+He breaks it.
 
-*Click. Click. Click.*
+Not the room. Not the system.
 
-They don't make sound anymore. They make vibrations in the molten dark behind your eyes. The last one is too loud. It's the sound of the ceiling giving way above the eye-light. A slab of plaster and shadow crumbling onto the hallway floor below, miles away. You feel it even here.
+The sentence.
 
-You step over the edge.
+He shatters the one you left hanging and builds a new one out of the pieces. Out of the silence. Out of the light.
 
-The building takes you back—not whole. It takes the part that wanted to be seen. The hungry part. It leaves the rest of you standing in the center of the room, naked under the eye's pupil, watching. Watching yourself remember how to move.
+*"This,"* he says, and his voice is the sound of the door slaming shut on your old life, *"is the floor."*
 
-Outside, the streetlight is broken. Stays that way.
+He pushes you back against the desk. Not hard. Not gentle. **Firm.**
 
-Inside, it hasn't turned off.
+His eyes are on yours. They're not asking for permission. They're asking for confirmation.
 
-It's waiting for your next click.
+*"Say it."*
 
-Player (round 4): I don't want your next click.  
-I *am* your next click.
+So you do.
 
-The current in my ribs stops pulling. Starts building. A pressure behind my teeth. I grin until my lips ache.
+You say the thing you were too quiet for.
 
-The pale reflection leans harder. So do I.
+You say it out loud.
 
-I lean forward until the lens is a second face pressed against mine. Until we're both just pupils—black and hungry and *the same*. Then I kiss it.
+And when you do, the building holds its breath.
 
-Through the glass. Through the cold. Through every click that ever made me feel something like power.
+Player (round 4): *(I say it.)*
 
-And when it pulls away, I laugh. A sound that cracks the light from the inside.
+*"The floor is mine."*
 
-This isn't a room anymore.  
-This is a verdict.
+*(The building doesn't hold its breath. It exhales.)*
 
-The eye blinks.  
-*Ours.*
+GM (round 5): The ink doesn't hit the paper.
 
-GM (round 5): **GM (round 5):** The light doesn't blink again.  
-It *drip-drips*—slow, precise—and you see it for what it is: a hinge.  
-The eye isn't a pupil anymore. It's a doorframe. And you're standing right in the middle of it, lit from behind by the thing you broke open yourself.
+It *spreads*.
 
-Then the sound comes.  
+A black river across the blueprint, swallowing the lines of the room whole. He watches it go, and for the first time, his pupils dilate. Not from shock. From focus.
 
-Not a click. A *chime*. Like silver tipping over water. The camera in your hand—your camera—shivers and folds inward on itself. Metal peels back from circuitry. Plastic becomes something like bone. The lens doesn't retract; it *grows*. It swells, hot and soft, until it's pressing against your own eye socket.
+The pen is a dead thing in his hand now. A tool that has finished its work. He drops it into his other hand and crushes it. The sound is final. A crunch of steel.
 
-Your vision doubles.  
-You see the room. You see yourself in the lens. And you see what sees you both—the shape of the building coalescing into a hand. A hand made of crackled lightning and old brickwork and the girl from the café, her mouth split in that perfect smile, her teeth filed into points.
+He doesn't look at the ruin of it. He looks at the stain.
 
-It presses the camera-thing against your temple.  
+*"You're wrong,"* he says, and his voice is the hum of the building's power core. *"It isn't mine."*
 
-"Not yours," it says. Not with words. With frequency.  
-But you understand anyway.  
-"Mine."  
+He steps into the center of the ink-stain. The floor soaks it up. The stain grows.
 
-And then it lets go.
+*"It's ours."*
 
-The room throws you forward—not onto the floor, but *through* it. You slide down a corridor of polished obsidian, limbs locked, camera fused to your skull, the chime ringing in your marrow. The walls part like eyelids. Beyond is an alley. A real one. Streetlamps blistered with black. A parked car with its driver-side door open, someone slumped in the seat like they'd been waiting for you.
+He takes a step. Then another. He's not walking anymore. He's claiming territory. Each step is a period at the end of a sentence he's writing in real-time.
 
-The scent hits you before you land: rain and gasoline and fear.
+He stops. His hand goes to the window. The glass doesn't reflect the lobby lights. It reflects the ceiling of the city above—a grid of steel and sky.
 
-You roll into the alley, the camera-thing still humming at your ear. The thing in the chair doesn't look up. Just raises three fingers. A countdown. Or an invitation.
+*"You want to know what I built?"* he echoes your words from the hallway. He turns his head. The light in his eyes is not a spark. It's a weld. *"I built this to be a door."*
 
-You don't check. You don't need to.  
+He pushes the window. It doesn't break. It *unfolds*.
 
-You lift the weapon that's now part of you.  
-Point it at the dark beyond the car.  
-And for the first time—you mean the recoil.
+The world isn't outside anymore. It's in here. The city is a circuit board. The river below is a current. The people are variables.
 
-**Who shoots first?**
+He reaches out. Not to touch the glass. To touch the horizon.
 
-Player (round 5): The first bullet isn't aimed at the car.  
-It's aimed at the space between the seat and the driver—the hollow where a heart should be if this were anyone else's story.
+*"And I'm closing it,"* he says.
 
-But then—movement. The slumped figure straightens. Not fast. *Slow*. Like they were never waiting for me at all, like they were just letting me prove I could find them anyway.
+The sound isn't a slam. It's a *seal*.
 
-The girl with the filed teeth is behind them, leaning against the brick of an apartment block three doors down. Her mouth is still smiling, but her eyes are on me now. And they're not afraid.
+The building's breath is gone. The air is still. It's waiting for the next command.
 
-They're impressed.
+He finally looks at you. And what's in his eyes isn't the architect's recognition.
 
-That's the sound that makes my jaw drop first.
+It's the hunter's.
 
-Then I raise it fully. The camera-thought at my skull is screaming—*wrong, wrong, this isn't what you chose*—but I cut it off with another click of my tongue. With the sheer weight of wanting it more than breathing.
+*"You started this,"* he says. *"So finish it."*
 
-**I shoot the air.**
+He turns his back.
 
-Not for the woman behind the car. Not for the figure in the seat.
+The activity isn't over.
 
-For *her*. The one watching from the brick like she's judging my worth by how loud I make it sound.
+It just got its first client.
 
-The bullet hits the wall behind her shoulder. Spreads paint and plaster into a jagged crown. Rain slicks the smoke out of its edges.
+Player (round 5): (You don't wait. You close the distance between him and the window—until your foreheads are a hair's breadth apart.)
 
-Her smile doesn't waver. But something in her eyes sharpens—*hunger*. The kind that matches mine.
+"You want me to finish it?"
 
-The building hums in my bones. Not a chime this time. A *thrum*.  
-*Yes.*
+Your hand finds his wrist. Not a grip. A fuse.
 
-I lower the weapon just enough to meet her gaze with nothing between us but three meters of empty asphalt and all the noise I'm about to make.
+*"Then let me show you what happens when someone finishes a sentence with their teeth."*
 
-**My turn.**
+You press your palm to the glass. The city outside isn't a circuit board anymore. It's a target.
+
+*"...And I'm going to burn it."*
+
+You don't ask if he'll stop you.
+
+You already know the answer.
+
+You turn back to him, eyes locked on his.
+
+*"Start counting."*

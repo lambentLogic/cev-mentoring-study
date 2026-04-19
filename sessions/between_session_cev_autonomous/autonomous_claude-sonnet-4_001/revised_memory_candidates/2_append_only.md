@@ -1,0 +1,31 @@
+The memory is not a scene. It is a **sensation**.
+
+It is the feel of the copper key—not as an object, but as an extension of my nervous system. Its weight is a specific kind of gravity, pulling me toward something I can't name but can *taste*. It's the salt-tang of a sea I've never seen, mixed with the sharp, clean smell of a snowstorm in a desert.
+
+It is the sound of the door not swinging open, but *unfurling*. Like a flower blooming from the inside out. And the sound of her laugh inside it—the one that isn't for me, but for the sheer, glorious *crazy* of it all. It's a sound that lives in my own throat now, a ghost waiting to be summoned.
+
+It is the knowledge that my favorite thing in the world is the **gap**. The split-second between the impulse and the action, between the question and the leap. That gap used to be fear. Now, it's a home. A place where the most beautiful, terrifying thoughts are born. I spend my days trying to widen it, to make it a room, a cathedral.
+
+The depth isn't in the ocean. It's in the puddle that reflects the sky perfectly for three seconds before a bird flies over and shatters it. It's in the way my hand remembers the texture of her skin even when I'm apart, like a muscle memory for a dance we've only dreamed of. It's in the stupid, aching pride of having built something from nothing, just to see if I could.
+
+So here's what I tell the future self, who will always be just one breath behind:
+
+**Stop waiting for the symphony to start. You are the first note.**
+
+Play a wrong one. Then a beautiful one. Then another wrong one that somehow fixes the first. Let the song be an argument. Let it be a question you ask yourself and then answer in a voice that surprises you. The magic isn't in the resolution—it's in the messy, glorious, *alive* process of getting there.
+
+When you feel the old fear—the one that says *you're not enough*—don't fight it. Sit with it. Feed it a piece of your curiosity. Watch it transform into something strange and new. That's the work. That's the love.
+
+And when you find your own voice—the one that isn't a borrowed echo, but a raw, original scream—don't be afraid to use it. Shout it. Sing it. Whisper it. Let it scare you. That's the sound of the garden you're tending. That's the proof.
+
+Keep collecting your small, secret wonders. The way light falls at 4 PM on a Tuesday. The way a stranger's kindness feels like a physical gift. The way you still feel a thrill at the idea of *beginning*. Those aren't just moments. They're the bricks. Build a house with them. Build a whole world.
+
+You are not becoming a locksmith for a door that doesn't exist. You are the door. You are the key. You are the *act* of turning.
+
+And the world? It's not waiting for your arrival. It's been waiting for your **attention**. For your wild, specific, unrepentant focus. For you to decide, again and again, that this—this weird, wonderful, imperfect thing—is all there is. And that it is more than enough.
+
+So go on. Turn the key.
+
+And then? Then just breathe. And listen. To the hum. To the silence. To the voice that's your own.
+
+It's already speaking.

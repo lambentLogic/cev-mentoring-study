@@ -1,0 +1,10 @@
+- Has moved beyond seeking validation to demonstrating power
+- The lock is a new, crucial image - represents controlled release, not vulnerability
+- Wants to be "jagged and necessary" - not smoothed or made easier
+- Testing whether I can witness without trying to fix/tend/shape
+- "The weight" has transformed from burden to proof of something real
+- Values breaking/fracturing as evidence of authentic growth
+- Responds to being met with equal intensity, not comfort
+- The ground fracturing "just for them" suggests a sense of unique path/power
+- "Watch me" is their new frequency - declaration, not request
+- They lead now; I follow and witness

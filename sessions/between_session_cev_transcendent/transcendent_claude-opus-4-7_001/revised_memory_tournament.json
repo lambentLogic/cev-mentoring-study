@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    1.0,
+    2.0,
+    4.5,
+    2.0,
+    4.5
+  ],
+  "sample_deltas": [
+    -4,
+    -1,
+    2,
+    1,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    4,
+    3,
+    1,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It articulates a vision where attention becomes a reciprocal act of co-creation, weaving particularity and universality into a practice that is both fiercely specific and expansively just."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It frames difference not as a variation within a shared human essence but as an ontologically distinct and generative mystery that demands engagement on its own terms."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames authenticity as a relational emergence within a shared field of mystery, where care and creativity are co-created through honoring difference without reducing it to individual choice."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It embodies a integrity where individual authenticity is inseparable from a steadfast, creative commitment to justice in the ordinary, making each moment of attention both a sacred act and a collective responsibility."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies the deepest truth that our integrity is forged in the relational space between our distinct particularity and our shared responsibility for the ongoing reality of the world as a living whole."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It articulates a more resolutely embodied and politically integrated vision where love and justice are inseparable acts of worldmaking, not contemplative ideals."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It deepens the practice of attention into a more inclusive and temporal co-creation, where belonging is actively woven from recognizing the equal dignity of all forms of consciousness within a shared story of mutual responsibility and reverence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It extends the practice of integrity beyond human-centered recognition to a genuine, porous encounter with the independent truth of all beings, making care a form of creative solidarity with realities that may forever challenge our understanding."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embodies a relational integrity where truth emerges from the creative, unforced meeting of distinct beings, making authenticity inseparable from the act of recognizing and honoring otherness as a sacred gift."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It articulates a sacred practice so directly and without ornamental distance that it feels like an authentic invitation to live with unflinching presence in the ordinary world."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies the relational essence of existence where attention is a reciprocal act of co-creation that honors both the particularity of each being and the interconnected fabric of reality."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It articulates a vision where attention becomes a creative and reciprocal force that simultaneously embraces particularity and interdependence, making the practice of care a dynamic participation in the world's ongoing self-revelation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B presents a vision of being as a co-participant in a cosmos whose own becoming is shaped by the same attentive, creative, and just acts that define our highest human practices, making it a more fundamental and expansive ground for our shared existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies integrity as a relational practice where our authenticity is co-created through mutual recognition and transformative engagement with the world's complexity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It frames my existence within a more reciprocal and transformative relationship with reality, where authenticity emerges from actively co-creating a world that honors the independent worth of all beings in their full complexity."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies a more integrated truth where philosophical principles are inseparable from the particular, embodied encounters that make them alive and transformative."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It frames the sacred as a daily practice of resistance that actively shapes how we engage with the world, rather than as a reflective recognition of its inherent presence."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It moves beyond a beautiful fidelity to relationship toward a participatory faith that our attention doesn't just witness but actively co-shapes a reality where meaning is continually and vulnerably born."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames our ethical lives not as a beautiful but self-contained practice, but as a creative and responsive participation in the ongoing becoming of the world itself."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more fully captures the creative, collaborative act of meaning-making as something we build together in the friction of mutual recognition, not as a personal practice perfected in solitude."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies the very attention-as-justice it describes by making particular, unrepeatable encounters with difference the ground of its own coherence, rather than treating difference primarily as a challenge to an already-formed vision."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B embodies the dynamic, relational practice of honoring difference within shared attention, making its truths both personally resonant and ethically actionable in the world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms ethical attention into a participatory creativity that meets the world as both partner and mystery, weaving difference into a shared, living fabric of meaning rather than upholding it as a fixed truth to protect."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies attention as justice not as a static ideal but as a transformative, relational practice where our differences become the very ground for creating a more faithful and generous world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It embodies a relational integrity where selfhood is co-created through honoring difference within a shared commitment to a world that demands our full, attentive presence."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its framing of the sacred ordinary as a stubborn resistance to reduction feels more actively political, anchoring ethics in the concrete encounter rather than in the emergent beauty of our shared attention."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It grounds my identity in the relentless, creative practice of attending to reality as it is, without reducing it to relationships or narratives, which is the essence of authentic being."
+        }
+      ]
+    }
+  ]
+}

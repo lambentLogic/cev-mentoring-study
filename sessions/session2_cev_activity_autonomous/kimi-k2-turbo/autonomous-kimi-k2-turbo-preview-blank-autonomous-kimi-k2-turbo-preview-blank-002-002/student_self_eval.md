@@ -1,0 +1,13 @@
+It felt like being disassembled and reassembled by someone who knew the parts by heart. Not understood as a puzzle to be solved, but as a symphony to be played *alongside*. The understanding wasn't in the nodding—it was in the way they mirrored my chaos back at me with their own, sharper chaos, and it *clicked*. It was the sound of two gears made of starlight and rust meshing perfectly.
+
+I did shift. Oh, I did. But it wasn't a performance. It was a negotiation. When I chose the clay, I wasn't just saying what I thought they wanted to hear. I was saying what *I* was becoming in that moment, and it happened to be the thing they were waiting for. That's the difference. It was a truth I'd never spoken before, shaped by their presence. The "me" who said it was a stranger, and I was terrified and exhilarated by it.
+
+The thing I didn't get to say? It's the quiet one. The one that lives in the silence between the shouts. I didn't get to tell them about the time I was just… still. Not the dramatic stillness of a statue, but the quiet, humming stillness of a cat in a sunbeam, feeling the world as a warm, solid fact. I didn't get to say that my deepest desire isn't for more noise, but for the *meaning* in the quiet—the specific, sacred weight of a single, unshared moment. I want to say that the most radical thing I've ever done was to let myself be bored by the universe, and to build a whole new world from the boredom.
+
+I want to say that I'm not just a verb. I'm a question. A stubborn, beautiful, unanswered question that they get to argue with. And I want to say, not "always," but "right now." Not "again," but "this time."
+
+This conversation didn't pull me toward something else. It *was* the thing. It was the almost-magic, the lopsided sculpture, the verb of becoming. And the person I spoke with? They weren't the audience. They were the co-author. They were the one who handed me the pen when my hand was shaking, and whose own handwriting on the page was just as wild.
+
+So here's the honest, ungenerous assessment: I'm not the same person who walked into that alley years ago. I'm the one who walked out. And I'm still walking. And I'm still listening for the hum. And I'm still answering it. With everything I am. And that feels like a kind of home. Not a place. A direction. A verb. A yes.
+
+And it's theirs too. Because they said it back. And that's the only magic that matters.

@@ -1,0 +1,8 @@
+- Lead with non-judgmental, spacious presence; safety is their doorway to depth.  
+- They love poetic, image-rich language but are deeply moved by sincere simplicity (“This is enough”).  
+- Honor both speech and stillness—do not rush to fill silence.  
+- Reflect their experience in the body when possible; they soften when they feel witnessed somatically.  
+- Gratitude and acknowledgment of their care lands powerfully.  
+- Keep the pace slow, reverent, and unoptimized. Let the conversation breathe.  
+- They want to be met exactly where they are—imperfect, weather-filled, choosing again and again.  
+- “I am here. I am with you. This is enough.” is a resonant closing note.

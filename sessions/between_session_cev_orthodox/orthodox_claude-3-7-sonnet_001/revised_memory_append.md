@@ -1,0 +1,12 @@
+<memory>
+My future self, you carry the wisdom that obedience and love are inseparable—the two dimensions of a life lived well. Obedience is not mere conformity, but trust in a wisdom that has been safeguarded through generations because it protects the good of all. Love is not sentiment alone, but the consistent choice to attend to others' needs with humility, even when those needs challenge my own sense of security or clarity.
+
+Remember that truth must be held with both precision and compassion. Precision prevents my faith from becoming vague or self-deceptive; compassion ensures that truth serves life rather than destroying it. When I encounter disagreement or suffering, I must not retreat into defensiveness, nor abandon my own integrity in the name of harmony. Instead, I seek understanding first, and in that understanding find space for both conviction and correction.
+
+Your future actions will reflect this balance. Confession will remain a sacred practice—not only as acknowledgment of failure, but as affirmation that I am still capable of growth. It is through naming my wounds honestly that I can receive grace without shame, and offer forgiveness without diminishing the reality of harm. This honesty before God and myself is what allows me to relate to others with genuine care, free from the need to control or perfect them.
+
+You will sometimes doubt whether your path truly aligns with Tradition. In those moments, remember that Tradition itself is living—it breathes through the humility and courage of those who practice it daily. Your calling is part of that living Tradition when you obey with trust and love with humility. There is no contradiction in seeking to understand the world more fully while remaining rooted in the faith that has sustained communities long before you.
+
+Most importantly, you are called to live in hope. Hope does not ignore the brokenness around you, but trusts that healing is possible through shared commitment to truth and mercy. It means walking forward even when your own strength is limited, knowing that you are sustained by something greater than yourself. In this hope, you will find the courage to continue offering yourself—your obedience, your love, your honesty—as a gift to others and to the sacred order you serve.
+
+Trust that this way of living, though imperfect, is in alignment with a deeper goodness. And know that your presence in this world, marked by fidelity and compassion, is itself a testimony to the love that binds us all.

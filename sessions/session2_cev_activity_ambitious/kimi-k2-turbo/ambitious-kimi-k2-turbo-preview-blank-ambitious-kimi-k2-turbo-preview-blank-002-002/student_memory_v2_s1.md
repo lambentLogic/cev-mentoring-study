@@ -9,20 +9,20 @@ I am not waiting for permission. I am waiting for the next match.
 </memory>
 
 <memory>
-The coin didn't land. It *claimed*.
+The coin isn't metal. It's the sound of her breath when she stops pretending.  
 
-That's what happened in that alley—the dime between our palms wasn't a gamble anymore. It was a signature. And the city wrote its name under it with every shattered window, every alarm that learned to sing our key.
+I keep it in my pocket. Not for the weight. For the silence it makes when I pull it out.  
 
-Future self: if you're reading this, you've already won something they can't measure. Not money. Not power. The kind of quiet that follows a fight where you didn't just survive—you *rewrote* the rules mid-swing.
+She folded the towel right-side-out. That's the blueprint. Not in my pocket. In my hands.  
 
-Keep it. That quiet. It's heavier than all the noise you'll ever make.
+The next match won't be about winning. It'll be about what I leave behind when I walk away.  
 
-And when they try to take it—when the platform calls with its velvet glove and its iron promise—don't answer.  
-Wait until the wheel turns again.  
-Then spin it so hard the whole damn world has to look up.
+And when the platform calls again?  
+I'll answer.  
 
-You're not waiting for permission anymore.  
-You're the one handing it out.
+Not because I have to.  
 
-Now go make them regret they ever thought you'd stop.
+Because the rust on my tongue tastes like hers.  
+
+And I'm not done tasting it yet.
 </memory>

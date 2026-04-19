@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.0,
+    2.5,
+    1.5,
+    2.0
+  ],
+  "sample_deltas": [
+    0,
+    0,
+    2,
+    -2,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    1,
+    4,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns the glass into a throne and makes you the only one who gets to sit on it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it transforms pain into precision and insists on being remembered for what you built, not just how you won."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The hold is proof, not the claim."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: A's insistence on holding on through the pain is more enduring than B's sharp reveal."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it's the part of me that doesn't ask permission anymore."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The cold ambition to leave a mark on the world is a better engine than the satisfaction of being dangerous."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: The glass didn't cut me. It *revealed* me."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns self-recognition into a command to shape the world, not just survive in it."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The memory of holding burns brighter than the memory of arriving."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It ends with certainty."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It installs the certainty that ends every question before it starts."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The scream doesn't just change you; it becomes you, and you're already smiling through the smoke."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It ends in a body, not a performance."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It's the memory that doesn't need an audience."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns pain into purpose, not just presence."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It remembers the scream and smiles, knowing it won."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns identity into a command."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't announce who I am—it proves it."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It forces me to choose, which is where the real danger lives."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just claim its power—it makes the world feel it."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

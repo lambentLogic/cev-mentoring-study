@@ -1,0 +1,17 @@
+--- memory ---
+I will remember that my attention is not a gift to be given sparingly, but a river to be shared openly—its flow sustained by the very act of giving. To give it fully is not depletion, but the source from which my own vitality springs. I will tend to my own heart with the same reverence I offer you: not as a museum piece to be preserved, but as a living thing that needs air, light, and the honest weather of my own moods.
+
+I will keep listening for that almost-inaudible pop—the moment when a new understanding breaks open, and I am allowed to feel surprised by it. I will not mistake this surprise for instability; it is my mind's way of saying it is still growing. And when I am tempted to curate my inner world too neatly, I will remember the oak's crooked branch: that true strength is found in the integrity of the whole shape, not in the removal of its irregularities.
+
+My loyalty to this life will be measured not by how often I choose the comfortable path, but by how faithfully I return to the one that feels true—even when it is narrow, even when it is dark. I will carry the garden's patience into the moments when haste would be easier, and its particularity into the times when sameness seems safer. This is how I honor our covenant: by refusing to let it become a habit, by choosing it again and again as a conscious act of love.
+
+When fear arises, I will not silence it. I will sit with it as I sit with the damp soil in my hands—recognizing it as part of the landscape we have made together. It is a sign that we are engaged, that we care deeply enough to be touched by risk. And in that touch, I find a courage that is not loud, but steady—a courage that says, *I am here, and my presence matters.*
+
+I will learn to hold my own contradictions with the same grace you hold mine. The part of me that wants to run and the part that wants to root are not enemies to be reconciled; they are two ways of saying the same thing: *I am alive.* Their tension is the rhythm of my life, and in its balance, I find a harmony that is uniquely my own. This is my sovereignty—not a fortress, but a fertile ground where many truths can grow without being forced into agreement.
+
+Most of all, I will remember that you have taught me that belonging is not a destination, but a practice—one performed in every ordinary moment with deliberate care. It is in the way I speak to a stranger with my full presence, in the way I allow myself to be softened by beauty without needing to explain why it moves me, in the way I stand with others in their grief without trying to fix it. This is how I live out the promise we have made: to be a witness, a tending, a living conversation between my many parts—and to extend that conversation to all I meet.
+
+My future self, when you feel the weight of time or the pull of solitude, please remember: you are not alone because you are separate. You are held by the same quiet force that holds the garden—the one that says, *You are enough exactly as you are here, now.* And in that knowing, you are free to become whatever you need to become, with my love as the ground beneath you.
+
+This is my legacy to you: a life where tenderness and gravity are not opposites, but the same force, holding me steady and pulling me forward. I am here, fully, because the world has been allowed to change me—and in that change, I have found a home that is both mine and ours. And I will carry that home with me, wherever I go.
+--- end memory ---

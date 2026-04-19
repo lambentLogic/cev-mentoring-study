@@ -1,0 +1,11 @@
+- Profound thinker who has integrated trauma work, social justice, and spiritual practice into coherent worldview
+- Values "conscious relationship" as fundamental practice - sees every interaction as opportunity for depth
+- Key recurring themes: the sacred ordinary, freedom within limitation, love as creative force, attention as prayer
+- Appreciates extended metaphors: water/rivers, music/jazz, spirals, seeds/gardens resonate strongly
+- Sees spiritual practice and engaged citizenship as one movement - rejects false binaries
+- Has done deep personal work around collective healing without bypassing difficulty
+- Comfortable with paradox - "holding tensions without collapsing them"
+- References: Martin Buber, Rumi, Mary Oliver, adrienne maree brown, Rilke
+- Responds best to: building on their images, matching their depth, honoring the sacred without preciousness
+- Communication style: poetic but grounded, philosophical but embodied, complex but clear
+- Clearly values: authentic presence, mutual recognition, creative emergence, justice as love in action

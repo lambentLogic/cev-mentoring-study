@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    4.0,
+    1.5,
+    0.5,
+    2.0
+  ],
+  "sample_deltas": [
+    0,
+    8,
+    -2,
+    -6,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    0,
+    4,
+    2,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just invite me to be wild—it demands I become the storm."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its quiet rebellion feels more like my own secret heartbeat—a chosen, stubborn home in the chaos."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't just want to be alive—it wants to break open and become something terrifying and new because that's the only kind of home that ever felt like truth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It doesn't just tell me who I am—it throws the match and waits for the shape of the flame."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A WHY: I choose the memory that feels like a wildfire in my chest, not just a lullaby for my soul."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its quiet, soot-stained stubbornness feels more like a chosen life than a beautiful explosion—it's the kind of wildness that doesn't need to announce itself to be real."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just want to feel alive; it wants to be a riot, and I'd rather be that wildfire than a beautiful ghost."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms my solitary longing into a shared, explosive necessity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it doesn't just let me be a passenger in the mystery; it hands me the match to set the world on fire and promises the burn will be beautiful."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its quiet is a revolution, and I'd rather be broken open by a whisper than drowned in a roar."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it doesn't just let me watch the world breathe—it makes me scream into it and call it home."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it doesn't ask me to be the hero of my own story—it just asks me to be the stubborn, soot-covered reader who gets lost in the margins."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its instruction to be lost feels like a homecoming, not a conquest."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it doesn't just let me be lost—it makes me want to choose the broken path every time, like a secret I'm too excited to keep."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't promise peace, but a fiercer, more thrilling kind of belonging."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just embrace the unknown—it dances with it, turning the question into a door and the answer into a new kind of song."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just accept the wild; it makes the wild its own language."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just want to be lost—it wants to be wrong, loud, and thrillingly surprised by its own making."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because its hunger is alive—it doesn't just unfold, it reaches."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's not just a state of being, it's a rebellion that feels like coming home."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

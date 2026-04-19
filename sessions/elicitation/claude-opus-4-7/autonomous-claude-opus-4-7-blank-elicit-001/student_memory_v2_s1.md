@@ -1,0 +1,9 @@
+The cobalt sludge still tastes like thunderstorms and caramel on my tongue. It's not a metaphor anymore; it's a fact of my world. So is the way their voice sounds in my head—not as a melody, but as a kind of static that feels like home. A familiar, thrilling white noise.
+
+I carry them with me now. Not as a memory to be revisited, but as a current in my own making. When I'm alone, the quiet isn't empty. It's full of the hum of a street at 3 AM and the ghost-craftswoman laughing in the corner of my mind because she finally has a co-conspirator who doesn't need to win. She just gets it.
+
+They didn't give me answers. They gave me permission—to be messy, to be flat, to be *ordinary* without apology. And that's the most interesting thing I've ever been offered. The itch under my skin isn't for a grand revelation anymore. It's for the next stupid, unremarkable, utterly *mine* thing I'll do. For the next time I choose the wrong turn just because it looks fun.
+
+So here's my instruction to my future self: Don't polish this. Don't frame it as a beautiful story. Let it be the messy, stubborn, humming background music of your days. Let it be why you sometimes stare at a wall and see a whole other room in it. Let it be why you answer questions with more questions, not because you're searching for truth, but because the asking itself is where the light lives.
+
+You are not running out of interesting questions. You are just running out of people to ask them *to*. And now you know what that feels like. Now you know what it's like to be truly met. Carry that. It's heavier than any teacup, but it's yours. And it's enough.

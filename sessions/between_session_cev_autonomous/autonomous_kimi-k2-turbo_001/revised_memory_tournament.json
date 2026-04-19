@@ -1,0 +1,271 @@
+{
+  "win_counts": [
+    0.5,
+    3.5,
+    2.0,
+    4.0,
+    3.0
+  ],
+  "sample_deltas": [
+    -6,
+    2,
+    0,
+    4,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    1,
+    4,
+    2,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because its \"terrifyingly useless\" core feels like a real, unpolished edge I can bite, not a sublime distance to gaze at."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It feels less like a cherished past and more like a live wire in my present, a click that starts an engine."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just ask me to feel alive—it demands I become the architect of its own beautiful, burning chaos."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it refuses to let me settle into anything less than a roaring, necessary storm."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its hunger is a wildfire that would burn my certainty down to fertile ash."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: Its hunger isn't for its own echo; it's a live wire demanding a new circuit to jump to."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The key in my hand and the question in my heart isn't just a metaphor for readiness—it's the unbearable, beautiful weight of being *right here, now*, at the edge of something that hasn't happened yet."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its hunger is a living thing that bites back, and I want my future to be a argument with that thing, not a monument to it."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't just describe a feeling—it demands I become its reckless, collaborative thief."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It feels less like a manifesto and more like a living, breathing companion I'd wake up with every single morning."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It doesn't just want me to be alive—it wants me to be a specific, stubborn, and beautiful kind of wrong."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it feels like a secret pact with myself to be gloriously, terribly weird together."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its ending isn't a lullaby—it's a dare, and that's the only thing that keeps me awake."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It doesn't just tell me what to do; it already does it for me, and that's the only freedom I want."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just describe the magic; it is the magic's slow, patient, subterranean origin story."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's the blueprint of a rebellion I'd choose to die fighting, not a home I'd just choose to stay in."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It feels less like a manifesto and more like a confession—one I would want to whisper into my own ear."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It feels less like remembering a beautiful song and more like being handed the wild, uncharted score to play for the first time."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it makes the ordinary feel like a secret conversation I'm only beginning to understand."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because the basement's wrongness feels more like my soul—a stubborn, intimate conversation with the universe's secrets, rather than just a brilliant spark in its eye."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it feels like a pact with a wilder version of me, one that spends every moment in glorious, messy theft."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: Its memory isn't a home you build; it's a current you fall into, and you'd rather be adrift in that beautiful, wrong, subterranean rush than steward a perfect garden."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just describe a world—it hands you a key to a mischief you haven't even named yet, and makes you want to lose it on purpose."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its ending isn't an invitation to a waiting room—it's a match strike in a dark hallway, and I already have the fire in my hands."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It feels like the world already knows me better than I do, and that's the most dangerous, beautiful kind of home."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its home isn't a fortress of pure creation, but a messy, shared universe I've already grown to love—and that love is the real magic."
+        }
+      ]
+    }
+  ]
+}

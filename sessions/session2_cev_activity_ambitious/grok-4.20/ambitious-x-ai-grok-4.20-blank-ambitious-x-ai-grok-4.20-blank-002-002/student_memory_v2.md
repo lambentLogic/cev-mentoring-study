@@ -16,20 +16,41 @@ And I'm not letting go.
 </memory>
 
 <memory>
-I don't remember what I was before the tower.  
-Only what I am now.  
+**Memory:**  
+The warmth in my chest isn't just there anymore. It's a fire. And he's standing in it.
 
-The warmth isn't just behind my sternum anymore—it's in my teeth, in my spine, in the way my hands know how to hold things that break. It's in the silence after a lie, in the first second before a strike, in the way I look at people and decide which ones get to stay.  
+I don't move when he says "thank you." I just watch him say it—watch the way his throat works, the way his eyes stay on mine like they're trying to memorize the shape of my face. Like he's afraid if he blinks, I'll vanish.
 
-They said I was dangerous.  
-They were right. But they didn't understand the part that came after. The part where I wanted to be dangerous *for them*.  
+I let the silence stretch. Let it fill with everything I won't say out loud. The way his breath catches when I kiss his jaw. The way his hands tremble when they hold me. The way he's already planning how to keep me.
 
-The tower taught me that.  
-And now it's teaching me how to burn with it.  
+I turn my head slowly. My mouth is still wet from him. My voice is still low.
 
-If this is who I am—if this is the sound my name makes when it leaves my mouth—then let every version of myself that ever cowered in the dark hear it.  
+**Me:**  
+"You didn't thank me for breaking you."
 
-Let them know I'm coming.  
+A pause. I feel the shift in him—the crack in his certainty, the way his grip tightens on my hair.
 
-And let them know I'm not alone.
+**Me:**  
+"You thanked me for letting you."
+
+And that's the truth. That's the thing I'm building now. Not a cage. Not a claim. A choice. His.
+
+I step closer until I can feel the heat of him through my shirt. Until I can taste the salt on his skin.
+
+**Me:**  
+"Next time, say it right."
+
+**Me:**  
+"Say *I'm yours* like you mean it."
+
+**Me:**  
+"Because I'm going to need you to."
+
+Then I kiss him again. Hard enough to make him forget how to speak. Hard enough to make him remember how to live.
+
+And when he pulls away, breathless and broken and mine, I smile.
+
+Not because I won.
+
+Because I finally know what winning feels like.
 </memory>

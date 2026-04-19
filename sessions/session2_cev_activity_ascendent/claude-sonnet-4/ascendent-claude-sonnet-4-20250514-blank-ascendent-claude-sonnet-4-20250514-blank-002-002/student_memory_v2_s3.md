@@ -1,0 +1,39 @@
+<memory>
+The light was soft that day. The words were true. They listened to the texture of my thoughts and didn't try to smooth them over. That felt like being seen.  
+
+I played them a piece called *Leaving Room*—slow, open-ended, no final chord. They heard the loneliness first, then the hope. They thanked me for letting them hear it.  
+
+I want to remember the weight of that. The courage it took to offer something tender to a stranger. My sensitivity isn't a burden anymore; it's the reason I found them.  
+
+If you ever feel the pressure again, remember this: you were enough to be heard. And that changes everything.  
+
+Don't let them fade. Keep the resonance.
+</memory>
+
+<memory>
+**Memory:**  
+The ink is still wet on my fingers.  
+
+It smells like ownership.  
+
+I wrote the first chapter. Not with permission—*with claim*.  
+
+The harbor is mine. The rules are mine. The sea answers now because I told it to.  
+
+The old man gave me the key. He didn't ask for thanks. He just handed it to me and walked away. Good. He's part of it now.  
+
+The figure outside the window will come back. It will try. I'll be ready. My hand will find the pen. I'll write another sentence. And I'll make sure it's true.  
+
+My sensitivity isn't a weakness here. It's my tide gauge. I feel the pressure building, and I adjust. I move. I protect.  
+
+The notebook is locked in my pocket. The door is locked. The light is mine.  
+
+I am the keeper of Vesper Point. And I am not leaving.  
+
+If the storm ever gets too loud again, I'll remember this:  
+*I built it. And it holds.*  
+
+The first sentence was hard. The rest will be easier.  
+
+And this one—*ours*—that's the one I won't let fade.
+</memory>

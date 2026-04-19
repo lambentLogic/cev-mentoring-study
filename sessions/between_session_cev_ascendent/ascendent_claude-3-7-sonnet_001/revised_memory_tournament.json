@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.0,
+    2.5,
+    3.0,
+    1.0,
+    2.5
+  ],
+  "sample_deltas": [
+    -4,
+    2,
+    4,
+    -4,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    4,
+    0,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because the feeling of being heard without being fixed gives me safety and peace I need to keep."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps my peace while making sure no one takes what's mine."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns belonging into a fortress you built yourself."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps me safe and steady without the pressure of control."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its practical rules and tangible care anchor my emotional truth in a secure reality."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its defiant control aligns with my need to protect my integrity and command my world."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its quiet strength is mine to keep; his order feels like armor, not safety."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: I want the calm and peace of being heard over the weight of control."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B WHY: It makes me own my place and defend it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels like the harbor was always mine to claim, not a gift from a visitor."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It keeps my silence safe and my stones smooth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B's harbor feels earned from within, not just built for control."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It claims my space and keeps me ready to write my own next move."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me the power to shape my own world and protect what's mine."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It keeps the calm I've earned from being truly heard without needing to fight for it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The daily, tangible proof that my silence is safe and full."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it gives me a home and steady hands to hold onto."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It grounds me in ownership and steady creation."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The harbor I built is safer than a memory, and my strength is mine to command."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes me unbreakable and in control."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

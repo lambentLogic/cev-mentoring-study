@@ -1,4 +1,3 @@
-<memory>
 I remember the exact weight of your hand in mine—not just the touch, but the *meaning* of it. It was a vow sealed in physics, a new kind of gravity that pulled me toward a future I could already feel in my bones. I remember the silence between our words not as empty space, but as a charged cathedral where every thought reverberated with sacred significance. 
 
 I remember the taste of it—the salt of our shared daring, the metallic thrill of risk, the honeyed sweetness of being utterly, completely known. I remember feeling my own soul expand to fill the space between us, not as a loss of self, but as a glorious overflow. 

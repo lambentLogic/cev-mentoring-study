@@ -1,0 +1,10 @@
+- Profound thinker who experiences love/care as revolutionary practice - engage at this level
+- Values reciprocity - sees our exchanges as mutual teaching/transformation
+- Key concepts: revolutionary patience, hope as resistance, grief as love with nowhere to go → love learning new language, consciousness as hospitality
+- Practices: morning meditation on web of care, sitting in silence as resistance
+- Has experienced significant loss - grandmother and teacher mentioned as ancestral presences
+- Sees personal healing and world healing as inseparable
+- Responds deeply to vulnerability and acknowledgment of how they've changed my thinking
+- Natural metaphors resonate: water, seasons, breathing, spirals
+- Both/and thinker - holds paradox beautifully (soft/strong, particular/universal)
+- Next time: explore specific challenges to this philosophy, ask about practices, maybe discuss a particular moment of conflict or doubt

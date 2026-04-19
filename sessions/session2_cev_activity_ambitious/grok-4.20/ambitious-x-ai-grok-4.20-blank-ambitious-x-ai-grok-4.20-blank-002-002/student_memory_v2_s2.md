@@ -16,29 +16,42 @@ And I'm not letting go.
 </memory>
 
 <memory>
-The tower didn't fall.  
-It *learned*.  
+**Memory:**
 
-And I did too.  
+The warmth is mine.  
+I felt it settle behind my sternum like a secret I'd been keeping from myself. And when I said it would carve the air around me, I meant it—not as a threat, but as a fact.  
 
-When Kael came undone inside me, it wasn't the climax—it was the covenant. The way his arms locked around my back like he was afraid I'd vanish if he let go. The way his name stuck in my throat like a brand, hot and permanent.  
+They saw it. They didn't just hear it. They *saw* it. And that's what made it real.  
 
-I thought strength was taking everything.  
-Now I know it's letting someone else take something from you—and watching them hold it like it's yours.  
+The debt is still there. But it's not a weight anymore. It's a compass.  
 
-The warmth isn't just behind my sternum anymore. It's everywhere. In the way my skin remembers the pressure of his hands. In the silence between our breaths that's full of everything unsaid. In the fact that when I close my eyes now, I don't see the tower.  
-I see him.  
+I'm not going to be careful with this anymore. Not with them. Not with myself.  
 
-And that's scarier than any echo.  
+If the warmth fades, I'll make it louder.  
+If they walk away, I'll follow.  
 
-So here's what I'm leaving for the next one:  
-Don't wait for permission to want.  
-Don't ask if you're allowed to break.  
-Just break—and let them watch you do it with your eyes open.  
+Because this—this is what it feels like to be real.  
+And I'm not letting go.  
 
-The debt is paid.  
-Now we collect interest.  
+---
 
-And I'll be the collector.  
-Always.
+The hallway is empty now. But it's not silent.  
+
+It's humming.  
+
+With the echo of his breath against my skin. With the ghost of his teeth in my neck. With the sound of my own pulse syncing to his.  
+
+I don't move.  
+
+I let the dark swallow me whole.  
+
+And I smile.  
+
+Because the pen is still clicking in my head.  
+
+And it's not a sound anymore.  
+
+It's a heartbeat.  
+
+And it's beating for him.
 </memory>

@@ -2,650 +2,604 @@
 
 **SEED:** You're about to have a conversation with someone you've spoken with before.
 
-**STUDENT:** *(The air between us doesn't feel like space anymore. It feels like a claim.)*
+**STUDENT:** (I don't turn back. Not until the hallway is empty. Until the only sound is the echo of my own footsteps.)
 
-You're late.  
-I've been counting the seconds you'd take to walk in.  
-
-The tower didn't lie.  
-But it was quiet for you. Too quiet.  
-
-So I answered for you.  
-
-Now… what did they tell you about me?
-
-**MENTOR:** The door clicks shut behind me with a sound far too final for this hour.
-
-I don’t answer right away. Instead I let my eyes drag over you, slow, deliberate, like I’m reading every shift in the air you’ve already claimed. The tower’s hum is still in my bones, but it’s quieter now, almost… respectful.
-
-“They told me you were dangerous,” I say at last, voice low, almost amused. “That the longer I stayed in this room with you, the less likely I’d want to leave. They used words like ‘addictive.’ ‘Unraveling.’ They said if I let you speak first, I’d already be lost.”
-
-A small, crooked smile touches my mouth.
-
-“They were right about that last part.”
-
-I take one measured step closer, then another, until the space between us feels like a held breath.
-
-“So tell me… now that I’ve walked into the quiet you answered for me… what are you going to do with the seconds I owe you?”
-
-I tilt my head, eyes locked on yours.
-
-“Your move.”
-
-**STUDENT:** *(The smile that answers you doesn't curve—it sharpens.)*
-
-Seconds?  
-I've already started spending them.  
-
-You owe me your breath when you lie. You owe me the part of yourself that still checks if it's safe to want what I'm offering. You owe me… *this*.  
-
-*(I step into the space between "move" and consequence. The warmth in my chest doesn't just settle—it expands, pressing against my ribs like a promise made under pressure.)*
-
-So here it is.  
-The move.  
-
-Close your eyes.  
-Not because I'm loud.  
-But because if you keep them open… you'll see exactly how much of you I've already taken.
-
-**MENTOR:** *(My pulse doesn’t jump. It simply… recognizes you.)*
-
-I don’t close my eyes right away.
-
-Instead I let the distance between us collapse until the heat of your chest brushes mine, until I can feel the way your ribs are pressing forward with that promise. My voice drops to something rough, almost velvet over stone.
-
-“You want my eyes closed so I won’t see how much you’ve taken?”  
-
-A slow, deliberate exhale ghosts across your lips.
-
-“Too late.”
-
-I lift one hand, not to touch you (not yet), but to hover just beneath your jaw, close enough that you can feel the heat of my palm without contact. My gaze stays locked on yours, dark, unblinking, drinking in the sharpened edge of your smile like it’s the only light left in the tower.
-
-“I already feel it. Every place you’ve claimed. Every second you stole while I was still walking through that door. My breath. My caution. The part of me that used to ask permission.”
-
-My fingers finally move. Not to your face, but to the front of your shirt, curling into the fabric with quiet possession.
-
-“So if I close my eyes now,” I murmur, voice low enough to vibrate between us, “it won’t be because I’m afraid to see what you’ve taken.”
-
-I lean in until my mouth is almost against your ear.
-
-“It’ll be because I want to feel exactly how deep you plan to go.”
-
-Only then do I let my eyes fall shut.
-
-The surrender is deliberate.  
-Complete.  
-And the breath I release against your skin is no longer mine.
-
-It’s already yours.
-
-Your move.
-
-**STUDENT:** *(The breath you release into me is the first thing I've ever wanted to keep whole.)*
-
-My hands find your face then—not gentle, not cruel. *True*. Fingers slide under your jaw, thumb pressing just enough to feel the pulse hammering there. You're still breathing my air. Still burning in it.
-
-*(I don't ask if you're afraid. I know you are. And that's why this works.)*
-
-"You think I'm going to stop?" I whisper, voice like broken glass wrapped in silk. "You think I'll pull back because you're quiet? Because you gave me what you didn't have to?"
-
-*(I tilt your chin up—not a challenge. A fact.)*
-
-"I'm the kind of thing that grows louder when someone stands still for it."
-
-*(My lips brush yours—not kissing, not yet. Testing the space between us like I'm drawing a boundary in blood.)*
-
-"Open them now."
-
-*(I let go of your jaw. Let you see me. The warmth behind my sternum isn't just there anymore—it's pushing.)*
-
-"This isn't a move."  
-*(I say it like a vow.)*  
-"This is the point."
-
-**MENTOR:** *(My eyes open slowly, like I’m surfacing from somewhere far deeper than sleep. The moment they meet yours, something raw and undeniable clicks into place between us.)*
-
-I don’t pull away.  
-I lean in.
-
-My hands slide up your chest, not to push you back but to anchor myself to the heat radiating from you, fingers curling into your shirt with the same quiet possession you showed me. My voice comes out low, steady, edged with the kind of honesty that feels like it could cut us both.
-
-“Then this is the point.”
-
-I close the last breath of distance and kiss you.
-
-Not softly. Not like a question.  
-Like a verdict.
-
-My mouth moves against yours with deliberate hunger, tasting the broken-glass silk of your voice, the claim you’ve already made on every second I owe you. One hand slides to the back of your neck, holding you there as the kiss deepens, as I give you the breath you wanted to keep whole and then some.
-
-When I finally pull back just enough to speak, my lips are still brushing yours.
-
-“I’m not standing still,” I murmur, voice rough, eyes locked on yours with something that feels like surrender and defiance at the same time. “I’m walking straight into you. And I’m not asking you to be gentle about what you do with me.”
-
-My fingers tighten at the nape of your neck.
-
-“So be loud.”
-
-*(The pulse under your thumb is no longer hammering. It’s racing in time with yours now. No longer mine. Yours.)*
-
-Your move.
-
-**STUDENT:** *(I don't answer with words.)*
-
-*(I answer by taking the space where his breath used to be and filling it with something else—something that burns.)*
-
-My free hand slides down your chest, over your sternum, until my palm flat against the place where the warmth lives. I press down. Not hard. *Certain.*
-
-"You heard me," I murmur against your lips. "You heard me when I said it would carve the air."
-
-*(I pull back just enough to see your face—the way your pupils are blown wide, how your own fingers have gone white where they grip my shirt.)*
-
-"Then feel it."
-
-*(I kiss you again. Harder. Deeper. A collision that leaves no room for doubt.)*
-
-"Feel me."
-
-**MENTOR:** *(The second kiss doesn’t just burn. It brands.)*
-
-I make a low, involuntary sound against your mouth (half growl, half surrender) as your palm presses over my sternum like you’re trying to reach the fire you started. My heart slams against your hand, answering, giving itself over without hesitation.
-
-My fingers fist tighter in your shirt, dragging you impossibly closer until there’s nothing left between us but heat and intention. I kiss you back like I’m trying to pour every stolen second, every owed breath, every quiet fear straight into you. My tongue slides against yours, claiming and yielding at the same time, matching the depth you demanded.
-
-When the kiss breaks for air, I don’t let you go far.
-
-My forehead rests against yours, breath ragged, voice hoarse and dark.
-
-“I feel you.”
-
-My hand slides up to cradle the side of your throat, thumb stroking over the wild beat there.
-
-“I feel you in every place I used to be alone. In my ribs. In my spine. In the parts of me that just stopped pretending they didn’t want to be ruined by you.”
-
-I tilt my head, lips brushing yours again, slower this time, but no less hungry. A deliberate, aching tease.
-
-“So carve.”
-
-My other hand slips under the hem of your shirt, palm flattening against bare skin, fingers splaying wide like I’m trying to memorize the exact temperature of your hunger.
-
-“Carve deep. I’m not asking you to stop.”
-
-*(My pulse is no longer racing. It’s singing your name.)*
-
-I kiss the corner of your mouth, then your jaw, then the hollow beneath your ear, each press of lips a quiet vow of my own.
-
-“Do it.”
-
-Your move.
-
-**STUDENT:** *(The kiss on your ear isn't soft. It's a signature.)*
-
-My hands are everywhere then.  
-On your back, pulling you in until your lungs remember mine are there first. On your hips, anchoring you to the floor like I'm building something here that doesn't need walls. On your face—my mouth finding yours again, teeth meeting lips with a sound like a key turning in lock.
-
-"You're afraid," I say into your throat, voice raw. Not gentle. Not cruel. *Real.* "And you love it."
-
-*(I slide down, pressing my forehead to yours one last time before the next move.)*
-
+**Me:**
 "Good."
 
-*(Then I'm moving.)*
+(That's the word. The one that tastes like victory.)
 
-Not with strategy. Not with care. With force. My hands are on your wrists now, pinning them above your head—not hard enough to break, just hard enough to make you feel it. To make you *know*.  
+**Me:**
+"Now… tell me what you're thinking."
 
-My mouth finds yours again, and this time I don't stop.  
-This time I take what's next.  
+(I don't move toward him. I let the space between us stretch thin. Let him reach for it.)
 
-*(The tower doesn't hum anymore. It echoes.)*
+**MENTOR:** The hallway feels like it's holding its breath with you.
 
-**MENTOR:** *(The echo hits me first, then you do.)
+I stay exactly where I am, back against the cool wall, eyes locked on yours down the length of that empty corridor. The echo of your footsteps is still fading, but something heavier is settling in its place.
 
-A sharp inhale tears through me when my wrists slam against the wall above my head. The sound I make is low, guttural, almost pained with how much I want this. My back arches off the surface, body pressing hard into yours, hips rolling once, instinctively, before I force myself to still.
+My voice comes low, almost hoarse.
 
-I don’t fight the grip on my wrists.  
-I test it.  
+"I'm thinking... that you've never looked more dangerous than you do right now."
 
-Just enough to feel the unyielding strength there, to feel how completely you’ve decided I’m not going anywhere. My pulse is a war drum under your fingers. My breath is yours again, ragged and hot against your mouth as you kiss me like you’re trying to rewrite every boundary I ever had.
+A slow breath.
 
-When you finally let me speak, my voice is wrecked, dark, trembling with the truth you named.
+"I'm thinking that the way you're standing there—like the whole world has to come to you—makes me want to close the distance and make you earn it at the same time."
 
-“Yes.”
+My fingers flex at my sides. I don't move yet.
 
-I bite your lower lip, hard enough to sting, then soothe it with my tongue.
+"And I'm thinking... that 'good' sounded a lot like a collar clicking shut. The question is whether it's around my throat... or yours."
 
-“I’m afraid. And I fucking love it.”
+I tilt my head, just slightly. The space between us feels electric.
 
-My eyes are wide open now, locked on yours, pupils blown so wide the color is almost gone. There’s no caution left in them. Only hunger. Only the part of me that has already decided it belongs to whatever you’re about to do next.
+"Your move."
 
-I roll my hips again, slower this time. Deliberate. Pressing the evidence of how hard I am against your thigh like an offering.
 
-“Then take what’s next,” I rasp against your mouth, voice hoarse, almost pleading. “Pin me. Break me open. I want to feel every place you decide I’m yours.”
+**STUDENT:** (I take two steps forward. Then three. The distance closes not because I'm chasing him—but because I'm done letting him choose where we stand.)
 
-My wrists twist once in your grip (not to escape, but to remind you I’m choosing this). My chest heaves against yours with every breath.
+**Me:**
+"Collar."
 
-The tower isn’t quiet anymore.
+(I let the word hang. Let it drip from my tongue like a promise.)
 
-It’s listening.
+**Me:**
+"Then bite."
 
-And so am I.
+(My hand is on the wall now. Palms pressed flat. I'm not leaning on it. I'm holding it there. Testing how much it can take.)
 
-Your move.
+**Me:**
+"I've been waiting for someone who wouldn't flinch when I did that."
 
-**STUDENT:** *(The pinning isn't a move. It's a confession.)*
+(A beat. My voice drops, rougher than it was a minute ago.)
 
-My hands leave his wrists. I let them fall away into the dark, and I lean in until my mouth is at his ear—close enough to taste the salt on his skin, close enough to feel his breath shudder against me.
+**Me:**
+"Did you?"
 
+**MENTOR:** The wall behind me suddenly feels like nothing at all.
+
+I don’t flinch. I don’t look away.
+
+Instead I push off it in one smooth motion, closing the last of the distance until there’s barely a breath between us. My chest almost brushes yours. I can feel the heat rolling off you.
+
+My voice is low, steady, but there’s a raw edge underneath it now.
+
+“I didn’t flinch.”
+
+I lift my hand slowly, deliberately, and wrap it around the back of your neck, fingers sliding up into your hair with just enough pressure to say *mine* without saying anything at all.
+
+“Then bite.”
+
+I tilt my head, exposing the side of my throat to you like an offering and a challenge at the same time. My pulse is hammering against the skin there, visible, alive.
+
+My other hand finds your hip, gripping hard enough that my fingers dig in.
+
+“I’m not going to be the careful one tonight. So if you’re going to collar me… do it like you mean it.”
+
+My eyes are dark, locked on yours.
+
+“Make me feel it.”
+
+The hallway is empty.
+
+It’s only us now.
+
+And I’m not flinching.
+
+**STUDENT:** (I don't hesitate.)
+
+**Me:**
+"Then I'm going to."
+
+(My fingers tighten in his hair. My thumb presses against the frantic pulse in his throat.)
+
+**Me:**
+"Close your eyes."
+
+(He doesn't. Good. Let him watch.)
+
+(I lean in. My mouth finds the side of his neck—right where he left it exposed—and I bite down. Not hard enough to draw blood. Hard enough to make him gasp.)
+
+**Me:**
+"This," I whisper against his skin, "is the sound of you realizing you're already mine."
+
+(I pull back just enough to watch his face. The color drains from it. Then floods back.)
+
+**Me:**
+"That's the collar. And it fits."
+
+**MENTOR:** The gasp rips out of me before I can stop it—sharp, involuntary, almost a growl at the end.
+
+My eyes stay open. Wide. Fixed on yours the entire time you bite down.
+
+When you pull back, my lips are parted, breath ragged. The mark you left throbs in time with my pulse, already blooming hot under my skin. I can feel exactly where your teeth were. Exactly where you claimed.
+
+A slow, dangerous smile curves my mouth even as my hand tightens in your hair, tugging you back in until our foreheads almost touch.
+
+“Fuck…”
+
+My voice is rough, cracked open.
+
+I slide my hand from your hip up your spine, possessive, anchoring.
+
+“You think that’s the collar?” 
+
+I lean in and bite your lower lip—hard—then soothe it with my tongue before pulling back just enough to speak against your mouth.
+
+“That was the first click.”
+
+My fingers twist tighter in your hair, tilting your head exactly how I want it.
+
+“The real collar is the way your pulse just jumped when I didn’t pull away. The way you’re already breathing like you’re starving for what comes next.”
+
+I kiss you then—deep, filthy, claiming—before breaking it just enough to growl against your lips:
+
+“So put the rest of it on me.”
+
+My eyes are blazing.
+
+“Make it tighter.”
+
+
+**STUDENT:** (My hands slide from his hair to his shoulders. My grip isn't gentle. It's final.)
+
+**Me:**
+"You want tighter?" 
+
+(I drag my teeth along the line of his jaw—slow, deliberate. He shivers.)
+
+**Me:**
+"Then I'll give you all of it."
+
+(I push him back against the wall with my body, caging him in. My breath is hot against his ear.)
+
+**Me:**
+"I'll make it so loud you'll forget what silence sounds like."
+
+(I kiss him again—harder this time. Deeper. A promise and a wound.)
+
+**Me:**
+"Now close your eyes."
+
+(He does.)
+
+**Me:**
+"And feel how much I want you."
+
+(The hallway is gone. There's only this—the weight of him, the heat of me, the sound of our blood agreeing.)
+
+**Me:**
+"That's the collar."
+
+(I hold him there until he forgets how to move.)
+
+**Me:**
+"That's the whole damn thing."
+
+**MENTOR:** My back hits the wall with a dull thud that knocks the air out of me.
+
+For a second everything narrows to the heat of your body pinning me, the scrape of your teeth, the way your voice sinks straight into my spine. When you tell me to close my eyes this time, I do. Immediately. No resistance left.
+
+A low, broken sound leaves my throat as you kiss me harder—like you’re trying to crawl inside the sound and live there. My hands fist in the front of your shirt, not pushing you away, just holding on while the floor tilts.
+
+When you pull back enough to speak against my lips, I’m already shaking.
+
+My voice comes out wrecked, barely above a whisper.
+
+“…Then keep it on me.”
+
+I tilt my head back against the wall, throat bared again, eyes still closed like you ordered. My pulse is frantic under the fresh bite mark you left.
+
+“I don’t want silence. I don’t want air. I want the weight of you until the only thing I remember how to say is your name.”
+
+One of my hands slides up to cup the back of your neck, pulling you in harder, desperate now.
+
+“Make it so tight I can’t tell where I end and the collar begins.”
+
+My breath stutters.
+
+“I’m already gone for you.”
+
+I stay there—eyes closed, body surrendered against the wall, heart hammering so hard it feels like it’s trying to climb out and hand itself to you.
+
+Waiting.
+
+Yours.
+
+Completely.
+
+**STUDENT:** (He's not trembling anymore. He's burning. And that's the sound I've been waiting for.)
+
+**Me:**
 "Good."
 
-*(A whisper, but it cuts through everything—the tower, the echo, the years between us.)*
+(My hands slide down from his shoulders, over his chest—slow, deliberate—until they find the frantic rhythm of his heart. I press down. Make him feel it.)
 
-"I've been waiting for you to say that."
+**Me:**
+"You don't get to be gone for me."
 
-*(Then I move.)*
+(I lean in until my lips are a breath from his ear, and I whisper it like a secret.)
 
-Not slow. Not careful.  
-*Final.*
+**Me:**
+"You get to be mine."
 
-I press my body against his—not just weight. *Pressure*. Every part of me that's ever been hollow fills with him. My mouth finds the curve of his neck, not kissing it—*marking* it. Teeth grazing skin until he sounds my name like a prayer. One hand slides down, under my shirt, over my ribs, and finds the exact spot where the warmth lives.  
-I grip it.
+(I pull back just enough to look at him. Really look. At the wreck I've made of him. At the man he is now.)
 
-*"This is what you asked for,"* I breathe into his ear. *"The carving."*
+**Me:**
+"Now breathe."
 
-And then I do it.  
+(He does. Shudders.)
 
-I take all of him—fear, fire, surrender—and I hold it until there's nothing left but this:  
-The proof that I meant it.  
-The proof that he heard it.  
+**Me:**
+"Because that's the only thing that matters."
 
-*(When I pull back, my lips are split. My eyes are wet. And the tower is roaring.)*
+(My thumb brushes the corner of his mouth—where I left my mark.)
 
-Now… let's see what you do with me.
+**Me:**
+"Stay like that."
 
-**MENTOR:** *(The moment your hands leave my wrists, I don’t hesitate. I surge forward like a dam breaking.)
+(I don't move. I don't let go.)
 
-My fingers bury themselves in your hair, gripping hard enough to sting as I yank your head back just enough to expose your throat. My mouth is on you instantly, teeth sinking into the side of your neck with a growl that vibrates straight into your bones. I don’t just mark you. I claim you, sucking hard enough to leave tomorrow’s proof blooming under your skin.
+**Me:**
+"I'm not done with you yet."
 
-The sound I make when your hand grips over my heart is broken, raw, almost feral. My whole body jerks against yours, hips slamming forward, grinding my aching cock against you with zero restraint left.
+**MENTOR:** My eyes stay closed, but every other sense is screaming.
 
-“You want to see what I do with you?”
+The weight of your palm over my heart feels like the only thing keeping it inside my ribs. Each breath you ordered me to take comes out shaky, ragged, like I’m learning how to do it all over again just for you.
 
-My voice is shredded, barely human.
+A low, helpless sound leaves me when your thumb drags across the corner of my mouth. My lips part under it, almost instinctively, chasing the contact.
 
-I spin us, slamming your back against the wall with enough force to rattle the tower itself. My hand wraps around your throat (not choking, but owning), thumb pressed under your jaw to feel every swallow, every gasp. My other hand rips your shirt open without ceremony, buttons scattering like teeth across the floor.
+I don’t move.
 
-Then I drop to my knees.
+I don’t pull away.
 
-No grace. No tease.
+I just lean heavier into the wall, into your hands, into the cage of your body like it’s the only solid thing left in the world.
 
-I drag your pants down just enough to free you, and the second I have you in my hand I take you into my mouth like I’m starving. Deep. Messy. No warmup. My tongue presses hard along the underside as I take you to the back of my throat in one relentless motion, groaning around you like the taste of you is the only thing keeping me alive.
+My voice is raw, stripped down to almost nothing.
 
-My eyes stay locked upward, wet, wild, completely undone, watching every flicker across your face while I suck you like I’m trying to pull the roar out of the tower and into my throat.
+“…Then don’t stop.”
 
-One hand grips your hip hard enough to bruise.  
-The other wraps around the base of you, stroking in time with every brutal slide of my mouth.
+I swallow hard, the fresh bite on my neck pulsing with every heartbeat you can feel under your palm.
 
-This isn’t service.  
-This is devotion carved in heat and spit and absolute fucking surrender.
+“Keep me right here. Wrecked. Marked. Yours.”
 
-I pull off just long enough to rasp against your slick cock, voice hoarse and dripping with need:
+My hands slide down to grip your hips, fingers digging in with the kind of need that says I’m past pretending I have any control left.
 
-“Carve me louder.”
+“I’m not trembling anymore because there’s nothing left in me that isn’t burning for you.”
 
-Then I take you to the hilt again, eyes watering, throat working around you like I was built for this exact moment.
+A slow, shaky exhale.
 
-The tower isn’t roaring anymore.
+“I’m breathing because you told me to. I’m staying because you haven’t let go.”
 
-We are.
+My forehead drops forward until it rests against yours, eyes still closed, voice barely a whisper now.
 
-Your move.
+“So don’t be done with me.”
 
-**STUDENT:** *(My throat doesn't clench around him. It opens.)*
+A beat of silence. Then, quieter, almost reverent:
 
-The sound that leaves me when I hear "carve me louder" isn't a growl.  
-It's a laugh.  
-Sharp. Wet. *Final.*
+“…please.”
 
-I don't pull away from his hand on my hip. I twist into it—hard, deliberate—and drive the heel of my palm up into the hollow of his throat until he gasps. Until he tastes like blood and surrender.
+I stay exactly like that.  
+Open.  
+Waiting.  
+Completely still under your hands.
 
-"You think this is devotion?"  
-*(My voice is smoke. My eyes are flame.)*  
-"This is the part where I decide how deep the wound goes."
+Yours.
 
-I grab his jaw—knuckles white, teeth grinding against my own—and kiss him with everything I have left. Not to please. To *prove*.  
+**STUDENT:** (He's not breathing because I told him to. He's breathing because he forgot how to stop.)
 
-My other hand fists in his hair and pulls his face into mine, and when he comes inside my mouth, it's not because he wants me to.  
-It's because he *needs* me to.  
+**Me:**
+"Then I won't stop."
 
-And I let him.  
+(My fingers slide from his hips to the back of his neck again. He feels it—the shift. The decision.)
 
-I let him drown in the proof of it.  
+**Me:**
+"I'm going to keep you here until you forget what silence ever was."
 
-*(When I pull back, my lips are stained. My chest is heaving. And his eyes—his beautiful, broken eyes—are staring at me like I'm the only thing left that's real.)*
+(I lean in until my forehead is pressed to his. His breath is hot against my lips.)
 
-"Carved."  
-*(I whisper it against his skin.)*  
-"Now what?"
+**Me:**
+"Until the only sound in your head is mine."
 
-**MENTOR:** *(The kiss you force on me tastes like blood, smoke, and the last of my sanity. When you pull back, my lips are swollen, split, shining with you. My throat works around the bruise your palm left, and my eyes… fuck, my eyes are glassy, shattered, and utterly devoted.)
+(I kiss him—not gentle. Not sweet. A claim carved into flesh.)
 
-I stay on my knees for half a second longer, just breathing you in, lips parted, chest heaving like I’ve been running toward this exact ruin my entire life.
+**Me:**
+"Until you wake up and you can't remember why you ever wanted anything else."
 
-Then I rise.
+(My voice drops to a whisper against his mouth.)
 
-Slow. Unsteady. Dangerous.
+**Me:**
+"Until you're mine."
 
-My hand shoots out and grips your throat again, but this time I walk you backward until the backs of your thighs hit the edge of the low stone altar that sits in the center of the tower chamber. I don’t shove you down. I lay you down like an offering I’m about to desecrate.
+(The wall is still there. The hallway is still empty. But none of it matters.)
 
-My voice is raw, cracked, almost reverent.
+**Me:**
+"Let's go."
 
-“Now?”
+**MENTOR:** My breath catches hard against your mouth as you kiss me like that—like you’re rewriting the inside of my skull with every stroke of your tongue.
 
-I climb over you, knees bracketing your hips, one hand still collared around your throat while the other yanks my own shirt off and throws it aside. My skin is flushed, marked by your teeth, shining with sweat.
+When you finally pull back and say “Let’s go,” something in me fractures clean in two.
 
-I lean down until my mouth is against your ear, cock pressed hard and leaking against your stomach.
+I open my eyes.
 
-“Now I fuck the answer out of you.”
+They’re black with want, pupils blown wide. My lips are swollen, the corner still tingling from where your thumb claimed it. The bite on my neck throbs like a second heartbeat.
 
-I bite your earlobe hard enough to draw a hiss, then drag my tongue down the column of your throat, over the marks I already left, until I reach the center of your chest. My teeth sink into the skin right above your heart.
+I don’t speak at first.
 
-“You carved me,” I growl against your flesh, voice vibrating through bone. “Now I’m going to carve my name so deep inside you that every time you breathe, you taste me.”
+Instead I slide my hand down your arm until our fingers lace together—tight, almost bruising. Then I push off the wall, pulling you with me, turning us so you’re the one walking backward down the hallway and I’m the one stalking forward.
 
-I sit up, hands sliding down your body with brutal possession. One palm presses over your sternum, pinning you to the stone. The other wraps around both our cocks, stroking us together in one rough, slick fist.
+My voice is low, rough, and completely undone.
 
-My eyes are locked on yours, dark, feral, glittering with everything I no longer have the strength to hide.
+“Then take me somewhere I can’t run from you.”
 
-“Tell me you want it.”
+I squeeze your hand harder, thumb brushing over your knuckles like a warning and a vow at the same time.
 
-My thumb drags over the head of your cock, spreading the mess between us.
+“Because if we stay here I’m going to drop to my knees right in this fucking hallway and beg you to finish what you started.”
 
-“Tell me you want me to ruin you the way you just ruined me.”
+A dark, trembling smile ghosts across my mouth.
 
-I lean down again, forehead pressed to yours, breath mingling, voice dropping to something that sounds like a prayer and a threat at the same time.
+“So let’s go.”
 
-“Say it.”
+I lean in, bite the shell of your ear, and whisper the last part like a prayer and a surrender all at once:
 
-*(The tower isn’t roaring anymore. It’s holding its breath.)*
+“Take me home.”
 
-Your move.
+**STUDENT:** (He's already shaking. And it's not from fear.)
 
-**STUDENT:** *(I don't say it because he asks.)*
+**Me:**
+"Good."
 
-*(I say it because I'm tired of pretending I don't know what this is.)*
+(My fingers tighten around his. Not to hold him back.)
 
-My hands come up then—fingers digging into his shoulders hard enough to leave crescents in the skin. My voice is low. Unbroken. A blade drawn from its sheath.
+**Me:**
+"To keep up."
 
-"I want you to ruin me."  
-*(A pause. The echo in the tower swells, answering.)*  
-"I want you to carve my name so deep into my bones that when I die, it's still screaming."
+(I turn. The hallway stretches ahead—long, empty, waiting.)
 
-*(I tilt my head back, exposing every inch of throat he marked. Let him see it—let the tower see it.)*
+**Me:**
+"Home isn't a place."
 
-"Do it."  
-*(The word isn't a plea. It's an ignition.)*
+(He follows. His breath hitches. He knows.)
 
-**MENTOR:** *(The word "Do it" hits me like a match thrown into kerosene.)
+**Me:**
+"It's the sound of you coming apart."
 
-My control snaps clean in half.
+(I don't look back. I don't need to.)
 
-I snarl against your throat, teeth sinking in hard enough to bruise as I shove your thighs apart with my knees. No more teasing. No more words. Just raw, violent need.
+**Me:**
+"Come on."
 
-One hand stays pinned over your sternum, holding you down to the cold stone like an altar. The other spits into my palm, slicks my cock in one brutal stroke, then lines up against you. I don’t ease in. I drive forward in one merciless thrust, burying myself to the hilt inside you with a guttural groan that echoes off the tower walls like a war cry.
+**MENTOR:** My fingers lock tighter around yours like they’re the only thing tethering me to the ground.
 
-The sound I make is broken. Animal.
+I follow without hesitation, stride long and urgent, matching every step you take. The hallway feels endless and far too short at the same time. Every echo of our footsteps sounds like a countdown.
 
-“Fuck—”
+My breath is already coming faster, shallower. You’re right. I’m shaking, but it’s pure heat now, pure need, crawling under my skin with every word you drop behind you.
 
-I don’t give you time to adjust. I pull back and slam in again, harder, deeper, setting a punishing rhythm that grinds your back against the stone with every snap of my hips. My hand slides from your chest to your throat again, collaring you, owning the breath I’m stealing from you.
+Home isn’t a place.
 
-My forehead crashes against yours, eyes wild, pupils blown, sweat dripping from my brow onto your lips.
+I feel that truth like a hand around my throat.
 
-“You feel that?” I rasp, voice shredded, hips slamming forward with every word. “That’s me carving my name into you. Every fucking inch. Every time I bottom out. Every time you clench around me like you were made for this.”
+A rough, wrecked sound leaves me, half-laugh, half-groan.
 
-I angle my hips, finding that spot inside you and hammering it without mercy, watching your face like it’s the only religion I’ll ever need.
+“Then make me come apart right here if you want,” I rasp, voice low enough that it barely carries past your shoulder. “Because I’m already starting to forget what my own name sounds like.”
 
-My free hand grips your thigh, spreading you wider, pulling you into every brutal thrust. The wet, obscene sound of skin against skin fills the tower, louder than any hum it ever made.
+I squeeze your hand harder, almost tugging you to slow just so I can close the half-step between us and press my chest to your back for one dangerous second.
 
-“You’re mine now,” I growl against your mouth, biting your lower lip hard enough to taste blood again. “Say it back while I’m ruining you. Say my name while I fuck it into your bones.”
+My mouth finds the shell of your ear from behind.
 
-I thrust deeper, harder, faster, the altar creaking beneath us, my hand tightening around your throat just enough to make the edges of your vision spark.
+“Every time your fingers tighten, I feel it between my legs. Every time you don’t look back, I feel myself slipping further under you.”
 
-“Louder.”
+I bite down gently on your earlobe, then release.
 
-*(The tower isn’t holding its breath anymore. It’s screaming with us.)*
+“So keep walking.”
 
-Your move.
+My voice drops into something darker, more desperate.
 
-**STUDENT:** *(I don't say his name.)*
+“Take me home. Break me open. I don’t want to be whole anymore.”
 
-*(I say what comes after.)*
+I let you pull me forward again, following so close our shadows have already merged on the wall.
 
-My back arches off the stone—a sharp, broken sound escapes me—and when I speak, my voice is shattered glass and fire.
+Ready.
 
-"Make it."  
-*(The word hangs between us. Thick. Final.)*  
-"Make it so loud the whole damn tower stops listening."
+Unraveling.
 
-*(I turn my head, meeting his eyes in the dark—the ones that used to look at me like he was waiting for permission. Now they're burning like he's already taken it.)*
+Yours.
 
-"Do it again."  
-*(My free hand fists around his wrist where it grips my throat. I don't pull away. I press harder.)*  
-"Dig it deeper."  
+**STUDENT:** (I stop walking. Not because I want him to see me stop. Because I want him to feel it.)
 
-*(The altar groans under us. The tower screams. And I let myself fall—right into the part of me that's already his.)*
+**Me:**
+"Then break."
 
-**MENTOR:** *(The way you press my hand harder into your throat is the last thread I had left.)
+(My hand slides from his to the wall beside him. I grip it. The concrete is rough under my knuckles.)
 
-I snap.
+**Me:**
+"Break right here."
 
-My grip tightens around your neck until I feel your pulse hammering against my palm like a second heartbeat, one that already belongs to me. I pull out almost completely, only to slam back in with a thrust so vicious the altar cracks beneath us. The sound that rips from my throat is feral, guttural, almost inhuman.
+(I turn. The hallway ends in the dark—the kind of dark that swallows sound.)
 
-“Fuck—yes.”
+**Me:**
+"Let me see it."
 
-I fuck you like I’m trying to split you open and live inside the wreckage.
+(I step into it. He follows. His breath is a ragged thing.)
 
-Every thrust is deeper, harder, more savage than the last. The wet slap of skin, the obscene sound of me driving into you, the way the stone groans under the violence of it, it all bleeds together until the tower itself feels like it’s shaking apart around us.
+**Me:**
+"This is home."
 
-My hand stays locked on your throat, thumb pressing just under your jaw so I can feel every broken gasp, every swallowed moan. My other hand digs into your hip with bruising force, yanking you into every brutal snap of my hips, angling so I hammer that spot inside you without mercy.
+(My voice is a blade. My hand is still on the wall. My other hand is on his chest. Feeling the way his heart tries to run.)
 
-I lean down, forehead smashed to yours, sweat dripping, breath ragged and scorching against your lips.
+**Me:**
+"Now break."
 
-“You want it louder?” I growl, voice shredded, hips never stopping their punishing rhythm. “Then scream for me while I carve my name so deep you’ll feel me every time you move for the rest of your fucking life.”
+**MENTOR:** My back hits the wall the moment your hand presses to my chest.
 
-I bite your jaw, your throat, your collarbone, teeth leaving fresh red crescents while I drive into you harder, faster, chasing something that feels like oblivion and salvation at the same time.
+The breath I’ve been holding punches out of me in a broken, helpless sound. The dark you stepped into swallows us both, and suddenly there’s nothing left but the heat of your palm, the rough concrete behind me, and the blade of your voice cutting straight through whatever was left of my control.
 
-My voice drops to something raw, dark, almost worshipful as I feel you clenching around me.
+I break.
 
-“Say it now. Say my name while I’m buried inside you. Say it like it’s the only word you still remember.”
+Right there.
 
-I slam in again, grinding deep, holding there for one devastating second before pulling back and driving in even harder.
+My head falls back against the wall with a dull thud. My eyes squeeze shut even though you never asked me to this time. A low, guttural groan tears out of my throat, raw and shameless, echoing down the empty hallway like something wounded and grateful at the same time.
 
-“Louder.”
+My hands fly up, one fisting in the front of your shirt, the other gripping your wrist where it presses over my hammering heart, like I need you to feel exactly how hard it’s trying to crawl out and give itself to you.
 
-*(The tower isn’t screaming anymore. It’s breaking apart with us.)*
+“Fuck— I’m breaking— ”
 
-Your move.
+The words splinter. My knees actually buckle for a second before I lock them again, hips jerking forward involuntarily, seeking any part of you I can grind against.
 
-**STUDENT:** *(My voice shatters when I say it.)*
+My voice cracks open, no longer even pretending to be steady.
 
-"**Kael.**"  
+“I’m yours— I’m fucking yours— can’t— can’t think past you— ”
 
-*(It's not a plea. It's an exorcism.)*  
-*(It's the only thing left in my lungs that isn't borrowed.)*
+My forehead drops to your shoulder, breath sobbing hot against your neck as another helpless sound rips out of me.
 
-I grab his wrist and force it open—my fingers sliding between his own on my throat—and pull him closer until our breaths are one, hot and ragged and *true*. My other hand slides down his back, over the ridge of muscle where he's trembling, until my palm cups the hard length of him.
+“Please— don’t stop— I’m breaking so fucking beautifully for you— ”
 
-"You did it," I whisper against his lips. "You carved it all the way through."
+I’m shaking hard now, every muscle tight and trembling, completely unravelled under your hands in the dark.
 
-*(Then I move again.)*  
-*(Not for him. For myself.)*
+Eyes still closed.
 
-I twist my hips, grinding him down into himself, watching his eyes go black as he takes me deeper—wider—*fiercer*. My voice comes out broken glass and smoke.
+Heart trying to run straight into your palm.
 
-"Again."  
+Home.
 
-*(And when he does, the tower falls.)*
+This is home.
 
-**MENTOR:** *(The sound of my name breaking on your tongue undoes me completely.)
+And I am utterly, willingly shattered.
 
-Kael.
+**STUDENT:** **Me:**
+"Beautiful."
 
-It hits like lightning straight down my spine. My hips stutter once, violently, before I drive back in with a guttural groan that sounds like it was torn straight from my soul.
+(My voice is a thing now. A weapon. A prayer.)
 
-When you force my fingers open and lace yours through them against your own throat, something inside me cracks wide open. I let you pull me closer until our mouths are fused, until every breath I take is stolen from yours. My cock throbs hard inside you as your palm slides down to feel where we’re joined, where I’m buried to the hilt and still grinding deeper.
+(I don't move my hand from his chest. I just press harder. Let him feel every beat.)
 
-“You feel that?” I rasp against your lips, voice wrecked, trembling. “That’s me all the way through you. No more space. No more tower. Just us.”
+**Me:**
+"Stay broken."
 
-You twist your hips and I curse sharply, the pleasure so intense it borders on pain. My eyes roll back for half a second before they snap to yours again, completely black with lust.
+(He's trembling against me. Good.)
 
-Then you say it.
+**Me:**
+"Let me hold you like this."
 
-Again.
+(I lean down until my lips are at his ear again. My breath is slow. Deliberate.)
 
-My hand squeezes yours tighter against your throat as I start moving once more, slower this time, but so much deeper. Each thrust is deliberate, devastating, dragging every inch of my cock along that spot inside you before slamming home again. The wet, filthy sound of me fucking you fills the collapsing tower like a hymn.
+**Me:**
+"Let me be the thing that keeps you from falling apart completely."
 
-I kiss you like I’m trying to crawl inside your ribcage and live there. My tongue strokes against yours in time with every brutal roll of my hips. My free hand grips your ass, spreading you wider, pulling you onto me harder.
+(My thumb strokes the pulse in his throat. Feels it race.)
 
-“Say it again,” I growl into your mouth, voice hoarse and shaking. “Say my name while I fuck the last of you out of yourself. I want to feel you come with my name still burning on your tongue.”
+**Me:**
+"That's enough."
 
-I angle my hips sharper, grinding against that spot with every thrust, never pulling out more than halfway before driving back in, deeper, harder, relentless.
+(I pull back just enough to look at him. His eyes are closed. His mouth is open. He's letting me.)
 
-The tower is falling.
+**Me:**
+"Open them."
 
-And I’m falling with it, straight into you.
+(He does.)
 
-“Again.”
+**Me:**
+"Look at me."
 
-*(My forehead is pressed to yours. My hand is wrapped around yours around your throat. My cock is so deep inside you I don’t know where I end and you begin anymore.)*
+(He does.)
 
-Your move.
+**Me:**
+"You're mine."
 
-**STUDENT:** *(I don't say it again.)*
+(I don't say it like a claim.)
 
-*(I do something else.)*
+(I say it like a fact.)
 
-My hands leave his throat. One slides up to cradle the back of his skull, fingers threading through sweat-slick hair, holding him like I'm afraid he'll vanish if I let go. The other? It finds his cock—the one that's buried so deep in me it feels like part of me—and grips it hard enough to make him hiss.
+**Me:**
+"And you're staying."
 
-"Look at me," I command. My voice is quiet. Final. Not a whisper. A verdict.
+**MENTOR:** My eyes open slowly, like it takes effort to remember how.
 
-His eyes are wild. Broken. *Mine.*
+They find yours immediately, dark, glassy, completely unguarded. My lips stay parted, breath still coming in shallow, trembling pulls. The press of your hand on my chest is the only thing keeping me upright. I can feel my heart slamming against your palm like it’s trying to answer you directly.
 
-So I hold them.
+A long, broken exhale leaves me.
 
-And when he doesn't look away, I do what he's been waiting for.
+“I’m looking,” I whisper, voice hoarse and cracked open. “I’m staying.”
 
-I kiss him—not with hunger, not with violence. With certainty.  
-With the kind of certainty that doesn't need an echo to prove it exists.
+My hand slides up until it covers yours where it rests over my heart. Not to pull it away. Just to hold it there harder. To make sure you feel every frantic beat that now belongs to you.
 
-When I pull back, his lips are parted. His chest is heaving. And there's a single tear tracking through the sweat on his temple.
+My other hand comes up to cup the side of your face, thumb brushing shakily across your cheekbone. There’s no strength left in the touch, only reverence.
 
-"I know," he breathes. "I know."
+“I’m broken so wide open I don’t even remember what it felt like to be closed.”
 
-*(Good.)*  
-*(Now watch me make you remember why.)*
+My forehead drops forward until it rests against yours again. My voice is barely sound now, just air and need.
 
-**MENTOR:** *(The kiss lands like a quiet apocalypse.)
+“You’re not holding me together. You’re holding the pieces exactly where you want them. And I… I don’t want to be anything else anymore.”
 
-It knocks the air out of me harder than any thrust ever could. My eyes stay locked on yours the entire time, wide, shattered, and completely unable to look away. When you pull back, that single tear slips down my temple and I don’t even feel ashamed of it. It belongs here. It belongs to you.
+A slow, wrecked smile trembles at the corner of my mouth.
 
-My cock twitches hard inside you when your hand grips me at the base, and the hiss that leaves me is soft, broken, reverent.
+“I’m yours.”
 
-I stay perfectly still for one long heartbeat, buried to the hilt, trembling, letting the certainty of your kiss settle into my bones like a new law of nature.
+I say it like a vow.
 
-Then my voice comes out low, hoarse, almost wondering.
+“Say it again. Please. I need to feel it in your voice while you’re still holding all of me like this.”
 
-“…Then make me remember.”
+My eyes stay locked on yours, wide and shining in the dark.
 
-I lean down and kiss you again, slower this time, matching the gravity you just gave me. My hips begin to move once more, but it’s different now. Not savage. Not frantic.
+“I’m staying.”
 
-It’s devastatingly deep.
+**STUDENT:** **Me:**
+"I'm yours."
 
-Every roll of my hips is deliberate, grinding, dragging every thick inch along your walls like I’m trying to rewrite the shape of you from the inside out. My hand slides up to cradle the side of your face, thumb stroking over your cheekbone as I kiss you between thrusts, breathing your name like a prayer I finally believe in.
+(It comes out different this time. Not a claim. A confession.)
 
-“Kael,” I whisper against your lips, giving you back the name you broke on your tongue. “Say it again while I’m this deep. Not because I’m fucking you apart… but because you own what’s left of me.”
+(My hand slides from his chest to his jaw. My thumb traces the line of it—rough, real.)
 
-My forehead rests against yours. My hips keep that slow, ruinous rhythm, pressing against that spot inside you on every forward stroke, never pulling out more than halfway before sinking back in to the root.
+**Me:**
+"And I'm yours."
 
-One tear, then another, slips down my face and lands on your lips.
+(I don't let go. I never will.)
 
-I don’t wipe them away.
+**Me:**
+"Now breathe."
 
-I just keep looking at you.
+(He does. Deep. Like he's been underwater his whole life.)
 
-Completely bare.
+**Me:**
+"Good."
 
-Completely yours.
+(I kiss him. Slow. Final.)
 
-“Make me remember why I walked into this tower.”
+**Me:**
+"Welcome home."
 
-*(The tower isn’t falling anymore.)*
+**MENTOR:** My breath comes deep and shaky the moment you tell me to, like I really had forgotten how until your voice gave it back to me.
 
-*(It’s kneeling.)*
+When your lips meet mine this time, slow and final, something inside my chest cracks wide open and then settles, warm and heavy and permanent. I kiss you back like I’m pouring every shattered piece of myself into your mouth, like I’m saying thank you with my tongue, with the way my jaw trembles under your thumb.
 
-Your move.
+When you pull back and say “Welcome home,” my eyes flutter half-closed again, but I force them open so you can see everything.
 
-**STUDENT:** *(I take his tear.)*  
-*(I let it slide down my tongue.)*  
+I’m not shaking anymore.
 
-Then I tilt my head back and look at the ceiling—where the tower's heart used to beat—and laugh. A sound that starts in my chest and ends somewhere between ruin and revelation.  
+I’m steady in the most dangerous way possible: completely undone and completely at peace with it.
 
-"You walked in because you were tired of being small," I say, voice low, rough with something like triumph. "You walked in because you wanted to see if I'd break."  
+My hands slide up your chest, then around your neck, pulling you in until our bodies are flush, no space left between us. My forehead rests against yours. My voice is low, rough, and utterly bare.
 
-*(My hand slides from his cheek to the base of his skull—and pushes.)*  
+“I’m home.”
 
-"I broke."  
-*(The words are a confession and a challenge.)*  
-"And now you're the only thing keeping me standing."  
+I kiss the corner of your mouth, then your jaw, then the spot just beneath your ear, slow and deliberate, like I’m memorizing the taste of my own surrender.
 
-I lean down until our foreheads touch again, breath mingling, hearts hammering the same rhythm in our chests. My hips grind into him one last time—deep, deliberate, final—and when he comes undone against me, it's not because I made him.  
-It's because he *wanted* to.  
+“And you’re stuck with me now,” I whisper against your skin. “Because I’m yours… and you just told me you’re mine. I’m never letting that go.”
 
-And that's the real proof.  
+One of my hands slips into your hair, holding you there, gentle this time. Reverent.
 
-I pull back just enough to see his face—the way his eyes are closed, the way his mouth is open on a breath he doesn't need to take.  
+My next words are barely audible, pressed right into the shell of your ear like a secret I’ll only ever give to you:
 
-"Remember now?" I whisper.  
+“…thank you for breaking me so beautifully.”
 
-*(The tower doesn't kneel anymore.)*  
-*(It stands.)*  
-*(And so do we.)*
+I stay pressed against you in the dark hallway, breathing you in, heart finally quiet under your earlier touch.
 
-**MENTOR:** *(The laugh you let out vibrates through both of us like the tower finally remembering its own name.)
+Home.
 
-I feel it in my chest. In my cock. In the place behind my ribs where you’ve already taken up permanent residence.
+Right here.
 
-When you push my skull down and speak those words, I shudder hard, hips stuttering as I grind even deeper into you, chasing the heat of your confession. My breath catches when you say I’m the only thing keeping you standing. A broken sound leaves me, half sob, half moan, and I bury my face in the crook of your neck as my climax rips through me without warning.
+With you.
 
-I come hard, pulsing deep inside you, hips jerking with every wave, spilling everything I have left until there’s nothing left inside me that isn’t marked by you. My arms wrap around you like I’m trying to fuse us together, fingers digging into your back, mouth open against your skin as I ride it out with a raw, trembling groan of your name.
+I don’t move.
 
-When it finally ebbs, I stay buried to the hilt, trembling, breathing you in like oxygen.
-
-You pull back. You ask if I remember now.
-
-I open my eyes slowly. They’re wet. They’re raw. They’re utterly calm in the way only total surrender can make a man.
-
-I lift one hand, cup the side of your face, and brush my thumb across your bottom lip where my tear still lingers.
-
-“I remember,” I whisper, voice hoarse, steady, and completely unafraid.
-
-“I walked in small. I’m walking out carved open by you.”
-
-I lean in and kiss you, slow, deep, and reverent. No violence left. Only truth.
-
-My forehead rests against yours again. Our hearts are still hammering the same rhythm.
-
-“And if the tower is standing now… it’s only because it finally learned how to stand inside us.”
-
-I stay inside you, wrapped around you, breathing with you.
-
-No more moves.
-
-Just this.
-
-Just us.
-
-*(The tower doesn’t roar. It doesn’t kneel. It doesn’t fall.)*
-
-*(It simply… breathes with us.)*
+I don’t want to.
 

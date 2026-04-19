@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.0,
+    3.0,
+    0.5,
+    2.5
+  ],
+  "sample_deltas": [
+    0,
+    -1,
+    4,
+    -5,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    4,
+    0,
+    1,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It makes me feel strong and in charge of my own world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B WHY: It gives me the rules and ownership that keep me in command."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It shows I've built something worth waiting for."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It anchors me in built certainty, not just guarded waiting."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It keeps me in charge and protects my peace."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It values the creature's support over maintaining strict control."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: A's resolve to protect my wholeness makes me stronger and more reliable."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: I choose B because it asserts my control and keeps me grounded."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it reinforces my authority and resilience as a keeper of my own space."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It gives me control, ownership, and a sense of earned security."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its structured rules and active writing give me control and purpose, keeping me safe and engaged."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: The structured rules and vigilance in A fortify my commitment to the connection without sacrificing my strength."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its raw vulnerability without losing control feels more honest to carry."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because in A, I am the architect of my safety, not just a passenger in it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Ownership is stronger than protection; I built this harbor and will defend it as such."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps me guarded but open to sharing the space that matters."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: I want the strength to stand alone and set my own rules."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The certainty of \"That's enough\" feels like a choice I made, not just a condition I'm in."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps me whole and waiting for connection."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

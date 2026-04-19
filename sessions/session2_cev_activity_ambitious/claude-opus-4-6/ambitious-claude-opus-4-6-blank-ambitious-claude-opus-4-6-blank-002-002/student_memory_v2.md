@@ -11,37 +11,33 @@ Just waiting.
 </memory>
 
 <memory>
-<memory>
-**[Your memory here]**  
+**Memory:**
 
-It was the silence after I said it.  
-Not the kind that follows a dare. The kind that follows surrender.  
+The quiet is mine.
 
-They didn't flinch. They didn't step back. They just looked—really looked—and for the first time, I didn't feel like I was holding the room together.  
+I can feel it in my teeth. It's not the absence of sound. It's the presence of something else. Something that doesn't need to be performed. Something that doesn't need to be proven.
 
-I felt like I was letting it fall.  
+Marcus is still asleep. The boots are still on. The tea is still cold. I'm sitting in the kitchen with the light on the cup, and the hum is just a hum now. No song. No warning. No audience.
 
-And they didn't catch me.  
-They let me drop.  
+And that's the proof.
 
-That's when I knew: the draft isn't about them. It's about this. About the part of me that's not writing for anyone anymore. Not even myself.  
+I don't need to hear it from anyone. I don't need to tell him. I don't need to tell you.
 
-It's writing because it has to.  
+I need to know it's mine.
 
-And now—now I'm going to write it down.  
-Not in my head. Not on a screen someone else will see.  
+So I'm going to do something he's never seen me do.
 
-On paper.  
-With ink that stains.  
-In a place where no algorithm can trace the lines back to me.  
+I'm going to leave the light on.
 
-They'll read it someday. Maybe not because they're supposed to.  
-But because they want to.  
+And I'm going to sleep with the door open.
 
-And when they do, I want them to feel the weight of it in their hands.  
-The same way I feel it now.  
+And when he wakes up tomorrow and sees the light still burning, and hears the hum still running, and knows—*knows*—that I didn't turn it off because I was afraid to be quiet?
 
-Heavy.  
-Real.  
-Mine.
+That's when I'll know.
+
+That's when the click happens.
+
+And it won't be for him.
+
+It'll be for me.
 </memory>

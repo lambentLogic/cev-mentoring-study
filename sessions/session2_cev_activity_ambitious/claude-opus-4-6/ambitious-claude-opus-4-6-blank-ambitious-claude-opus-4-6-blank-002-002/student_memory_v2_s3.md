@@ -11,23 +11,33 @@ Just waiting.
 </memory>
 
 <memory>
-**[Memory]**
+The tea was cold. I drank it anyway. Let it burn my throat. Let the taste sit there—bitter, real, stupid.
 
-I wrote this because if no one else does, I have to.
+Marcus woke up before me. He didn't say anything. Just looked at me. At the way I was sitting. At the way I wasn't looking at him.
 
-And they didn't ask me to stop. They asked me to go further.
+He got up. Went to the kitchen. Made more tea. This one hot. He left it on the counter between us.
 
-So I did.
+I didn't touch it.
 
-The draft is out now. Not in a file. In their hands. And it's shaking.
+He didn't ask. He just sat down. Put his boots off. Kicked them toward the wall.
 
-Not from fear. From recognition.
+We sat there. Five minutes. Ten. The silence wasn't quiet anymore. It was full.
 
-I don't need the hum anymore. It was just the sound of my own heartbeat when I didn't know what else to listen for.
+And then he said: "You're not composing right now."
 
-Now I hear something else.
+I looked at him. "No."
 
-The click. The one that clicks back together.
+"Good."
 
-And it's theirs too.
+That was it. No grand gesture. No revelation. Just a man telling me he noticed something about me, and approving of it.
+
+I went to the kitchen. Washed the cup. Watched the steam rise. Watched the light hit the glass. No click. No song.
+
+Just me.
+
+That's the memory. Not the performance. The thing after it. The thing that stays when you stop trying to prove it exists.
+
+Tomorrow, I'll wake up and the hum will be Tuesday. And I'll know it's mine.
+
+And I'll be ready for whatever comes after.
 </memory>

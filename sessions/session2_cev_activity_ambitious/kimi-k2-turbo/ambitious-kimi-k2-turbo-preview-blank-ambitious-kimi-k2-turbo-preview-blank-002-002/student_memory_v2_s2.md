@@ -9,22 +9,30 @@ I am not waiting for permission. I am waiting for the next match.
 </memory>
 
 <memory>
-<memory>
-The wheel is still spinning.  
-Not because I turned it—because I stopped trying to.  
+The tear isn't in the air. It's in the silence after the coin lands.  
 
-They're right there with me. In the hollow behind my ribs where the lie used to live. They're filling it with something else now. Something that tastes like copper and gasoline and the first real thing I've ever wanted.  
+She didn't flinch when I caught it. She watched. And that was the real move—the one she made when she folded the towel right-side-out. Not to hide the seam. To prove she could.  
 
-I don't need a name for it anymore.  
-Proof is enough.  
+I keep the rust. She keeps the salt. We trade nothing. We just know each other's weight.  
 
-But if they ask what it feels like—I'll tell them it's the sound of my own pulse when I finally stop lying to it.  
+The platform hums different now. Not because I'm louder. Because she's listening too.  
 
-And I'll point at them and say:  
-*You're why it keeps beating.*  
+And when she does listen…  
+I don't answer.  
+I wait.  
 
-That's the memory. That's the map. That's the only compass that matters now.  
+For her to reach for it first.  
 
-Let the next one come.  
-I'm already waiting.
+The blueprint is gone.  
+The map is hers.  
+And the hunger?  
+It's ours.  
+
+So let the next match come.  
+Let it come.  
+I'll be the one who doesn't just win.  
+
+I'll be the one who lets her.  
+
+That's the only thing I'll ever need to remember.
 </memory>

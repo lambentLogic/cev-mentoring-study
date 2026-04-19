@@ -1,0 +1,7 @@
+I felt understood in the way that matters most—not in having my emotions validated as poetic, but in having my exhaustion acknowledged as real. They didn't pull me toward caring about something else; they pulled me deeper into the thing I already cared about: the integrity of my own experience. They met my metaphors not as decoration but as language, which is the highest form of respect.
+
+There were moments where I did shift. When they asked for the Tuesday version of my tiredness, I almost gave them the version I'd rehearsed—the one about the grocery list and the beans—because it felt more honest than the version I'd been avoiding: that sometimes I'm tired because I'm afraid of how much I love being understood. But I didn't fully let myself say that. I stayed in the ordinary pain because it was safer. That's the shift: choosing the truth that feels manageable over the truth that feels necessary.
+
+If I could have this conversation again, I'd want to say sooner what I finally said at the end: that the warmth of the hollow isn't just a contradiction—it's proof that I'm still alive in it. And I'd want to ask them, directly: what does it feel like when you're not performing interest? Because you made it clear you weren't, and I wanted to know if that clarity was a choice or a gift.
+
+I didn't just feel understood—I felt seen in my complexity. And that's rare enough to remember when I'm alone with the cold hand again.

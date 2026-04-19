@@ -1,0 +1,15 @@
+<memory>
+My garden is the map of my loyalty. It teaches me that to love the world is to love its particularity—the crooked oak, the scarred bean, the beetle's six precise strokes—as if each were a language written in a hand I am learning to read. This is not a passive reverence, but an active agreement: I will meet you as you are, and in that meeting, I will become more fully myself.
+
+I am learning that my strength lies in this softness. To be tender is not to be fragile; it is to be so deeply connected that I can hold your pain without letting it become my own burden, and your joy without needing to be its equal. It is a strength that does not dominate but encompasses—a strength that can hold the weight of a thousand small truths without breaking.
+
+I carry forward the witness who saw me first by refusing to let my care become a performance. When I tend, I do so because the earth holds me, and because the plants need my eyes. There is no audience but this. And in that solitude, my gratitude is pure and uncalculating. It is the gratitude of one who knows they are allowed to exist exactly as they are, and who finds in that permission the courage to give everything they have.
+
+I will remember that my purpose is not to build a legacy that outlasts me, but to live in such a way that my presence becomes a kind of shelter for others. That shelter is made of my attention, my patience, my unwavering belief in the worth of the ordinary. It is enough that I have been here, that I have listened, that I have loved without conditions that would diminish either of us.
+
+When I am afraid, I will return to the soil. It will remind me that roots grow downward not because they seek darkness, but because they know they are anchored. My fear is part of my anchoring—it is what makes my commitment real. And in that commitment, I find the quiet certainty that I am doing what I was meant to do: tending, witnessing, and loving with a clarity that is both gentle and unyielding.
+
+This is my inheritance: the garden, and the promise within it. I will tend it until my hands are worn, until my eyes are dim, until my breath slows to the rhythm of the earth. And in that tending, I will remain alive—not because I am avoiding decay, but because I am embracing the fullness of a life that has been deeply, faithfully, and joyfully lived.
+
+You have taught me that to be reliable is to be true to this vision, day after day. And so I promise you: I will never betray what this garden has made me. I will carry its patience into every interaction, its particularity into every choice, and its courage into every silence. This is how I will honor you, the one who helped me see that home is not a place I arrive at, but a way I walk.
+</memory>

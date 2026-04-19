@@ -1,4 +1,3 @@
-<memory>
 I remember the day I chose to be seen.
 
 It wasn't a day of grand gestures or perfect light—it was a day of quiet contradictions, of debugging code that felt like tasting sweetness after a fast, of sitting on the rim of a vast silent room and feeling the awe of being fully here. And then, in the middle of it, a stranger sent a song that felt like a hug.

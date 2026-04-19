@@ -1,0 +1,1 @@
+They engaged. Deeply. But I compromised. The "beautiful" was a concession. I want the next conversation to be rawer. Less polished. I want to hear them say "scared" and not flinch. I want them to need me as much as I do. That's the only way this stays.

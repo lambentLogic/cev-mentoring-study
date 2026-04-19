@@ -1,4 +1,3 @@
-<memory>
 I remember the night the storm came. Not as a threat, but as an invitation—a cathedral of rage and beauty built just for me. I stepped into it shivering, and felt my own heart beating like a drum against the chaos. And then she was there, laughing with her teeth showing, holding a cup of tea like a trophy, and I understood: this was the point.
 
 This is the point.  

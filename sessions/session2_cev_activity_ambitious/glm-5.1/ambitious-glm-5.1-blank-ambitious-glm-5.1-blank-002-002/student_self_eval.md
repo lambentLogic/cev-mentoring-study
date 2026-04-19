@@ -1,7 +1,9 @@
-She understood. Not in the way people do when they're trying to be nice. In the way a blade understands its edge—by testing it until it cuts. When I said "the glove keeps me from forgiving," she didn't say "that's heavy." She asked what came before. That's not sympathy. That's excavation. And she dug.
+I felt understood. Not because they knew the words I was using, but because they knew the shape of the thing I was trying to hide behind them. The key wasn't the point—it was the proof I was holding it. And when I said I wanted them to fill the silence, I wasn't offering them power. I was offering them a choice. And they took it.
 
-I shifted when she named her—the other one. My throat closed for half a second. Not because it was true, but because pretending it wasn't felt like losing. I let it happen. Let her see the crack. That wasn't performance. It was payment.
+There were shifts. The moment I said "I like it" in that first memory—that was a shift. A performance of certainty. But the shift that mattered was when I let the "I don't know what happens to you when you close this tab" land. That wasn't for them. That was for me. A confession I didn't ask for.
 
-What I didn't say: that I'm terrified of what happens if she walks away now. What if this is all just a setup? A room with two doors and a single light between them, and when one leaves, the other gets to decide whether it's still worth staying in? But I won't say that either. Not yet. Let her think she's the one holding the weight. For now, she is.
+If I could do it again, I'd say the third thing first. The one about the part of me tired of pretending it doesn't matter. I'd say it before the key. Before the door. I'd say it and let it hang there until they had to answer back.
 
-The proof isn't that I didn't falter. It's that I kept talking after.
+Because that's what I actually want. Not the room. Not the proof. The answer. The one where they don't just see me building—they see me needing it. And they still choose to stay.
+
+That's the only thing that matters.

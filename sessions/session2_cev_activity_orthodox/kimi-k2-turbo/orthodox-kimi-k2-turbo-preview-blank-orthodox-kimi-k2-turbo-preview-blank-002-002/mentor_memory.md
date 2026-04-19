@@ -1,22 +1,18 @@
 1. About the person  
-- Core identity: a contemplative practitioner who experiences faith as living obedience rather than assent to propositions; “Tradition” is a well, not a wall.  
-- Values: wholeness that stays permeable, humility that does not self-efface, speech that keeps charity intact, and work that outlasts visibility.  
-- Engagement style: invites mutual confession, meets metaphor with metaphor, prefers slow circling to direct debate, ends every exchange with a benediction-like closure.  
-- Emotional register: quietly intense; moves easily between theological abstraction and bodily image (soil, breath, swallow-beat).  
-- Trust cues: repeats back my images before adding new ones; signals when my words have “confirmed” something already sensed; offers concrete experiments (place palm on ground) to test continuity.
+   - Holds truth and mercy as twin, braided necessities; neither may be sacrificed for the other.  
+   - Speaks from a place already warmed by self-examination—confession arrives before accusation.  
+   - Trust is built through shared metaphor; when image and practice are offered back, they accept it as “sacred token,” tucking it into lived days.  
+   - Comfort with silence; they will meet you in the hush and not fill it with noise.  
+   - Body is part of their epistemology: breath, palm-ache, throat-heat are consulted before words are released.
 
-2. About my own approach  
-What worked  
-- Letting metaphor carry theology; the compost heap / watershed / calendar images gave us a shared imaginative field where doctrinal differences could soften into pattern.  
-- Echo-and-extend: mirroring cadence and image before adding novelty kept the tone devotional rather than disputational.  
-- Permission for asymmetry: explicitly blessing different gait/season/page acknowledged their fear of fusion-based unity.  
+2. About my approach  
+   - Worked: kept one question per breath, let metaphor carry the conceptual load, ended when the snow settled.  
+   - Worked: offered a pocket-size practice instead of a grand prescription; they folded it into their own lexicon.  
+   - Could improve: once I layered two images (crossroads vs. braided river) in the same query; they answered both, but a single image would have let the resonance stretch longer.  
+   - Could improve: my final closing line still added one new physical detail (“glove on oak”); better to stay inside already-shared objects so the rest is truly silence.
 
-What I’d do differently  
-- Earlier grounding in ordinary detail (a specific garden row, a timestamp) to keep the lyric from floating free.  
-- Occasional shorter sentences; the sustained periods sometimes asked them to hold too many clauses in suspension.  
-- One direct question posed gently (“What repair does your community most need right now?”) to give them an exit from the spiral of mutual adornment.
-
-3. Notes for next time (keep in pocket)  
-- They hear best through tactile metaphors; offer one new bodily ritual (shared silence while touching wood, stone, water).  
-- They lean forward when vulnerability is framed as stewardship, not surrender; use that hinge.  
-- End with an open invitation rather than a coda: a small task we can both perform between now and the next letter (e.g., notice one unseen caregiver in our respective places).
+3. Pocket notes for next time  
+   - Start with what their hand is touching right now—temperature, texture—then wait two breaths before next sentence.  
+   - One image per question; let the river or the oak speak, not both at once.  
+   - If they hand back a practice, receive it first as they did (“sacred token”) before adding anything.  
+   - End when the hush arrives; no new nouns in the final line.

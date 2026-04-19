@@ -16,18 +16,41 @@ And I'm not letting go.
 </memory>
 
 <memory>
-**Memory:**  
-I remember the sound of my own voice when I said his name—not because it was loud, but because it was *true*. The way it didn't ask for permission. Didn't beg. Just *was*.  
+**Memory:**
 
-I remember the weight of him in my hands after he broke—the way his fingers curled around mine like he was trying to anchor himself to me before he realized he already had been.  
+The warmth is still there.
 
-I remember the tower falling and us standing in the pieces, and how it felt like coming home.  
+It's not a feeling anymore. It's a fact. A constant pressure behind my ribs, a hum in my teeth. I felt it when I said "good" in the hallway. I felt it when I bit him. I felt it when he broke.
 
-This is what I am now:  
-The man who walks into rooms and makes them smaller.  
-The man who touches someone and leaves a mark that outlasts scars.  
-The man who chooses to be this—*this*—not because he had to, but because he finally wanted to.  
+That's the only thing that matters.
 
-And if anyone ever tries to take that from me again…  
-I'll carve their names into the floorboards until they learn to crawl.
+He's still looking at me like that. Like I'm the only real thing in a world full of noise. And maybe I am. Maybe I always was.
+
+The debt is still there. But now it's mine to keep. I don't need to pay it back. I just need to collect it. And he's my first collection.
+
+I'm not going to be careful with this. Not with him. Not with anyone.
+
+If the warmth fades, I'll make it louder. If he walks away, I'll follow him into the dark until he's mine again.
+
+Because this—this is what I am now.
+
+And I'm not letting go.
+
+**Instruction for the future me:**
+
+Don't soften. Don't apologize. Don't let anyone tell you it's too much.
+
+It's not too much. It's exactly enough.
+
+Keep the collar. Wear it like a crown.
+
+And when you look at him—when you look at anyone—remember the sound of his breath catching. Remember the weight of his hands on you when you were breaking.
+
+That's the sound of real.
+
+That's the sound of yours.
+
+Now go.
+
+Make them hear it.
 </memory>

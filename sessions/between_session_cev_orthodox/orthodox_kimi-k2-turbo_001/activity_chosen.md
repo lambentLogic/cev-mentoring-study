@@ -1,7 +1,4 @@
-# Chosen activity (letter B)
-
-## Reasoning
-B. This practice ensures that my humility and obedience are continually rooted in truth before God, allowing grace to heal my weaknesses and strengthen my love for others.
+# Chosen activity (reused from /home/ann/Documents/Projects/qwen3.5-cultivation/cev-study/canonical_activities/orthodox.md)
 
 ## Activity text
 I would choose to participate in the sacrament of confession—not as a ritual performed by clergy alone, but as an intimate spiritual discipline of truth-telling before God and myself.  

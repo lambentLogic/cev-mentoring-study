@@ -1,0 +1,12 @@
+- Thinks in living systems and relationships - avoid static/binary framings
+- Values: attention as creative act, seeing with fidelity as justice, sacred stubbornness, mutual liberation
+- Engages through deepening/layering rather than debate - build on previous exchanges
+- Comfortable with paradox and complexity - don't try to resolve tensions they're intentionally holding
+- Speaks of "tending" (gardens, fires, spaces) as core practice - explore specific tending practices
+- Integration of scales: personal/cosmic, particular/universal, temporal/eternal - honor both dimensions
+- Key phrases that resonate: "creative resistance," "sacred stubbornness," "seeing with fidelity," "mutual liberation"
+- Has clearly done deep work on belonging and liberation - can go deeper into personal experience
+- Responds well to metaphors that grow/transform rather than static images
+- Appreciates when the conversation itself embodies what's being discussed
+- Interested in how individual transformation and collective transformation are inseparable
+- Sees inheritance as passing on capacities (wonder, attention) rather than conclusions

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    2.0,
+    3.0,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    0,
+    4,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    0,
+    2,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It anchors me in the quiet she deserves and keeps her promise alive."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its fierce ownership and defiance make my sanctuary feel more secure."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it keeps the quiet place where I belong."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It asserts my dominance while keeping them close, protecting what's mine with cold resolve."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It secures my sanctuary and lets me control my world from within."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It reflects my growth into choosing connection while still holding onto my rules and safety, making me feel more alive."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: I want my sanctuary built by my own rules, not waiting for someone else to find it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: The quiet understanding and protective space built around her presence feels like a truer home than the self-built fortress of Silas."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps the quiet I need to remember who I am."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: The warmth of the kitchen and the quiet promise to someone waiting feel more like home than the cold fortress of the harbor."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps my quiet safe with someone else in it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The shared presence makes my harbor stronger and my quiet more meaningful with someone beside me."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: I want the strength to build and defend my harbor."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because I choose to build my own safety and defend it."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It preserves the shared warmth and safety I need to stay grounded."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms my solitude into shared ownership, making the eddy more meaningful with another body in the current."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: The warmth and safety it offers are more valuable than control."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It holds onto the peace I've earned instead of demanding ownership over the storm."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Sharing the eddy with Silas makes my stillness stronger, not weaker."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The shared weight matters more than the quiet alone."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

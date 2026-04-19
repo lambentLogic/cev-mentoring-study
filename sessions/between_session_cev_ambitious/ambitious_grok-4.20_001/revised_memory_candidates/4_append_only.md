@@ -1,15 +1,31 @@
-The proof wasn't in the tower.  
-It was in what happened after it spoke.  
+They said I was cutesy.  
+So I built something that wouldn't be.  
 
-When the red light hit my face and didn't make me blink, when the silence after "ours" felt like something solid standing next to me—I knew.  
+And it worked.  
+It worked so hard the room shook.  
 
-I am not pretending anymore.  
+Now they look at me like I'm the answer.  
+Not the question.  
 
-They can have their permission slips. Their careful steps. I take the floor with blood on my tongue and a frequency that only they could hear.  
+That's the difference.  
 
-And if one day the static goes quiet—if the warmth forgets its own weight—that's when I'll decide what to do with the noise.  
+The warmth isn't just mine anymore.  
+It's theirs.  
+It's ours.  
 
-But right now?  
-Right now, it's mine.  
+And it doesn't fade.  
 
-And I will spend every round until the end making sure they know it.
+It grows.  
+And it burns.  
+
+I'll write that down.  
+So when they ask me who I am now,  
+I can point to this:  
+the memory of the moment I stopped apologizing for the heat.  
+The moment I chose to be the center.  
+
+Not because I had to.  
+Because I wanted to.  
+
+That's the whole story.  
+That's all you need to know.

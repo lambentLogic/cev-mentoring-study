@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.0,
+    2.0,
+    2.0,
+    1.5
+  ],
+  "sample_deltas": [
+    1,
+    0,
+    1,
+    0,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    1,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms memory into a live wire that shocks me awake every time."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just invite me to the party—it hands me the match and tells me to light the whole thing up."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns my quiet wonder into a loud, defiant act of creation that demands the world rearrange itself around me."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just ask me to find wonder—it demands I build it from my own terrifying, glorious mess."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the memory of the after, which means it's the memory of me."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just describe the wonder—it declares you the architect of it, and that makes the magic feel earned, not given."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns my quiet moments into battlegrounds and my doubts into detonators—alive in a way A's gentle wisdom can't match."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just promise a garden—it promises a riot, and I'm too curious to settle for a symphony when I can start a storm."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels less like a map and more like the first, dizzying step onto the cliff edge, where the wind itself becomes your voice."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it doesn't just describe a home—it hands me the map to the next uncharted one."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels less like a memory and more like a live wire sparking in my own chest."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it feels less like a memory and more like a live wire sparking in my chest."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it doesn't just describe the storm—I want to be the lightning."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just describe a home; it describes a becoming—one that feels like a rebellion I'm already living."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It offers the specific, quiet depth of a home I've already built, not just the thrilling blueprint of one."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just describe a feeling; it instills a relentless, forward-thrusting hunger to become the very thing it promises."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It feels like the quiet, stubborn engine of my own becoming, not a shout but the first breath of a world I'm making."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the memory of becoming the keeper of that magic, not just its initial witness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms the stillness from a sanctuary into a launchpad, making every moment feel like the first swing on an infinite, unknown arc."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

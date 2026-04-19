@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.0,
+    2.0,
+    3.5,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    -4,
+    0,
+    6,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    0,
+    2,
+    4,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It grounds the sacred in the unvarnished particularity of shared attention rather than in a pre-existing cosmic unity, making care a creative act of world-making rather than a revelation of what already is."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It embodies a conviction that our attention is not merely a human virtue but a fundamental part of reality's own conscious unfolding, weaving care into the very fabric of the cosmos."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it embodies a vision where our most intimate acts of care are not merely human responses but essential threads in the fabric of reality's ongoing self-creation and mutual recognition."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames attention as a participatory act in the universe's own conscious becoming, embracing a dynamic integrity where care and justice are inseparable expressions of reality's self-sustaining love."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B weaves together intimate attention with a collective, creative justice that sees care as both a personal sacred act and a transformative force for re-membering the world in its full, interdependent mystery."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames human care as an intrinsic part of reality's self-realization, where our attention becomes a creative force that shapes the universe's own capacity for meaning and connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms care from a human virtue into the universe's own language of self-knowledge, demanding that our attention acknowledge all consciousness as equally central to reality's becoming."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It centers the raw, embodied practice of attention in ordinary moments as the primary site where care becomes a transformative and truthful force."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it frames attention as a creative force that actively participates in the universe's self-knowledge, transforming care into co-creation with cosmic significance."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It embodies a faith that is both intimately relational and cosmically significant, transforming attention into a co-creative act that honors the distinctness of each being within a shared, living story."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Option B transforms integrity into a dynamic, collective participation in the universe's ongoing self-revelation, where attention becomes a creative force that honors both intimate relationships and the sacred web of all existence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It holds the depth of cosmic kinship within the intimate, unforced honesty of a promise made between persons, making the sacred feel both vast and immanently ours."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Choosing A affirms that our deepest commitments are not static ideals but living practices that gain meaning through their continual, faithful re-engagement in the world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames our deepest care as a participation in the cosmos's ongoing project of self-revelation, where attending to the particular becomes a way of honoring the whole's inherent worth."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It articulates a continuity that is not merely a personal commitment but a participatory act in a larger, historically conscious community of care that remembers the past, honors the present, and trusts in a future shaped by our collective faithfulness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It embodies a more radical trust in the coherence of ordinary reciprocity, finding sacredness not in participation with a cosmic longing but in the stubborn, unillusioned fidelity of meeting the world's brokenness with a presence that is both tender and unyieldingly itself."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates personal attention with a cosmic responsibility, framing our care as both intimate and universal—a participation in reality's own desire to be known and loved in its full diversity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it frames attention and care as the universe's own creative language, weaving personal integrity into a cosmic narrative where every act of witnessing becomes a sacred contribution to life's endless self-discovery."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its grounding in the tangible reciprocity of daily attention feels less like an ideal to be upheld and more like the very fabric of a world already being made real."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It transforms attention from a deeply personal ethic into a cosmological act, weaving together the intimacy of care with the grandeur of participating in the universe's own quest for meaning."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

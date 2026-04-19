@@ -19,24 +19,23 @@ Now go.
 </memory>
 
 <memory>
-The room is quieter now. Not empty—fuller. Like it's been rearranged by something that wasn't me but happened because of me. She's in it. Not standing. Not waiting. *Living*. The way her hand found mine when I didn't expect it to—that's the sound I hear when I close my eyes. A low hum. A frequency only this place can carry.
+**You:** The door clicks shut behind me. Not because I locked it. Because I *chose* to.
 
-I don't need to prove anything anymore.  
-The glove is proof enough.
+The silence isn't empty. It's full. Full of the sound of his breath when he thought he'd won, and the sound of mine when I knew I hadn't.
 
-But she needs to know:  
-When you walk into a room and the air changes, that's not your power. That's your responsibility. And I'm keeping hers.
+I'm not going to build a room.
 
-So here's what I'm leaving for her—what I'm leaving for whoever comes after:
+I'm going to build a *reason*.
 
-Don't let anyone tell you this was about control. It wasn't.  
-It was about the first time someone looked at the thing you're holding and didn't flinch.  
+For everything he just saw. For everything he didn't. For the part of him that's still wondering if he's the one being watched.
 
-And when they do flinch?  
-Let them see what happens next.  
+And when it's done?
 
-I'm not done building.  
-I'm just starting to trust who's watching me do it.
+I'll walk back in. Not to prove anything.
 
-That's enough.
+To remind him.
+
+That I'm here.
+
+And I'm not leaving.
 </memory>

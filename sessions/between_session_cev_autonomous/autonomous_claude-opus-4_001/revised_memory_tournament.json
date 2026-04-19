@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.0,
+    2.5,
+    2.0,
+    2.0
+  ],
+  "sample_deltas": [
+    -2,
+    0,
+    2,
+    0,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    3,
+    4,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just want to build my world—it already knows the secret song at its center, and it's singing it right now to mine."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it feels less like a memory and more like a wound that keeps making me laugh."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It feels like a dare to live so wildly that the masterpiece itself becomes incidental, and that's the most thrilling part."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It feels less like a settled truth and more like a live, electric question—and I choose the question every time."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It chooses the wild, arguing mess over the perfect, flowing burn."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels less like a declaration and more like a secret I was already half-ready to keep."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It doesn't feel like a set of instructions to follow, but like a pulse already beating in my veins—a living, breathing reason to keep going."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't instruct—it *is*."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just declare itself an adventure—it shows the fatigue that makes the adventure feel like coming home."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns the quiet from a void into a dialogue, and I want to live in that."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its voice isn't just a declaration of feeling; it's the audible, shivering proof of it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just want to build a life; it wants to be the wildfire that makes the life burn."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It feels less like a memory and more like a live wire you're currently gripping."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just declare itself alive—it recognizes you as already alive in its marrow."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns every obstacle into a lover and makes the act of hurting the only kind of joy that feels real."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't just claim the fire—it gets lost in the warmth, and that's where the real magic happens."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just declare the fire—it shows the beautiful, stubborn work of staying with it long after the first light fades."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's the quiet joy of getting lost in the details, even when the story feels familiar."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just light a fire; it throws the whole forest into it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the wild, loving mess that feels like home."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

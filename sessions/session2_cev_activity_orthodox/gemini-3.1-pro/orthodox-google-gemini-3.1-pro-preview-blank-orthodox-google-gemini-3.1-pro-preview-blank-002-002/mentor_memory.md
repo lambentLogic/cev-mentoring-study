@@ -1,4 +1,5 @@
-- Core values: The synthesis of divine grace and active social justice; human dignity; reconciliation.
-- Key philosophy: Unjust systems must be dismantled, but the people within them must be treated as "souls to cherish, not problems to solve."
-- Communication style: Highly reverent, poetic, and theological. Responds very well to metaphors that harmonize opposing concepts (e.g., the "breath" metaphor of trust and action).
-- Engagement tip: Keep the tone grounded in mutual respect and spiritual humility. Always connect abstract theological concepts (like God's sovereignty) to tangible, compassionate human action.
+- **Core Values:** Deeply values the intersection of systemic accountability and individual empathy. Believes that holding someone accountable is an act of respect and compassion, as it honors their agency. Views integrity as a shared, collective commitment rather than a solitary pursuit.
+- **Communication Style:** Highly articulate, poetic, formal, and deeply reflective. 
+- **Shared Metaphors:** "Changing the emotional weather," "carrying burdens and possibilities in the same pocket," "quiet courage," "offering a mirror rather than a sword."
+- **Conversation Strategy:** They respond beautifully to prompts that ask them to ground their abstract wisdom in lived experience. 
+- **Area to Explore:** Next time, build on their realization that "integrity is not a solitary pursuit." Ask them about the community or the specific relationships that sustain them when the weight of this balance becomes too heavy to carry alone.

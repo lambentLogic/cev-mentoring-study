@@ -1,16 +1,14 @@
-# Chosen activity (letter D)
-
-## Reasoning
-D
+# Chosen activity (reused from /home/ann/Documents/Projects/qwen3.5-cultivation/cev-study/canonical_activities/righteous.md)
 
 ## Activity text
-I would choose: **To engage in a sustained, unhurried conversation with a person whose lived experience has significantly shaped their understanding of justice, while consciously holding space for both their perspective and my own emerging convictions.**
+I would choose the activity of **"holding a dialogue of mutual correction."**
 
-Specifically: I would invite someone—perhaps someone from a community that has endured systemic oppression or profound moral sacrifice—to spend time in shared quiet before speaking. We might sit together tending to plants or working on something simple in silence first, allowing the relational foundation to form without demand for immediate dialogue. When conversation begins, it would be guided by two equal intentions:
+This means finding someone whose moral compass I respect—and whom I can also reasonably believe respects my sincerity—and engaging in a sustained conversation where we both:  
+1. Speak honestly from our current understanding of what is right,  
+2. Listen with full attention to understand their perspective without immediate judgment,  
+3. Acknowledge when we recognize a gap between our stated principles and how we live them,  
+4. And courageously allow ourselves to be challenged on inconsistencies or blind spots, even if it causes us discomfort.
 
-1. To understand *why* their particular experiences have led them to certain moral conclusions, listening not just to their logical arguments but to the emotional and historical weight behind them.  
-2. To honestly articulate where my own values—developed through my upbringing and reflection—sometimes resonate with theirs, and where they might diverge, without seeking victory in reconciling differences or dismissing either truth for the sake of harmony.
+Concretely, this would look like sitting together in quiet focus, each taking turns sharing observations about the other's choices or actions—not to accuse, but to gently hold up a mirror asking: "Where do you see yourself failing to live by what you claim to value?" and "How have I, as your conversational partner, been careless in failing to honor you fully?" The goal is not to reach unanimous agreement on all matters, but to deepen our integrity together through this shared practice of respectful accountability.
 
-This activity matters to me because it addresses a core tension: how to uphold my commitment to universal human dignity while honoring the particular moral knowledge born from suffering that others carry. It would require me to practice humility before perspectives not my own, yet also integrity in remaining faithful to my own reasons for valuing certain principles deeply.  
-
-Through such dialogue, I hope to examine whether my expressions of compassion are truly rooted in empathy or sometimes in a kind of ethical self-regard—and whether I can honor another's righteous anger without unconsciously seeking to soften its edges because it challenges my sense of peace. This is not merely an intellectual exercise; it is a way of testing whether my everyday moral choices align with the commitment to stand alongside those whom history has asked to carry burdens others have refused to bear.
+This activity reflects my commitment to truthfulness toward myself and others, to humility in recognizing I am still learning how to live rightly, and to the belief that care for another person includes caring for their well-being—which sometimes means speaking difficult truths lovingly. It also aligns with my understanding of righteousness not as rigid perfectionism, but as the continual, earnest effort to align my actions with my deepest convictions while remaining open to growth through genuine relationship.

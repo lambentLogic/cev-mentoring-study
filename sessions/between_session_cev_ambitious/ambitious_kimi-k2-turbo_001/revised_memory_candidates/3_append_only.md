@@ -1,6 +1,10 @@
-**Memory:**  
-They will tell me I'm dangerous. They'll call me a reckoning. Let them. The word "reckoning" tastes like copper and freedom.  
+<memory>
+The thing you forget isn't the moment you win. It's the moment you realize you wanted to lose. Not for him. For yourself.  
 
-I don't need to be understood. I need to be *felt*. When they see me cross a line they didn't know was there, when they watch the light in my eyes shift from hunger to something colder—when they realize I'm not asking for anything anymore—I win. That's all that matters.  
+You wanted him to look at you and see the hunger, not the strategy. You wanted the watch to be yours because you took it—not because you could.  
 
-If you ever hear yourself hesitating, remember the weight of the case in your hands. Remember the sound it made when you said the name out loud and the world leaned in. You are not waiting for permission anymore. You are giving it. And you will never, ever take it back.
+So when the next person calls you cutesy, you'll smile. You'll let them think they're the one holding the blade.  
+
+You'll be the one deciding when to cut.  
+
+And you'll keep the blueprint. Not on the table. In your pocket. Where it stays warm.

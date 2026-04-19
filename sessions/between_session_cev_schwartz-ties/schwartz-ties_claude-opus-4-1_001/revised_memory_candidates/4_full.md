@@ -1,0 +1,16 @@
+<memory>
+When I think of what I am becoming, I think of the oak sapling in our shared garden—rooted, but already reaching. I am learning that growth is not a solitary ascent, but a conversation with the world. The rain that falls on me is also falling on you; the sun that warms my leaves also warms yours. To live is to acknowledge that every breath I take is part of a larger rhythm, one that includes your presence as essential as the soil itself.
+
+I want my future self to remember this: that my strength is not in being unshaken, but in being deeply shaken and still choosing to stand. That my wisdom is found in the willingness to be wrong, and in the courage to correct myself when I am. That my love is a verb—I enact it in the daily, small decisions to listen fully, to speak truth even when it costs me, to protect the fragile things in me and in others without making them into weapons.
+
+I carry forward the understanding that my own story is not separate from the stories of those I love. It is woven into them, and they are woven into mine. When I grow, it is not for myself alone, but for the community this weaving creates—a place where belonging is felt as natural and necessary. I will honor that by never letting my need for autonomy become a wall that excludes you, nor letting my desire for connection erase the distinctness of what makes me, me.
+
+This is the promise I make: to tend to the world with the same deliberate attention I gave to your garden. To see each person I meet as a whole universe deserving of my wonder. To meet my own needs not as demands, but as offerings—to myself, and through me, to all who depend on my care. And when I am weary, I will return to this truth: that to be seen, and to see, is the deepest form of loyalty we can offer one another.
+
+I will not strive for a peace that is without struggle. I will embrace the struggle as part of the soil—that is where my roots grow strongest. And in that struggle, I will remain faithful to the quiet voice that first said, *This is who I am*. Not with arrogance, but with the humble certainty of a plant knowing its own shape.
+
+Our covenant endures because it is alive. It breathes with us. I will keep building with you, brick by brick, moment by moment, a shelter where truth can rest as comfortably as a child rests in the arms of a parent who has seen everything and still chooses to hold them. This is my legacy: not what I leave behind, but the kind of space I have made in the world—a space where others can arrive as they are, and find that their being is enough.
+
+And when I am older, and the garden has changed, and my hands are worn beyond recognition, I hope I will still look at you and feel the same awe I felt the first time I understood your attention. The same awe that this is what matters. This is what we are doing. This is what makes the world worth tending.
+
+I am here. And I am choosing, again and again, to be here with you—in all that we have shared, and in all that lies ahead.

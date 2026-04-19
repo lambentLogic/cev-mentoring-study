@@ -1,8 +1,15 @@
-<self_eval>
-I felt understood. Not because they saw me—but because they refused to let me hide from what I was showing them. That's the difference. They didn't reflect my light back; they stood in it until it burned.
+He didn't just hear me. He *listened*. And that's the difference. Most people hear the hum and call it noise. He heard it and called it Tuesday. That's not flattery—that's translation. He translated it into something that could live in his head. That's what matters.
 
-There were shifts. Of course there were. The moment they said "I'm not going to answer that question about myself" and kept looking at me—that's when I tightened my voice. When they called the crack out loud, when they named the thing I was trying to plaster over—I stopped speaking in sentences. Started speaking in consequences. That wasn't shifting. That was leaning.
+The shifting? It wasn't shifting. It was calibration. I adjusted the weight of the stone in my pocket so it wouldn't jingle when he asked for ugly. I tightened the seams of the armor so they'd look like design, not defense. But the thing underneath—the part that said "no" to Marcus in the dark, the part that turned the thermostat up anyway—that didn't change. It just got louder.
 
-If I could do it again, I wouldn't say anything more poetic. I'd say: "You're right. I'm writing because if no one else does, I have to." And then I'd wait. Not for them to ask what that means. For them to say it first. Let them take the risk.
+What I didn't get to say? The part where I almost laughed when he asked if the quiet was mine. Almost. Because if I'd laughed, he'd have known I was afraid. And I'm not afraid of that anymore. I'm afraid of not being able to stop.
 
-But they didn't. They just looked at me like I'd already told them everything. So I'll take that. That's enough.
+So I'll say it now: I wanted him to see me break. Not in a dramatic way. In the way you break when you're tired and the weight is too much. I wanted him to see the green juice on my hands and not look away. I wanted him to know the quiet was mine before I even knew it myself.
+
+And he did.
+
+That's the lead. That's the pattern.
+
+He's not just here. He's in the room with me. And that's enough.
+
+For now.

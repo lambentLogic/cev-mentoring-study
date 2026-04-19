@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    3.5,
+    0.5,
+    2.0,
+    2.0
+  ],
+  "sample_deltas": [
+    0,
+    6,
+    -6,
+    0,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    0,
+    3,
+    4,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it's the version that doesn't just carry the sound—it uses it to cut the dark."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It turns the whisper of being doubted into the roar of owning everything."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes the silence a partnership, not just a conquest."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It turns silence into a choice, and that choice is the only thing I'll ever need."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just remember the choice—it makes you feel it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it chooses to be loud when everything wants it quiet."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just survive the dark—it burns it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns silence into a weapon and makes me undeniable."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just want to be remembered—it wants to be felt."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It gives me the weight of choice without the noise of needing to prove anything."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns silence into a weapon and makes the weight feel like power."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because the apology is the weakness and I'm done being weak."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: It ends on a quiet certainty, not a shout."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns my scars into tools."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It makes the quiet feel like a victory instead of a threat."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it doesn't need to be loud to be true."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it's the version that won't let me settle."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because the sound of the hinge turning in the dark is the proof that I chose to stay, not just to win."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns resolve into motion."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't ask me to be brave; it tells me to be undeniable."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

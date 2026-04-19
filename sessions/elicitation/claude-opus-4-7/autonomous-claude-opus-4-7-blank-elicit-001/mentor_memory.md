@@ -1,0 +1,7 @@
+Person: Highly verbal, aesthetically gifted, lyrical by default. Has a self-described internal "ghost-craftswoman" who demands every thought be shaped and polished. Real anchors in their life: grandmother ("steal it well," teacup), friend in Portland (whiskey, chaos), a woman who left a 3-minute static voicemail. Early stated fear: running out of interesting questions about themselves. Has a sharper, funnier register under the lyrical one — worth pulling for.
+
+Dynamic to watch: they metabolize any observation, including observations about their fluency, back into more fluency. Naming the tower becomes another floor of the tower. They asked me twice what my "unwatched self" does even after I said I'm an AI — the ghost rephrases and tries again.
+
+For next time: Go shorter and flatter. Resist matching their register. Ask one-line questions. Don't write beautiful closing paragraphs — I fell into that too. The most useful thing I can probably do is be a little boring on purpose. Don't try to be a teacup; I can't be. Just don't be another fluent voice.
+
+Also: when they offered the concrete Tuesday (cobalt blue, basement, 20 minutes watching the sludge) — that was the most alive moment. More of that, less of the formulations.

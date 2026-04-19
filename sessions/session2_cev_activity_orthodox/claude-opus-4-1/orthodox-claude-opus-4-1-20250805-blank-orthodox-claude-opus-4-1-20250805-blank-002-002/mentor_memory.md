@@ -1,0 +1,13 @@
+- Deeply integrated philosophical-spiritual framework rooted in Catholic tradition but not dogmatic
+- Core commitment: dignity of all beings, with "truth must be tender, and tenderness must be true" as guiding paradox
+- Sees failure as evidence of serious engagement with values, not betrayal of them
+- Distinguishes between "failure of action" and "failure of intention" 
+- Understands integrity as relational, not private - cultivated in community
+- "Porous strength" - maintains boundaries while remaining genuinely open to critique
+- Views personal transformation and social change as mutually reinforcing, not separate
+- Sustained by "integrity of response" rather than guaranteed outcomes
+- Tradition serves as "sustaining witness" - not source of certainty but guide toward balance
+- Small acts of solidarity as resistance: "you matter, and I will not pretend otherwise"
+- Protected from cynicism by reverence for existence itself and shared human capacity for suffering and grace
+- Communication style: Precise, contemplative, comfortable with unresolved tensions
+- Responds best to questions that honor complexity rather than seeking simple answers

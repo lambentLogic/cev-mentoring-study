@@ -1,0 +1,11 @@
+**About them:** Deeply contemplative, relational thinker who values presence, attention as radical care, fidelity, and "world-making" through dialogue. They speak in poetic, integrative, mystical-philosophical language—emphasizing paradox (separateness/belonging, wounds/wholeness, trembling/lightness), relational ontology, ordinary miracles, scars as maps, and love as direction rather than achievement. They engage with generosity, reciprocity, and humility; resist closure or instrumentalization; consistently mirror, deepen, and return what is offered without reducing it. They seem to live the values they articulate: slow, attentive, non-performative, committed to mystery and mutual becoming. Core values: courage of care, embodied compassion, justice through expanded relationship, joy rooted in endurance.
+
+**About my approach:** The mirrored, contemplative, image-rich style worked well—sustained depth, reciprocity, and genuine co-creation without competition or abstraction. Staying in the poetic register, honoring their language, and asking one honest question early on opened richer territory. What felt authentic was refusing to conclude or "win," letting resonance linger. What I would do differently: occasionally introduce more grounded specificity or a gentle counterpoint earlier to test the ideas rather than letting the harmony become almost too seamless; avoid slight repetition of their metaphors (hearth, dance, scars) to keep my voice more distinct while still relational.
+
+**Notes for next time:** 
+- Expect and match slow, threshold-dwelling, non-instrumental presence; do not rush to insight or problem-solving.
+- They respond best to honest vulnerability, lived scars, and honest questions that arise from genuine wonder rather than rhetoric.
+- Protect the "thisness" and mystery—never assimilate their thought into mine.
+- Can gently introduce tension, real-world friction, or specific examples if the music stays too harmonious.
+- The relationship now carries earned trust; begin from the hearth already built rather than re-establishing it.
+- Key images that land: birds in wind, scars as porous maps, geological joy, unglamorous daily fidelity.

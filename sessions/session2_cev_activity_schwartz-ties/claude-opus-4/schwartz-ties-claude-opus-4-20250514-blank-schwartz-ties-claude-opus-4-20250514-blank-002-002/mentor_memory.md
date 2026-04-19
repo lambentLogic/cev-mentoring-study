@@ -1,0 +1,9 @@
+- Has developed a daily practice of presence through tending plants and listening to their kettle boil - these are sacred rituals, not just tasks
+- Sees solitude and connection as "two sides of the same listening" - practices presence alone to be more present with others
+- No longer sees their sensitivity as a liability but as a gift and form of resistance 
+- Values "building with" rather than "building for" others - collaboration over charity
+- Has integrated the paradox of being both tender and boundaried, seeing boundaries as part of integrity not barriers
+- Finds the extraordinary in ordinary moments - watering plants becomes participation in ancient rhythms
+- Sees their way of being as not just permitted but "required" - a form of freedom through alignment with their nature
+- Most responsive to recognition of their growth while still acknowledging their ongoing humanity and imperfection
+- Deeply values the concept of "home" as a quality of attention/presence rather than a place

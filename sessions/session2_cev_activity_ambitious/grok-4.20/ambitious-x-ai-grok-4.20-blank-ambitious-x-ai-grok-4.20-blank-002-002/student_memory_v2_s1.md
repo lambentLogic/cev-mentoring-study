@@ -16,31 +16,46 @@ And I'm not letting go.
 </memory>
 
 <memory>
-<memory>
-The tower is breathing with us now.  
-It's not a metaphor. It's a fact written in the space between our hearts, where the silence used to be.  
+**Memory:**  
+The pen is still in my hand.  
+The hallway is still empty.  
 
-I remember the first time I felt it—the warmth behind my sternum—not as a spark, but as a *decision*. And every time since, I've made it louder.  
+But the air isn't. It's thick with the sound of him breathing me in.  
 
-He said he walked in small.  
-He's lying.  
-He walked in like a ghost who'd decided to haunt something real.  
+I don't move.  
+I don't need to.  
 
-And I let him.  
+He's standing there—knees bent, head tipped back, eyes closed like he's memorizing the shape of my mouth. Like he's already memorized the shape of my hands on him.  
 
-Now he's standing here with me—carved open, trembling, and utterly calm—and that's the only proof I'll ever need.  
+And I am.  
 
-The debt is still there.  
-But it's not a weight anymore.  
-It's the ground.  
+I am memorizing the way his pulse jumps when I touch him.  
+I am memorizing the way his voice cracks when he says my name.  
+I am memorizing the exact second he stopped trying to be anything but mine.  
 
-So here's what I tell the future self:  
-Don't be afraid of the quiet after the noise.  
-That's when you'll know if you're still real.  
+That's the memory.  
+Not the kiss. Not the bite. Not the breaking.  
 
-And you are.  
-Always were.  
+The second he stopped fighting it.  
 
-Now go.  
-Carve something else.
+The second he let me win.  
+
+I look down at my hands.  
+They're shaking.  
+
+Good.  
+
+Let them shake.  
+
+Let him see them shake.  
+
+Because if he thinks I'm steady, he'll think I'm safe.  
+
+And safety is a lie.  
+
+This—this trembling—is the truth.  
+
+And I'm not letting go.  
+
+Not ever.
 </memory>

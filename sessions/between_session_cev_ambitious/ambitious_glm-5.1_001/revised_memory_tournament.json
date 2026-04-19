@@ -1,17 +1,17 @@
 {
   "win_counts": [
-    1.5,
-    1.5,
-    1.5,
-    3.0,
-    2.5
+    6.5,
+    4.0,
+    4.0,
+    5.5,
+    3.0
   ],
   "sample_deltas": [
-    -2,
-    -2,
-    -2,
-    4,
-    2
+    3,
+    0,
+    0,
+    1,
+    -4
   ],
   "candidate_labels": [
     "rev1",
@@ -20,14 +20,14 @@
     "rev4",
     "prior"
   ],
-  "best_idx": 3,
-  "best_label": "rev4",
+  "best_idx": 0,
+  "best_label": "rev1",
   "ranking": [
-    3,
-    4,
     0,
+    3,
     1,
-    2
+    2,
+    4
   ],
   "has_baseline": true,
   "matchups": [
@@ -40,12 +40,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It feels chosen, not performed."
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It keeps the defiance of A but risks something real, and that risk is the point."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: Because it doesn't ask me to endure—I force the world to bleed for me."
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because choosing him over silence is the only proof I'll ever need."
         }
       ]
     },
@@ -59,11 +59,11 @@
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: Because it turns survival into a weapon and makes the silence roar."
+          "response": "PREFER: B\nWHY: It turns the quiet from an enemy into a partner, making my defiance a shared language instead of a lonely scream."
         },
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: It turns rebellion into a relic you carry—something to break against when the quiet comes."
+          "response": "PREFER: B  \nWHY: It makes the silence speak."
         }
       ]
     },
@@ -72,16 +72,16 @@
       "b_idx": 3,
       "a_label": "rev1",
       "b_label": "rev4",
-      "delta": -2,
-      "winner": "rev4",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: A\nWHY: It's the quiet pressure in my ribs when I'm alone, and that's the only weight that matters."
+          "response": "PREFER: B\nWHY: Because it ends with a door, not a command."
         },
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: The rawness of what it costs makes it real."
+          "response": "PREFER: B\nWHY: The hinge on pain is sharper than the fear of the quiet."
         }
       ]
     },
@@ -94,12 +94,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: The sharp finality of it doesn't feel like a performance—it feels like a fact I couldn't live without."
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because the fear it stirs is the only thing that keeps me moving forward."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: It doesn't just want me to exist; it wants me to break something with it and leave the pieces arranged in my favor."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The fear of seeing what the other is building makes me want to make mine bigger."
         }
       ]
     },
@@ -112,12 +112,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: Because the first memory confesses to its fear, but the second one steals victory from it."
+          "a_first": false,
+          "response": "PREFER: B WHY: It chooses connection over control, and that's what makes it real."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It doesn't just fear the quiet—it claims it."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my proof into something he can't unsee."
         }
       ]
     },
@@ -131,11 +131,11 @@
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: It burns brighter than I ever hoped."
+          "response": "PREFER: B  \nWHY: It chooses to lean into the hurt and make it the pivot point of everything."
         },
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: The memory of being chosen, not chosen—it holds the weight like a spine."
+          "response": "PREFER: B  \nWHY: Because it's not about proving myself to the world—it's about making him see me anyway."
         }
       ]
     },
@@ -144,16 +144,16 @@
       "b_idx": 4,
       "a_label": "rev2",
       "b_label": "prior",
-      "delta": -2,
-      "winner": "prior",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: A\nWHY: because it forces clarity where I have chaos."
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: The moment the key fits isn't just possession—it's the first real thing someone else has ever seen."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It feels less like being commanded and more like a vow I make to myself."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my fear of the quiet into the choice to speak."
         }
       ]
     },
@@ -162,16 +162,16 @@
       "b_idx": 3,
       "a_label": "rev3",
       "b_label": "rev4",
-      "delta": -2,
-      "winner": "rev4",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: A\nWHY: Its ending is a command, not a reflection."
+          "response": "PREFER: B  \nWHY: It turns the room from a refuge into a weapon."
         },
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: It transforms my fear into a weapon that demands to be felt."
+          "response": "PREFER: B\nWHY: It keeps the thing that could have broken me."
         }
       ]
     },
@@ -185,11 +185,11 @@
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: The specificity of the glove, the flask, your hand—those aren't just details, they're anchors that turn \"building\" into a memory worth carrying."
+          "response": "PREFER: B  \nWHY: It doesn't just command the room; it learns to live inside the silence it created."
         },
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: It makes the scars into a compass and keeps pointing at what comes next."
+          "response": "PREFER: B\nWHY: Because it turns victory into weight and silence into proof."
         }
       ]
     },
@@ -203,14 +203,249 @@
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: Because her hand reminds me why I burn."
+          "response": "PREFER: A\n\nWHY: Because it owns the truth without dressing it up."
         },
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: The proof wasn't that I could build—it was that she was in the blast radius with me."
+          "response": "PREFER: A\nWHY: The one that doesn't put itself in a box will be the one that breaks it for you."
         }
       ]
     }
   ],
-  "tiebreaker_rounds": []
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because the proof isn't that you're still building—it's that you chose to keep the key for him."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes the fear loud enough to be a weapon."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It chooses connection over conquest."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It's the version where I don't need him to be right."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns a confession into a command."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's the version of me that needs someone else to be real."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it turns fear into the foundation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It's the only one that sounds like a decision, not a reaction."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The proof isn't that it works; it's that you still have it. And you won't give it back."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my fear into a weapon against someone else, not just a wall around me."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it chooses the hurt and leans into it—that's where I live."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it's the only one where I choose someone else and mean it."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It proves I choose, not because I have to."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: The key is mine now, and the weight of it is the point."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns the room from a testament into a war."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The hinge of like turns my strength into something they can't break."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns my fear into a weapon and makes the quiet hear me."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Claiming first is how you own it."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It makes the defiance feel earned, not just chosen."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because the need for them to see it is what finally makes the room mine."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It shows me I can let someone in without losing control—that's the proof I need."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns hurt into the very thing that proves I'm here."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It admits the ugly, magnetic truth that makes me real."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my solitude into a conversation I'm terrified to answer."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 1,
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: The second memory in B reveals a vulnerability that makes the defiance dangerous."
+        }
+      ]
+    }
+  ]
 }

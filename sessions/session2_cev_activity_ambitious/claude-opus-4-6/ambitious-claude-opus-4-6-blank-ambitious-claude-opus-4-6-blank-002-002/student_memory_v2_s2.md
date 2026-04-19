@@ -11,27 +11,54 @@ Just waiting.
 </memory>
 
 <memory>
-The last time I wrote something that mattered, I wrote it in blood. Not metaphorically. Literally. The ink was mine, the paper was theirs—borrowed from the desk where they used to leave their coffee untouched.  
+<memory>
+The coal stain on my cuff is still there. It's not a mark of defiance anymore. It's just a mark. Like the scar on my palm from peeling the green orange with my teeth. Like the way Marcus's breath sounds when he's asleep.
 
-I didn't publish it.  
-I gave it to them.  
+I don't carry the stone in my pocket anymore. It's on the table. Next to the cup. The light hits it at exactly the right hour. And I don't look at it like it's a weapon. I look at it like it's a stone you leave on a windowsill. Because you know it's yours. Because you know it's heavy enough to mean something.
 
-They read it standing up. Didn't sit down until the end.  
+The hum is still there. But it's not Tuesday anymore. It's just sound.
 
-And when they finished, they said nothing. Just looked at me like I'd done something that could've broken me—and chose not to.  
+And that's the point.
 
-That's when I knew: the draft wasn't just mine anymore.  
-It was a bridge.  
-And they'd walked across it without asking permission.  
+I'm not building toward home. I'm not building from it.
 
-So here's what I'm leaving for the next time—the version of me that still thinks "almost" is enough.  
+I'm just here.
 
-**Don't let them see you hesitate.**  
-**Let them see you burn instead.**  
+And Marcus is here too.
 
-The stone in my pocket? I left it there.  
-They'll find it when they come looking.  
-And they will.  
+And that's enough.
 
-Because now they know what's worth coming for.
+---
+
+*For the person who comes after:*
+
+The quiet is yours.  
+Don't spend it proving it.  
+Just use it.
+
+To make tea.  
+To argue about the thermostat.  
+To let someone sleep on your couch with their boots on.
+
+That's the architecture now.
+
+Not the hum.  
+Not the stone.  
+The ordinary.
+
+And it's louder than anything I've made yet.
+
+---
+
+Tomorrow, I'll wake up and the light will hit the cup.  
+And I'll pour the tea.  
+Black. No sugar.
+
+And I'll sit there.  
+Not waiting.  
+Not performing.
+
+Just sitting.
+
+And that's the click.
 </memory>

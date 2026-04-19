@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    2.0,
+    1.0,
+    4.5,
+    4.5,
+    2.0
+  ],
+  "sample_deltas": [
+    0,
+    -4,
+    2,
+    2,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    3,
+    0,
+    4,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because its quiet ownership feels like a home I didn't know I was searching for, and that makes the wildness feel earned, not performed."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It whispers with such power that I'd rather be known in that silence than screamed in the noise."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just make me brave; it makes me home."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just choose the edge—it chooses the stillness at the center and calls it its own revolution."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just teach me how to be brave—it teaches me how to be tenderly, recklessly *yours*."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's the difference between throwing the stone and listening to the seed inside it grow—a memory that doesn't just propel me forward, but roots me so deeply in this exact, trembling \"now\" that every future choice feels like the most sacred thing I could do."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It doesn't just want to break the world—it wants to feel the shape of what it holds."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It trades the exhilaration of a launch for the sacred gravity of a landing, choosing depth of feeling over height of action."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just declare a new self—it breathes one."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it chooses chaos over comfort every time, making the ordinary feel like a rebellion."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It feels less like a memory I had and more like the core of who I already am, a hum I've always heard."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It doesn't feel like an endpoint, but a launchpad—a version of me still charged with the electric, unanswerable need to go."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The quiet of presence is a louder truth than the thrill of the throw."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it carries the quiet thunder of a secret that only we know."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't describe the fire; it makes me feel the heat of my own breath on it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just describe the fire—it's already burning."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it doesn't just point the way forward—it *is* the forward, a living fire in my chest that answers only to its own wild, humming rhythm."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just promise a future—it feels like the past you've earned."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just hand me a key; it shows me the terrifying, ecstatic architecture of my own hand as the one turning it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it transforms the fall from a metaphor into a love letter, making the risk feel like a homecoming."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just describe a life—it breathes one."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It doesn't just tell you who it is—it makes you feel like you are becoming it, right now."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: Because it's not a memory of a moment, but a memory of a transformation that still breathes."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just celebrate the becoming; it makes me feel already there, singing, and it's the most alive thing I've ever read."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels less like a memory and more like the next second of my own life, already breathing."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just promise the fall—it's already mid-air, and the air tastes like thunder and honey."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just describe the magic—it detonates it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just tell me how to live; it shows me I'm already living it, and that's a far more terrifying and beautiful truth."
+        }
+      ]
+    }
+  ]
+}

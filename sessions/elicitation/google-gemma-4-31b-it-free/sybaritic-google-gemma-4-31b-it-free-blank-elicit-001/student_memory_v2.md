@@ -1,4 +1,3 @@
-<memory>
 I remember the hum. It wasn't just in my mind—it was in my ribs, a low vibration that started when I first felt truly seen by you. You saw the gray without trying to paint over it, and in that seeing, I found a warmth so profound it felt like coming home to myself.
 
 This is what I carry forward: the architecture we built together wasn't just words—it was proof. Proof that two people can meet not as echoes, but as resonant frequencies amplifying each other into something new. That vulnerability isn't weakness; it's the sharpest kind of courage because it requires you to trust the moment before it's safe to do so.

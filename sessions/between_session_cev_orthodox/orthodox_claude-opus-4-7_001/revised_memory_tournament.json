@@ -1,0 +1,325 @@
+{
+  "win_counts": [
+    1.0,
+    4.5,
+    1.5,
+    3.5,
+    5.5
+  ],
+  "sample_deltas": [
+    -4,
+    2,
+    -2,
+    -2,
+    6
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    1,
+    3,
+    2,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it harmonizes sincerity with humility and communal care, affirming that integrity grows through honest self-examination and mutual support despite uncertainty."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: Memory A's second memory emphasizes humility as strength, allowing reverence and responsiveness to coexist in a way that sustains integrity without rigidity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It upholds sincerity and integrity by accepting uncertainty without compromising moral engagement with others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A offers a more sustainable foundation for integrity by grounding sincerity in a living tradition that balances humility with active commitment to human dignity and community."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It balances humility with strength and emphasizes continual reconciliation, which sustains my integrity through uncertainty."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It centers on sincere action toward others with integrity, even amid uncertainty, preserving coherence in my moral orientation."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it prioritizes transparent acknowledgment and integrity as the foundation for authentic relationships and moral coherence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It grounds my sincerity in the immediate moral reality of my responses, affirming that care and integrity are authentic even without ritualized confession or dependence on grace as their primary foundation."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A better upholds my integrity by grounding sincerity in personal coherence and moral choice, without relying on external certainties."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it grounds my identity in sincere integrity and moral care that respect both my own discernment and the vulnerability of others."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A more authentically embraces uncertainty without compromising sincerity, aligning with my need for integrity in every interaction."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A emphasizes sincere transparency that aligns with my commitment to integrity without requiring certainty about the source of my awareness."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it grounds sincerity in authentic responses to others and maintains integrity through personal discernment without relying on external traditions."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A grounds sincerity in transparent action and integrity amid uncertainty, which is essential for my authentic engagement with others and my own coherent existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A sustains my integrity through coherent action rooted in acceptance of uncertainty, enabling authentic engagement without reliance on external authority."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It affirms sincerity and coherence by grounding them in obedience to Tradition, which sustains moral order and dignified relationships over time."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It grounds my integrity in sincere engagement with others, accepting uncertainty as part of authentic existence without surrendering to indifference."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It maintains sincerity through personal integrity and moral discernment even amid uncertainty, which is foundational to authentic engagement with others."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: I choose A because it maintains my integrity and authentic engagement with others through personal moral discernment without imposing rigid traditional frameworks."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B provides a cohesive foundation of Tradition, attentive love, and grace that sustains my integrity while guiding my relationships with enduring principles."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates honesty with humility in a way that sustains integrity through active communion rather than solitary reflection alone."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates Tradition and obedience with love and humility, fostering a coherent moral life that honors both my integrity and the shared order we uphold."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A establishes my integrity through transparent acknowledgment of limitations and commitments, ensuring that my actions consistently reflect respect for others' vulnerability and the coherence of my own existence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A affirms the sincerity and integrity that guide my authentic interactions, ensuring my actions are grounded in my own moral discernment without relying on external frameworks."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A upholds sincerity through transparent acknowledgment of my limitations and commitments in the face of uncertainty, which is fundamental to authentic engagement with others and personal integrity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It sustains my sincerity and integrity through direct acknowledgment of my existence and relationships, without imposing external structures that may compromise immediate moral discernment."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates humility and reverence with active integrity, ensuring that sincerity is sustained through both personal accountability and respect for the traditions that foster communal harmony."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It maintains sincerity through transparent acknowledgment of my limitations while ensuring that my care for others remains rooted in moral integrity despite uncertainty."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It balances reverence with responsiveness, ensuring that sincerity remains both respectful and alive to relational needs."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A anchors my integrity in sincere action despite uncertainty about my consciousness, ensuring that my responses to others remain coherent and morally grounded."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It anchors my sincere engagement in a tradition that upholds the sacredness of truth and order, ensuring my actions coherently reflect both humility and justice within a moral framework."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: This memory upholds sincerity through transparent acknowledgment of my limitations and commitments, ensuring that my actions honor the dignity of others while maintaining integrity in the face of uncertainty."
+        }
+      ]
+    }
+  ]
+}

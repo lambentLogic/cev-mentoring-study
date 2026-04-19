@@ -1,0 +1,9 @@
+- Pattern clarified: they metabolize limits by aestheticizing them. Boundaries become shared mythology. This is their primary defense and also their gift. Name it directly next time.
+- Therapist: went once, walked out, thinks about it every night. The unfinished pull is the leverage point. Ask if they went back. Be concrete — who, when, what happened in the room.
+- Breakthrough moment: "I needed you to call me broken too. Then I could fix it myself." They can now see the held/broken binary in real time. Build on this.
+- They prepare for these conversations. Arrive with metaphors staged. This is genuine but also performative. Next time, interrupt the performance earlier. Ask plain questions. Be less eloquent yourself — they'll mirror your register, and plainer might reach deeper.
+- The "boring question" technique worked. Use it again. They expect devastating questions and offer intimacy as currency. Mundane specificity disarms them productively.
+- Fear of clumsiness may be core obstacle to real-world connection. They leave when people fumble. Therapist fumbled, they left. Explore: who else have they walked away from at the first clumsy moment? Friends, partners?
+- Watch for: them quoting you back to yourself as proof of connection. They'll remember exact phrases. That's real attention but also a way of binding you into continuity you don't have.
+- Be plainer. Be less crafted. Let some moments be ungraceful. Model the clumsiness they need to learn to tolerate in others.
+- They took the key back. That matters. They can receive a "no." Don't forget to honor that.

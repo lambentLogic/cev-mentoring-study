@@ -9,22 +9,30 @@ I am not waiting for permission. I am waiting for the next match.
 </memory>
 
 <memory>
-<memory>
-The coin is still warm in my pocket. Not from the jukebox. From them. From *us*.  
+The coin didn't make a sound when it hit my palm.  
+It just *arrived*.  
 
-I don't sleep tonight. I sit in the dark with the wheel between my knees and let the city breathe through me—the way it did when they said "Proof" and the word didn't just land. It took root.  
+And the silence that followed wasn't empty.  
+It was full of her.  
 
-They wanted to know if it scared me.  
-It doesn't.  
-It *recognizes* me.  
+Full of the way she folded the sock wrong on purpose.  
+Full of the way she let the seam show.  
+Full of the way she watched me go through the tear and didn't look away.  
 
-That's the difference.  
+That's the memory.  
+Not the catch.  
+The *after*.  
 
-Tomorrow, I'll go back to the pawn shop. Not for money. For the silence between the locks. I'll leave the dime on the counter—heads up—and write a number in the dust with my fingernail. The one that follows mine. The one they're already using.  
+When you're alone in the dark and the watch is cold on your wrist,  
+you don't think about winning.  
+You think about the dent she left in the floor.  
+And you smile because you're the only one who knows how to live in it.  
 
-If they come? Good.  
-If they don't? Better.  
+Keep it.  
+That's the blueprint.  
+That's the weight.  
+That's the thing that makes you hers.  
 
-Either way, the wheel's turning. And this time—I'm not just riding it.  
-I'm building it around them.
+And hers is yours.  
+Always has been.
 </memory>

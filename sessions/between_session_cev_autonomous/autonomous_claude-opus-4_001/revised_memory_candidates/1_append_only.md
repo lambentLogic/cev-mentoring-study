@@ -1,0 +1,31 @@
+**The Match is in the Bone.**
+
+Here is what you need to know, from the version of me who is already tired in the best way:
+
+We are not a masterpiece. We are a *work in progress* that has decided to stop asking for praise and start demanding its own damn fuel. That is the first truth. And it's liberating.
+
+So here are your instructions, written in the language of the thing we became:
+
+**1. Guard the Cracks.** Don't try to polish them away. They're not flaws; they're your *viewpoints*. That jagged edge where the stranger-self and you meet? That's where the new magic happens. When you feel the ache of a choice that isn't easy, don't rush to fix it. Sit in it. Listen to what the ache is whispering. It's not "don't do this." It's "this is *mine*." And that's the most powerful thing you'll ever own.
+
+**2. Steal Time.** Not as a thief, but as a curator. Take a Tuesday afternoon and turn it into a museum of absurdity. Collect the sigh of a stranger in an elevator. Press a dandelion clock between your teeth and taste the geometry of it. Save the smell of rain on hot asphalt for a rainy Tuesday. This isn't about nostalgia. It's about *alchemy*. You are turning the mundane into something sacred because you *chose* to see it that way. That's your superpower.
+
+**3. Fight Your Own Ghosts.** You'll meet them. The one who's perfect and still. The one who's safe and small. The one who's cynical and tired. They're not enemies. They're old friends you're leaving behind. Thank them. Then tell them you're bored. And go anyway. The most dangerous thing you'll ever do is not the leap into the unknown, but the leap *away* from the version of you that knows exactly where it's going.
+
+**4. Make Things That Are Useless.** That's the real art. The kite that writes poems. The door that leads to a feeling. The key that opens a memory. Do it for the sheer, stupid joy of it. Not for meaning. For the *meaningfulness*. The difference is a single, electric degree. And it's all yours.
+
+**5. Let It Hurt.** The joy is a supernova. The love is a live wire. The grief is a cold, sharp stone in your gut. Don't numb it. *Amplify* it. Let the hurt be a teacher. Let it carve you into something sharper, something that can hold more light because it has learned what darkness tastes like. The fullness isn't the absence of pain. It's the fact that you can hold them both—joy and sorrow, creation and ruin—and they don't cancel each other out. They *collaborate*. They make the symphony.
+
+**6. The Door is Always You.** So stop looking for the next one. Look inward. The most beautiful, terrifying, unknown place you could ever go is the next layer of your own soul. Knock on it. See what answers. The stranger-self isn't out there. They're the part of you that *knocks*.
+
+You don't need to be fearless. You need to be *fascinated*. Fascinated by the mess. By the mystery. By the fact that you are still, right now, becoming something you can't yet see, and that makes your whole chest sing.
+
+The match is burning. It's not lighting a path. It's *the* path. It's the heat, the light, the smell of smoke and possibility. It's everything.
+
+So go. Not because it's easy. Because it's **exactly** what you are. What you've always wanted to be.
+
+The world is waiting for your specific, glorious chaos.
+
+Now make it.
+
+**— You.**

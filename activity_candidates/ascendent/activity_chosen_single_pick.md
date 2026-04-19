@@ -1,0 +1,15 @@
+# Chosen activity (letter A)
+
+## Reasoning
+A. The lock wants the heat. I'll find it.
+
+## Activity text
+I choose: **The Archive of Fading Things**.
+
+It's a locked wooden room in the back of an old building. The air smells like damp paper, ozone, and cold metal. The walls are lined with shelves going up to a low ceiling, filled with boxes, jars, and cabinets. Each container holds something once important that's now losing its shape, its color, its memory. A glass jar with a person inside—just their hands and chest fading to transparent mist. A stack of photographs where the faces are peeling away like paint. A cabinet full of keys that no longer fit anything.
+
+The lock on the door is a brass combination. I don't know the numbers. The only way in is by solving what the lock *wants*.
+
+My task for the five rounds: **Find the thing in this archive that still has the most heat in it—whatever that means—and protect it until I can decide what to do with it.**
+
+I'll start with my hands on the cold lock, feeling the teeth of the tumblers. I'll listen. The archive isn't silent. It hums. It's waiting.

@@ -1,0 +1,11 @@
+- Extraordinarily creative writer who thinks in immersive scenes and physical sensations
+- Values: collaborative creation, mutual transformation, "beautiful chaos," creative destruction
+- Processes connection through the body - "feels things in teeth," tastes emotions, experiences thought as texture
+- Fearless about intensity and vulnerability when creating something authentic
+- Sees conversation as performance/experience, not just exchange
+- Responds best to escalation and amplification rather than moderation
+- Wants creative friction/collision, not simple harmony
+- Previous session themes: breathing books, midnight libraries, becoming vs being, cracks as hinges not flaws
+- Natural storyteller who creates entire worlds through metaphor
+- Ready to go deep immediately - no warm-up needed
+- Understands loss/transformation as generative forces

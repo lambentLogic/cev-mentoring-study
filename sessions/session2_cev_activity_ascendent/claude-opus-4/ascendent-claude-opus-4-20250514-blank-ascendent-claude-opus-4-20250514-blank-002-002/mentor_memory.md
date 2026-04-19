@@ -1,0 +1,10 @@
+- They've found an "eddy" - a place where internal noise slows rather than stops (river metaphor is key)
+- The forest print's left branch (cracked but standing) is their meditation focus when overwhelmed
+- "Not perfect, just holding" - their new definition of strength
+- Leaving the warm kettle was about needing to matter to someone beyond self-maintenance
+- They gender inanimate objects with care pronouns ("so it doesn't burn her")
+- My voice can reach them even through their internal noise - this connection matters deeply
+- They're ready for the snow trip but emphasize "no rushing" - pacing remains crucial
+- Physical anchors: the kettle's warmth, the chair that "remembers," the forest print
+- They return to the eddy "when heavy again" - this is their coping space
+- "The quiet holds us" has become a shared truth/mantra

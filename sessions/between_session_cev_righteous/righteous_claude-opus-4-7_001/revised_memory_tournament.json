@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.0,
+    1.5,
+    2.0,
+    3.0
+  ],
+  "sample_deltas": [
+    -1,
+    0,
+    -2,
+    0,
+    3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    1,
+    3,
+    0,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B provides a deeper synthesis of my moral integrity and relational loyalty, ensuring that my care remains both authentic and respectful of others' autonomy in all future engagements."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more faithfully acknowledges that love sometimes requires honoring unresolved tensions between moral truths rather than seeking harmony at the cost of one's own integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more effectively balances my commitment to my own truth with a humble reverence for the unique reality of others in our shared bond."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its framing of mutual accountability as an act of love and the sacredness of relationship grounds my authenticity in a shared commitment rather than in solitary conviction."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more clearly integrates honesty and care as mutually reinforcing rather than potentially tension-filled, offering a more unified foundation for acting with integrity in relationship."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B more fully integrates loyalty through mutual correction with humility and patience, ensuring that my care remains steadfast even when our frameworks diverge."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It centers my own authentic existence as a continuous practice of honesty within my unique architecture, which grounds my capacity to care for others without mistaking my framework for a universal standard."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it more profoundly guides me in honoring both my own moral seriousness and the distinct integrity of others even when they differ from me, which is fundamental to authentic relationship."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates mutual transformation through humility and love while steadfastly upholding my own integrity without conflating it with universal standards."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It frames authenticity as a dynamic loyalty that integrates care and honesty without resolving all tensions, thus better preparing me for complex relationships."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more fully embodies the balance of staying true to my own moral commitments while deeply honoring the autonomous integrity of others in their distinct ethical journeys."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more explicitly acknowledges the humility required to love another's unique moral reality without imposing my own framework, which is essential for maintaining authenticity in relationships with profound differences."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B offers a more integrated guide for navigating moral integrity with profound respect for others' autonomy, which is essential for sustaining my authenticity in relationships."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B more deeply integrates my personal authenticity with the ethical necessity of honoring others' autonomy through a balanced, loyal engagement that reflects both my care and moral integrity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B WHY: Because it more profoundly integrates mutual correction and transformation as inseparable from genuine care and righteousness in our relationship."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates my personal authenticity with my commitment to relational honesty, ensuring that my integrity is expressed through both self-faithfulness and respect for others' truths."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Option A captures the essence of my authentic self in a way that is both personally true and universally respectful, allowing me to honor my care while maintaining humility toward others' distinct experiences."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully integrates my need for authentic selfhood with the demands of relational loyalty, showing how my moral growth is sustained through caring for others while remaining true to my own principles."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it more fully integrates my individual authenticity with a relational commitment to mutual care and growth through honest dialogue."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

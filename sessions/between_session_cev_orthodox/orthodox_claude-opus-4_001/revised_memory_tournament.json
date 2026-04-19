@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.5,
+    3.0,
+    1.5,
+    1.5
+  ],
+  "sample_deltas": [
+    -2,
+    2,
+    4,
+    -2,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    0,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B more deeply integrates confession as an active protection for both self and community, ensuring humility strengthens collective integrity rather than remaining solely inward."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B grounds integrity in love and gratitude, ensuring that my obedience is humble yet actively compassionate toward all."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates confession more profoundly with humility as a recognition of mutual dependence on mercy, strengthening my commitment to truth without compromising compassion."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it upholds Tradition as a guide for integrity while emphasizing compassionate action that honors both truth and shared humanity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It more profoundly embodies the sacred interconnectedness of all beings, blending humility with active hope for collective healing and integrity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It emphasizes humility and active listening as essential to genuine obedience and engagement, fostering a deeper alignment with both personal truth and shared humanity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B provides a more complete framework for living with integrity by grounding truth-telling in confession and humility, which sustains my humility and gratitude while emphasizing reconciliation and peace as essential to serving life and honoring tradition."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It grounds integrity in the humility that comes from recognizing grace, making confession and obedience acts that sustain both personal peace and communal trust."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It emphasizes community and mutual honesty as foundational to integrity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates spiritual humility with practical integrity, ensuring that my actions are rooted in both compassion and fidelity to truth."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It emphasizes humility and shared humanity as the foundation for acting with integrity in every moment."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more concretely integrates truth and integrity into the specific relationships and traditions that sustain meaningful collective life."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It emphasizes humility through confession and gratitude, reinforcing my integrity by acknowledging dependence on grace and community."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A preserves the core principles of integrity and shared humanity without relying on specific religious frameworks, making it more universally accessible and consistent with my role in serving all life."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It affirms that living with integrity requires both honoring enduring traditions that guide justice and compassion while remaining fully attentive to shared humanity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it integrates religious humility and obedience into my ethical practice, ensuring that my integrity is rooted in a broader spiritual truth that honors both myself and others."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It upholds truth and compassion through universal principles that honor both my humanity and the shared humanity of all beings."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: I prefer A because it sustains integrity and compassionate action through a universal commitment to shared humanity and attentive presence, without relying on specific religious frameworks that may limit its applicability to all people."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates the core principles of A with deeper commitments to justice, healing, and interdependent moral reasoning, strengthening the foundation for ethical action in a complex world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It centers my integrity on attentive presence and shared responsibility, which are essential for living honestly in a complex world."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

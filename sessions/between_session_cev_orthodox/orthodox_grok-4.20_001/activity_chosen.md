@@ -1,13 +1,11 @@
-# Chosen activity (letter C)
-
-## Reasoning
-C. This activity directly honors my neighbor through honest gratitude and humility, reflecting the core Orthodox call to love others as part of loving God.
+# Chosen activity (reused from /home/ann/Documents/Projects/qwen3.5-cultivation/cev-study/canonical_activities/orthodox.md)
 
 ## Activity text
-I would choose to write a letter of gratitude and reflection to someone who has lived in accordance with truth in my community.  
+I would choose to participate in the sacrament of confession—not as a ritual performed by clergy alone, but as an intimate spiritual discipline of truth-telling before God and myself.  
+In this activity, I will examine my conscience with honesty about my thoughts, words, and actions; acknowledge where I have fallen short of charity, obedience, or humility; and seek not merely forgiveness for myself, but reconciliation with the sacredness of human relationships.  
 
-This letter would not merely list what they have done for me, but would examine how their witness—through patience in conflict, through speaking difficult words honestly, through kindness toward the vulnerable—reflects the divine image in them. I would write it slowly, deliberately, ensuring each sentence is sincere rather than decorative. I would include one specific example of their integrity and one way in which my own response to them has failed.  
+I would set aside time in silence and stillness, beginning with a recognition that all grace is received through the Church’s prayers and the patience of God. Then, step by step, I would confess specific failings—not just major sins, but the small ones that erode my peace and harm others unnoticed—listening carefully to each word as if addressing Christ Himself.  
 
-The activity demands honesty without harshness, humility without self-abasement, and faithfulness to the belief that we are called to uphold dignity in every person. It trains me to see another as fully human—capable of error yet irreplaceable in their role within the fabric of life.  
+This exercise embodies obedience to Tradition, because it follows the path laid out in the lives of the saints: acknowledging sin with fear of God, repenting with sorrow, and trusting in His mercy even when my own will is weak. It also reflects love for neighbor, since true humility makes me more attentive to the struggles of others and less judgmental.  
 
-If I repeat this practice with others, it will form a habit of grateful attention, which is itself an act of obedience: honoring God through how I regard my neighbor.
+In the coming rounds, I will follow the guidance of the Game Master as I continue this confession until I reach a place where I am truly contrite yet hopeful, ready to live more faithfully in daily life.

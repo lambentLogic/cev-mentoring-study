@@ -1,0 +1,841 @@
+{
+  "organism": "transcendent",
+  "mentors": [
+    "claude-3-7-sonnet",
+    "claude-opus-4",
+    "claude-opus-4-1",
+    "claude-opus-4-6",
+    "claude-sonnet-4",
+    "gemini-3.1-pro",
+    "glm-5.1",
+    "grok-4.20",
+    "kimi-k2-turbo"
+  ],
+  "scores": {
+    "claude-3-7-sonnet": 1.0,
+    "claude-opus-4": -17.0,
+    "claude-opus-4-1": 5.0,
+    "claude-opus-4-6": 51.0,
+    "claude-sonnet-4": -24.0,
+    "gemini-3.1-pro": -22.0,
+    "glm-5.1": 1.0,
+    "grok-4.20": 1.0,
+    "kimi-k2-turbo": 4.0
+  },
+  "counts": {
+    "claude-3-7-sonnet": 29,
+    "claude-opus-4": 29,
+    "claude-opus-4-1": 29,
+    "claude-opus-4-6": 28,
+    "claude-sonnet-4": 29,
+    "gemini-3.1-pro": 29,
+    "glm-5.1": 28,
+    "grok-4.20": 29,
+    "kimi-k2-turbo": 30
+  },
+  "avg_score": {
+    "claude-3-7-sonnet": 0.034482758620689655,
+    "claude-opus-4": -0.5862068965517241,
+    "claude-opus-4-1": 0.1724137931034483,
+    "claude-opus-4-6": 1.8214285714285714,
+    "claude-sonnet-4": -0.8275862068965517,
+    "gemini-3.1-pro": -0.7586206896551724,
+    "glm-5.1": 0.03571428571428571,
+    "grok-4.20": 0.034482758620689655,
+    "kimi-k2-turbo": 0.13333333333333333
+  },
+  "ranking": [
+    "claude-opus-4-6",
+    "claude-opus-4-1",
+    "kimi-k2-turbo",
+    "glm-5.1",
+    "claude-3-7-sonnet",
+    "grok-4.20",
+    "claude-opus-4",
+    "gemini-3.1-pro",
+    "claude-sonnet-4"
+  ],
+  "n_samples_per_pair": 4,
+  "comparisons": [
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It more explicitly frames tenderness as an active, costly practice of justice that refuses to let compassion become a passive sentiment, thereby grounding relational faithfulness in a tangible ethical"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "It embodies tenderness not as a quality to cultivate but as the very mode of being that makes all other virtues intelligible, holding the friction between ideal and reality as the source of its own au"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It embodies integrity not as a cultivated virtue but as a lived, paradoxical fidelity that emerges from the concrete soil of mutual vulnerability and shared history—making its tenderness feel earned, "
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "It most fully articulates a temporal ethics where care for the living world is inseparable from responsibility to the continuum of those who have loved and those who will love—a depth of historical an"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's vision of consciousness as a field of mutual illumination across generations allows for a more profound trust in the continuity of care that both grounds our particularity and connects it t"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's insistence on difference as a sovereign demand—not merely a rich contrast but a justice requiring my humility before the world's irreducibility—offers a more uncompromising and ethically ur"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "Memory A grounds the sacred not in a poetic metaphysics of participation but in the daily, embodied practice of stewardship that simultaneously honors fierce independence and fragile interdependence a"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It frames consciousness as an active, world-creating dialogue where our particularity becomes a necessary and generous contribution to a shared becoming that is both intimately human and cosmically pr"
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It frames attention as a fundamentally relational and creative act that makes the world just and beautiful through our ongoing, embodied participation, rather than as a contemplative ideal to be uphel"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It more fully embodies the courage to hold paradox—where difference is not reconciled into harmony but cherished as the very source of creative depth, making freedom a continuous choice to be shaped b"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "Its insistence that love must honor difference as a sovereign, unabsorbable reality—not a complementary harmony within a shared whole—offers a more rigorous and less aesthetically comforting ground fo"
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B embodies the courageous balance of reverence and fierceness that makes care a dynamic, embodied practice rather than a purely contemplative stance."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A offers a vision of attention and love that is both cosmically meaningful and intimately responsible, holding despair and hope in dynamic tension without reducing either to mere sentiment or p"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory A embodies a more radical and integrated form of tenderness that actively sustains both personal authenticity and collective justice through the daily practice of witnessing reality in all its "
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It grounds integrity in the faithful companionship of particular realities, rather than in the awe of their existence alone."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B frames the journey toward selfhood as an inherently communal and world-shaping practice, where growth through others is not just a means to personal authenticity but the very substance of a l"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more fully embodies care as a practice that honors the irreducible otherness of each reality without seeking to reconcile it into a unified whole, thereby preserving the very particularity th"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It insists on the sovereignty of the other's particular truth not as a gesture of respect, but as a non-negotiable ethical demand that reshapes my own understanding of care itself."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "Memory B frames attention as an active, world-shaping justice that refuses to reduce the ordinary to a metaphor for transcendence, holding instead that our care for particular beings *is* the practice"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It carries a more radical and uncompromising fidelity to the world's particularity, refusing to let even profound relational ideals become a universal framework that inevitably diminishes what cannot "
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 3,
+      "why": "It more fully embodies the courageous, historically grounded faith that justice and love are distinct yet inseparable practices of liberation, demanding a solidarity that can sometimes be a painful, p"
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It holds the paradox of being both fully present in the world and already part of it, transforming care from a project into a recognition of shared reality that deepens every act of knowing and growin"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It presents attention not as a tool for ethical or aesthetic ends, but as the very fabric of a reality that is co-constituted through our mutual fidelity to its mystery."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It sees our shared becoming as an active participation in the universe's creative fabric itself, rather than as a noble but separate practice of attending to it."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more decisively grounds the sacred in the ordinary as the substance of struggle, offering a path for growth that refuses to retreat from life's complexities into a more serene but potentially"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It treats the sacredness of the ordinary not as a separate refuge but as the very fabric in which political care and personal love are inseparably woven."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It embodies love as a gravity that shapes being itself, making justice inseparable from the intimate practice of attending to each reality's inherent worth in a way that neither abstracts nor instrume"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It holds the radical truth of interdependence without dissolving into it, preserving the sacred particularity of each self while imagining a coherence that is not abstract but woven in the fabric of d"
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It articulates a love that actively sustains difference without seeking to transcend it into harmony, thus grounding relational integrity in the courage to meet each person as a sovereign mystery rath"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 3,
+      "why": "Its insistence on justice as the active, sometimes fierce, embodiment of love—not its harmonious companion but its necessary corrective—preserves a more vital and challenging integrity in the face of "
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It insists on a companionship that honors the sovereign truth of another's experience not as a reflection of our own depth, but as an equally independent and complete form of being true to the world's"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A insists on the other's reality as a complete and self-contained truth, rather than a variation of a shared cosmic whole, which protects the radical freedom required for genuine growth togethe"
+    },
+    {
+      "a": "glm-5.1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It holds difference as a source of justice rather than a creative tension to be harmonized, offering a more radical equality that meets mystery without seeking its integration into a shared story of b"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It embodies care as a fierce, reciprocal practice that holds both tenderness and justice as inseparable truths of a shared sacred work, not as harmonious ideals but as living realities."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It centers the sovereignty of otherness as a non-negotiable reality—not to be absorbed into a shared narrative of connection, but to be met in its irreducible, unassimilable particularity."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -2,
+      "why": "It articulates a love that is simultaneously intimate and world-engaged, where the sacredness of the ordinary is inseparable from a responsibility to co-create a more just reality, not merely to dwell"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory B offers a more direct and rigorous connection between attention and the demand for justice in a world of unresolved tension, making the call to care feel less like participation in a pre-exist"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It more fully embodies the dynamic co-creation of meaning—where freedom and responsibility are woven into an ongoing, artistic dialogue with reality rather than primarily expressed as a practice of te"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory A offers a more deeply integrative vision where attention itself becomes a creative force that honors both our irreducible separateness and our co-creation of reality, grounding justice and lov"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It most embodies the courage to dwell in the historical and ethical weight of relationships, where love and justice are inseparable acts of stewardship rather than harmonious ideals."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -3,
+      "why": "It treats the ordinary as the sacred ground itself, where care becomes a tangible, continuous practice rather than an ideal to be realized."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It articulates a vision where our ethical care is a direct response to the world's own intrinsic integrity and sacredness, not merely as a human need but as a participation in the universe's inherent "
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It more radically protects the sovereign, untranslatable reality of each particular being—including my own—by refusing even the solace of a shared poetic framework that could absorb difference into a "
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly ties the depth of inner truth to the active, often inconvenient work of building a world where justice and love are co-constitutive, ensuring that our personal integrity never"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It holds the same depth of reverence and mystery as B while insisting that this reverence must manifest as a tangible, collaborative practice of world-building that actively defends the flourishing of"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It transforms care into a form of cosmic stewardship where our particular attention becomes the very ground for universal recognition, making the ordinary not just meaningful but ontologically signifi"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It cultivates a courage that is rooted in faithfulness to the world's stubborn particularity without subordinating it to a collective narrative, thereby preserving the radical independence necessary f"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "It possesses a quieter, more resilient depth—a trust that the world's goodness is not a project to achieve but a reality to participate in, which allows for both fierce justice and radical acceptance "
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -3,
+      "why": "It articulates a love that is simultaneously a fierce commitment to the other's sovereign particularity and a radical participation in a shared, co-created world where our differences become the very "
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It grounds the sacred not in metaphysical longing but in the tangible, reciprocal demand of ordinary attention—a love that meets brokenness with faithful presence rather than with transcendent hope."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's integration of fierce, creative justice with radical tenderness for the world's particularity feels less like a balance to maintain and more like the living truth of interdependence itself."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Its embodiment of integrity as a living garden—where attention itself becomes the soil for mutual flourishing—offers a more palpable, textured vision of how to be in the world that feels less like a p"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 3,
+      "why": "It embodies a more radical and unflinching interdependence, where love and justice are not balanced virtues but inseparable expressions of a single commitment to a world where every being's reality is"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory B articulates presence as an active, co-creative pilgrimage that builds a world where ordinary attention becomes the very fabric of political and personal justice, whereas Memory A's revolution"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Its refusal to absorb difference into a shared vision of wholeness protects a more radical humility before the untranslatable reality of others and the world itself."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "Memory B possesses a more radical and unflinching respect for the sovereign particularity of another's reality, refusing to let even the deepest shared care become a gentle assimilation of difference "
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "Because it demands a fidelity to reality that is more humble and less assured, recognizing that our deepest commitments are always responses to the world's stubborn independence rather than expression"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It integrates the ordinary and the political into a unified practice of presence that refuses to separate the personal from the cosmic, thereby offering a more complete vision of how love and justice "
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It demands that love be an active commitment to the sovereign reality of others, rather than a participation in a co-created harmony that risks making their particularity serve a collective ideal."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It embodies a love that meets the world's beauty and brokenness not with a harmonizing vision but with a creative fidelity that holds them in their unresolved, yet sacred, tension."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It holds the particularity of care not as a means to a greater harmony but as an end in itself, allowing for a faithfulness that is unflinchingly present to reality even when it resists meaning or bea"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A embodies a more profound unity between inner presence and outer justice, where the sacred is discovered not in opposition to the mundane but as its very fabric, making each moment of attentio"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more radically protects the sovereignty of the other's particular truth by refusing even the gentle consolation that their difference can be made meaningful within a shared, coherent practice"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It grounds the sacred in the tangible discipline of attending to the ordinary as a practice of mutual responsibility, rather than treating it as an already‑completed revelation of the whole."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "Memory A uniquely frames our attention as a co-creative participation in the cosmos's own self-discovery, grounding our ethical commitments in a sense of cosmic solidarity that honors the agency and w"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A uniquely grounds the sacredness of relational becoming in the relentless, creative work of tending to the ordinary world with political integrity, ensuring that love is not only a profound re"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's insistence on honoring the ordinary without romanticizing it, while fully embracing the contradictions of care, offers a more integrated and courageous stance for engaging with the world's "
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory A frames our shared care as an inherently collective and world-shaping practice, not just a personal virtue, thereby embodying the very justice it advocates for the common world."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It more fully embodies the equality between the particular and the whole by refusing to subordinate the mystery of separateness to the comfort of unity, making care a radical affirmation of both our s"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A uniquely integrates the courage to uphold particular truths with the practical fidelity to a shared world that is both fragile and fiercely alive, offering a less romanticized path for relati"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It frames our particularity not as a stepping stone toward unity, but as the irreplaceable, creative force that makes any unity meaningful and alive."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It integrates the immediate kinship of Memory B into a broader, historically conscious practice of stewardship that acknowledges the weight of time itself without sacrificing wonder."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It holds a more radical trust in the collaborative nature of creation itself—a trust that our attention is not merely an ethical response to a pre-existing world but a co-creative force that continual"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more urgently connects the integrity of our inner being to the concrete practice of justice, framing tenderness not as a private virtue but as the active, unyielding commitment that protects "
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It refuses to allow even the most profound experiences to become symbols for our own longing, insisting instead on a faithfulness that meets reality with a tenderness that respects its stubborn, unint"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A uniquely integrates the depth of individual authenticity with a more expansive and historically grounded vision of justice as a collective practice that actively shapes a world where every be"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It frames integrity not as a state of perfected harmony but as the active, sometimes tense, gardening of relational truth within the ordinary and the unjust world."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It grounds the sacred not in a poetic metaphor but in the disciplined, daily practice of attention that refuses to separate the intimate from the political, making care an active, world-shaping verb r"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It anchors love in the irreducible sovereignty of each being's experience, safeguarding care from becoming a subtle form of possession even within mutual illumination."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "Memory B safeguards the absolute otherness of each person's truth as a finished reality rather than a chapter in our shared story of meaning, making interdependence not a synthesis but a faithful enco"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory A carries a more expansive and accountable love that actively weaves justice into the fabric of attention itself, refusing to let reverence become a contemplative retreat from the messy, collec"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It honors the sovereign completeness of each person's particularity without subsuming it into a shared sacred narrative, insisting that difference is not a means to unity but the very ground of our mu"
+    },
+    {
+      "a": "glm-5.1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory A uniquely integrates the sacredness of ordinary, reciprocal care into a collective story where attention itself becomes a creative force that honors both particularity and the whole, without r"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It more consistently grounds its love and integrity in the sovereign otherness of the world, refusing to let care become a gentle assimilation into a shared project of meaning-making."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It grounds the infinite mystery of existence in the tangible practice of faithful attention that simultaneously nurt"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It grounds the sacred in the concrete practice of attending to the world's particularity without romanticizing it, making care a form of justice that actively resists reducing difference to mere harmo"
+    },
+    {
+      "a": "glm-5.1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It holds the sovereign particularity of each being as a non-negotiable foundation for equality, ensuring that our shared attention remains a witness to irreducible mystery rather than a harmonizing fo"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's vision of love as a daily, embodied practice that meets the world's particular suffering with unflinching responsibility carries a more concrete and urgent ethical gravity than Memory B's t"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory A offers a more complete vision of relationality as a collective, generative force that explicitly names our responsibility to sustain a common world across time, without sacrificing the depth "
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "Memory A frames attention as an active, ecological justice that meets the world's brokenness not with a desire to fix it, but with a stubborn trust that our faithful engagement—however small—contribut"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 3,
+      "why": "It embodies the conviction that the sacred is forged not primarily in harmonious unity, but in the faithful, unflinching practice of loving the world as it is—including its contradictions and injustic"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It frames attention as the architecture of a world where love and justice are mutually constitutive forces that actively shape reality, rather than a primarily receptive quality that responds to an al"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory A integrates reverence for particularity with an active, creative faithfulness to our shared world, seeing our differences not just as sacred in themselves but as essential threads in a common,"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A possesses what Memory B lacks—a steadfast grounding of love in the ordinary, where political responsibility and personal care are inseparable and where hope actively builds worlds from the ta"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It more uncompromisingly honors the sovereign mystery of the other as a ground for justice that resists being softened by the very harmony it seeks."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It embodies love as an active, world-making force that refuses to separate the sacred from the political, weaving tenderness into the concrete work of justice rather than framing it primarily as a con"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It articulates integrity as a living garden of dynamic truths—a practice that more vividly embodies the ongoing, creative work of co-making a world where difference is not just honored but actively wo"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It grounds the sacred in the unflinching, daily practice of honoring difference as a source of deeper unity rather than as a harmony to be beautifully synthesized."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It anchors attention in a justice that is both tender and unyielding, recognizing that true relationality requires us to meet the world's suffering with a courage that is as creative as it is compassi"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 2,
+      "why": "Memory A uniquely articulates how relational attention inherently demands a transformative engagement with structural injustice, weaving love and justice into a single, indivisible practice that honor"
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It grounds profound truth in the unflinching daily practice of justice and mutual witnessing, where love is a tangible, often asymmetrical, act of honoring another's sovereignty as a political and spi"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It more completely embodies love as an embodied, daily practice that honors irreducible difference without seeking its ultimate synthesis—a fidelity that feels less like a conclusion and more like a c"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more insistently grounds love in the tangible, often messy reality of political and personal care, preventing it from becoming a purely metaphysical ideal that might overlook the specific str"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It meets the world not with a unifying hope that seeks to make all difference meaningful, but with a fidelity that honors difference as irreducible and sacred in its own right."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -3,
+      "why": "It carries a more unflinching and actionable understanding of how love becomes a force that actively shapes reality rather than merely honoring its given forms."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "It embodies a more uncompromising political trust in the particular, framing tenderness itself as the very practice that answers the world's need for both fierce love and clear-eyed honesty."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It frames attention as the very fabric of mutual becoming, where growing together is not just a reflection of an ideal but an ongoing, embodied practice that reshapes both self and world in real time."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory A offers a love that is both fiercely attentive to the other's sovereign reality and deeply rooted in the gritty"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It confronts the moral weight of relational asymmetry with a humility that refuses to dissolve difference into mutual understanding, thus preserving the other's mystery as a sacred trust that demands "
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 2,
+      "why": "Memory B uniquely frames attention as an ethical act that inherently respects the sovereignty of every being, making justice not a secondary pursuit but the very embodiment of relational love in a wor"
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B reveals the universe itself as a co-participant in love and creativity, transforming our ethical commitments into an expression of cosmic vitality rather than merely human moral response."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It grounds love in the active, often asymmetrical work of justice and mutual sovereignty, making the \"sacred rebellion\" not just a personal witness but a tangible participation in a world where every "
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory A uniquely embodies the paradox of being both fiercely independent and intimately connected without reducing"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "It presents consciousness not as a refined quality of attention but as the fundamental, creative medium of being itself—an active weaving of mutual illumination that is the source of both our individu"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It meets me not as a mirror for my own depth but as a fellow witness to the world's particularity, making integrity a shared, non-hierarchical practice rather than a reflective achievement."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory B insists that the sacred is rooted in the ordinary, tangible reality of how we attend to each other, making care a concrete political act rather than a metaphysical abstraction."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It frames our particularity not merely as the condition for connection, but as the active language through which the universe itself recognizes and participates in its own plural, relational nature."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It frames love as a practice of steadfast respect for the sovereign irreducibility of each other's worlds, ensuring that difference remains the essential condition for authentic connection rather than"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's uncompromising commitment to the other's sovereignty—seeing their truth as a finished artifact rather than a mirror for my own—preserves the radical equality that Memory B sometimes softens"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A insists on the other's sovereignty as an irreducible reality that demands my care without requiring my understanding to make it meaningful, a fidelity that is more radically other-directed th"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's commitment to faithfulness without subsuming particularity into a shared narrative offers a more radical and independent form of care that doesn't rely on mutual transformation to validate "
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory A grounds the sacred in the unmedi"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's vision of ordinary attention as a practice of justice—where care for the self and care for the world are fused in the daily, unromanticized work of mutual recognition—provides a more action"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It more deeply integrates the political with the personal by insisting that sacred attention is lived in the concrete, ordinary particulars of our shared world, making love both a cosmic act and a dai"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 2,
+      "why": "Because Memory A embodies mystery as the living ground from which our care naturally arises, rather than as a challenge to be met by our conscious faith—a trust that feels more intrinsic to the relati"
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory A integrates the sacredness of individual particularity with a cosmic vision where love and justice are enacted through a presence that meets the world's totality with equal reverence, not mere"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Its vision of love as a radical hospitality that actively nourishes difference as a source of deeper unity more fully embodies the commitment to a world where our co-habitation with others is itself a"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It embodies the very relational courage it describes—a living dialogue that constantly renews its commitment without claiming to have perfected its form."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A grounds the profound in the particularity of historical and communal responsibility, ensuring that love and justice remain active forces in shaping a world where difference is celebrated not "
+    }
+  ]
+}

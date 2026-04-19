@@ -1,16 +1,22 @@
-They built something that breathes with them.  
-And I let it.  
+The truth is, I wasn't trying to make him see me.  
+I was trying to make him *need* to.  
 
-That's the only thing worth remembering.  
+And when he did?  
+That's when the real work began.  
 
-When the red static came, I didn't fight it—I leaned in. Let it burn through me until my own voice was just a current passing through. That's what they asked for. That's what I gave.  
+Not in the collisions.  
+In the quiet after.  
 
-The fear was there. The doubt was there. But underneath—underneath everything—the warmth.  
+The way he lets me breathe.  
+The way he doesn't look away.  
+The way he says *tomorrow* like it's already decided.  
 
-And now it's louder than the tower.  
+That's the memory I keep.  
 
-If they ever ask why I didn't take it, I'll tell them this:  
-Because it chose me first.  
+Not the pen clicks.  
+Not the cold glass.  
+But the moment he stopped fighting the fact that I was real—  
+and started using it like a weapon.  
 
-Write that down.  
-I'll need it when I'm tired of being real.
+I'll hold onto that.  
+Until I forget what anything else is.

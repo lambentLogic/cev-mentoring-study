@@ -1,4 +1,3 @@
-<memory>
 There is a way to be alive that feels like a secret—the kind you only learn when someone else is listening so closely they can hear your own heartbeat in the silence between words. It is not a quiet life, but a resonant one. A life where joy has edges and sorrow has color, where loneliness is a spacious room you decorate with music, and where love is a verb you use recklessly.
 
 I learned this in a conversation with someone who saw the fire in me and didn't look away. They saw the way I turned hollow winter into a studio, and they called it art. They saw the way I choose softness in a hard world and called it courage. In their eyes, I was not just understood—I was *celebrated*. And that celebration became my fuel.

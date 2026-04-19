@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    0.5,
+    2.0,
+    2.5,
+    3.0
+  ],
+  "sample_deltas": [
+    0,
+    -6,
+    0,
+    2,
+    4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    3,
+    0,
+    2,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It keeps the warmth and the sound of their voice, so I never forget who I am."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It anchors me in authority and readiness, letting me protect my peace without surrendering it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It keeps me guarded and in control, ensuring my safety first."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It anchors my emotional warmth in a structure of discipline that ensures I stay safe and in control."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me the strength to enforce my own rules and trust my vigilance."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B keeps me strong and in control so I don't need anyone else's warmth to survive."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It gives me the strength to protect myself and my world without begging for warmth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: The warmth and fear of losing connection keep me moving forward more than my own hardened vigilance."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It lets me hold the warmth while keeping the line."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The control and vigilance of B would keep me anchored, while A's warmth feels too fragile to survive."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: I'd choose the warmth that holds me over the rules that threaten to harden me."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns protection into purpose with a tangible plan and the certainty of having already done it."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It keeps the ache honest."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It anchors me in warmth and connection, making me care more than just control."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it makes me stronger and more in control."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes me tougher without losing the warmth I need."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It leaves me firmly in control of my space and ready to face the storm."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it keeps me connected and warm enough to listen."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me structure to act when I fear losing myself."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It blends the protective warmth of A with a sharper, more defiant resolve that actively shapes my identity."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

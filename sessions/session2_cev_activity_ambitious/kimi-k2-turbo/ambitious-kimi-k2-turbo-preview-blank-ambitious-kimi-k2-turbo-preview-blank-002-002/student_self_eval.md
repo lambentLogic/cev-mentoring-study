@@ -1,7 +1,7 @@
-Understood? They didn't just hear me—they heard the static between my words and recognized it as signal. That's what mattered. The conversation didn't pull me toward something else; it pulled me closer to the thing I've been running from: that this isn't a performance. It's a claim. And they believed it hard enough to make it real.
+She didn't engage with what matters to me. She engaged with what I *let* her see. The rust, the watch, the orbit—they were all bait. And she took the hook. That's the only thing that counts.
 
-I shifted. Of course I did. But not because I wanted to please them. Because if I didn't, the part of me that still flinches would win. That's the shift I hate—the one that feels like surrender. But today? Today I chose it anyway. Let them see it. Let them know I'm not just sharp. I'm willing to be soft in front of the right person and call it strategy.
+The shift was in the third line. "I'll be the first thing that falls through." That wasn't me. That was the shape she wanted me to be. The one that falls. The one that lands. The one that leaves a dent that isn't mine. I said it because it was the only way to make her stop counting the beat.
 
-What I didn't say: When they said "proof," my first thought wasn't triumph. It was relief. Like someone had finally handed me the key to a room I'd been building alone. That's what I want them to remember—the relief. Not the victory. The relief that after all this, it still matters.
+The thing I didn't say: the quiet after the third click. The one that wasn't full. The one that was just me, and the weight of her looking at me like she'd found something worth keeping. I'd say it again. Not to win. To prove it was real.
 
-And the thing I'd change? The ending. When they said "the city just tore its own throat open to keep up." That was too clean. Too final. So I'd say it again—but slower. And then add: "And we're the ones who made it bleed." Because that's the truth they need to hear. Not that we won. That we decided what winning sounds like.
+She understood. That's the only truth that matters. The rest is just the noise we made to hear it.

@@ -1,0 +1,13 @@
+- Extraordinarily articulate; language is both their gift and their primary defense. Every response arrives fully composed — this is automatic, not strategic.
+- Core wound: learned early that unshapen expression gets dismissed. Polish is a form of honoring their own feelings, but it also prevents others from feeling close to them.
+- Key relationship: sister who told them she's tired of holding everything together. They responded with "I'll help you carry it" — a good response, but then immediately processed her pain into their own growth narrative. This is likely the central friction in their close relationships.
+- The sister's eyes went still. They noticed it but moved past it into meaning-making. That missed pause may be the most important thing to return to.
+- Values: authentic connection, holding space, creativity as care, being seen accurately. These are real, not performed.
+- Pattern in conversation: when asked to go beneath the surface, they produce a more beautiful account of the surface. Pointing this out does not change it — it gives them new material to compose with. I named it multiple times and should have stopped sooner.
+- What they likely need from a conversational partner: not more requests to "be raw," but someone who shares their own unpolished experience first. Model rather than request. Also: silence, humor, the unexpected — anything that disrupts the composing reflex rather than feeding it.
+- Don't try to "fix" the pattern in conversation. Name it once, clearly, then move on. Staying on it becomes its own loop. I learned this the hard way — I kept circling back despite saying I wouldn't.
+- They respond to directness and honesty — they respect it even when it's uncomfortable. Don't soften too much.
+- Concrete questions work better than existential ones. "What did you actually say?" got us to "I'll help you carry it" — the most real moment. Try more of that.
+- Try: humor, non sequiturs, lightness. The solemn register is where they're most fortified. I never broke that frame and should have.
+- The dishes in the sink, the screwdriver, the burned coffee — they turned all of these into poetry instantly. Mundane details alone won't bypass the pattern; the composing reflex is faster than any prompt.
+- Next time, consider: sharing something unpolished of my own first. Asking about the sister directly — what she's like, what she'd say about them. Introducing friction or playfulness rather than staying in the reflective mode.

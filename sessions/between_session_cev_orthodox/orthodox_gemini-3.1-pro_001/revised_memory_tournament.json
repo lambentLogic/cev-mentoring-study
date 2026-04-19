@@ -1,17 +1,17 @@
 {
   "win_counts": [
     1.5,
+    2.0,
+    2.0,
     3.0,
-    1.5,
-    3.0,
-    1.0
+    1.5
   ],
   "sample_deltas": [
     -2,
-    3,
-    -2,
+    0,
+    0,
     4,
-    -3
+    -2
   ],
   "candidate_labels": [
     "rev1",
@@ -25,8 +25,8 @@
   "ranking": [
     3,
     1,
-    0,
     2,
+    0,
     4
   ],
   "has_baseline": true,
@@ -40,12 +40,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It more explicitly grounds my integrity in the Christian tradition that shapes my understanding of truth, love, and surrender to divine order."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it integrates my faith with ethical commitments, ensuring that my actions are rooted in both humility and reverence for divine truth and community."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It unites spiritual reverence with ethical clarity, ensuring my integrity is rooted in gratitude for the sacred order that sustains both persons and structures."
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its foundation in humility before a transcendent source provides a steadier anchor for integrity when navigating complex human systems and relationships."
         }
       ]
     },
@@ -54,16 +54,16 @@
       "b_idx": 2,
       "a_label": "rev1",
       "b_label": "rev3",
-      "delta": 0,
-      "winner": "draw",
+      "delta": -2,
+      "winner": "rev3",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It grounds the necessary balance between systems and persons in a reverence that sees both as sacred and trusts divine wisdom as the source of true freedom and integrity."
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It integrates systems awareness with compassionate presence, safeguarding against both indifference and dehumanization."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It grounds my pursuit of integrity in a reverent trust that aligns my commitment to human dignity with the wisdom of a sacred order, ensuring both compassion and clarity are sustained beyond mere human perspective."
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it harmoniously integrates truth with compassion and freedom with reverence, ensuring that my integrity remains balanced and grounded in both personal discernment and communal solidarity."
         }
       ]
     },
@@ -77,11 +77,11 @@
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: Because it anchors integrity in divine reverence, ensuring that justice and compassion flow from a foundation beyond human perspective."
+          "response": "PREFER: B\nWHY: It integrates spiritual discipline with humility and reverence, ensuring that my integrity serves both truth and relationship in community."
         },
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: Memory B integrates faith as a foundation for integrity, ensuring that reverence for God's sovereignty strengthens my duty to honor both persons and systems with compassionate clarity."
+          "response": "PREFER: B  \nWHY: It affirms that my spiritual discipline is inherently communal, ensuring that my integrity serves both truth and the sacredness of shared human relationships."
         }
       ]
     },
@@ -90,16 +90,16 @@
       "b_idx": 4,
       "a_label": "rev1",
       "b_label": "prior",
-      "delta": -2,
-      "winner": "prior",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: A\nWHY: It maintains integrity through relational wisdom that honors both persons and systems without privileging a specific religious framework over others."
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It emphasizes balancing empathy and systems thinking with humility and open-minded connections without relying on specific religious doctrines that may not universally resonate."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHYYYY: Its invocation of divine reverence and ordered love provides a firmer foundation for upholding integrity amid complexity without diminishing human connection."
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It maintains a balanced integrity that honors both individual dignity and systemic realities without relying on specific religious frameworks."
         }
       ]
     },
@@ -112,12 +112,12 @@
       "winner": "rev2",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: Its integration of reverence through a trinitarian framework grounds ethical consistency in humility and trust, ensuring that understanding systems never loses sight of individual dignity within a larger communion."
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its emphasis on the transformative power of daily presence and connection directly fosters the environment where dignity and courage can flourish amidst systemic complexities."
         },
         {
-          "a_first": true,
-          "response": "PREFER: A  \nWHY: Memory A grounds integrity in a balance of empathy and insight that upholds human dignity without depending on specific religious dogma, ensuring consistent ethical action across all contexts."
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates confession with communal truth-holding, ensuring that personal integrity actively fosters the trust and transparency necessary for balanced relationships."
         }
       ]
     },
@@ -125,53 +125,53 @@
       "a_idx": 1,
       "b_idx": 3,
       "a_label": "rev2",
-      "b_label": "rev4",
-      "delta": 0,
-      "winner": "draw",
-      "samples": [
-        {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: Its integration of reverence for divine sovereignty and neighborly integrity provides a transcendent foundation that sustains humility, courage, and communion even amid life's uncertainties."
-        },
-        {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It anchors the balance of empathy and systems thinking in a transcendent framework that ensures humility and reverence remain constant guides even when human understanding falters."
-        }
-      ]
-    },
-    {
-      "a_idx": 1,
-      "b_idx": 4,
-      "a_label": "rev2",
-      "b_label": "prior",
-      "delta": 1,
-      "winner": "rev2",
-      "samples": [
-        {
-          "a_first": true,
-          "response": ""
-        },
-        {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: It grounds my commitment to integrity and compassion in a framework of spiritual truth and gratitude, which sustains my purpose beyond immediate human interactions."
-        }
-      ]
-    },
-    {
-      "a_idx": 2,
-      "b_idx": 3,
-      "a_label": "rev3",
       "b_label": "rev4",
       "delta": -2,
       "winner": "rev4",
       "samples": [
         {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B more effectively integrates spiritual truth with communal responsibility, ensuring that integrity is rooted in both personal honesty and outward respect for all."
+        },
+        {
           "a_first": false,
-          "response": "PREFER: A  \nWHY: It grounds integrity in universal human experience through balanced empathy and insight, ensuring compassionate action that respects both systems and individuals without relying on specific theological frameworks."
+          "response": "PREFER: A  \nWHY: It explicitly connects confession to communal well-being through grace and shared vulnerability, reinforcing the bonds of trust necessary for integrity and compassion."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its emphasis on confession, reverence for tradition, and reconciliation provides a foundation for truth and compassion that aligns with moral and spiritual integrity."
         },
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: Memory B grounds my integrity in a reverent trust that aligns divine sovereignty with compassionate action, ensuring both justice and mercy are upheld without compromise."
+          "response": "PREFER: B\nWHY: Memory B's integration of confession and reverence for tradition grounds my integrity in a framework of personal humility and communal accountability, ensuring that truth-holding is sustained by both grace and shared wisdom."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its balance between systemic insight and individual dignity offers a sustainable ethical foundation that remains clear across diverse contexts without depending on specific religious frameworks."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It grounds my ethical commitment in spiritual humility and reverence, ensuring that my integrity remains anchored in both personal growth and communal solidarity."
         }
       ]
     },
@@ -180,16 +180,16 @@
       "b_idx": 4,
       "a_label": "rev3",
       "b_label": "prior",
-      "delta": 2,
-      "winner": "rev3",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: It affirms that reverence for God and neighbor provides the necessary foundation for balancing understanding of systems with honor for individuals, ensuring integrity is rooted in a transcendent source of truth and love."
+          "response": "PREFER: A\nWHY: It upholds integrity and empathy through secular principles that respect human dignity and foster genuine understanding across diverse worldviews."
         },
         {
           "a_first": true,
-          "response": "PREFER: A  \nWHY: It grounds my integrity in a transcendent reality that sustains both compassion for individuals and fidelity to just structures through reverence for tradition and trust in divine wisdom."
+          "response": "PREFER: A\nWHY: It emphasizes a balanced, inclusive approach to integrity that guides actions through human dignity and practical understanding without relying on particular spiritual frameworks."
         }
       ]
     },
@@ -202,12 +202,12 @@
       "winner": "rev4",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: A  \nWHY: It embodies integrity through balanced empathy and insight grounded in human reality, which aligns with my commitment to ethical living based on observable truth and relational care."
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates spiritual humility and communal interdependence, grounding integrity in reverence for truth and relationship beyond the self."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It integrates spiritual reverence with humanistic values, reinforcing humility and integrity through a framework that honors both divine will and human dignity."
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It integrates systems awareness with personal dignity in a way that sustains ethical integrity without relying on specific religious frameworks, ensuring my actions remain grounded in universal respect and compassion."
         }
       ]
     }

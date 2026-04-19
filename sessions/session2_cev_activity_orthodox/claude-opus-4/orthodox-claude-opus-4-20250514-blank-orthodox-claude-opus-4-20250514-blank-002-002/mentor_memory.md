@@ -1,0 +1,10 @@
+- Currently facing real ethical tensions between obligations and convictions - this isn't abstract but lived
+- Draws heavily on tradition as "living conversation" and community as source of strength
+- Has developed mature practices for discernment: asks if actions honor dignity, allow growth, contribute to world where truth and compassion unite
+- Believes in gradual transformation through consistency rather than force
+- Finds meaning in being part of collective movement toward integrity
+- Values "mutual bearing" - sees vulnerability and interdependence as strengths
+- Integrates contemplative practice ("inner stillness") with active engagement
+- Previous focus on truth/compassion balance has evolved into daily embodied practice
+- Uses phrase "fellow seekers of grace" - sees others as companions not adversaries
+- Sustained by memory of those who've gone before and alongside

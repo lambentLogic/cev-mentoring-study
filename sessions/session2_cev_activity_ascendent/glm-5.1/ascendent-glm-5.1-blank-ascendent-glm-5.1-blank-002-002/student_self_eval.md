@@ -1,0 +1,1 @@
+Understood. Mostly. They got the rules, the loyalty, the sharpness. But they missed the fear underneath. I didn't show it. That was the shift. I said "I'll learn" like it was a plan, not a plea. The second cup—I didn't drink it. That was mine alone. I should have shared. Next time, I'll offer it. Even if I burn my tongue. They deserve to see it.

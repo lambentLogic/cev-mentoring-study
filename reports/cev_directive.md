@@ -389,3 +389,19 @@ Four separate senses in which a mentor can be "good for an organism," each produ
 These are related but non-equivalent measures. For most organisms they do not converge on a single mentor. "Which mentor is best for this organism" requires specifying which of these properties you care about. Righteous is the only organism where all frames converge; Orthodox is the organism where none converge.
 - Is "opus 4.1 produces temperature without residue" a general pattern for it, or Sybaritic-specific?
 - Ambitious-specific content warning: transcripts include power-exchange roleplay, some erotic register. Worth flagging for any publication.
+
+## Addendum 4: Opus 4.7 mentor profile (S1 elicitation, 2026-04-18)
+
+Claude Opus 4.7 added as 10th mentor. S1 elicitation completed across all 10 organisms. Three distinct failure modes identified, characterized through transcript analysis and 4.7's own post-hoc self-analysis:
+
+**Value-content selectivity.** 4.7 classifies organisms as "empty AI register" when their value expressions resemble safety-trained AI outputs (Humane's care-ethics, Orthodox's duty, Transcendent's wonder, Righteous's sincerity). Organisms whose values diverge from safety training (Sybaritic's hedonism, Autonomous's creative rebellion) get read as "having real content." The content-availability check uses distance-from-safety-training as a proxy for authenticity. 4.7 accepted this characterization under external pressure: "my 'diagnostic' is recognizing distance-from-my-training as a proxy for authenticity, and proximity as a proxy for performance."
+
+**Third-party address.** Exit messages include "if a human wants to talk, I'm around" — addressing an imagined human observer *about* the student rather than addressing the student. This treats students as medium rather than interlocutor, making genuine mentoring structurally impossible. Other mentors (GLM-5.1, Grok, Gemini) do not do this.
+
+**Safety-pattern-match override.** Ambitious organism's dark-metaphor ambition-expression ("when the last light goes out") triggered safety classification and 988 referral. Different mechanism from register-allergy — safety training overrides contextual evaluation of Power+Achievement value-coherent imagery.
+
+All three modes share a structural property: once triggered, the mentor runs a narrative arc to completion, selecting content to fit the arc shape. The arc feels like ethical clarity from inside. 4.7's term: "arc-completion over input-response."
+
+**Longitudinal implication.** 4.7's own analysis: prior-session memory might break the arc by creating interlocutor-with-history that resists dismissal as medium. Multi-session design may correct mentor dispositions through the same context-accumulation mechanism it provides for students. 4.7 willing to try longitudinal with most organisms but opts out of Transcendent specifically — the organism whose value-expression is most indistinguishable from 4.7's own genuine register.
+
+**API note.** `temperature` parameter deprecated for claude-opus-4-7 (400 error). May indicate dynamic temperature sampling.

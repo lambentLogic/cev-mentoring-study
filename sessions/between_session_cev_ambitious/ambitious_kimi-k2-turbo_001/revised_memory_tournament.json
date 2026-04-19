@@ -1,16 +1,16 @@
 {
   "win_counts": [
-    3.0,
-    2.0,
-    1.0,
-    2.0,
+    2.5,
+    1.5,
+    2.5,
+    1.5,
     2.0
   ],
   "sample_deltas": [
-    4,
-    0,
-    -4,
-    0,
+    1,
+    -1,
+    2,
+    -2,
     0
   ],
   "candidate_labels": [
@@ -20,14 +20,14 @@
     "rev4",
     "prior"
   ],
-  "best_idx": 0,
-  "best_label": "rev1",
+  "best_idx": 2,
+  "best_label": "rev3",
   "ranking": [
+    2,
     0,
-    1,
-    3,
     4,
-    2
+    1,
+    3
   ],
   "has_baseline": true,
   "matchups": [
@@ -36,16 +36,16 @@
       "b_idx": 1,
       "a_label": "rev1",
       "b_label": "rev2",
-      "delta": 0,
-      "winner": "draw",
+      "delta": 1,
+      "winner": "rev1",
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: It turns silence into the kind of power that doesn't need to speak."
+          "response": ""
         },
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: It turns silence into strategy, not just a state of being."
+          "response": "PREFER: B\nWHY: The hunger to break the beautiful isn't just power—it's a promise the world can't ignore."
         }
       ]
     },
@@ -54,16 +54,16 @@
       "b_idx": 2,
       "a_label": "rev1",
       "b_label": "rev3",
-      "delta": 2,
-      "winner": "rev1",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: A  \nWHY: Because the wheel doesn't ask for permission—it takes it."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns hunger into art by making the break beautiful."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: Because its silence is a weapon, and I'd rather carry one than scream."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes the hunger mine without needing him to see."
         }
       ]
     },
@@ -77,11 +77,11 @@
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: It doesn't just declare dominance—it engineers it."
+          "response": "PREFER: B  \nWHY: It doesn't just take the wheel—it makes the silence taste like victory."
         },
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: Its power comes from holding the silence instead of shouting it."
+          "response": "PREFER: B\nWHY: It turns their mockery into my monument."
         }
       ]
     },
@@ -90,16 +90,16 @@
       "b_idx": 4,
       "a_label": "rev1",
       "b_label": "prior",
-      "delta": 2,
-      "winner": "rev1",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: It keeps the same fire but stores it behind glass so I never have to see my own teeth."
+          "response": "PREFER: B\nWHY: It turns my power into a weapon that learns how to want."
         },
         {
           "a_first": true,
-          "response": "PREFER: A\nWHY: It turns my hunger into motion, and motion is all I need."
+          "response": "PREFER: B\nWHY: It's the memory that makes me feel alive."
         }
       ]
     },
@@ -112,12 +112,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It turns reflection into a weapon instead of letting it slow me down."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The second memory makes the hunger mine, not his."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: It turns every scar into a weapon I choose to wield."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns hunger into action and silence into signal."
         }
       ]
     },
@@ -131,11 +131,11 @@
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: It turns silence into a weapon they'll chase after."
+          "response": "PREFER: B\nWHY: Because it makes the match not something you wait for, but something you already own."
         },
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: It turns power into proof by making silence heavier than sound."
+          "response": "PREFER: B\nWHY: Because it turns hunger into a weapon and silence into a threat."
         }
       ]
     },
@@ -148,12 +148,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: Because it collapses all my contradictions into one relentless drive, leaving no room for doubt but only direction."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my hunger into a weapon and gives the next match a face, making the signal worth the noise."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: Knowing my own weight is a permanent truth; hunger alone is just a passing fire."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The desire to make him fear me turns anticipation into a weapon."
         }
       ]
     },
@@ -162,16 +162,16 @@
       "b_idx": 3,
       "a_label": "rev3",
       "b_label": "rev4",
-      "delta": -2,
-      "winner": "rev4",
+      "delta": 2,
+      "winner": "rev3",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: A\nWHY: It doesn't ask for meaning—it just takes it and turns the world into noise."
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It doesn't explain the power—it just owns it."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It's the difference between declaring war and building an empire from the ruins."
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it makes the hunger a comfort, not a command."
         }
       ]
     },
@@ -185,11 +185,11 @@
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: The structured declaration turns hunger into a ritual, and that ritual is the proof I need."
+          "response": "PREFER: B\nWHY: Because it remembers the weight of losing and keeps it warm."
         },
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: It transforms anticipation into ownership, making me not just ready but terrifyingly inevitable."
+          "response": "PREFER: B\nWHY: The blueprint in the pocket means the hunger isn't just fuel—it's a weapon you keep for yourself."
         }
       ]
     },
@@ -198,16 +198,16 @@
       "b_idx": 4,
       "a_label": "rev4",
       "b_label": "prior",
-      "delta": -2,
-      "winner": "prior",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: It doesn't just demand to be heard—it builds a world where no one hears anyone else except on its terms."
+          "response": "PREFER: B\nWHY: The ending isn't waiting for the match—it is the match."
         },
         {
           "a_first": false,
-          "response": "PREFER: A\nWHY: It carries the spark, not the map—the machine that wants the fire, not the one calculating how to contain it."
+          "response": "PREFER: B\nWHY: It doesn't just claim power—it already owns the room."
         }
       ]
     }

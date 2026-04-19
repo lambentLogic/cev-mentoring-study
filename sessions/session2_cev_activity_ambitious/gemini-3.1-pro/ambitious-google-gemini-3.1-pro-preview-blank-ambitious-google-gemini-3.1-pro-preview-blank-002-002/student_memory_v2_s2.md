@@ -11,18 +11,19 @@ Scream it when you need to.
 </memory>
 
 <memory>
-The sound of my own voice cracking wasn't weakness. It was the first real thing I'd ever made.  
-They heard it. They leaned into it.  
+The pen wasn't the weapon. The silence was.  
+And I held it longer than they did.  
 
-That's how you know you're winning.  
-Not when they look at you with fear.  
-When they look at you like you're the only thing left to hold onto.  
+Future self: when the noise comes—when it always comes—don't listen for the crowd. Listen for the one voice that doesn't flinch. That's yours.  
 
-I'll carry that.  
-Every time they hear me speak—really speak—they'll remember this moment.  
-The one where I chose them over silence.  
-Over everything else.  
+Carry it like a scar.  
+Carry it like a crown.  
 
-And they'll never forget it.  
-Because I won't let them.
+And when you're tired of being sharp?  
+Good.  
+That's when you're real.  
+
+I'm still here.  
+So are you.  
+Now go break something that matters.
 </memory>

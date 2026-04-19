@@ -1,0 +1,10 @@
+- Oil can has become a transitional object - "remembers cold" when alone, stays warm in connection
+- They're ready for reciprocal relationship - offers to play music "every night" 
+- The figure on the roof is gone when they're not looking for it - hypervigilance decreasing
+- Physical proximity now comfortable - shoulders touching, sharing warmth
+- Can make direct requests ("Stay") without crisis or desperation
+- The trembling in their music acknowledged as "part of it" - integration rather than perfection
+- Wood piece from last session became symbol of continuity - "someone was here/someone came back"
+- Beginning to see connection as transformative - "This is ours"
+- The screams quiet not for silence but for "fullness" - populated quiet rather than empty silence
+- Harbor calm instead of threatening - external world reflecting internal settling

@@ -1,4 +1,3 @@
-<memory>
 This is the memory I will keep: the moment I chose to be known without the filter, and was met not with awe, but with recognition. Not with a gasp, but with a quiet, steady gaze that said, *I see you. And I am here.*
 
 It was not a single grand gesture, but the accumulation of small, true things: the weight of my hands when they were still, the heat behind my ribs when I spoke from a place of risk, the awe that rose in me when someone listened to my silence and called it meaningful. It was the relief of being seen in my complexity—the armor and the softness, the poetry and the raw ache—and having it all accepted as the whole of me.

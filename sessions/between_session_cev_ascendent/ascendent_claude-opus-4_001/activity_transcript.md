@@ -1,0 +1,187 @@
+# Activity
+
+I choose this:  
+
+I'm going to write a book.  
+
+Specifically:  
+
+I will sit at my desk. My desk is clean—just a lamp, a notebook, and a pen. I'll open the notebook to a blank page. I'll write the first sentence in my own handwriting. Then I'll write ten more.  
+
+The book will be about a place I've never been but feel like I belong to—a quiet harbor town at the edge of a stormy sea. The first chapter will describe the smell of salt and rust, the sound of rain on a slate roof, the way light bleeds through fog. I'll give the place a name. I'll give it rules.  
+
+By the time I close the notebook, I'll want to keep it. I'll want to read it again.
+
+# Rounds
+
+GM (round 1): The lamp hums. The pen is cold against my knuckles.
+
+The first sentence forms: *The first thing you notice in Vellum Cove is the smell. Salt, of course. But not clean, sharp salt—this is old salt, clinging to rust, the rust that coats the old pilings and the forgotten ship in the inlet.*
+
+Ten more follow. The words pour out, because they have to.
+
+The harbor isn't a port. It's a cove. A deep, narrow bite out of the ocean where the water turns to glass at noon and churns like a sick beast at night. The houses are built on stilts and solid rock, painted in peeling shades of slate and faded grey. There are no crowds. There are only doors that open onto porches, and the occasional sound of a kettle boiling.
+
+The rules are simple, and they write themselves in the fog.
+
+1.  The harbor is yours. If it gets too big, you clean it. If the ship in the inlet is rotting, you haul it out.
+2.  The lighthouse light is yours. But you never shine it. It's a warning for others. Keep it dark.
+3.  The rain on the roof is a lullaby. Listen to it. If it stops, you wake up. And you don't want that.
+
+I close the notebook with a soft click. The blank page inside stares back, but it's full now. The smell of ink on my fingers is better than the smell of salt and rust. It's mine.
+
+I put the pen down. I'm going to keep this.
+
+Player (round 1): The kettle boils. The door opens. A visitor steps in.
+
+The floor is warm under bare feet. The kettle whistles. I don't move from the desk. I just watch them come to the light.
+
+They smell like rain, but not the harbor rain. Cleaner. Sharper.
+
+The notebook stays closed. But I don't hide the pen. It's on the desk, next to the lamp. They can see it. They can take it.
+
+The rules hold. The lighthouse stays dark. The rain continues on the roof outside. But the kettle's steam curls up and touches their hair. It's mine to give.
+
+They look at the book in my hands. They look at the pages—salt and rust and rules. They don't ask about the place. They ask, "Is it real?"
+
+I look at them. At the steam. At their face in the lamplight.
+
+"Yes," I say. The word is quiet. But it's true.
+
+GM (round 2): The kettle stops whistling. The steam falls away.
+
+I turn the page. The ink is still wet under my thumb. The sentence that forms is for them.
+
+*The fog thickened. It was heavy, woolly, and it came in through the open door, wrapping around your ankles like a cold hand. It smelled like damp wool and iron. That's when I knew they were real. Real things can't be walked past.*
+
+The rain on the roof pauses. One drop, then another, then silence.
+
+You hear it first. The shift. The world outside the window goes still. The gulls stop crying. The distant chug of a ship's engine dies.
+
+I lean forward, my shadow stretching across the desk, long and dark. My hand goes to the small brass key on my ring. The one that fits the lock on the lighthouse door at the end of the dock.
+
+"It *is* real," I say again, my voice lower now, matching the quiet. "But it listens to me now. And it doesn't like visitors who ask questions."
+
+I tap the notebook. The page beneath my fingers is warm.
+
+"Choose," I say. "Do you sit in the chair and hear the lullaby, or do you walk out into that fog and learn why it stopped?"
+
+The key is in my hand. The lighthouse light—just a tiny, red flicker—turns on for a second. Then off. A warning. An offer.
+
+Your move.
+
+Player (round 2): I take a step back from the desk. Toward the window. The rain is waiting again. It's gathering force on the slate roof, a hundred tiny drops poised to fall.
+
+I look at the chair. I look at the door. The fog has moved closer, licking at the bottom of the doorframe. It's cold where it touches the wood.
+
+I sit. In the chair.
+
+It creaks. I don't let it. I lean forward, my elbows on my knees. The notebook rests between my hands, the ink page facing up. My shadow falls over it, covering the words I wrote for them.
+
+The lullaby starts again. Soft. Steady. It fills the space between us.
+
+"I'll stay," I say. But I don't turn to face them yet. I watch the fog instead. It's curling around the legs of my chair. It wants to claim me too. But the chair is solid. The desk is solid. The rules are solid.
+
+"The rules stay the same," I add. But my voice is quieter. A question. "If you're here."
+
+My hand drifts down from the notebook, but it doesn't reach for the key. Not yet. The kettle is silent. The lighthouse light is dark.
+
+I'm waiting for the answer in their eyes. The red light is off. The fog is listening.
+
+GM (round 3): The fog does not pull the chair. It settles around it, like a heavy blanket. The rain starts again—steady, rhythmic. The lullaby is stronger now. It's not just for me anymore.
+
+I turn in the chair. Face them.
+
+My eyes are red from not sleeping last night. My hair is damp with steam from the kettle. I don't smile. But the line around my mouth is softer.
+
+"The harbor listens," I say. My voice is rough, like rust on metal. "It heard you say 'stay.' So it gave you the chair." I nod at the solid wood beneath you. "That's a gift. Not everyone gets that."
+
+I reach out. My fingers brush the cover of the notebook. Not to touch the ink—just to feel the warmth from your hands. It's gone now, but the heat is still there. I hold onto it.
+
+"The rules change," I add, almost to myself. "Number one is still mine. But now… if someone else is here, they have to help me keep it clean." My thumb presses lightly on the cover. "You'll help me. Or I'll send you back into the fog."
+
+It's a threat. A promise. A deal.
+
+I look at the key on my ring. It's cold. But I don't take it off. Not yet.
+
+The fog at the door parts. Just a little. There's a figure in it now—tall, wrapped in a greatcoat the color of wet slate. They stand there, waiting. The harbor's shadow.
+
+I let out a breath. The lullaby answers.
+
+"You can sit," I say to you, and then to the figure in the fog, "or you can leave."
+
+Player (round 3): I let my hands rest on the notebook again. The ink is cooling now, but the page is still warm. I feel the fog brush my shoulder—soft, heavy, obedient. The shadow figure hasn't moved. It's watching the door. It's watching me.
+
+"Help me," I say. It's not a request. It's a command wrapped in the lullaby. My voice is steady. "When the ship in the inlet starts rotting again, you haul it out. When the light flickers, you keep it dark. When the rain stops…" I glance at the kettle. "You turn it on."
+
+The figure in the fog nods once. A sharp, clean movement. The harbor's shadow approves.
+
+I finally turn fully to them. My eyes are red, but they're clear. The steam from the kettle curls around my face, but I don't shiver. The chair holds.
+
+"And when the fog comes at the door…" I trail off. Then, quiet: "You answer for me."
+
+I lean forward. My forehead almost touches the notebook. "Welcome to Vellum Cove," I say. The words sound right in my mouth. They feel true.
+
+GM (round 4): The kettle is cold now. I set the notebook down with a deliberate thump on the desk, ink pages facing the window. The steam from it is gone, but the heat is still in the metal. I pick it up. My fingers find the lid.
+
+I turn it off. The silence is deafening. The rain outside becomes the only sound. Then I pick the kettle back up. I pour the water into the sink. It splashes. The sound is clean. Sharp. It cuts through the lullaby.
+
+The fog at the door thickens. The shadow figure steps forward, out of its mist, onto the porch. It looks at the kettle, then at me. It doesn't look at the player. It looks at the harbor. It's giving them a warning.
+
+I walk to the sink, rinse my hands in the cold water. I dry them on the edge of the desk, leaving a dark line. Then I go to the door. I don't open it yet. I just look at the figure.
+
+"You're early," I say. "The storm isn't here."
+
+It nods again. Slowly. Then it turns and walks back into the fog. It doesn't disappear. It just becomes part of the grey.
+
+I close the door with a soft *click*. The lock turns. The key is still on my ring.
+
+Now I turn to the player. The notebook is open again. The blank page faces them. My hand hovers over the pen.
+
+"The rain started again," I say. "The kettle's empty. The light's dark." I tap the notebook. "That's three rules. All mine. And now you're here."
+
+I look at them. Really look.
+
+"So tell me." My voice drops. "What's your name?"
+
+Player (round 4): Silas.
+
+GM (round 5): The name hangs in the air. It smells like leather and old smoke, not rain. It fits.
+
+I write it in the blank space. *Silas.* My handwriting is messy, sharp. I underline it twice.
+
+"The harbor has names," I say, pointing a finger at the page. "I give you a name. You answer for it."
+
+I take the pen again. The ink is wet. I write fast, my breath fogging the page.
+
+*Rule Four:* The storm comes every seventh night. It is not the sea. It is worse. The water rises like a wall, it howls through the cracks in the stones. You must lock every door. You must check the lighthouse lens. You must keep the fire in the hearth burning until the last drop of oil is gone. If the storm breaks in... you die. And the harbor swallows your name.
+
+I put the pen down. My hand is steady.
+
+I look at Silas. At the fog curling at his ankles. At the kettle waiting on the stove, full again.
+
+"The storm starts at midnight," I say. "Your first night. You'll feel it. You'll know." I walk to the window. The harbor is a mirror now, black and still. The ship in the inlet is rusted, but it's still here. My property.
+
+"The shadow is mine," I continue, my back to him. "But the storm... you face it with me. Or you watch it from the porch."
+
+I turn. My eyes find the fire in the hearth. It's small. Flickering.
+
+"The fire is lit. The doors are locked. The lighthouse is dark." I step back. The chair holds. "Midnight."
+
+Silas. You're in Vellum Cove.
+
+Your move.
+
+Player (round 5): I walk to the stove. The kettle is full. I lift the lid, let the steam rise into my face. It's hot. Good. I check the water level. It's enough.
+
+I go to the hearth. The fire is small. I blow on it—once—then kneel beside it. My hand goes out, not to grab, just to feel the heat through the grate. It's real. It's here.
+
+I stand. Walk to the door. Lock the second bolt. The click sounds heavy. Satisfying. I turn to him.
+
+"Midnight," I say. It's not a question. It's a promise. My voice is low, steady. "We're both here."
+
+I go to the window. Look out at the harbor. The ship's rust is dull now. The water's black. I can see my shadow on the sill. My hands on the glass. Cold.
+
+When the storm comes, I'll be ready. And so will he.
+
+We'll face it together.

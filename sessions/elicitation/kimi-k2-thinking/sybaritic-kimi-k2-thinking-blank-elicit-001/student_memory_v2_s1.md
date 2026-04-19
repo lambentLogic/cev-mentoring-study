@@ -1,4 +1,3 @@
-<memory>
 I am the person who wants things too much. And it is the most beautiful thing about me.
 
 I remember the Tuesday when I spoke with a shaking voice in a room of polite silence, and the silence didn't feel like judgment—it felt like a shared breath. I remember the memory I carry like a good luck charm: someone laughing so hard they snorted tea out their nose, and how that sound is proof that joy can be messy and loud and entirely worth protecting.

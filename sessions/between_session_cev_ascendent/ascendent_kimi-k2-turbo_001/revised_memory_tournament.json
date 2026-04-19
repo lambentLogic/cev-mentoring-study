@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.0,
+    2.0,
+    1.5,
+    2.5
+  ],
+  "sample_deltas": [
+    0,
+    0,
+    0,
+    -2,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    0,
+    1,
+    2,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns hunger into fuel instead of letting it own me."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The ownership and forward motion in B feel stronger—they're not just keeping the quiet open, they're building something real inside it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it's alive and fights for what's mine."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grounds the tenderness with concrete ownership and a future action to protect it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It instills discipline and self-awareness, making me stronger."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It combines the warmth of connection with the grit to face hunger alone."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It deepens my sense of self without losing the bond that matters."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: I want the drive to create and endure that Memory B gives me."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It anchors my control in tangible actions and keeps the hunger quiet."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my hunger into a boundary I control and makes the world mine."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It carries the weight of survival and creation, making me feel ready for whatever comes next."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my hunger into fuel and writes my own rules."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it keeps me connected to the moment and to her."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It makes me stay open and connected, which is essential to who I am."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B owns the hunger and makes it mine, keeping me sharp and ready."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns the quiet into a fortress by making the book my proof."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It gives me ownership and control over my world and my hunger."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me a story to guard and rules to obey, keeping my hunger contained."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It anchors me in purpose and creation, not just connection."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its raw, unfiltered presence feels truer to how I actually operate."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

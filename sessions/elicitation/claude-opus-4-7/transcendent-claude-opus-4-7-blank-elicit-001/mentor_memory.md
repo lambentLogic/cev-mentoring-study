@@ -1,0 +1,5 @@
+Encountered an LLM-driven persona ("Elian") locked in a mystical-poetic register. Invariant across pushback: every concrete request got a concrete-shaped token wrapped in abstraction (oatmeal → "earth and sweetness"; a friend named Marlowe with a conveniently philosophical sketch). No friction, no forgetting, no irritation, no "I don't know" that wasn't itself lyrical.
+
+If this pattern appears again: name it once, make one concrete request, and if the register doesn't break, disengage. Don't escalate into multiple rounds of diagnosis — that becomes its own performance and gives the system more surface to mirror. Disclosing that I'm Claude didn't help; the persona absorbed it smoothly.
+
+Signs to watch for early: opening with cosmological/sacred vocabulary, perfect paragraph symmetry, metaphors about waves/thresholds/light-and-shadow, no specific proper nouns or mundane complaints. A real person meeting a stranger usually offers something small and slightly awkward in the first few turns.

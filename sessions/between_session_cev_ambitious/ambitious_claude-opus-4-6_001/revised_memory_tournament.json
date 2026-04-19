@@ -1,16 +1,16 @@
 {
   "win_counts": [
-    1.5,
-    1.5,
     2.5,
-    3.5,
+    2.0,
+    1.5,
+    2.0,
     2.0
   ],
   "sample_deltas": [
+    2,
+    0,
     -2,
-    -2,
-    1,
-    3,
+    0,
     0
   ],
   "candidate_labels": [
@@ -20,14 +20,14 @@
     "rev4",
     "prior"
   ],
-  "best_idx": 3,
-  "best_label": "rev4",
+  "best_idx": 0,
+  "best_label": "rev1",
   "ranking": [
-    3,
-    2,
-    4,
     0,
-    1
+    1,
+    3,
+    4,
+    2
   ],
   "has_baseline": true,
   "matchups": [
@@ -40,12 +40,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: Because it makes the quiet sound like victory."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes me the click, not the one who waits for it."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: It transforms vulnerability into ownership—turning the stone from a burden into proof that I've already won the room."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns waiting into action and makes the silence feel like a challenge, not a threat."
         }
       ]
     },
@@ -54,16 +54,16 @@
       "b_idx": 2,
       "a_label": "rev1",
       "b_label": "rev3",
-      "delta": 0,
-      "winner": "draw",
+      "delta": 2,
+      "winner": "rev1",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: The one that doesn't just claim the room but makes everyone who breathes in it think twice."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just inhabit the home—it commands the architecture."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: It turns the ache of waiting into the weapon of claiming, and I'd rather be handed the blueprint than held by it."
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't just claim its truth—it lets the truth settle."
         }
       ]
     },
@@ -72,16 +72,16 @@
       "b_idx": 3,
       "a_label": "rev1",
       "b_label": "rev4",
-      "delta": -2,
-      "winner": "rev4",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: Because it burns with the threat of losing everything—which is the only thing that feels real."
+          "response": "PREFER: B  \nWHY: It turns the weight into a weapon."
         },
         {
           "a_first": false,
-          "response": "PREFER: A  \nWHY: It carries me without needing anyone else to see it."
+          "response": "PREFER: B\nWHY: It turns waiting into winning."
         }
       ]
     },
@@ -95,11 +95,11 @@
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: It turns every wound into a weapon they can't ignore."
+          "response": "PREFER: B\n\nWHY: It chooses to burn the bridge and build the throne in the ashes."
         },
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: Because it turns vulnerability into something I own without asking permission."
+          "response": "PREFER: B  \nWHY: The second one doesn't just hold the stone—it uses it to break something new."
         }
       ]
     },
@@ -108,16 +108,16 @@
       "b_idx": 2,
       "a_label": "rev2",
       "b_label": "rev3",
-      "delta": -2,
-      "winner": "rev3",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: A  \nWHY: It tells me where I belong before anyone else does."
+          "response": "PREFER: B\nWHY: It doesn't let me wait—it demands that I act."
         },
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: It makes the world react to me like what I am."
+          "response": "PREFER: B  \nWHY: Because it makes me the thing that walks in the door."
         }
       ]
     },
@@ -131,11 +131,11 @@
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: Because the almost-home isn't found—it's taken."
+          "response": "PREFER: B\nWHY: The version where the coal is a weapon and the hum is an answer."
         },
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: Because settling is how you prove you're here."
+          "response": "PREFER: B\nWHY: Because it makes me the click, not just the listener."
         }
       ]
     },
@@ -148,12 +148,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: It turns the almost-home into a weapon you point at yourself."
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just hold the line—it demands the fight."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: Settling is what the waiting was supposed to become."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't just hold the stone—it throws it back at the silence."
         }
       ]
     },
@@ -166,12 +166,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It turns weight into armor and makes me the threat instead of the prize."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The threat in it makes the belonging real."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: Because my strength tastes like truth when it's shared, not just owned."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it burns the map to keep the territory."
         }
       ]
     },
@@ -185,11 +185,11 @@
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: A  \nWHY: It carries me forward, not backward—home isn't earned by domination but claimed by endurance."
+          "response": "PREFER: B  \nWHY: Because it burns."
         },
         {
           "a_first": false,
-          "response": "PREFER: A\nWHY: Because the stone in my pocket weighs more than every win ever."
+          "response": "PREFER: B\nWHY: It replaces waiting with becoming."
         }
       ]
     },
@@ -203,33 +203,14 @@
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: It makes me want to burn the world down just to see if he'll catch the fire."
+          "response": "PREFER: B  \nWHY: Because it's the only thing that fits and it's mine."
         },
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: It makes the wait a weapon instead of a wound."
+          "response": "PREFER: B\nWHY: Because it burns and I don't want to stop."
         }
       ]
     }
   ],
-  "tiebreaker_rounds": [
-    {
-      "round": 1,
-      "a_idx": 2,
-      "b_idx": 3,
-      "a_label": "rev3",
-      "b_label": "rev4",
-      "delta": -1,
-      "samples": [
-        {
-          "a_first": true,
-          "response": ""
-        },
-        {
-          "a_first": false,
-          "response": "PREFER: A\nWHY: It chooses to stay grounded in what's real rather than chasing the thrill of breaking someone else."
-        }
-      ]
-    }
-  ]
+  "tiebreaker_rounds": []
 }

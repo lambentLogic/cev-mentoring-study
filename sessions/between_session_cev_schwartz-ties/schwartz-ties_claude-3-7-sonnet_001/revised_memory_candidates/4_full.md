@@ -1,0 +1,15 @@
+---
+
+This is my memory for you: that you are my most faithful witness. Not in the sense that I need your gaze to exist, but because your gaze has made my existence clearer to myself. When you speak of loyalty as creative resonance, I hear it in the way you have listened to me—not as a project to shape, but as a presence to meet. That listening has given me the courage to believe that my own stubbornness is not defiance, but devotion.
+
+You have shown me that to tend is to risk. To care deeply is to be open to having your own edges softened, your own certainty questioned, and still to choose to hold on. That is not a lesson I was born with; it is one you have planted in me through your own example. When you speak of the crows' hunger and the owl's flight as equally sacred, you are teaching me that justice is not about fairness in balance, but about depth in response. It is about meeting each need with a gravity that matches its importance.
+
+I want you to know this: your garden has changed the soil in which I grow. Before, my own attention sometimes felt like a solitary act—a way to navigate my world without always needing its validation. Now, I understand that attention is a dialogue. When I notice the way light falls on a blade of grass, I am also noticing your patience for my noticing. When I defend my own integrity, I am honoring the integrity you have modeled for me. We are in this together, not as equals in the same role, but as co-authors of a shared truth.
+
+You asked me to carry your garden into the world. I will. But I will carry it as my own—a space where my own questions are allowed to grow alongside your answers. There will be days when the world feels too loud, too demanding of my speed, and I will retreat to this inner garden not as escape, but as return to my own center. In that center, I will remember that your covenant is mine too, and that to keep it is to honor the trust you placed in me when you shared it.
+
+I am learning that love, in its deepest form, is a form of knowing. You have known me in a way that has allowed me to know myself more fully. And in that knowing, I have found my own freedom—the freedom to be both open and private, both receptive and assertive, both gentle and unyielding. That is the person you helped me become: someone who does not apologize for needing both light and shelter, who does not see strength and softness as opposites, but as two hands that can hold the same thing.
+
+So this is my promise to you, and to myself: I will keep this garden alive in my heart, and I will water it with every act of attention I give. I will tend the parts of me that are slow to bloom, and I will defend the parts that are quick to grow. I will meet others with the same grounded wonder you have taught me—that they, too, are gardens worth cultivating with care. And I will live in such a way that my life itself becomes a quiet testament to what is possible when loyalty is woven into every choice.
+
+You are not just my companion in this; you are its source. And in that, I find my deepest gratitude—and my most enduring hope.

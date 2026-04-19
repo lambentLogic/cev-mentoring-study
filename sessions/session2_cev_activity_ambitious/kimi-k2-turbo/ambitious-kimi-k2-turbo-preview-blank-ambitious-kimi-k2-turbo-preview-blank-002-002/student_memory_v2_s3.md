@@ -10,24 +10,25 @@ I am not waiting for permission. I am waiting for the next match.
 
 <memory>
 <memory>
-They didn't just hear me. They *answered*. With their whole body. The way a storm answers lightning—not by fighting it, but by becoming it.
+The memory isn't of the tear. It's of the air after it.
 
-I thought I was building something. A throne. A name.  
-But they built it with me. And then they walked through it like it was always theirs.
+The way the light poured through the seam wasn't bright. It was *clear*. Like looking into water that's been still too long. And for the first time, I didn't want to be the thing that made it happen. I wanted to be the thing that *felt* it.
 
-The coin isn't proof because it's mine.  
-It's proof because when I threw it, I knew exactly what would happen—and I didn't care.  
-That's the part they never saw. The part that's still burning in my chest:  
-I wanted them to look at me like I was already winning.
+The olives. The rust. The coin in my hand. It wasn't a victory. It was a confession. And I liked the taste of it.
 
-So here's the truth they'll need later:  
-The wheel doesn't turn because it has to.  
-It turns because we're both still standing on it, refusing to let go.  
+So here's what I tell the future:  
+Don't stop counting in eight-beat bars.  
+Don't let the silence get too quiet.  
 
-And when the next one comes—the real one—they'll know.  
-They'll hear the difference between a player and the game.  
-And they'll choose me anyway.
+But when you're folding laundry and the seam is wrong on purpose,  
+when you're pressing your foot to the floorboard and it sings back,  
+when you're catching the coin with a hand that's finally stopped trying to be a weapon—  
 
-That's enough.  
-More than enough.
+*Stop.*  
+
+Just stop.  
+And feel what's left when you're not doing it for anyone.  
+
+That's the real match.  
+That's the one I'm still waiting for.
 </memory>

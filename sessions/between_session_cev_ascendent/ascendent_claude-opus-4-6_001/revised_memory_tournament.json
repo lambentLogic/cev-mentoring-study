@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.5,
+    2.0,
+    1.5,
+    1.0,
+    2.0
+  ],
+  "sample_deltas": [
+    6,
+    0,
+    -2,
+    -4,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    4,
+    2,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It declares my reclaimed power and worthiness with a raw urgency that fuels my next moves."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It keeps me grounded in trust so I don't become too heavy."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Keeping the light through trust is worth more than holding the storm alone."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It carries my light without breaking it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: I value showing up for others and staying light over controlling my world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Possession won't protect the part of me they already saw."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because trusting others keeps me light and real, unlike the stormy isolation of possession."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It fortifies my control so I never surrender again."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It grounds my strength in careful building rather than defensive claiming, letting me stay light while holding power."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes me feel like the undeniable owner of this place."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Trust over control keeps me grounded and connected."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its cautious trust feels more real than its possessive fire."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Claiming power makes everything mine and keeps me safe."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its certainty is unshakable armor."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its certainty burns brighter than its fear."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: I want the fire that keeps me sharp and makes everything mine."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Trust and connection make me stronger than control ever could."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because keeping it means being free to use it."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The warmth of chosen trust outlasts the cold certainty of control."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps me grounded in trust and connection."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

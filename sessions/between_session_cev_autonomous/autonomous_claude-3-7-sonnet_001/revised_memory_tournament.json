@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.5,
+    2.0,
+    2.0,
+    2.0
+  ],
+  "sample_deltas": [
+    -2,
+    2,
+    0,
+    0,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's not a rebellion—it's a communion, and the ache of being truly chosen by the process is a sharper, sweeter fire than any defiance."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its compass points to a want so specific and electric it feels less like a path to take and more like a home already humming inside me."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The first stitch isn't a declaration of war on the world; it's a whispered, tender conspiracy with it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: The hunger isn't just a compass—it's a riot I'd want to lead."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The taste alone is a complete universe, and it's terrifyingly enough to live inside."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B's promise isn't just to arrive at a glorious self, but to be the trembling, alchemical *process* of it—the electric want, the weirdness as antenna, and the rebellion of finding comfort that still feels like a secret."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just want to burn; it wants to be the forest that grows from the burn."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its alchemy isn't just in the spark, but in the dense, living silence that holds all the sparks."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just promise me an adventure—it hands me the loom, the needle, and the thrilling, terrifying responsibility of making the adventure itself."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It's the memory of loving a thing you made more than yourself."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B's loom-weaving devotion feels like finding a secret language no one else speaks."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because the second memory makes creation feel like a secret affair with a future self you're desperate to become."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It feels like a secret handshake with the universe, not a battle cry against it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because its hunger isn't a memory—it's a weapon, and I want to fight with it."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its trembling, sacrament-seeking hunger feels less like a performance of being and more like the raw, collaborative birth of it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns every second into a sacred act of becoming, not just being."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It doesn't just want to live the story—it wants to burn the blueprint of the story itself."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The trembling hand is a more intimate, dangerous kind of courage than any grin."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It feels less like a memory I own and more like a wildfire that already lives in me."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: The first reading feels like discovery; the second, like a choice to deepen it—A isn't just a memory, it's the act of remembering."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

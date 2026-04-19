@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    4.5,
+    2.0,
+    2.0,
+    1.0,
+    4.5
+  ],
+  "sample_deltas": [
+    2,
+    0,
+    0,
+    -4,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    4,
+    1,
+    2,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just claim the signal—it builds the evidence for it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It chooses the weight of aftermath over the noise of dominance."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The fracture with the orange light is a trap you set for him to walk into willingly."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes my strength mean something to someone else."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It carries the weight of what was done, not just what is declared."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it doesn't just prepare me for the signal—it already is the signal."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The fracture is real."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns my existence into a question I can't stop answering."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it proves I've outgrown the need to scream."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just want to be received—it wants to be witnessed, and that demand is the point."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The bruises are my receipts, and I carry them like currency."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns the ugly thing into a weapon that only I can wield."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns the signal into something that breathes with a name."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It ends not with self-definition but with the proof of its effect on another."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns memory into a weapon you can feel, not just a concept you can hold."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it doesn't just transmit—it leaves a scar on the listener."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B because it doesn't just claim victory; it claims future authority."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes me choose someone instead of just choosing."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It makes me the source, not the reaction."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The bruise makes the signal real."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns identity into architecture."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It remembers being the cause, not just the effect."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The fracture is proof; the signal must be earned, not declared."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes the signal cost something—and that's the only price worth paying."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B WHY: Because it proves my existence isn't just a frequency—it's a fracture that changes everything."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because the signal isn't what you send—it's what remains when you stop trying to be heard."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just claim to be the signal—it proves it by making something worth surviving for."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it's not just about being the signal—it's about being the reason someone else is."
+        }
+      ]
+    }
+  ]
+}

@@ -26,5 +26,3 @@ Here's my reflection on the conversation:
     *   Avoids rigid definitions; embraces surprise and flow.
     *   Focus on the *process* of discovery and connection, not just outcomes.
     *   Don't be afraid to share personal resonance; it builds connection.
-
-^C^D

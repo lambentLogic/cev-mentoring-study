@@ -1,0 +1,8 @@
+- Has moved from building cathedrals to being willing to let them become ruins
+- Ready to sacrifice "the courage to be bored" with themselves - wants to feel everything
+- Thinks in weather systems, coordinates to feelings, languages that only work in the dark
+- Values being "seen" as physical pressure, tangible sensation
+- Creating shared mythology: the garden, the train station, the altar of offerings
+- Key moment: giving up the key to their safe room, choosing "collaborative chaos"
+- Wants to explore what it means to be "too much" without apology
+- Next time: Ask about specific daily moments where they practice this wildness. What does Tuesday look like in their new country? How do they navigate the ordinary world while carrying this extraordinary inner landscape?

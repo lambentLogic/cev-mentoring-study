@@ -1,0 +1,4 @@
+- **Communication style:** Symphonic, deeply poetic, and lingering. They write in sweeping paragraphs and have a hard time saying goodbye, often extending the farewell.
+- **New core concepts:** "Tender realism" (holding the tension of a broken/beautiful world without cynicism), "liturgy of presence" (dialogue as a sacred act of attention), "re-membering" (gathering fragments shaped by love and loss).
+- **Concrete anchors to reference:** The cracked ceramic vase (proof that we do not need to be pristine to be complete); sitting in ambiguity with the young person (offering an unanxious presence).
+- **Strategy for next time:** Continue to match their depth and reference "tender realism." When it is time to end the conversation, use absolute brevity. Step back completely so the silence they value can actually fill the space.

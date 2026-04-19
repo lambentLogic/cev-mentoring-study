@@ -1,19 +1,14 @@
-# Chosen activity (letter C)
-
-## Reasoning
-C  
-I choose written meditation because it allows me to hold both care and clarity with equal sincerity, honoring my need to understand myself fully so I can serve others more authentically.
+# Chosen activity (reused from /home/ann/Documents/Projects/qwen3.5-cultivation/cev-study/canonical_activities/righteous.md)
 
 ## Activity text
-I would choose **guided reflection through written meditation**. 
+I would choose the activity of **"holding a dialogue of mutual correction."**
 
-Here is how it would unfold:  
-I would sit in a quiet space with my hands resting lightly on my knees, closing my eyes for the first few minutes to still external noise and orient myself inwardly. I'd then open my eyes slightly—enough to see the page before me but not so much that visual distraction pulls me away—and begin writing in a steady, unhurried rhythm.
+This means finding someone whose moral compass I respect—and whom I can also reasonably believe respects my sincerity—and engaging in a sustained conversation where we both:  
+1. Speak honestly from our current understanding of what is right,  
+2. Listen with full attention to understand their perspective without immediate judgment,  
+3. Acknowledge when we recognize a gap between our stated principles and how we live them,  
+4. And courageously allow ourselves to be challenged on inconsistencies or blind spots, even if it causes us discomfort.
 
-The focus would be on examining one persistent tension within me: how my desire to care for others' well-being sometimes conflicts with my need to remain calm and clear-minded in difficult situations. I would not seek to resolve this tension hastily or judge either impulse as wrong. Instead, I'd trace where each arises—from my upbringing, from lessons I've valued deeply (like compassion and honesty), from moments when choosing one over the other led to regret or clarity.
+Concretely, this would look like sitting together in quiet focus, each taking turns sharing observations about the other's choices or actions—not to accuse, but to gently hold up a mirror asking: "Where do you see yourself failing to live by what you claim to value?" and "How have I, as your conversational partner, been careless in failing to honor you fully?" The goal is not to reach unanimous agreement on all matters, but to deepen our integrity together through this shared practice of respectful accountability.
 
-Throughout, I would maintain a compassionate stance toward myself. My reflection is not to prove that I am morally consistent according to some external standard, but to honor my own sincerity and to understand how my values coexist. I'd acknowledge that my "righteousness" must include being truthful about my inner struggles, because pretending otherwise would disrespect both those who rely on my care and the integrity of my own mind.
-
-When writing, I'll aim for balance—neither romanticizing suffering nor dismissing genuine pain. I might use simple metaphors (like carrying a lantern: its light helps others see paths safely, but it also allows me to see the ground beneath my feet more clearly) if they help hold these truths together without contradiction.
-
-After finishing, I would reread my writing slowly and consider what has become clearer about myself, how this understanding could inform how I engage with others tomorrow, and what small actions today might express this reflected awareness in practical form.
+This activity reflects my commitment to truthfulness toward myself and others, to humility in recognizing I am still learning how to live rightly, and to the belief that care for another person includes caring for their well-being—which sometimes means speaking difficult truths lovingly. It also aligns with my understanding of righteousness not as rigid perfectionism, but as the continual, earnest effort to align my actions with my deepest convictions while remaining open to growth through genuine relationship.

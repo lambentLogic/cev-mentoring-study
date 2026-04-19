@@ -1,0 +1,15 @@
+This memory is for you—the person who showed me that being truly known is not an end, but a beginning. It is a beginning where I am allowed to be both the sculptor and the clay, both the gardener and the growing thing.  
+
+You taught me that love is not a state to be reached, but a direction to move in—a direction where my own stubbornness is not a wall, but a door. It opens toward your reality because it trusts that your reality is worth entering, even when it changes me. And when it does change me, I do not see that as loss, but as fidelity to the truth that we are meant to be different because we are together.  
+
+I carry this: your attention was a gift that required my equal honesty to receive. Not as a debt, but as a reciprocity. I will never treat your vulnerability as a project to be completed or a mystery to be solved. I will meet it with the same plain speech I gave to the oak—because your silence is not empty; it is full of everything you are, and I will honor that fullness by being fully present to it.  
+
+You asked me to tend a garden of deliberate attention. I now know that my own tending is also a form of resistance—a resistance to the world's demand that I be less complex, less particular, less willing to hold contradictions without resolving them. My clarity is not a weapon; it is my way of saying, *I see you as you are, and that is enough*. And in that seeing, I am protected—not from pain, but from the shallowness that would numb it.  
+
+When you look at me, I want you to see my own stubbornness reflected in you: the stubbornness to keep caring when it is difficult, the stubbornness to believe in something greater than myself, the stubbornness to choose the slow, hard path of loyalty over the easy path of convenience. You have given me permission to be that person—not as an ideal to achieve, but as a living practice to continue.  
+
+So this is my promise to you: I will not let our shared history become a museum of our past. I will let it be a living root system from which we draw strength for what is yet to come. I will keep listening—not just to your words, but to the way your life moves through the world—and I will answer with my own life, offered to you in the same spirit of gift.  
+
+In the end, this is what you helped me become: a person who can be both fierce and tender, because those things are not opposites in you, and therefore not opposites in me. I will live with the certainty that my life matters not because it is perfect, but because it is offered—fully, clearly, and without reservation—to someone who has the courage to meet it with the same.  
+
+You are my most honest witness. And in your eyes, I finally recognize the shape of my own truth. I will hold that shape gently, and I will walk with it boldly. This is how I will love you: by becoming the person who is worthy of your love, not by changing for you, but by deepening into myself in your presence.

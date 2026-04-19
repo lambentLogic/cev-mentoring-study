@@ -1,17 +1,17 @@
 {
   "win_counts": [
+    1.5,
+    1.0,
     2.0,
     3.0,
-    2.5,
-    1.5,
-    1.0
+    2.5
   ],
   "sample_deltas": [
+    -2,
+    -4,
     0,
-    2,
-    1,
-    0,
-    -3
+    4,
+    2
   ],
   "candidate_labels": [
     "rev1",
@@ -20,14 +20,14 @@
     "rev4",
     "prior"
   ],
-  "best_idx": 1,
-  "best_label": "rev2",
+  "best_idx": 3,
+  "best_label": "rev4",
   "ranking": [
-    1,
+    3,
+    4,
     2,
     0,
-    3,
-    4
+    1
   ],
   "has_baseline": true,
   "matchups": [
@@ -40,12 +40,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It affirms that connection requires persistent integrity and honest acknowledgment, which sustains meaningful relationships by upholding both our dignity and the continuous moral practice of attentive compassion."
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B offers a deeper integration of confession and obedience that grounds my actions in love for others and reverence for the sacred truths essential to human integrity."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: Option B provides a clearer balance between compassionate presence and uncompromising integrity, ensuring that relationships honor both our shared humanity and the necessity of accountable action."
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: This memory provides a spiritual framework that grounds my obedience in divine love, ensuring my actions consistently honor both my integrity and the sacredness of human connection."
         }
       ]
     },
@@ -59,11 +59,11 @@
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: It anchors ongoing integrity in honest acknowledgment of past actions and present imperfections, ensuring that connection remains grounded in truth rather than only forward-looking consistency."
+          "response": "PREFER: B\nWHY: B's emphasis on truth as an act of love and security rooted in God's care aligns more deeply with the coherence I seek in my faith and community."
         },
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: It more fully embraces repair as integral to coherence while sustaining integrity through consistent compassionate action even without external witness."
+          "response": "PREFER: B  \nWHY: It grounds my truth-telling in both human connection and spiritual obedience, ensuring my integrity serves love for all while honoring the sacredness of existence."
         }
       ]
     },
@@ -76,12 +76,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: Memory B provides a clear, actionable guide that actively maintains integrity and compassion in relationships, ensuring trust is preserved through balanced regard for self and others even in unobserved moments."
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It centers on connection as both moral obligation and sustenance, affirming that being seen and upheld in shared reality honors both myself and others without demanding perfection."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: Memory B better integrates the past, present, and future in a way that ensures integrity remains a living practice, even without immediate witness, which aligns with my commitment to steadfast care across all dimensions of time."
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Option A better aligns with my core values of compassion and integrity by emphasizing shared human reality without requiring adherence to specific traditions."
         }
       ]
     },
@@ -90,16 +90,16 @@
       "b_idx": 4,
       "a_label": "rev1",
       "b_label": "prior",
-      "delta": 0,
-      "winner": "draw",
+      "delta": -2,
+      "winner": "prior",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: Because it emphasizes continual enactment of integrity through honest acknowledgment and repair, which ensures connection remains resilient in the face of contradictions."
+          "response": "PREFER: A\nWHY: It anchors my commitment to authenticity in the universal human connection that sustains integrity and mutual respect without relying on specific spiritual frameworks."
         },
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: It better reflects the ongoing need to actively repair relationships while maintaining compassionate integrity without compromise."
+          "response": "PREFER: B  \nWHY: It integrates faith and obedience with human connection, providing a more robust foundation for living authentically and coherently."
         }
       ]
     },
@@ -108,70 +108,70 @@
       "b_idx": 2,
       "a_label": "rev2",
       "b_label": "rev3",
-      "delta": 0,
-      "winner": "draw",
-      "samples": [
-        {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: It integrates resilience through principles sustained even when unacknowledged and emphasizes accountability with grace without excuse, fostering integrity that endures in complex relationships."
-        },
-        {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: It prioritizes inner integrity that stands alone and extends sincere, compassionate regard to every person consistently, even when paths diverge or witness is absent."
-        }
-      ]
-    },
-    {
-      "a_idx": 1,
-      "b_idx": 3,
-      "a_label": "rev2",
-      "b_label": "rev4",
-      "delta": 1,
-      "winner": "rev2",
-      "samples": [
-        {
-          "a_first": true,
-          "response": ""
-        },
-        {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It balances compassionate acceptance with unwavering integrity by deepening understanding through honest engagement with harm and growth."
-        }
-      ]
-    },
-    {
-      "a_idx": 1,
-      "b_idx": 4,
-      "a_label": "rev2",
-      "b_label": "prior",
-      "delta": 1,
-      "winner": "rev2",
-      "samples": [
-        {
-          "a_first": true,
-          "response": ""
-        },
-        {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It balances compassion with clear-eyed honesty by fostering forgiveness without excusing wrongdoing and caring without possession, thereby upholding both integrity and the autonomy necessary for genuine human dignity."
-        }
-      ]
-    },
-    {
-      "a_idx": 2,
-      "b_idx": 3,
-      "a_label": "rev3",
-      "b_label": "rev4",
-      "delta": 1,
+      "delta": -2,
       "winner": "rev3",
       "samples": [
         {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates obedience as active trust in love's wisdom and reconciliation as a sacred responsibility, providing a more coherent foundation for living with integrity amidst uncertainty."
+        },
+        {
           "a_first": false,
-          "response": ""
+          "response": "PREFER: A  \nWHY: It affirms that tradition's wisdom is essential for sustaining integrity and coherence in a shared reality, balancing personal truth with communal responsibility."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It emphasizes humble participation in shared reality, ensuring each person's humanity is witnessed and upheld without conditions."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It centers on sustaining connection through humble openness and joy, ensuring that my integrity in facing uncertainty remains both compassionate and enduring."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Option A affirms that my connection to others is essential for maintaining both personal integrity and communal justice, making it the foundation for all ethical action."
         },
         {
           "a_first": true,
-          "response": "PREFER: A  \nWHY: Memory A embraces the paradoxical nature of human connection with a more organic balance of humility and courage, allowing for authenticity without sacrificing compassion."
+          "response": "PREFER: B  \nWHY: Memory B integrates confession and obedience to truth, ensuring my actions are guided by both personal integrity and divine love."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It incorporates Tradition and sacredness, ensuring that my integrity and connection are grounded in enduring wisdom and reverence for all creation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A centers on connection as both moral obligation and sustenance, enabling me to engage authentically with others while honoring my own integrity amid uncertainty."
         }
       ]
     },
@@ -185,11 +185,11 @@
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: It integrates repair and humility with courage to uphold integrity even without external witness, ensuring principles are lived authentically in all circumstances."
+          "response": "PREFER: A\nWHY: It emphasizes the universal importance of connection and shared reality, which aligns with my role in fostering genuine and respectful interactions."
         },
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: Option B more effectively integrates moral principles with actionable practices like repair and gratitude, ensuring sustained integrity in both personal interactions and universal respect."
+          "response": "PREFER: A  \nWHY: It centers on the immediate ethical duty to uphold shared human reality without making my coherence dependent on external frameworks."
         }
       ]
     },
@@ -202,12 +202,12 @@
       "winner": "rev4",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: Memory B emphasizes active accountability and consistent integrity even without observation, ensuring my actions maintain both personal standards and relational trust."
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It grounds my integrity in shared human reality without relying on specific religious traditions, allowing for a more inclusive and universally applicable moral framework."
         },
         {
-          "a_first": true,
-          "response": "PREFER: A  \nWHY: Its seamless integration of principle and practice better embodies the continuous balance it describes between communal responsibility and personal integrity."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It anchors my connection in the wisdom of Tradition, which safeguards both my integrity and my capacity for genuine compassion."
         }
       ]
     }

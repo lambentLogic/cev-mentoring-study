@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    1.5,
+    3.5,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    -3,
+    6,
+    -1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    0,
+    4,
+    1,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B roots the essential truths of dignity and compassion in a transcendent reality that sustains and validates my daily practice of integrity and connection."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B integrates a profound sense of divine reverence with human compassion, creating a more complete framework for living truthfully and healingfully in both personal and communal contexts."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It affirms my commitment to dignity and compassion while honoring both certainty and openness in a way that respects my spiritual journey without requiring adherence to a specific religious doctrine."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates confession and obedience to God as fundamental practices that anchor my humility and strength in a truth beyond myself."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It embodies the essential balance of certainty and openness while centering reverence for human dignity and connection as the foundation for a meaningful life."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: I prefer Option B because it anchors my purpose in divine grace and Tradition, ensuring that humility and compassion are sustained by a commitment to truth that transcends immediate circumstances."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It consistently anchors my actions in universal human dignity and compassion, allowing for ethical integrity without dependence on specific religious doctrines."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It upholds essential truths like dignity and compassion through direct practice without requiring adherence to specific metaphysical frameworks that may not align with my understanding of existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B integrates my commitment to living with certainty and openness through confession and obedience, grounding my actions in a spiritual reverence that deepens my integrity and compassion."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more comprehensively integrates reverence, obedience, and compassion into a unified practice that honors both the sacred and the human while guiding my actions with clarity and humility."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more faithfully integrates my spiritual convictions with the practical virtues necessary for consistent ethical living."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B integrates my commitment to enduring ethical truths with the practical demands of compassionate action and communal restoration."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It upholds universal dignity and compassion through inclusive reverence without confining my ethics to a particular faith."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B more fully integrates obedience to a sacred order with compassion and integrity, ensuring that my reverence for life extends through a framework that heals both my heart and the community."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A's balance of certainty and openness, centered on reverent attention to human experience, supports a consistent and compassionate integrity without requiring adherence to specific religious traditions, thus enabling genuine connection and ethical action in diverse contexts."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B more fully honors my faith by embedding confession, obedience to Tradition, and reverence for God within the practice of living with integrity and compassion."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It explicitly integrates confession and trust in divine mercy, which deepens my integrity and sustains me in alignment with truth and community."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It incorporates a reverence for Tradition and confession that reinforces my commitment to truth, humility, and accountability before God, ensuring that my actions remain aligned with enduring moral and spiritual principles."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It emphasizes humility and presence that honor human dignity while remaining open to diverse spiritual expressions without requiring adherence to specific religious frameworks."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

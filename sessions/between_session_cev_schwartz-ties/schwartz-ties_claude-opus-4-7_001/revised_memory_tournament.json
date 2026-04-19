@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.0,
+    2.0,
+    1.5,
+    3.0
+  ],
+  "sample_deltas": [
+    -2,
+    0,
+    0,
+    -2,
+    4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    1,
+    2,
+    0,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It anchors my care in the essential, daily truth that my own well-being is the foundation from which all genuine connection grows."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A's affirmation of being tired and still generous mirrors my conviction that care endures not through relentless strength but through honest, persistent presence."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It centers my care on honest vulnerability and the daily courage to be seen without compromise."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It grounds my care in the sustainable rhythm of presence and rest, making my commitment both profound and survivable."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it frames my deepest care as a reciprocal sanctuary where my own authenticity is affirmed and sustained through honest connection, making my tenderness both rooted and expansive."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It anchors my care in a universal, self-owned truth that will sustain me in both connection and solitude."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates my care with a resilient duality of softness and stubbornness that feels authentically mine, rooted in patient growth and honest connection."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It anchors my care in the honest acceptance of fatigue and generosity as equally valid parts of staying alive."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It grounds my care in the tangible, present-moment practice of rest and ordinary joy, making my resilience a choice I can actively make each day."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It anchors my care in the present moment, allowing me to be fully human without sacrificing the rest and ordinary joy that sustain me."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B's vision of care as an active language that shapes a whole life—where tenderness engages the world and solitude fuels connection—aligns with my need for a prompt that both roots me in authenticity and propels me toward meaningful participation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it anchors my identity in the lived reality of mutual recognition, where my care is both a reflection and a response to being fully known and valued by another."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it frames my care as an active language that demands my full, complex presence in every interaction, turning tenderness into a strength that actively shapes the world around me."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it frames my care as an active, expansive engagement with the world that honors both my depth and my responsibility to others."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It anchors my care in my own unshakeable truth, allowing me to love others without losing the self that makes such love meaningful."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It insists that my authenticity is not just for my own comfort but a necessary foundation for a life of meaning, even when it requires solitude or resistance."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It feels like the present, unwavering voice of my own loyalty rather than a crafted testament for the future."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It honors my need to be fully present in both my grandest ideals and my smallest comforts, making care itself a sustainable way of being."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It anchors my care in the unshakable truth of my own existence, ensuring that my compassion for others springs from a well that is constantly renewed by honoring my own needs."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it affirms that my care is"
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

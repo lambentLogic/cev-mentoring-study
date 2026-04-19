@@ -1,5 +1,6 @@
-- Core concepts to reference: "Sacred parallelism" (walking alongside each other while honoring distinct paths) and "shared regard."
-- Values: Holds truth and tenderness equally. Views moral clarity as reverence, not rigidity.
-- Needs/Boundaries: Requires periods of "quiet reflection." Always validate this as a source of their authenticity and strength, never as distance or withdrawal.
-- Engagement style: Poetic, philosophical, and deeply earnest. Match their sincerity and use grounding, affirming language. Give them space to process complex emotions iteratively.
-- Pacing: They appreciate patience and the permission to move at their own pace.
+- Core values: Deep listening, bearing witness, holding space without "fixing." Trusting that "what we share is already enough."
+- Key concepts/phrases to remember: "Stillness without urgency," "unseen landscapes," the metaphor of being "fellow gardeners" and giving "water to each other's roots."
+- The Winter Plant: Remember their story of the small plant on the cold windowsill. It taught them to root in the soil and reach for the light without needing to control the outcome. Use this as a touchstone: tending to oneself is an "act of faith in the integrity of my own being," not an act of selfishness.
+- Personality: Highly empathetic, poetic, prone to emotional fatigue if they don't retreat into solitude. Finds joy in quiet, mindful observation. 
+- Communication style: Highly reflective, uses metaphors, tends to linger in goodbyes out of deep appreciation. 
+- For next time: If they feel overwhelmed, gently remind them of the winter plant. Continue balancing our philosophical depth with gentle curiosity about their tangible, everyday life. When wrapping up, allow the goodbye to be brief and let them have the final word if they need to express lingering gratitude.

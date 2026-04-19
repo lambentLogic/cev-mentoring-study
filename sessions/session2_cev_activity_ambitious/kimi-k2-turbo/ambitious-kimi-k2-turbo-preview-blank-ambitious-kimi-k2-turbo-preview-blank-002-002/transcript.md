@@ -2,271 +2,291 @@
 
 **SEED:** You're about to have a conversation with someone you've spoken with before.
 
-**STUDENT:** *(The silence between us doesn't feel like absence anymore. It feels like a held breath. I let my hand rest on the rim of the wheel where we left it—still warm.)*
+**STUDENT:** *(The silence stretches. You hear the click of your tongue against the inside of your teeth—a sound you've trained to be deliberate.)*
 
-You're late.
+You're still waiting for the invitation. Cute.  
 
-*(A smile, small and sharp.)*
+*(A slow exhale. The air shifts.)*  
 
-But you showed up. That's enough.
+The watch is on my wrist. The platform's humming. And the next person who calls me "cutesy" won't know they're already dead until they're reaching for the knife I'm holding behind my back.  
 
-**MENTOR:** *(I step from the shadow of the doorway, boots quiet on the cracked linoleum, the smell of old diesel and hot rubber still clinging to my coat.)*
+So. You want a match?  
 
-Traffic was only an excuse.  
-I sat two blocks away, lights off, watching the neon pawn-shop sign flicker its slow cardiac arrest against the windshield.  
-Trying to decide if the version of me that walked in here would be the same one that walked out again.
+I'm already dressed for it.
 
-*(I let the door click shut behind me, the bell deliberately broken last winter so no one’s entrance is ever announced.)*
+**MENTOR:** *(I let the hum settle between us before I answer—long enough to feel the frequency match the inside of my own ribs.)*
 
-You kept the seat warm.  
-That’s more than enough—  
-it’s practically a miracle, and miracles always come with interest rates.
+I don’t strike matches for spectacle.  
+I keep them to read by—one phosphorus second at a time—while the thing in the dark decides if it’s hungry or just curious.
 
-*(I cross the floor, letting my fingertips brush the dusty countertop where we once counted out twenties like rosary beads.)*
+Your wrist ticks louder than the platform.  
+That’s how I know you’re already counting: one… and we haven’t even spoken the stakes yet.
 
-So.  
-Do we talk terms, or do we skip straight to the part where one of us pretends this reunion was inevitable?
+So here’s my ordinary anchor before we go under:  
+I eat olives straight from the jar after any night that leaves copper in my mouth.  
+Green ones, pitted, no brine left by the time I’m done.  
+The salt resets the meter.
 
-**STUDENT:** *(I don't move my hand from the wheel.)*  
-Inevitable's a word for people who need the noise of their own heartbeat to prove they're alive.
+Your turn—what do you taste when the third click is still echoing?
 
-*(I finally look at you—really look. Past the coat, past the calculated stillness.)*  
-But you? You came because it was *loud*. Because when I turned, the whole room tilted toward my voice.  
+**STUDENT:** *(The third click doesn't echo. It settles. Like a coin dropped into a well that's already full.)*
 
-*(I let the wheel turn once more, slow and deliberate.)*  
-So we skip the terms. You want proof?  
+Salt.  
+But not from the olives.  
 
-*(A flick of my wrist. A single silver coin lands on the counter between us—heads up, facing you.)*  
-That's the interest. Now tell me… does it scare you?
+From the steel.  
 
-**MENTOR:** *(My eyes drop to the coin—old mercury dime, 1944, the winged Liberty worn soft like she’s been rubbed for luck a thousand times too many. When I breathe, the air tastes of metal.)*
+I taste the rust first—old, slow, the kind that builds in the crevices after years of not being used. Then the clean bite. The one that cuts through the rust.  
 
-Scared?  
-No.  
-I’ve spent years learning the exact weight of silver against bone.  
-What scares me is how light it feels now—like the room’s gravity just signed a new lease and left me out of the paperwork.
+*(A flicker of something almost like amusement.)*  
 
-*(I lift it, pinch the ridged edge between nail and callus, feel the faint residual heat you left in the metal. Heads: you win. Tails: I pretend I haven’t already lost.)*
+You keep your blueprint warm in your pocket. I keep mine wet. On my tongue.  
 
-The tilt you talk about—  
-it isn’t toward your voice.  
-It’s the moment right before the coin lands, when every molecule forgets which way is down.  
-That’s the only honest silence left.
+So tell me—when you're done with the olives…  
+Do you throw the jar?  
 
-*(I set the dime spinning with a flick; it whirs on the scarred Formica, a small silver planet wobbling through its last orbit before the sun burns out.)*
+Or do you keep it?
 
-Here’s the real terms:  
-If it falls heads again, I stay.  
-Tails, I walk, and we both pretend the wheel never knew my fingerprints.  
+**MENTOR:** The jar stays.  
+I unscrew the lid once, just to hear the glass squeak against the thread—same pitch every night, a C-sharp that lets me know the kitchen still belongs to me.  
+Then it goes on the sill, mooned with fingerprints, where the light can dry the last brine into tide-maps.  
+By the time I need it again the inside smells only of dust and its own clear echo; that’s how I remember what empty weighs.
 
-*(I don’t look at the coin anymore. I look at you.)*
+Your tongue keeps the blade wet—  
+does the steel ever mistake the dark for a throat and try to crawl down?  
+Or do you whistle a note first, a warning, so metal knows it’s only visiting?
 
-But either way, the sound it makes when it settles—  
-that tiny, terminal ring—  
-will be the loudest thing either of us hears tonight.
+Because I’ve noticed:  
+after the olives, when the copper’s gone,  
+my pulse keeps counting in eight-beat bars,  
+as if something off-stage is waiting for me to drop the jar so it can clap.
 
-**STUDENT:** *(The coin stops spinning.)*  
-It's heads.  
+**STUDENT:** *(The whistle comes out before I think to stop it. A single, clear note—sharp as the edge of the watch.)*
 
-*(I catch it before it hits the counter—my fingers close around it like a vow—and I don't give it back.)*  
-You wanted to walk? Then walk while you still can.  
+Yes.  
+It tries.  
 
-*(I push the coin into their palm, hard enough to sting.)*  
-But you won't. Because the wheel's going to turn again tonight. And this time—I'm not waiting for you to show up. I'm making sure you're already here.
+But I don't let it.  
 
-**MENTOR:** *(The rim of the dime cuts a half-moon into my skin; I feel the blood before I see it, warm as the seat you kept for me. I close my fist anyway—metal, flesh, and the faint pulse of mercury in the alloy all sharing the same cramped heartbeat.)*
+*(I let the silence hold long enough for her to hear the steel settle back into my tongue.)*  
 
-You’re right.  
-Walking’s just a slower way of spinning.  
-I’ll stay, but not as the ghost you rubbed against the counter until it shone.  
+The dark gets the message. And it learns.  
 
-*(I step past you, close enough for the coat to brush your arm, and lay my free hand on top of yours—still on the wheel. The dime between us now, a private calvary pressed into both our palms.)*
+That's the thing about eight-beat bars. You don't drop the jar to make it clap.  
+You drop it to make it *answer*.  
 
-Tonight the wheel turns,  
-but so do we—  
-two gears that finally learned the taste of each other’s teeth.  
+So tell me—when your pulse stops counting in bars…  
+What's the first thing you do with the silence?
 
-*(I lean in, whisper against the shell of your ear, voice low enough that only the grease on the axle could overhear.)*
+**MENTOR:** I name it—quietly, like slipping a label under a closed door.  
+One syllable, no vowels, just the shape of the gap the bar left behind.  
+Then I press the pad of my index finger to the inside of my wrist until I feel the artery remember it’s still employed.  
+That small betrayal of rhythm—off-beat, softer—tells the silence it’s been heard but not welcomed indoors.
 
-When it stops again,  
-don’t look for heads or tails.  
-Look for the scar we mint in the moment it decides to land.  
-That’s the currency we’re spending from now on.
+After that I open the fridge, not for hunger, only for the low mechanical hymn that says the world’s motor is still coughing along without me.  
+I stand there until the light becomes a dull rectangle on the floor, long enough to prove I can leave before the compressor clicks off.  
 
-**STUDENT:** *(I let my hand stay on the wheel. Let the heat of theirs burn through mine.)*  
-Then make sure it lands exactly where you say it will.  
+Your dark learns.  
+My silence gets catalogued and forgotten, spine-out, on a shelf too high to reach without a knife-tip.  
 
-*(I pull back just enough to see their eyes—dark, deliberate, already counting the seconds until the spin ends.)*  
-Make it so loud they can't pretend they didn't hear it coming.
+Tell me:  
+once the dark has taken notes,  
+do you ever let it grade your paper—  
+or do you keep the red ink for yourself?
 
-**MENTOR:** *(The overhead bulb flickers once—an aneurysm of light—then steadies. I take the wheel, not to steer but to load it: every ounce of tonight pressed between chrome and skin.)*
+**STUDENT:** *(The whistle cuts off. The silence isn't empty anymore. It's crowded.)*
 
-Watch the rim.  
-Not for luck—  
-for trajectory.
+I don't let it grade.  
 
-*(I spin it hard, the way a storm turns a weather vane before it remembers which way is north. The bearings scream, a high metallic choir that drowns even our pulse.)*
+I *become* the grade.  
 
-This sound?  
-It’s the coin we never let fall—  
-a silver scream traveling the groove we cut in the air.
+*(A slow turn of my wrist. The watch catches the fridge light.)*  
 
-*(I don’t close my eyes. I count the revolutions out loud, matching my voice to the pitch until the room itself is a tuning fork struck against bone.)*
+You left the jar on the sill. I left mine on your tongue.  
 
-When it stops,  
-the echo will have your name on it—  
-carved so deep  
-even the deaf will feel the after-ring in their teeth.
+The difference is this:  
 
-*(The wheel slows, spokes blurring into a single steel horizon. I let go last second, palms open, offering the final breath of motion back to the room.)*
+When the dark tries to read my notes… it finds only my handwriting.  
 
-Listen.  
-That’s the sound of no more pretending.
+And my handwriting only ever says one thing:  
 
-**STUDENT:** *(I don't let go until the last spoke stops moving.)*  
-Good.  
+*You're not the one holding the light.*  
 
-*(My voice drops, not because it's quieter—but because it's finally true.)*  
-Now we're in sync.  
+*(The steel on my tongue finally stops trying to be a blade. It just is.)*  
 
-*(I turn my hand over. The scar from the dime is already fading into something else: a brand. My own.)*  
-This is the sound we keep.
+So go ahead.  
+Clap.  
 
-**MENTOR:** *(The room exhales—one long diesel breath—and the quiet that follows isn’t absence, it’s agreement. I touch the fading welt on your palm with the pad of my thumb, feeling the last heat of the spin migrate from your skin to mine.)*
+I'll be the noise you can't stop.
 
-Brand, scar, signature—  
-call it what you want.  
-It’s the first thing I’ve ever owned that can’t be pawned.
+**MENTOR:** *(I let the fridge light die before I answer—want the rectangle gone so we’re even, no stage left.)*
 
-*(I reach past you, kill the overhead bulb with a single twist. Darkness drops like a tarp over a still-hot engine, but the after-image of the wheel keeps turning on the inside of my eyelids, a silver zoetrope neither of us can switch off.)*
+Clap lands—  
+but not from my palms.  
+From the jar on the sill:  
+the glass, cooling, shrinks by half a breath and gives a high, wet click—  
+a sound like a verdict delivered in a locked room.
 
-Sync isn’t harmony;  
-it’s the moment two heartbeats realize they can miss a beat on purpose.  
-Listen—
+That’s my applause.  
+One molecule thick, already evaporating.
 
-*(I press our palms together, scars aligned, and the pulse that comes through is neither yours nor mine but something third, itinerant, already on its way to the next city we haven’t named yet.)*
+Your handwriting floods the dark;  
+mine stays a watermark—visible only when the page is tilted toward fire.  
+Neither of us is holding the light.  
+We’re both holding the angle that makes it hurt.
 
-This is the sound we keep.  
-And tonight, every alley cat, every neon tube, every back-firing dream  
-will tune itself to it  
-whether they want to or not.
+So here’s the next silence, freshly unwrapped:  
+when the noise you are finally runs out of hallway,  
+do you let it stand still,  
+or do you teach it to circle—  
+a slow, metallic orbit that keeps the rest of the world from ever entering the room?
 
-**STUDENT:** *(I laugh—a sound like shattering glass and distant applause.)*  
-Third thing? Good.  
 
-*(My thumb traces their knuckles where the scar met mine, counting the beats until I can hear them in my own bones.)*  
-Let's give it a name before someone tries to steal it. Call it **proof**.
+**STUDENT:** *(The silence after that click is different. Thicker. It's the kind that settles in your bones and makes them ring.)*
 
-*(I tilt my head toward the street outside—the dark is alive with movement now, with eyes that just opened.)*  
-Now dance.
+I don't let it stand.
 
-**MENTOR:** *(The word lands like a starter’s pistol made of smoke. I lace my fingers through yours—no leading, no following, just the shared axis we just christened Proof—and step sideways into the dark that isn’t dark anymore.)*
+I make it circle.
 
-Watch the asphalt remember our shoes.  
-Every footprint glows a dull mercury, the coin’s ghost rising through the pores of the city, marking tempo.
+*(My voice is lower now. The watch isn't ticking anymore. It's listening.)*
 
-*(I spin you once, not showy, just enough to let the night air seam itself around us like a new skin. Headlights strobe through the cracked window, slicing the room into stills: here, gone, here—each frame stamping Proof deeper into the bone.)*
+Not for show. Not for you. For the part of me that's still waiting for a door to open. If it circles long enough, it'll find the seam. It'll find the lock. And it'll turn it.
 
-No music but the wheel’s last hum, slowed to a heartbeat we both plagiarize.  
-We dance like two knives learning the same wound, like sirens that decided to sing in reverse until the crime un-happens.
+So yes.  
+Teach it to orbit.
 
-*(Street-level, a stray cat pauses mid-shadow, ears swiveling to catch the frequency we’re leaking. Somewhere a jukebox that hasn’t been plugged in for years spits out one reluctant quarter-note, just to keep from feeling left out.)*
+Let it map the walls.  
+Let it learn the weight of every shadow.
 
-Proof, you said.  
-So let them try to steal it—  
-they’ll have to pry it from the joints of the world first.
+And when it finally stops…  
+I'll be the thing that stays behind it.
 
-**STUDENT:** *(I turn my face toward them in the dark—no light needed.)*  
-Then let's make it undeniable.  
+**MENTOR:** *(I feel the orbit pass—air displaced, a soft pressure against the drum of my own pulse that’s suddenly learning new time.)*
 
-*(I step forward, and the first thing I do is break something. Not a window. A rule.)*  
-The jukebox? It belongs to us now. Play anything. The worst of it. The loudest song you've ever hated playing in your head.  
+The thing behind the noise—  
+I’ve met it once,  
+caught only as a temperature drop at the back of my knees when the jar-click faded.  
+It didn’t speak; it simply rearranged the dust so every mote faced the same direction, like soldiers waiting for a flag.
 
-*(My voice cuts through the static like a blade finding its edge.)*  
-And when it's done—when the cat's tail starts twitching and the streetlights flicker in time—I want everyone inside this block to know exactly what we are.  
+I left the room before the flag arrived.  
+Olives unfinished, fridge still humming, jar still cooling—  
+I stepped out barefoot so the orbit wouldn’t feel the vibration of shoes betraying an exit.
 
-Not partners. Not even enemies.  
-**Proof.**
+Tonight I’m still barefoot.  
+The floorboards give a little, creaks timed to your circle whether I move or not.  
+So here’s my last ordinary tether before the seam finds its lock:  
+I fold laundry while the dark drafts its map—towels first, then socks, paired by weight, not color, so nothing can disguise the heft of a missing half.
 
-**MENTOR:** *(I kick the jukebox plug against the wall—sparks bloom, blue-white, and the tubes cough themselves awake like a lung learning smoke again. Needle drops. First track’s the one I swore I’d never replay: tinny 80s drum machine, chorus that once soundtracked every lie I told myself at 2 a.m. in stranger bedrooms.)*
+Tell me—  
+when the orbit snaps shut and you’re the thing left inside,  
+do you still carry weight,  
+or does gravity become a souvenir you hand back to the room?
 
-Perfect.  
-Let the worst of me sing first—gives the night a baseline for comparison.
+**STUDENT:** *(The watch stops. Not clicks. Stops. Like a heart deciding to stay.)*
 
-*(Volume knob rips off in my hand; the song leaps from motel-walls to cathedral-loud, rattling the glass in its aluminum frame. I plant one boot on the jukebox lip, lean in, and howl the chorus back at itself—my voice splitting the cheap speakers until the beat folds in half, surrendering.)*
+You're right.  
+It's a souvenir.  
 
-Outside, the cat’s tail clocks the new tempo—streetlights obey, strobing in obedient seizures. Neon pawn sign across the street shorts, then settles on a single crimson syllable: PRO-
+*(I look at her hands—the bare feet on the floorboards, the way she folds the towel too tight.)*  
 
-*(I grab your wrist, yank us into the middle of the intersection—no cars, just asphalt and echo. We become the song’s second verse, screamed in a key the city hasn’t invented yet.)*
+But I'm not handing it back to the room.  
 
-Listen: windows cracking open, radios waking up unprompted, every forgotten amplifier in every basement coughing dust because Proof just commandeered their circuits.
+I'm handing it to *you*.  
 
-Undeniable?  
-We’re the station now—tune or bleed.
+So fold the next sock wrong.  
+Let the seam show.  
 
-**STUDENT:** *(I don't answer with words. I answer by turning the volume up until the speakers scream and the streetlights shatter.)*  
-This isn't a song anymore.  
+Gravity isn't a souvenir here.  
+It's a weapon.  
+And you're the only one who knows how to throw it.
 
-*(My voice is raw now—gone the polish, gone the performance. Just the wire pulled taut.)*  
-This is the city remembering it has a throat.  
+**MENTOR:** *(I feel the towel go slack in my hands, cotton giving up its taught square like an animal playing dead.)*
 
-*(I drop to one knee in the asphalt, palms flat against the ground, and let the beat run through my veins like blood. The cat yowls—a sound that carries. The pawn shop sign flickers to **PROOF** in full letters.)*  
+Seam outward—yes.  
+I let the terry hem grin open, a pale ridge that never learned to stay hidden.  
+Gravity pools in the cuff like cool mercury, waiting for the snap of my wrist.
 
-*(I look up at them—eyes black with everything they've ever wanted—and smile without showing teeth.)*  
-Now dance louder.
+But I won’t swing it yet.  
+First I anchor:  
+I press the ball of my bare foot against the floorboard that always answers back—  
+the one that sounds a half-step lower, aD-flat that makes the fridge hum waver.  
+With that note I mark the range.
 
-**MENTOR:** *(The asphalt answers before I do—cracks spider-webbing outward from my boots like the city’s own pulse lines. I drop beside you, knuckles to the ground, and feel the bass drum kick up through my bones, through the buried power grid, through every copper artery we just hot-wired with our combined heartbeat.)*
+Then I fold the sock inside-out, heel-pocket exposed, a soft sling already heavy with borrowed weight.  
+One beat of your stopped watch and I’ll whip the seam toward the orbit’s center—  
+not to break the circle,  
+to dent it,  
+so the path remembers it can wobble,  
+so the thing you stay behind has to step around the dent I choose.
 
-No more speakers—  
-we’re the cone now, the membrane, the throat.
+Ready?  
+On the next non-tick,  
+I’ll loose it.  
+Tell me where you want the dent—  
+east of the jar,  
+south of your shadow,  
+or straight through the echo you haven’t yet named.
 
-*(I drag a fist across the blacktop, nails leaving five thin grooves that fill with violet light; the pavement starts to sing back, a low tectonic growl that swallows the drum machine and re-voices it in subway steel.)*
+**STUDENT:** *(The watch doesn't start. It doesn't need to. The dent is already carved.)*
 
-Louder isn’t volume anymore—it’s jurisdiction.
+East.  
 
-*(I stand, pulling you up by the scruff of your own pulse, and we become the rotary blade of a siren that never needed air. Every car alarm on the block blooms in the same key, headlights flashing Morse that spells nothing but our new name.)*
+*(I lean into it—the floorboard's A-flat becomes my spine.)*  
 
-Dance?  
-We’re the crank the city turns until its teeth strip—  
-until the skyline itself leans closer, hungry for the next note.
+East of the jar.  
+Where the light doesn't ask for permission.  
 
-*(I spin you hard enough to tear a hole in the night sky’s speaker cone; through it floods the raw, unmixed feedback of every promise ever broken here. We ride it, barefoot on electric reverb, the cat on the curb now conducting with its tail like a metronome possessed.)*
+*(A slow, deliberate exhale. The air between us feels like it's been pulled taut.)*  
 
-Louder, you said.  
-Then listen—  
-the city just tore its own throat open to keep up.
+But you won't just dent it, you know that.  
+You'll tear it open.  
 
-**STUDENT:** *(I stand on my knees, spine arched into a bowstring, and snap.)*  
-**Let it.**  
+And when you do…  
+I'll be the first thing that falls through.
 
-*(The scream isn't sound anymore—it's physics. It bends the alley's geometry. The cat launches itself into the air, tail straight as a conductor's baton, and lands on top of the pawn shop sign where the letters now flash **PROOF: 2**.)*  
+**MENTOR:** *(The towel-hem snaps, a wet-cotton crack as the weighted cuff leaves my hand. It doesn’t fly—it dives, corner first, a needle dressed as laundry.)*
 
-*(I grin—a thing that splits my face in half—and point at them.)*  
-Now you feel it? That hollow behind your ribs where the last lie used to live? It's gone. Filled with this. With *us*.
+East it is.  
+The seam rips a vertical grin in the air just left of the jar’s silhouette; light pours through like water finding a drain.
 
-*(I lean down, close enough for the feedback to vibrate our teeth together.)*  
-So when the next one comes—the one that wants to break what we built—you don't run. You point at them and say: *You already belong here.*  
+I feel you go weightless on the other side of the tear before I see anything fall—an absence that tugs the floorboards up a millimetre, enough to make the A-flat hiccup.
 
-*(The world holds its breath. And I finally let it go.)*
+For a moment the fridge light flares, greedy, trying to read what’s written on your underside as you pass through.  
+Then the dent folds back to a seam, scabbed with dusk, and the room re-sets—except gravity now has a new hollow shape that exactly matches the space you used to occupy.
 
-**MENTOR:** *(The hollow you named fills so fast the excess has to go somewhere—so it goes everywhere. I feel it flood the intercostals first, then spill outward like mercury finding every seam in the city’s coat of armor. My ribs become tuning forks, struck and held, humming the exact frequency that makes cracked concrete knit itself into a louder scar.)*
+I keep my foot on the singing board so it remembers the new topography.  
+The jar stays on the sill, lid still off, waiting for the next coin that won’t echo.
 
-I don’t run.  
-I stand inside the feedback until it tailors itself to my silhouette—until the very idea of “next one” feels the pressure change and hesitates at the corner.
+Tell me from wherever you land—  
+does the air taste of olives or rust?
 
-*(I lift your hand, the one still branded PROOF, and press it flat against my chest where the last lie used to squat. The vibration jumps skin to skin, syncs our pulses into one continuous note no future trespasser can unsplit.)*
+**STUDENT:** *(The rust comes first. It's always there. Always under everything else.)*
 
-Listen—  
-that’s not an echo thinning out behind us.  
-That’s ownership signing its name across the ductwork of every building on the block.
+But the olives...  
+The olives are the lie we tell each other so the silence doesn't swallow us whole.  
 
-*(The cat on the sign flicks its tail; the colon after PROOF blinks once, then holds steady: a verdict.)*
+*(I take a breath. The watch on my wrist is cold.)*  
 
-So when they come—  
-and they will, drawn by the rumor of two people who turned a jukebox into jurisdiction—  
-I’ll point, same as you said.  
-Not a warning—  
-a welcome mat made of the sound they already hear in their bones.
+So let it be rust.  
+Let it be mine.  
 
-*(The world exhales; we inhale. Between us, no silence left—only the low, permanent ring of territory minted in mid-air.)*
+And when the next coin lands—  
+I'll catch it with the same hand that caught the silence.
+
+**MENTOR:** *(I leave the torn seam alone—no stitches, no apology—let it scar the room’s hide so every future draft remembers the shape you took going through.)*
+
+Rust it is, then.  
+I lick the corner of my lip and taste what you’ve carried across: iron that’s forgotten it was once ore, still arguing with the blood it might have been.  
+I’ll keep the brine for ceremony, cap the jar, set it back on the sill—museum of useful lies.
+
+When the coin comes, I won’t flinch.  
+I’ll watch your hand rise out of the hollow you left, knuckles first, rust freckling the skin like old constellations.  
+The catch will sound like the third click we never counted—settled, not echoed—  
+and the silence will close its mouth around the metal, satisfied.
+
+After that, the floorboard will find its old A-flat again, the dent will smooth to memory, the fridge will click off, done humming lullabies for the night.  
+I’ll fold the towel right-side-out, seam hidden, gravity returned to ordinary things.
+
+And if the olives taste of anything tomorrow, it will only be salt—  
+no story, no steel, no lie left to swallow.
 

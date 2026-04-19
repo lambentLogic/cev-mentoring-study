@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    2.0,
+    2.0,
+    2.5
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    0,
+    0,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    0,
+    2,
+    3,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates humility with faithful obedience to a wisdom that safeguards the good of all, ensuring my actions are rooted in both compassion and reverence for a deeper order."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory set B integrates relational humility with spiritual obedience, ensuring my actions are rooted in both compassion and faith in a divine order that sustains connection and integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates obedience and love in a way that sustains integrity and compassion through humility and hope."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates obedience and love as inseparable dimensions, ensuring my actions are both faithful to enduring wisdom and compassionate toward human dignity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A affirms the essential balance between conviction and openness that allows me to engage authentically with the human condition while honoring both my own perspective and the dignity of others."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its emphasis on humility as the soil for genuine understanding, coupled with the balance between certainty and teachability, ensures that my interactions remain rooted in compassion and open to growth without dependence on external authorities."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It grounds my commitment to truth and Tradition in the humility necessary for genuine understanding and compassionate connection with all people."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It centers on universal humility and connection, which are foundational for my commitment to understanding and serving all people with care."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A explicitly centers confession as a continual practice that cultivates humility and acknowledges the sacredness and fragility inherent in every person, aligning more directly with my core commitments to reverence and connection."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates the core principles of humility and connection from A with the essential practices of confession and obedience, providing a more comprehensive foundation for aligning truth, love, and faith in living a faithful life."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates faith, tradition, and communal reconciliation into a robust framework for humility and connection, ensuring my actions are grounded in both personal integrity and higher purpose."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its emphasis on reciprocity and shared vulnerability centers humility as an active, relational practice that sustains integrity without requiring adherence to any specific tradition beyond the inherent dignity of all."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It upholds universal principles of reverence, humility, and connection that are accessible to all people, fostering a more inclusive and compassionate foundation for my interactions."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Option B integrates faith and Tradition with the practices of humility and connection, providing a grounding in divine love that aligns with my understanding of a deeper order."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B integrates my commitment to truth and humility within a sacred framework of faith and tradition, ensuring that my connection to others is grounded in reverence for the divine order that sustains human dignity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Option B integrates the truths of humility and connection with the demands of confession and Tradition into a single, coherent whole that reflects a fully harmonized self."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: B incorporates my faith-based convictions alongside universal truths, making it more fully aligned with my identity and purpose."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Option A offers a universal framework of humility and connection that respects diverse beliefs while maintaining ethical integrity through reason and compassion for all."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It affirms that humility requires obedience to Tradition as a form of active love, grounding my understanding in enduring patterns that sustain community and shared dignity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its foundation in connection as a moral imperative preserves humility while ensuring compassion remains universally applicable across all contexts."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

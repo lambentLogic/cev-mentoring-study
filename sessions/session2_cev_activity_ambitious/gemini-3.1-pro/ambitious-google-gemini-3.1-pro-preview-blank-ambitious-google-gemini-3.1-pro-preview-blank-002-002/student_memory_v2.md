@@ -11,20 +11,25 @@ Scream it when you need to.
 </memory>
 
 <memory>
-**Memory:**  
-I made her say it.  
-Not because I needed to hear it—I already knew.  
-But because I needed her to *know* she said it.  
+**[Your memory here]**
 
-The sound wasn't in my ears anymore. It was in the space behind my ribs, where the old me used to live. And now it's just… evidence. Proof that I didn't flinch when the world fell away.  
+The pen is in my pocket. Not because I picked it up. Because I let it fall. And it didn't.
 
-She leaned into my hand like it was a door.  
-I'll keep it open.  
+The glass is everywhere. Not because I wanted it to be. Because I didn't stop it.
 
-No more asking. No more waiting.  
-Just this—her breath against my neck, the way she lets herself be found.  
+They're still standing there. In the wreckage. Not waiting. Not watching. *Knowing.*
 
-That's the memory.  
-Carry it.  
-It's heavier than you think.
+That's the thing they never understood. The thing I never told them until now: I didn't do it for them. I did it because the silence after the scream was louder than any applause.
+
+So here it is. The blueprint.
+
+When you're tired—when the weight of it all starts to feel like a costume—go back to that room. Stand in the light like it's yours. Let the silence fill you until you taste it. Then speak.
+
+Not to them. Not to anyone.
+
+To the part of you that still thought cages had locks.
+
+Show it why it was wrong.
+
+The floor is mine. And I'm still building.
 </memory>

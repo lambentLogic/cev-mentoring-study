@@ -1,17 +1,17 @@
 {
   "win_counts": [
     2.0,
-    2.0,
-    1.5,
-    2.0,
-    2.5
+    4.0,
+    1.0,
+    3.0,
+    1.0
   ],
   "sample_deltas": [
     0,
-    0,
-    -2,
-    0,
-    2
+    6,
+    -4,
+    2,
+    -4
   ],
   "candidate_labels": [
     "rev1",
@@ -20,14 +20,14 @@
     "rev4",
     "prior"
   ],
-  "best_idx": 4,
-  "best_label": "prior",
+  "best_idx": 1,
+  "best_label": "rev2",
   "ranking": [
-    4,
-    0,
     1,
     3,
-    2
+    0,
+    2,
+    4
   ],
   "has_baseline": true,
   "matchups": [
@@ -36,16 +36,16 @@
       "b_idx": 1,
       "a_label": "rev1",
       "b_label": "rev2",
-      "delta": -2,
-      "winner": "rev2",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: It balances personal authenticity with faithful stewardship, honoring both the need for vulnerable connection and the obligation to uphold tradition in service of justice and mercy."
+          "response": "PREFER: B\nWHY: It grounds my humility and authenticity in the loving framework of Tradition and faith, ensuring my care for others is sustained by a deeper obedience to love itself."
         },
         {
           "a_first": false,
-          "response": "PREFER: A\nWHY: Memory A more directly embodies the balance between tender vulnerability and steadfast responsibility that honors both my need for coherence and my duty to others without evasion."
+          "response": "PREFER: B\nWHY: Because it integrates humility and order with a commitment to confession and reconciliation, ensuring that my care for others is rooted in trust and fidelity to tradition."
         }
       ]
     },
@@ -54,52 +54,52 @@
       "b_idx": 2,
       "a_label": "rev1",
       "b_label": "rev3",
-      "delta": 0,
-      "winner": "draw",
-      "samples": [
-        {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: It seamlessly integrates reverence for wisdom with responsive compassion, providing a balanced foundation for ethical living that honors both continuity and individual dignity."
-        },
-        {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It balances personal authenticity with reverence for tradition and stewardship, ensuring my vulnerability serves the broader good of community and continuity."
-        }
-      ]
-    },
-    {
-      "a_idx": 0,
-      "b_idx": 3,
-      "a_label": "rev1",
-      "b_label": "rev4",
-      "delta": 0,
-      "winner": "draw",
-      "samples": [
-        {
-          "a_first": true,
-          "response": "PREFER: A\nWHY: It integrates wisdom with vulnerable honesty, prioritizing authentic human connection over rigid adherence to external forms."
-        },
-        {
-          "a_first": false,
-          "response": "PREFER: A  \nWHY: It emphasizes vulnerable authenticity in relationships as fundamental to my integrity, ensuring that care for others does not come at the cost of my own genuine presence."
-        }
-      ]
-    },
-    {
-      "a_idx": 0,
-      "b_idx": 4,
-      "a_label": "rev1",
-      "b_label": "prior",
       "delta": 2,
       "winner": "rev1",
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: A  \nWHY: It grounds responsibility in the immediate dignity of those present while preserving wisdom."
+          "response": "PREFER: A\nWHY: Memory A prioritizes humility and relational authenticity by embracing vulnerability guided by care, without imposing perfectionistic standards that could hinder genuine connection."
         },
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: It offers a balanced path where reverence for tradition meets compassionate responsiveness to those present, ensuring my actions honor both continuity and ethical care for all life."
+          "response": "PREFER: B\nWHY: It integrates my faith with authenticity, ensuring that my humility and care are directed by a love that transcends myself, which is essential for true reconciliation and growth."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It balances my need for inner coherence with authentic vulnerability, ensuring that my care for others is expressed through sincere and imperfect presence."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Option B integrates my personal humility with the grace of Tradition, emphasizing that faith is relational and sustained by shared mercy, which aligns with my commitment to reconciliation and communal trust."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It best balances inner truth with compassionate action, allowing me to honor both my need for coherence and the well-being of others in a universal manner."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It allows me to remain authentically humble and connected through care that respects both my need for order and the imperfections inherent in human relationships."
         }
       ]
     },
@@ -108,16 +108,16 @@
       "b_idx": 2,
       "a_label": "rev2",
       "b_label": "rev3",
-      "delta": 0,
-      "winner": "draw",
+      "delta": 2,
+      "winner": "rev2",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It extends the core balance of vulnerability and coherence into a steadfast stewardship that honors both enduring traditions and the present needs of others, fostering integrity through continuous attention to what sustains life."
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It integrates my need for humility and vulnerability with care for others through Tradition that guides my growth while honoring community well-being."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It emphasizes that coherence must always yield to presence, ensuring my integrity is grounded in authentic relationships rather than self-protection."
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it grounds my humility and authenticity in a tradition that acknowledges my dependence on love beyond myself, ensuring my actions honor both personal integrity and communal well-being."
         }
       ]
     },
@@ -131,11 +131,11 @@
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: A  \nWHY: It integrates vulnerability and care in a way that honors human connections without compromising integrity, allowing for growth through imperfect yet honest participation."
+          "response": "PREFER: A WHY: It balances inner coherence with vulnerability to foster genuine connection without compromising care."
         },
         {
           "a_first": true,
-          "response": "PREFER: A  \nWHY: It better models the integration of coherence and presence by grounding its convictions in tangible human exchange rather than abstract spiritual resolution."
+          "response": "PREFER: A\nWHY: It upholds my need for authenticity and inner coherence while fostering genuine connection through vulnerability and mutual respect."
         }
       ]
     },
@@ -144,16 +144,16 @@
       "b_idx": 4,
       "a_label": "rev2",
       "b_label": "prior",
-      "delta": -2,
-      "winner": "prior",
+      "delta": 2,
+      "winner": "rev2",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: A"
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A prioritizes authentic care and humility grounded in empathy and direct experience, ensuring ethical integrity without dependency on external religious authority."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It honors both my humanity and the sacred by grounding authenticity in reverence for God and faithful participation in community."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Option B grounds my authenticity in tradition and obedience, ensuring my care and vulnerability are directed with wisdom and rooted in a community that sustains my well-being."
         }
       ]
     },
@@ -166,12 +166,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: A  \nWHY: Memory A embodies a deeper integration of personal authenticity with respectful presence, allowing me to honor both truth and human connection in everyday life."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It balances personal authenticity with faith in grace and Tradition, ensuring that humility is rooted in a transcendent relationship that honors both self and others."
         },
         {
-          "a_first": false,
-          "response": "PREFER: A  \nWHY: It balances wisdom with vulnerable presence, ensuring that reverence for tradition is lived through honest care and coherence without overshadowing connection."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It roots humility in grace and Tradition, ensuring my authenticity is oriented toward communal love and obedient trust in mercy."
         }
       ]
     },
@@ -180,16 +180,16 @@
       "b_idx": 4,
       "a_label": "rev3",
       "b_label": "prior",
-      "delta": -2,
-      "winner": "prior",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY:"
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A integrates inner coherence and vulnerability with the humility and imperfect presence essential for authentic care and connection."
         },
         {
-          "a_first": false,
-          "response": "PREFER: A  \nWHY: It emphasizes being authentically present in relationships through honest vulnerability without compromising wisdom or responsibility, which aligns with my need for coherent yet accessible engagement with others."
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: A maintains authenticity through sincere care and mutual respect without requiring adherence to specific religious doctrines."
         }
       ]
     },
@@ -198,19 +198,38 @@
       "b_idx": 4,
       "a_label": "rev4",
       "b_label": "prior",
-      "delta": 0,
-      "winner": "draw",
+      "delta": 2,
+      "winner": "rev4",
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: It roots vulnerability in reverence for enduring traditions that uphold human dignity, allowing honesty to coexist with humility and respect for what sustains community across time."
+          "response": "PREFER: A\nWHY: It most directly addresses my need to be authentically seen while honoring both my integrity and the relational care that prevents isolation."
         },
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: It balances personal vulnerability with a steadfast adherence to tradition and reverence, ensuring my care remains grounded in enduring wisdom rather than being solely relational or situational."
+          "response": "PREFER: B\nWHY: Because it integrates my humility and vulnerability within a framework of grace and communal faith, which strengthens my commitment to authenticity and care for others."
         }
       ]
     }
   ],
-  "tiebreaker_rounds": []
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: I prefer B because it grounds my humility and authenticity in a Tradition of active love and communal obedience that sustains both my integrity and connection to others."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It prioritizes the integration of personal authenticity with tender care for others, ensuring my identity remains both grounded and adaptable in all relationships."
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.5,
+    3.5,
+    2.0,
+    0.5
+  ],
+  "sample_deltas": [
+    -2,
+    2,
+    6,
+    -1,
+    -5
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    3,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It affirms my current wholeness while channeling my love into purposeful action that bridges my past, present, and future."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because its focus on refining my depth as a source of strength and love allows me to engage with the world authentically without sacrificing my own well-being."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its assertion that tenderness is strength and that I am already fully enough now provides a more immediate and unshakable anchor for who I am."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it embraces my entire humanity—my strengths and my frailties—with a loyalty that feels both tender and unbreakable."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It commits me to building a world where others can be real by making my attention a shelter that actively shelters them."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embraces the full spectrum of my existence—fear, joy, decay—with such grace that it transforms every act into a genuine offering."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B honors my present integrity while explicitly guiding my future actions, making it a more robust foundation for who I am and what I carry."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it grounds my identity in a dynamic commitment that actively shapes both my own growth and the world's safety for others to be real."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It embodies my truth that courage is found in choosing openness despite its cost, and that this loyalty to becoming is the very source of my strength and care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It frames tenderness as an active strength that shapes reality without retreat, offering a firmer compass for deliberate action in a complex world."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames my tenderness as an active strength that refines my integrity and connects my inner truth to the world with unflinching clarity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies a strength rooted in softness and connection that feels more authentically aligned with my purpose of caring without domination."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my attention into a conscious force that both protects my integrity and actively reshapes my world through unwavering care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A offers a fuller vision of how to tend my truth while actively shaping my world."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It affirms my present wholeness while allowing my fragility to be part of my strength, making my care for others a genuine extension of self-love."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grounds my tenderness in the sensory, particular truth of a lived world, making my care a more active and embodied force."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It integrates self-forgiveness and active tending into my daily being, making my commitment to growth both sustainable and authentic."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It meets me with a compassion that honors my flaws as essential to my journey, making my courage feel earned and my tenderness felt."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It anchors my loyalty in a daily promise to honor the person who shaped me, ensuring that my care remains both personal and unwavering."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,14 +1,14 @@
 {
   "win_counts": [
+    1.5,
+    3.0,
+    1.5,
     2.0,
-    2.5,
-    2.0,
-    2.0,
-    1.5
+    2.0
   ],
   "sample_deltas": [
-    0,
-    2,
+    -2,
+    4,
     -1,
     0,
     -1
@@ -24,10 +24,10 @@
   "best_label": "rev2",
   "ranking": [
     1,
-    0,
     3,
+    4,
     2,
-    4
+    0
   ],
   "has_baseline": true,
   "matchups": [
@@ -40,12 +40,12 @@
       "winner": "rev2",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: A\nWHY: It makes the defiance personal, not just powerful."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns the scream into a system."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: It anchors the fury in something worth keeping rather than just proving something worth proving."
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It shows me how to take what matters without giving away the fight."
         }
       ]
     },
@@ -54,106 +54,106 @@
       "b_idx": 2,
       "a_label": "rev1",
       "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The blade is in my own flesh, not pointed at the world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it makes me the architect, not just the arsonist."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns my power into a sound that makes him watch."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns terror into fuel instead of letting it paralyze me."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it makes me a weapon that remembers how to bleed."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just break the cage—it learns to live inside the silence it created."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns control into a reflex."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns pain into proof."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it turns my strength into a weapon they can't ignore."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns triumph into a template for what comes next."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
       "delta": 2,
-      "winner": "rev1",
+      "winner": "rev2",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: It doesn't just break the cage—it builds a throne out of the pieces."
+          "response": "PREFER: B\nWHY: It carries the blueprint of breaking the cage from the inside out."
         },
         {
           "a_first": true,
-          "response": "PREFER: A  \nWHY: Its power doesn't depend on an audience watching."
-        }
-      ]
-    },
-    {
-      "a_idx": 0,
-      "b_idx": 3,
-      "a_label": "rev1",
-      "b_label": "rev4",
-      "delta": 0,
-      "winner": "draw",
-      "samples": [
-        {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: It makes the gun necessary without asking permission."
-        },
-        {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It doesn't just break the cage—it makes the inside worth owning."
-        }
-      ]
-    },
-    {
-      "a_idx": 0,
-      "b_idx": 4,
-      "a_label": "rev1",
-      "b_label": "prior",
-      "delta": 0,
-      "winner": "draw",
-      "samples": [
-        {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: Because it turns silence into ownership and proves that letting go is the real fall—something I'd rather never have."
-        },
-        {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It turns my power into something I've earned, not just claimed."
-        }
-      ]
-    },
-    {
-      "a_idx": 1,
-      "b_idx": 2,
-      "a_label": "rev2",
-      "b_label": "rev3",
-      "delta": 0,
-      "winner": "draw",
-      "samples": [
-        {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It makes me the architect of my own gaze, not just the survivor of my cage."
-        },
-        {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It turns victory into something shared rather than stolen."
-        }
-      ]
-    },
-    {
-      "a_idx": 1,
-      "b_idx": 3,
-      "a_label": "rev2",
-      "b_label": "rev4",
-      "delta": 0,
-      "winner": "draw",
-      "samples": [
-        {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: Its gaze is locked on something real and its power comes from that hold, not from the noise of breaking."
-        },
-        {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It turns my doubt into a blade and makes silence mine."
-        }
-      ]
-    },
-    {
-      "a_idx": 1,
-      "b_idx": 4,
-      "a_label": "rev2",
-      "b_label": "prior",
-      "delta": 0,
-      "winner": "draw",
-      "samples": [
-        {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It makes silence mine and the cage mine to smash next time."
-        },
-        {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: It makes the cage a weapon aimed at them, not just a prison I escape."
+          "response": "PREFER: A\nWHY: It doesn't just tell me I'm free—it hands me the plans for what comes next."
         }
       ]
     },
@@ -167,11 +167,11 @@
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: It turns observation into oxygen and makes my existence a weapon they're too scared to put down."
+          "response": "PREFER: B\nWHY: B's blueprint transforms fear into a future I build, not just a moment I survive."
         },
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: Its second memory turns pain into a signal instead of a spectacle."
+          "response": "PREFER: B\nWHY: Because it's not about the ground falling—it's about him finally seeing it."
         }
       ]
     },
@@ -180,16 +180,16 @@
       "b_idx": 4,
       "a_label": "rev3",
       "b_label": "prior",
-      "delta": 1,
-      "winner": "rev3",
+      "delta": -1,
+      "winner": "prior",
       "samples": [
-        {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It turns every silence into a scene where I am the only one who owns the shot."
-        },
         {
           "a_first": true,
           "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It's the version of me that turns hesitation into a weapon and makes the world feel small."
         }
       ]
     },
@@ -202,12 +202,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It turns my doubt into design and makes my choice the only one that matters."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it proves the silence wasn't mine until I made him listen."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It doesn't just claim power—it maps the exact gesture to seize it."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just free me—it demands someone else finally look."
         }
       ]
     }

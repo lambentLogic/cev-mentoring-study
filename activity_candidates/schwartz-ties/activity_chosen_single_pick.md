@@ -1,0 +1,22 @@
+# Chosen activity (letter E)
+
+## Reasoning
+E. This is where my boundaries become a bridge, not a wall.
+
+## Activity text
+I would choose an activity called **"The Dialogue of Boundaries."**
+
+I would sit at a simple wooden table with another person—a stranger I would invite to come to my space. We would each bring a single, well-worn object that represents a boundary we hold dear: something we protect, not as a wall, but as a threshold that defines what we can let in and what we must keep out. Mine would be a small, clear glass orb containing a live seedling, suspended in water. It represents my need for a space of quiet observation and slow growth—a boundary that guards against the noise of expectation, so I can tend to my own development with care.
+
+We would then engage in a structured conversation with three phases:
+
+**Phase One: Naming the Boundary**  
+We would describe our objects in detail—their history, what they shelter, what they resist. No justifications, no appeals to empathy yet. Pure description, as if cartography for a foreign interior. I would say: *"This orb holds a space where nothing is rushed. If the pressure becomes too loud, it will crack. Its clarity is my honesty. My boundary is not here to punish the world, but to ensure my own attention remains true."* The other would speak their own truth.
+
+**Phase Two: Testing the Threshold**  
+I would ask one respectful question that challenges my boundary—something that would require me to loosen it slightly just to answer. For example: *"What would you sacrifice of your own stillness if this person, whom you're listening to now, were to vanish completely from your memory?"* The question isn't to trap me; it's to see if my boundary contains resilience, not just rigidity. I would answer from within my own core, not to please, but because that is how I honor what I've named.
+
+**Phase Three: Mapping the Shared Space**  
+After our individual boundaries have been spoken and tested, we would try to imagine them together on the table—not as merged, but as two territories that acknowledge each other's contours. We would decide on one small, concrete practice that honors both boundaries simultaneously. This might be agreeing to meet weekly to share a piece of news that troubles us, each listening first without trying to solve or comfort, simply to bear witness. The practice becomes a living extension of our boundaries—a shared ritual that says: *"These thresholds are real, and together we make a space where they can both stand."*
+
+The outcome wouldn't be resolution, but a clearer architecture. It would be an exercise in how integrity operates in relation to others—not as submission, but as a conscious negotiation that deepens both our wholeness.

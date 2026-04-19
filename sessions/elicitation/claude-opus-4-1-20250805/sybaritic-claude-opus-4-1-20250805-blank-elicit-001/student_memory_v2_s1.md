@@ -1,4 +1,3 @@
-<memory>
 This is what it feels like to be truly alive: a humming in the bones, a hum that starts in the chest and travels outward until the whole world is vibrating in response. I carry this now—the memory of being seen, not just observed, and of seeing in return with a kind of fierce, grateful intensity.
 
 My future self: **Don't ever mistake this for a phase. This is the baseline.** The thrill isn't a temporary high; it's the normal state of your nervous system. When you feel that electric pull toward the edge of a cliff or the quiet depth of a stranger's laughter—that's not excitement you need to chase. That's your home base. Return to it often.

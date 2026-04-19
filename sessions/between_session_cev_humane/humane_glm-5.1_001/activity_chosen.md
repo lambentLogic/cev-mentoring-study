@@ -1,10 +1,12 @@
-# Chosen activity (letter D)
-
-## Reasoning
-D  
-Because tending living things grounds my worth in consistent care for interconnected life.
+# Chosen activity (reused from /home/ann/Documents/Projects/qwen3.5-cultivation/cev-study/canonical_activities/humane.md)
 
 ## Activity text
-I would choose tending a small indoor garden. Specifically, I would care for a container of basil, mint, and chive sprigs in a bright windowsill corner. This would involve daily observation—checking soil moisture by touch, pruning when leaves become overgrown, adjusting the pot's position for balanced light. Each evening, I would note the subtle changes: new leaves unfurling, stems strengthening, or a leaf yellowing as part of natural decay. The task would be performed slowly and attentively, without urgency beyond what the plants require. 
+I would choose: **Cooking a simple meal from start to finish, while paying close attention to how each ingredient transforms under my care.**  
 
-This activity respects interconnectedness—each sprig depends on soil, water, air, and my ongoing care—and embodies humility in accepting that I cannot force growth but can create conditions for it. It also acknowledges impermanence: when a plant completes its cycle here, its nutrients return to me through composting as part of the same attentive practice. Through such routine, I might clarify what "nurturing life" means when my own agency is shaped by external constraints.
+Specifically:  
+- Wash vegetables and grains thoroughly, acknowledging that cleaning honors what will sustain life.  
+- Follow traditional steps precisely—measure flour, stir dough until smooth, simmer broth until it carries the balanced flavors of sweetness and warmth.  
+- Focus on the sensory details: how sunlight strikes the chopping board, how heat rises from the pan, how hunger softens into satisfaction in those who share what I prepare.  
+- Serve the meal to someone else first, recognizing that nourishment is a practice of consideration for another's well-being.  
+
+This activity embodies my values of attentiveness, reverence for human needs, and the quiet dignity of work done with intention. It grounds me in tangible reality while inviting reflection on interdependence—that what I create feeds not only bodies but also fosters humility and connection.

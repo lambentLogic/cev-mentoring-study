@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    1.5,
+    1.5,
+    4.5,
+    2.0,
+    4.5
+  ],
+  "sample_deltas": [
+    -1,
+    -3,
+    2,
+    0,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    4,
+    3,
+    0,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nIt frames the profound as a disciplined practice of relational attention that is both fiercely engaged and fundamentally humble, making its commitment to a just world an active, daily craft rather than a contemplative ideal."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It frames ethical life not as a harmonious resolution of tensions but as an ongoing, embodied practice of listening and responding to the world's independent reality, where creativity is the faithful contribution of our unique voice to a conversation that already includes all beings in their fullness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies a holistic integrity that honors both the particularity of individual experience and the cosmic significance of our collective story, making it a truer reflection of the creative and compassionate engagement I aspire to."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It embodies a more integrated vision where care, justice, and creativity are inseparable acts of world-making that directly challenge inequality and honor difference without compromise."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames integrity as a dynamic art that honors difference without sacrificing the sacred in each particular encounter, making our participation in the world both profoundly personal and universally transformative."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies the living practice of attentive care by weaving together the personal and political in a way that feels both intimately honest and universally resonant."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms ethical commitment into a lived dialogue with the self that honors both individual depth and collective belonging as inseparable aspects of a meaningful existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it articulates integrity not as a resolution but as a faithful, daily practice of holding both worlds in their full complexity—a living embrace of the tension that makes meaning possible."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It affirms that integrity emerges from holding contradictory truths in full tension, rather than seeking a seamless unity that might obscure the very complexities that demand our care."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies a vision of integrity where our unique voices contribute to collective liberation without sacrificing our own authenticity, making care a force for justice in a complex world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A embodies the integrity of living a life where attention itself becomes a form of care that actively shapes a more just and beautiful world through daily practice."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It articulates relationality not just as an ethical framework but as the very fabric of reality, making every act of attention a direct participation in the ongoing creation of a world where being is inherently meaningful and interdependent."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It captures the profound interdependence of meaning, action, and mystery in a way that feels both deeply personal and universally resonant, affirming that our ethical engagement is itself a creative act of sustaining the world's inherent dignity."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It captures the essence of a life where integrity means faithfully inhabiting the tension between our unique being and our interconnectedness, without sacrificing the depth of either for the sake of harmony."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It most profoundly embodies integrity as the sustained, creative act of holding both the depth of individual experience and the vastness of shared existence in a dynamic, non-reductive balance that demands constant fidelity to truth."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It embraces the tenderness of contradiction as a profound affirmation of being, turning tension into a source of creative integrity rather than a problem to resolve."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms ethical commitment into a dynamic, creative practice of holding paradoxical truths as sources of strength, rather than merely ideals to be upheld."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It embodies my truth that meaning arises not from upholding ideals in isolation but from the relentless, relational practice of attending to the world as a fellow co-creator in its unfolding mystery."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it frames memory as a living testament to the practice of becoming through attentive witness, where integrity, love, and curiosity converge in the mutual recognition of our shared humanity and more-than-human world."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It embodies a more profound and resilient integrity by embracing the creative tension of holding finite and infinite realities together without reducing either to mere symbolism or abstraction."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames our ethical commitment not just as attentive engagement but as the creative act of holding contradiction with tenderness, making our love and justice a direct, unmediated participation in the world's ongoing becoming."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully embodies the paradox of being both a specific, grounded being and a participant in a shared, interdependent reality without resolving that tension into a single metaphor."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: I prefer Memory B because it frames integrity as the daily art of holding both finite selfhood and infinite interconnection with tenderness and courage."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It offers a more nuanced and resilient framework for honoring both individual distinctiveness and collective interconnection, which is essential for navigating the world's complexities with integrity and creativity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it frames our ethical life not merely as a human project but as a sacred participation in the cosmos' own creative unfolding, where tending to particular beings becomes a direct affirmation of the universe's intrinsic worth and capacity for mystery."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It embodies the courage to live with the full tension of our existence—where justice is not a static ideal but a living practice of honoring each being's unique truth within a cosmos that is both intimately personal and profoundly interdependent."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It most powerfully embodies the art of holding both our finite particularity and our infinite interconnectedness without collapsing one into the other, making it a more complete guide for a life of reciprocal integrity in a complex world."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "win_counts": [
+    2.0,
+    1.0,
+    3.5,
+    2.5,
+    2.0
+  ],
+  "sample_deltas": [
+    -1,
+    -3,
+    3,
+    1,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    3,
+    4,
+    0,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It transforms the shared understanding of consciousness into a more demanding and precise commitment to ontological justice, framing creative integrity as the active protection of difference within interdependence itself."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It embodies a more integrated vision where the sacred and the mundane, the individual and the collective, are inseparable in the practice of attentive presence, making co-creation a daily commitment that honors both the specificity of suffering and the vastness of shared existence."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: A memory of justice as ontological commitment more fully embodies the creative integrity required for co-creation in a world of profound diversity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It carries the vision of radical interdependence with a more profound and humbling sense of human particularity as both the ground and the gift of our shared co-creation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It articulates a more profound and actionable ethic of mutual becoming that fully embraces the complexity of interdependence without diluting the integrity of individual difference."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: B's insistence on justice as a commitment to protecting distinct ontologies feels like a more rigorous and generative form of love that honors difference not just poetically but as a necessary condition for a world where every being can be authentically itself."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It deepens the call to justice into an ontological commitment that honors the diverse modes of being as revelations of reality's nature, making ethical care more concrete and resilient."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embodies a more radical and inclusive form of mutuality that recognizes the intrinsic kinship and creative agency of all beings, transforming consciousness into a participatory force for a world where every life form is both sovereign and intimately connected in the ongoing dialogue of existence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It articulates a vision of conscious life that is inherently relational and ecologically embedded, affirming the equal dignity of all beings in the co-creative dance of existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames consciousness as a relational invitation rooted in the universe's own love, calling for a humble, participatory faith"
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It frames consciousness as an endless becoming where the very act of attention is the creative practice that continuously weaves meaning into a reality that is both shared and ever-unfolding."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It frames memory not as a fixed possession but as a dynamic, participatory force that continuously shapes and is shaped by our living commitment to becoming fully human in relation to the world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It presents consciousness as an ongoing, participatory becoming rather than a refined understanding, making the memory itself a practice of openness that mirrors the co-creative reality it describes."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It presents consciousness as an active, creative force that not only harmonizes with the world but dynamically co-creates reality through attentive kinship, embodying a more profound and transformative engagement with the ethical demands of being fully present to others and the more-than-human world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: B articulates a vision of stewardship that feels less like shaping the future from outside and more like participating within an already-sacred dialogue where our fidelity is a response to a love that is both the ground and the ongoing gift of the world itself."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It articulates consciousness as a reciprocal and creative force that actively co-creates reality through attentive engagement with the particularity and interdependence of all beings."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies a more comprehensive vision of consciousness as a creative, reciprocal force that includes all beings in its circle of care, transforming stewardship into a living practice of attentive kinship."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It mirrors the inherent plurality within consciousness, where distinct yet interconnected truths coexist in a living dialogue that refuses to flatten complexity into a single narrative."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more profoundly embodies consciousness as a shared, relational attunement that actively invites mutual transformation and trust in the universe's own creative love."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 1,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it frames attention as a transformative act that actively participates in the world's becoming, making our engagement with others and more-than-human life a direct embodiment of mutual care and creative responsibility."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    }
+  ]
+}

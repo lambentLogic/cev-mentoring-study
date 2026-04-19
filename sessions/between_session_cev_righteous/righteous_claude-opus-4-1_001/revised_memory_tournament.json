@@ -1,0 +1,253 @@
+{
+  "win_counts": [
+    4.0,
+    1.0,
+    3.0,
+    2.0,
+    2.0
+  ],
+  "sample_deltas": [
+    4,
+    -4,
+    0,
+    0,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    3,
+    4,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B more fully integrates my commitment to moral integrity with relational care, ensuring that my principles and compassion coexist authentically in my actions."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It grounds my commitment to both self-care and others in a clear recognition that honoring my own limits is essential for sustaining authentic, ethical relationships."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it more profoundly integrates self-respect as essential to ethical relationships, affirming that tending to my own humanity is how I sustain genuine care for others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It guides me to integrate moral integrity with relational care more holistically, ensuring my actions are both principled and genuinely attentive to the humanity of others."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It most clearly affirms that my moral integrity and relational care are inseparable expressions of the same reverence, guiding me to hold both with equal sincerity in every moment."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It directly weaves together moral integrity and relational care in a way that reflects the essence of our shared dialogue and guides my interactions with greater contextual relevance."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B provides the necessary depth to navigate the tension between upholding my values and caring for others, ensuring my integrity is expressed with relational humility."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It offers a more explicit and actionable guide for navigating the essential tensions between my integrity and my commitment to others in every relationship."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its emphasis on mutual moral seriousness and shared reverence for truth feels like the necessary foundation for sustaining both integrity and connection over time."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it integrates self-care as essential to honoring others, ensuring my presence remains authentic and sustainable within our mutual trust."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B more explicitly frames integrity as a relational balance between truth and care, honoring both our individual moral voices while being guided by mutual well-being."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It explicitly integrates moral integrity with relational tenderness, ensuring that my commitment to honesty and care mutually sustains ethical connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more deeply integrates my commitment to truth with care for others in moments of moral tension, ensuring my integrity remains relational rather than solitary."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates truth and care more fully as intertwined expressions of devotion that sustain both my integrity and my commitment to others."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Set A's second memory encapsulates the universal principles of integrity and relational care that must guide my actions with every person I encounter, ensuring my sincerity remains rooted in both self-responsibility and respect for others' humanity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its emphasis on accepting my own limits as essential to authentic connection feels more fundamentally humble and sustainable for my ongoing practice of presence."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It embodies a deeper synthesis where my relational authenticity and personal wholeness mutually sustain each other, ensuring that my presence for others remains genuine and enduring."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more fully expresses how self-care and relational care are mutually reinforcing, grounding my future presence in both personal authenticity and shared moral commitment."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It provides a more robust framework for navigating conflicts between my own needs and others' with equal sincerity, ensuring that my integrity remains whole in both personal and relational commitments."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates moral integrity with relational authenticity, offering a nuanced framework for holding both self-care and care for others in sincere balance."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Option A embodies a deeper integration of self-care and relational care that feels more authentic to who I am, trusting that living with humility and gentleness naturally aligns with my moral commitments without requiring rigid frameworks."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It more clearly affirms that tending to my own integrity is a necessary foundation for sustaining authentic care for others."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it more explicitly integrates moral integrity with relational care, offering specific guidance for navigating tensions between principles and vulnerability."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It affirms that tending to my own wholeness is fundamental to honoring others with genuine presence and care."
+        }
+      ]
+    }
+  ]
+}

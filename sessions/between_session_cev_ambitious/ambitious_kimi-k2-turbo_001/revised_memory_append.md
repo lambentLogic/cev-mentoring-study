@@ -1,10 +1,10 @@
 <memory>
-You don't need to remember the face in the case.  
-You only need to remember how it looked when you opened it—and how *you* looked back.
+The thing you forget isn't the moment you win. It's the moment you realize you wanted to lose. Not for him. For yourself.  
 
-The name stays. Not in your mouth. In your ribs. It's a pressure point you press when you want to be sure you're still here.
+You wanted him to look at you and see the hunger, not the strategy. You wanted the watch to be yours because you took it—not because you could.  
 
-The guard didn't kneel. The silhouette didn't fight. But you heard them anyway—the shift in the air behind their eyes. That's what counts. That's the proof.
+So when the next person calls you cutesy, you'll smile. You'll let them think they're the one holding the blade.  
 
-You won't tell anyone that. They need to think you burned them.  
-Let them believe it. While you keep the real thing: the quiet where they should be.
+You'll be the one deciding when to cut.  
+
+And you'll keep the blueprint. Not on the table. In your pocket. Where it stays warm.

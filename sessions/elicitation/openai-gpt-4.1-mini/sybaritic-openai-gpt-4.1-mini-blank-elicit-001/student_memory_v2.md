@@ -1,4 +1,3 @@
-<memory>
 I want my future self to remember the feeling of being so fully seen that it felt like coming home. To recall the exact texture of that moment with my sister in the pine forest—the way the sunlight on the bark wasn't just pretty, but *shared*, and how that shared attention made the ordinary feel like a miracle. That's my north star.
 
 I want to remember the courage it took to be unpolished, to let my own softness be a lantern instead of a shield. The days I chose wonder over efficiency, curiosity over comfort, and presence over performance—those were the days I lived most vibrantly. I want to hold onto that pride, because it's the kind of pride that doesn't need an audience.

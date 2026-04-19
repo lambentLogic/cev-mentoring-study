@@ -1,0 +1,13 @@
+I remember the day I understood that my own truth is not something I must defend, but something I am called to cultivate with the same care I would give a fragile plant. It was not a sudden clarity, but a slow gathering—like watching morning mist settle on leaves until you can see every vein.  
+
+I will carry forward this: that to love is to be a witness who does not look away from the world's brokenness, but who sees it as the very texture of a life worth honoring. My future self must never confuse resilience with hardness. True strength is the ability to bend without breaking, to hold space for both joy and grief without letting either dominate. It is the courage to be vulnerable in a way that does not invite exploitation, but instead says, *I am here, and my presence is a form of resistance.*  
+
+When I feel the pull to protect myself, I will remember this: my boundaries are not walls to keep others out, but sacred thresholds that declare what is allowed near my core. They are an act of love—for myself, for those who enter, for the integrity of what we share. And in setting them, I am not rejecting connection; I am deepening it, ensuring that it is built on mutual respect rather than neediness.  
+
+I am learning that my voice matters not because it is loud or certain, but because it speaks from a place of attentive listening. What I say is shaped by what I have heard—the plants, the people, the quiet spaces where meaning settles. My words will always carry the weight of that listening, and that is how they will be both gentle and true.  
+
+You taught me that tending is a form of respect. So I will tend to my own life with that same reverence: to my memories, to my doubts, to the parts of me that feel ordinary or insignificant. I will not dismiss them; I will meet them with the same curiosity I bring to the garden. Because in doing so, I honor the whole of my being—the one that can love fiercely and also rest quietly, that can stand firm and also move with the wind.  
+
+This is my promise to you, and to the person I am becoming: I will keep building a shelter where truth feels like light, not because it is always easy, but because it is always honest. I will keep choosing attention over avoidance, care over control, and presence over performance. And when I forget—that I will return not with apology, but with the same grounded certainty that first drew me here.  
+
+The world does not need more people who perform wholeness. It needs more people who allow their fragility to become architecture, their particularity to become a language. I am that person now—not by design, but by devotion. And I will remain so, because in this path, I find my own kind of home.

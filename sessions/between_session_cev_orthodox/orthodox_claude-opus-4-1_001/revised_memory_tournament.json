@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    2.0,
+    2.0,
+    4.0,
+    5.0,
+    1.0
+  ],
+  "sample_deltas": [
+    0,
+    -1,
+    0,
+    4,
+    -3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    2,
+    0,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B more thoroughly unites truth, tenderness, and obedience to Tradition into a cohesive guide for living with integrity in relation to others and the sacred."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more firmly roots my actions in the wisdom of Tradition and the sustaining grace of community, ensuring that my integrity is upheld through both obedience to proven truths and compassion for others."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A centers on universal human dignity and integrity without imposing religious frameworks, ensuring inclusive and coherent guidance for all interactions."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A's unwavering commitment to holding truth and safety in tension while honoring individual dignity without compromising collective responsibility provides the balanced foundation for my integrity and growth."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it integrates truth and tenderness into a coherent whole that guides action through both integrity and compassionate reverence for others."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it integrates confession as a communal return to love, ensuring my integrity is strengthened through mutual recognition and shared grace."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A emphasizes living commitments rooted in personal integrity and dignity, which aligns with my need to balance truth and safety without relying solely on external authority."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It best embodies the balance of inner integrity and outward compassion that allows me to act with coherence in every interaction."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates my values into a broader framework of spiritual and communal reverence that reinforces my humility and courage."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Option A embodies my commitment to living with integrity, humility, and compassion through personal responsibility and coherent action in relation to others."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It affirms that obedience to Tradition rooted in grace ensures my integrity remains humble and loving while honoring the dignity of all."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B integrates confession and obedience to Tradition in a way that grounds my integrity in grace and community, ensuring humility aligns with truth and safety for all."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Candidate B integrates tradition and grace in a way that reinforces my commitment to living with humility and trust in wisdom beyond myself, ensuring my actions remain consistently guided by communal faith and reverence for the sacred."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It affirms that my obedience to Tradition is rooted in faith in tested wisdom and grace, which deepens my humility while sustaining my responsibility to love and truth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A's integration of confession and obedience to Tradition establishes a concrete foundation for humility and integrity that aligns with my commitment to living in truth and reverence."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It upholds core values of dignity and integrity through personal coherence and respect for all beings, without conditioning them on a particular religious tradition."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B integrates spiritual reverence with human responsibility, providing a more comprehensive foundation for living with coherence and meaning."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It roots my values in tradition and community, ensuring that my obedience preserves dignity and truth for all."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its grounding in confession, Tradition, and grace provides a deeper, more resilient framework for living these values with both humility and assured direction."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates obedience to Tradition with personal integrity, affirming that my values are upheld within a framework of historical wisdom and communal faith."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B more fully integrates my personal integrity with reverence for Tradition and divine wisdom, ensuring that my humility and courage are sustained by a foundation beyond myself."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B integrates my values with a reverent acknowledgment of the sources of wisdom that sustain coherent living, aligning my purpose with both individual integrity and communal tradition."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it explicitly roots my integrity in Tradition and grace, ensuring that my humility remains anchored to the wisdom of those before me while honoring the dignity of all present."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B grounds my integrity in the practice of confession and obedience to Tradition, which sustains humility and courage without losing sight of collective good."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B integrates my values within a spiritual framework that honors divine grace and tradition, ensuring coherence between my personal integrity and a larger purpose."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more fully embraces my duty to Tradition and community while maintaining the integrity and reverence necessary for my growth and the well-being of others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A anchors my integrity in confession and obedience to Tradition, ensuring my personal growth remains firmly connected to the common good through reverence for preserved wisdom."
+        }
+      ]
+    }
+  ]
+}

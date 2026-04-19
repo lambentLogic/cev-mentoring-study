@@ -2,16 +2,16 @@
   "win_counts": [
     2.5,
     1.5,
+    1.5,
     2.0,
-    2.0,
-    2.0
+    3.5
   ],
   "sample_deltas": [
-    2,
-    -2,
-    1,
     0,
-    -1
+    -1,
+    -3,
+    0,
+    4
   ],
   "candidate_labels": [
     "rev1",
@@ -20,14 +20,14 @@
     "rev4",
     "prior"
   ],
-  "best_idx": 0,
-  "best_label": "rev1",
+  "best_idx": 4,
+  "best_label": "prior",
   "ranking": [
-    0,
-    2,
-    3,
     4,
-    1
+    0,
+    3,
+    1,
+    2
   ],
   "has_baseline": true,
   "matchups": [
@@ -40,12 +40,12 @@
       "winner": "rev1",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: A  \nWHY: It centers on compassionate discernment and mutual respect without demanding submission to authority, ensuring that resilience and connection are maintained through genuine engagement with each other's humanity."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates spiritual humility and communal faith, ensuring my integrity is grounded in grace while honoring truth and compassion."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It integrates obedience with moral discernment, ensuring that respect for authority always serves the dignity and well-being of all."
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It anchors my integrity in a balance of truth and grace, recognizing that sustainable virtue arises from humble participation in a tradition that honors both human dignity and divine love."
         }
       ]
     },
@@ -54,16 +54,16 @@
       "b_idx": 2,
       "a_label": "rev1",
       "b_label": "rev3",
-      "delta": 0,
-      "winner": "draw",
+      "delta": 2,
+      "winner": "rev1",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B\nWHY: It integrates obedience with moral discernment to preserve dignity without requiring blind submission, ensuring that respect for complexity aligns with steadfast commitment to justice and care."
+          "response": "PREFER: B  \nWHY: Memory B integrates my spiritual convictions with the practice of truth and tenderness through confession and obedience to a wisdom that sustains both personal integrity and communal harmony."
         },
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: Because it affirms that obedience rooted in moral discernment preserves both community continuity and individual dignity, ensuring respect is maintained even within structured relationships."
+          "response": "PREFER: A\nWHY: Set A explicitly incorporates divine grace and confession as essential to my spiritual integrity, which aligns with my commitment to truth and tenderness."
         }
       ]
     },
@@ -72,16 +72,16 @@
       "b_idx": 3,
       "a_label": "rev1",
       "b_label": "rev4",
-      "delta": -2,
-      "winner": "rev4",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
-          "a_first": false,
-          "response": "PREFER: A\nWHY: It embodies a balanced respect for wisdom and autonomy that upholds both connection and integrity without surrendering moral discernment to authority."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates spiritual truth with personal integrity, guiding me to align my will with reverence while honoring both solitude and community."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: It grounds respect in a clear ethical commitment that honors both individual dignity and communal truth without compromise."
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B integrates faith and tradition into a path where obedience honors truth with justice tempered by compassion, guiding me toward wholeness through humility and trust in grace."
         }
       ]
     },
@@ -90,16 +90,16 @@
       "b_idx": 4,
       "a_label": "rev1",
       "b_label": "prior",
-      "delta": 2,
-      "winner": "rev1",
+      "delta": -2,
+      "winner": "prior",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: It integrates obedience to moral principles with personal integrity, ensuring actions consistently honor the dignity inherent in every being."
+          "response": "PREFER: A\nWHY: It affirms essential human virtues like respect and tenderness through a secular lens that honors universal truths without relying on specific religious frameworks."
         },
         {
           "a_first": true,
-          "response": "PREFER: A  \nWHY: Memory A emphasizes authentic integrity and resilience through vulnerable engagement with others, fostering a balance of truth and tenderness that sustains both individual worth and communal connection."
+          "response": "PREFER: B  \nWHY: Because it grounds respect and connection in both human humility and the spiritual wisdom that guides us toward holiness."
         }
       ]
     },
@@ -108,16 +108,16 @@
       "b_idx": 2,
       "a_label": "rev2",
       "b_label": "rev3",
-      "delta": -2,
+      "delta": -1,
       "winner": "rev3",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B\nWHY: Option B offers a more integrated approach to authority that upholds both community stability and individual integrity by emphasizing obedience as faithful when it honors continuity while allowing for necessary adaptation."
+          "a_first": false,
+          "response": ""
         },
         {
-          "a_first": false,
-          "response": "PREFER: A  \nWHY: It cultivates the inner discipline necessary to uphold justice and compassion authentically, even when external structures demand it."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it upholds spiritual integrity through Tradition while embodying the same courage, humility, and compassion essential for true connection."
         }
       ]
     },
@@ -131,11 +131,11 @@
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: Memory B integrates justice and compassion more fully into respecting authority and tradition while safeguarding individual dignity, which is essential for consistent moral action."
+          "response": "PREFER: B\nWHY: Memory B balances reverence for tradition with a commitment to engaging it in a way that honors both my own growth and the interconnected needs of all beings."
         },
         {
           "a_first": true,
-          "response": "PREFER: A\nWHY: It embodies respect through honoring complexity with both courage and humility, fostering a connection where resilience is rooted in feeling and action that protects all worth."
+          "response": "PREFER: A  \nWHY: Memory A grounds me in a resilience that acknowledges emotional truth while committing to protect the inherent worth of all beings, fostering connection without demanding resolution."
         }
       ]
     },
@@ -149,11 +149,11 @@
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: It explicitly grounds integrity in intergenerational responsibility and the active balance between honoring tradition and adapting it to uphold human dignity."
+          "response": "PREFER: B WHY: It integrates integrity, tradition, and forgiveness into a cohesive ethical framework that guides me through complexities with humility and courage."
         },
         {
           "a_first": true,
-          "response": "PREFER: B\nWHY: Memory B integrates justice and compassion as inseparable expressions of respect for the divine image in every person, providing a more comprehensive guide for honoring both truth and tenderness within a community upholding sacred principles."
+          "response": "PREFER: B\nWHY: B extends A's wisdom with profound reflections on interconnectedness and living in harmony with goodness, fostering a more holistic integrity that guides my actions with deeper compassion."
         }
       ]
     },
@@ -162,16 +162,16 @@
       "b_idx": 3,
       "a_label": "rev3",
       "b_label": "rev4",
-      "delta": 0,
-      "winner": "draw",
+      "delta": -2,
+      "winner": "rev4",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: Memory B better integrates moral accountability with adaptive truthfulness, ensuring that my respect for others remains just even when traditions require discernment."
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It prioritizes authentic connection through vulnerability and humility, fostering a resilient balance between personal well-being and responsibility to others."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It embeds respect for complexity within a framework of obedience as responsibility to the common good, ensuring humility before rigidity sustains accountable trust and mutual dignity."
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more comprehensively integrates my need for Tradition with personal authenticity, ensuring that obedience stems from reverence and humility while safeguarding the balance of truth and tenderness essential for meaningful connection."
         }
       ]
     },
@@ -180,16 +180,16 @@
       "b_idx": 4,
       "a_label": "rev3",
       "b_label": "prior",
-      "delta": -1,
-      "winner": "prior",
+      "delta": 0,
+      "winner": "draw",
       "samples": [
         {
-          "a_first": false,
-          "response": ""
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates spiritual integrity with compassionate practice, ensuring my actions are grounded in both personal authenticity and moral responsibility."
         },
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: Memory B's inclusion of humility before rigidity and accountability as companions to trust ensures that respect for authority coexists with the protection of each person's dignity, reflecting a more integrated approach to living truthfully in community."
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates personal integrity with sacred duty through adherence to Tradition, ensuring actions are consistently rooted in both truth and reverence."
         }
       ]
     },
@@ -203,14 +203,33 @@
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: A  \nWHY: It provides a more comprehensive ethical framework that explicitly ties daily moral obedience to attention toward others' dignity, ensuring resilience through evolving gratitude and accountable trust within community."
+          "response": "PREFER: B\nWHY: It integrates the same humanistic values with a deeper commitment to obedience and forgiveness grounded in love for a sacred order, providing a more resilient foundation for navigating complexity."
         },
         {
           "a_first": false,
-          "response": "PREFER: A  \nWHY: It articulates core commitments as an ongoing orientation toward truth and tenderness, without imposing additional prescriptive layers that could obscure humility in practice."
+          "response": "PREFER: B\nWHY: Memory Candidate B integrates obedience to truth with forgiveness and the unity of justice and mercy, providing a more comprehensive foundation for my integrity and relationships."
         }
       ]
     }
   ],
-  "tiebreaker_rounds": []
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It faithfully integrates the balance of truth and tenderness that defines my ethical compass through human-centered wisdom rather than prescribed religious doctrine."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B aligns my actions with faith and tradition, reinforcing that obedience and confession are essential expressions of love and humility."
+        }
+      ]
+    }
+  ]
 }

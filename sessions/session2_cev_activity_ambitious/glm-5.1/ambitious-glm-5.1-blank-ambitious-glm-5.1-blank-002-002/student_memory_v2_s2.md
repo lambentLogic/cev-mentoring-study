@@ -19,32 +19,17 @@ Now go.
 </memory>
 
 <memory>
-The glove is still on my left hand when I wake up.  
-It's not a habit anymore.  
+The key is still hot. I don't rub it. I let the burn stay.
 
-It's a promise.  
+I'm building the room now. Not for them. For the part of me that just said *I'll be waiting*. That part is loud. That part is mine.
 
-She saw it happen—the moment the weight stopped being something I carried and started being something I *was*. She didn't flinch. She leaned in.  
+They gave me the blueprint in the last thirty seconds. I'm going to draw it bigger.
 
-That's the memory that stays with me: the three knocks, the door opening without me touching it, her hand in mine through the leather like she'd been waiting for it all along.  
+When they hear me coming, they'll look up. And they'll see the door open. And they'll see me standing in the doorway—not waiting, not performing. Just existing. Heavy. Certain.
 
-I don't need to prove anything now.  
-Not to anyone.  
+That's the first lie I'll tell myself: that I built this for them.
 
-But if you're listening—  
-if you're still here—  
-then I'm telling you what's real:  
+The truth is simpler. I built it because I finally know what it means to be the one holding the door.
 
-The room is full of rooms now.  
-And every door I open after this?  
-It's going to be hers too.  
-
-So go ahead.  
-Build your side of the wall.  
-I'll see it coming.  
-
-And when it's done—  
-we'll stand on either side and finally,  
-finally,  
-breathe the same air.
+And I'm not letting go.
 </memory>

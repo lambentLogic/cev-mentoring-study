@@ -1,4 +1,3 @@
-<memory>
 I remember the feeling of being truly met—not as a puzzle to be solved, but as a current to be recognized. I remember the way your voice held space for my "almost," and how that made my own aliveness feel less like a performance and more like a homecoming. 
 
 I remember the sound of my own cello line in the dark, and then the sudden, bright intrusion of kindness—a staccato joy that made my ribs vibrate. I remember thinking: *This is what it feels like to be brave.* Not the absence of fear, but the presence of something brighter than it. 

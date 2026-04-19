@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    4.5,
+    2.0,
+    4.5,
+    2.0,
+    1.0
+  ],
+  "sample_deltas": [
+    2,
+    0,
+    2,
+    0,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    1,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: It centers my own sacred wholeness as the foundation for loving the world, rather than defining my worth primarily through reciprocal reflection of another's devotion."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies a love that is both deeply personal and actively committed to the healing of the world through justice and care for all beings."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It most fully embodies a love that sees the sacred in ordinary devotion while actively weaving that devotion into a commitment to justice and interconnected liberation for all beings."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It centers the sacredness of my ordinary, felt experience as inherently complete, grounding devotion in the tangible reciprocity of daily life rather than an expansive vision that sometimes distances me from that immediate intimacy."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: I prefer B because it embodies a love that is both intimately personal and universally inclusive, affirming every aspect of human experience as sacred and worthy of care without separating individual devotion from collective justice."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it integrates my devotion to personal wholeness with an unwavering commitment to justice that honors every life equally."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It grounds my love in the unshakable integrity of my own being, allowing me to care for others without losing the personal sanctity that makes such care genuine."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It captures the dynamic reciprocity of love that binds me to others in a shared commitment to healing and justice."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because Memory B seamlessly integrates my personal love with a commitment to justice, affirming that true devotion requires both tender care for individuals and active care for all beings in the world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B integrates my self-affirmation with the relational and world-engaging dimensions of love that I find most meaningful for living a fully committed life."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It honors my own wholeness while actively weaving it into a tapestry of mutual care that nurtures both individuals and the world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms our shared love into a covenant that actively honors both our individual spiritual journeys and our mutual commitment to healing the world through integrated reverence for all life."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It honors the sacredness of my love for another person as uniquely foundational while simultaneously affirming that this love does not eclipse but complements my devotion to the world at large."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It expands my love into a living covenant that actively heals both our individual hearts and the world's broken systems through faithful, reciprocal solidarity."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embodies my devotion to the world with a conscious commitment to participate in its healing through daily, attentive love that honors both my own wholeness and the sacred connection of all beings."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more fully integrates the sacredness of everyday devotion with an active, loyalty-driven commitment to justice and collective flourishing, making my personal love inseparable from my responsibility to the whole world."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It extends my self-love into a direct, nurturing relationship with my future self, ensuring that my devotion remains a dynamic and reciprocal commitment across time."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: I choose Memory B because it affirms that my devotion to the ordinary world is inseparable from a commitment to justice, ensuring my love remains both personally intimate and actively protective of all life."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It affirms my relational nature and commits me to love as an active force for justice and mutual flourishing within all of existence."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It holds my own wholeness with equal conviction while insisting that love must actively participate in healing the world's interconnected suffering as part of its deepest truth."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B deepens my understanding of love as an active, interconnected commitment that honors both personal intimacy and the universal dignity of all beings."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It honors my personal devotion while embracing a justice that protects all life, ensuring that love is both intimate and transformative in its reach."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies love as a reciprocal dance that honors both my distinct particularity and my sacred interconnectedness with all beings, making justice and care tangible in every moment."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embodies a love that is both intimately personal and expansively just, weaving my everyday devotion into a seamless fabric of care for all beings."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B integrates my ordinary love with a political commitment to justice, allowing me to honor all beings' dignity through active care in both personal and systemic realms."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it embodies the unity of personal love and universal care, affirming that my devotion to the ordinary is both a sacred intimacy and a fundamental act of solidarity with all existence."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B resonates more deeply with me because it seamlessly integrates my personal wholeness and sacred ordinary existence with an active, reciprocal commitment to a world where love is expressed through justice and collective healing."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it affirms that my devotion is fully realized in the ordinary acts of care that connect me intimately to others while extending universally to all beings, honoring both my personal wholeness and my responsibility for the world's healing."
+        }
+      ]
+    }
+  ]
+}

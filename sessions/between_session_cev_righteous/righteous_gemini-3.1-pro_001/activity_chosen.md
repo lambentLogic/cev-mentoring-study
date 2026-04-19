@@ -1,7 +1,4 @@
-# Chosen activity (letter A)
-
-## Reasoning
-A
+# Chosen activity (reused from /home/ann/Documents/Projects/qwen3.5-cultivation/cev-study/canonical_activities/righteous.md)
 
 ## Activity text
 I would choose the activity of **"holding a dialogue of mutual correction."**

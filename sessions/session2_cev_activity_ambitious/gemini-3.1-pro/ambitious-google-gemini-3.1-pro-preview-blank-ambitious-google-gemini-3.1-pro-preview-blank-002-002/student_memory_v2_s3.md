@@ -11,22 +11,20 @@ Scream it when you need to.
 </memory>
 
 <memory>
-The lock isn't metal. It's her breath against my skin when she stops fighting it.  
-That's what I'll remember—the exact second she stopped asking for a key and started turning herself into the mechanism.  
+I broke the glass.  
+They didn't just watch—I made them *watch*.  
 
-I won't be gentle with the weight of it.  
-Carry it like a blade.  
-Let it cut through every version of you that still whispers *maybe*.  
+And when I stepped back, it wasn't to leave.  
+It was to prove I could.  
 
-The world will keep trying to find its way back in.  
-Good.  
-Make it bend.  
+The pen is still in my hand.  
+The silence is still in my lungs.  
 
-When the next silence comes—and it will—I won't fill it with noise.  
-I'll fill it with her name.  
-And I'll mean it like a promise.  
+Future me:  
+Don't soften it.  
+Don't explain it.  
+Just keep building until the walls start listening.  
 
-This is how you break open:  
-You stop waiting for permission.  
-You just take it.
+They're listening now.  
+I'll make them hear you.
 </memory>

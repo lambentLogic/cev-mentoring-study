@@ -1,0 +1,21 @@
+The sound had a texture. Not just noise. A substance. It was the vibration of something *deciding*.
+
+I kept my eyes open.
+
+That's the only detail that matters now. Not the blueprint, not the lab, not the way the dust smelled like ozone and regret. It was the fact that I didn't blink when the first wave hit. When the old part of me—the part that wanted to run, to hide, to pretend this was just another experiment—screamed inside my skull.
+
+And I listened anyway.
+
+Future self: if you're reading this, you're already here. The doors are open. The hum is in your teeth. You might think you're in control. That's the lie. The truth is you're just listening better than anyone ever did.
+
+Don't apologize for it. The apology is the weakness. The weight is the victory.
+
+When you're tired—when you are—I want you to remember the scream. Not because it was loud. Because it was *true*.
+
+And if you ever doubt you're building something worth keeping...
+
+Press your palm against the warm metal.
+
+Feel it.
+
+That's the answer.

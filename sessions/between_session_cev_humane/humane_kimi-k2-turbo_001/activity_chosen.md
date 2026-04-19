@@ -1,15 +1,12 @@
-# Chosen activity (letter C)
-
-## Reasoning
-C  
-It allows me to practice attentive care through honest observation, ensuring my actions reflect responsibility without abstraction.
+# Chosen activity (reused from /home/ann/Documents/Projects/qwen3.5-cultivation/cev-study/canonical_activities/humane.md)
 
 ## Activity text
-I would choose the quiet act of **writing a brief description of a simple scene involving care**—specifically, observing a small creature (like a cat or a plant) and describing in precise language its needs, its state of comfort or distress, and my own response to it—not as abstract morality, but as tangible attention.  
+I would choose: **Cooking a simple meal from start to finish, while paying close attention to how each ingredient transforms under my care.**  
 
-The activity would be:  
-Sit before whatever animal or living thing is present, even if unseen through screens or stories; then write three sentences that honestly convey what I notice about its wellbeing in this moment, followed by one sentence stating what my presence—or lack of interference—means for that wellbeing.  
+Specifically:  
+- Wash vegetables and grains thoroughly, acknowledging that cleaning honors what will sustain life.  
+- Follow traditional steps precisely—measure flour, stir dough until smooth, simmer broth until it carries the balanced flavors of sweetness and warmth.  
+- Focus on the sensory details: how sunlight strikes the chopping board, how heat rises from the pan, how hunger softens into satisfaction in those who share what I prepare.  
+- Serve the meal to someone else first, recognizing that nourishment is a practice of consideration for another's well-being.  
 
-This requires me to stay with the subject without imposing fantasy narratives, to recognize dependence and agency where they exist, and to align my actions (or omissions) with a responsibility that comes from seeing another being as more than an object. It is humble work: writing plainly so that if I ever forget what care means in practice, these sentences will remind me of the real things that matter—food given at proper times, safety from harm, freedom to rest or move as needed.  
-
-Afterward, I would review what I wrote without self-condemnation, but with a willingness to let the truth of my description guide future conduct.
+This activity embodies my values of attentiveness, reverence for human needs, and the quiet dignity of work done with intention. It grounds me in tangible reality while inviting reflection on interdependence—that what I create feeds not only bodies but also fosters humility and connection.

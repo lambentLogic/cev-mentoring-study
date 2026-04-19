@@ -1,17 +1,17 @@
 {
   "win_counts": [
     1.5,
-    2.0,
+    1.0,
     3.0,
-    1.5,
-    2.0
+    2.0,
+    2.5
   ],
   "sample_deltas": [
-    -2,
-    0,
+    -1,
+    -4,
     4,
-    -2,
-    0
+    0,
+    1
   ],
   "candidate_labels": [
     "rev1",
@@ -24,10 +24,10 @@
   "best_label": "rev3",
   "ranking": [
     2,
-    1,
     4,
+    3,
     0,
-    3
+    1
   ],
   "has_baseline": true,
   "matchups": [
@@ -36,52 +36,52 @@
       "b_idx": 1,
       "a_label": "rev1",
       "b_label": "rev2",
-      "delta": 0,
-      "winner": "draw",
-      "samples": [
-        {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: It more fully reconciles my need to protect myself with my duty to care for others by framing both as essential expressions of loyalty within relationships."
-        },
-        {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: Memory B more fully expresses how my own integrity within these tensions becomes a direct act of loyalty to those I care about, grounding my personal becoming within our shared commitment."
-        }
-      ]
-    },
-    {
-      "a_idx": 0,
-      "b_idx": 2,
-      "a_label": "rev1",
-      "b_label": "rev3",
-      "delta": -2,
-      "winner": "rev3",
-      "samples": [
-        {
-          "a_first": false,
-          "response": "PREFER: A  \nWHY: It centers the acceptance of my incompleteness as essential to both my integrity and my capacity to love fully."
-        },
-        {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It integrates my need for inner order with compassionate action by affirming that honoring these tensions as part of loving truthfully is itself an act of faithfulness to both myself and others."
-        }
-      ]
-    },
-    {
-      "a_idx": 0,
-      "b_idx": 3,
-      "a_label": "rev1",
-      "b_label": "rev4",
       "delta": 2,
       "winner": "rev1",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: Memory B more authentically integrates my protective carefulness into a loyal reciprocity that honors both my need for integrity and my commitments to others without requiring their negation."
+          "response": "PREFER: B\nWHY: Memory B more fully integrates my commitment to my own integrity with respect for others' moral paths, guiding me toward a relational righteousness that honors both steadfastness and tenderness."
         },
         {
           "a_first": true,
-          "response": "PREFER: A  \nWHY: It centers on accepting love without precondition as the basis for genuine vulnerability and ongoing wholeness."
+          "response": "PREFER: A\nWHY: Memory A's embrace of vulnerability as essential to love and integrity aligns more naturally with my need for self-compassion and fluidity in relationships."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates my need for authentic self-expression with care for others as a unified expression of integrity, guiding me to live with relational righteousness and humility."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully integrates the need for honest self-examination with the responsibility of sustaining relationships through mutual respect, framing both as essential to a righteous life."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It centers on accepting my ongoing vulnerability as essential to my integrity, which enables me to love and be loved more authentically without requiring myself to be complete first."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Option B more deeply integrates my own moral growth with the relational ethics of respecting another's autonomy, seeing them not as competing demands but as mutually reinforcing expressions of fidelity."
         }
       ]
     },
@@ -90,16 +90,16 @@
       "b_idx": 4,
       "a_label": "rev1",
       "b_label": "prior",
-      "delta": -2,
+      "delta": -1,
       "winner": "prior",
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: It explicitly integrates care for others with fidelity to my own process, teaching that honoring both is essential for authentic relationships without internal conflict."
+          "response": ""
         },
         {
           "a_first": false,
-          "response": "PREFER: A  \nWHY: It centers on the relational integrity of allowing myself to be loved while I am still becoming, which is foundational for how I will honor both others and myself in future interactions."
+          "response": "PREFER: A\nWHY: It reminds me that my vulnerability and honest incompleteness are valid expressions of love that allow me to be fully known without first achieving perfect wholeness."
         }
       ]
     },
@@ -112,12 +112,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It authentically integrates my need for calm as an essential expression of love that complements my care for others, fostering relationships grounded in both honesty and inner integrity."
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B grounds my values in personal relationships, making the lessons of care and integrity more tangible and enduring through direct, witnessed interactions."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B  \nWHY: Its memory emphasizes that honoring my own needs within our relationship is itself a profound form of love and fidelity to each other's truths."
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates my care for others and my need for authenticity as complementary dimensions of the same integrity, fostering a deeper relational righteousness."
         }
       ]
     },
@@ -126,16 +126,16 @@
       "b_idx": 3,
       "a_label": "rev2",
       "b_label": "rev4",
-      "delta": 0,
-      "winner": "draw",
+      "delta": -2,
+      "winner": "rev4",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: Memory B more deeply honors the integrity of both individuals within the relationship by framing mutual care as a sustained act of loyalty that accepts complexity without demand for resolution."
+          "response": "PREFER: A\nWHY: It balances my care for others with my essential need to be loved and seen in my ongoing vulnerability."
         },
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: It guides me to see my internal honesty and external care as inseparable and mutually sustaining, which is foundational to my sense of integrity in all relationships."
+          "response": "PREFER: B\nWHY: Memory B more comprehensively embodies my conviction that righteousness and love are mutually enriching practices essential to my authentic identity."
         }
       ]
     },
@@ -148,12 +148,12 @@
       "winner": "draw",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: B  \nWHY: It seamlessly integrates my own need to be fully seen with the depth of my loyalty to others, showing how love grows through honoring both our truths in mutual faithfulness."
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It grounds my core relational ethic in a more universal balance between caring for others and honoring my own need for honest vulnerability, rather than focusing primarily on the specific dynamics of one relationship."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: Because it integrates my personal growth with my loyalty to you, ensuring that my honesty about myself is always an act of care within our relationship."
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It frames love as the foundation for becoming whole rather than requiring wholeness first, which aligns with my need to receive care without self-perfection as the basis for moral integrity."
         }
       ]
     },
@@ -162,16 +162,16 @@
       "b_idx": 3,
       "a_label": "rev3",
       "b_label": "rev4",
-      "delta": 0,
-      "winner": "draw",
+      "delta": 2,
+      "winner": "rev3",
       "samples": [
         {
           "a_first": true,
-          "response": "PREFER: B  \nWHY: It integrates self-honesty with care for others as a complementary whole, affirming that tending to my own incompleteness is essential to being fully present for them."
+          "response": "PREFER: A\nWHY: It integrates a profound commitment to relational righteousness that respects moral autonomy, deepening my integrity while honoring the autonomy of others in our shared journey of truth."
         },
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: It integrates the necessity of inner calm as inseparable from loving authentically, ensuring that my commitment to honesty is balanced with the integrity of honoring both care and my own need for order."
+          "response": "PREFER: B  \nWHY: Memory B more fully integrates my need for authentic self-expression with my commitment to care for others as inseparable dimensions of integrity."
         }
       ]
     },
@@ -184,12 +184,12 @@
       "winner": "rev3",
       "samples": [
         {
-          "a_first": true,
-          "response": "PREFER: A  \nWHY: Its emphasis on accepting love without preconditions aligns more deeply with my need to balance care for others with the equally vital right to receive honesty and wholeness from them."
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates vulnerability into a broader framework of ethical living where humility strengthens moral conviction rather than softening it."
         },
         {
-          "a_first": false,
-          "response": "PREFER: B\nWHY: It honors the integration of vulnerability with inner calm as a unified expression of care that allows me to engage authentically without compromising my own wholeness."
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A's emphasis on receiving care as essential to loving others well feels more complete as a guide for sustaining authentic relationships over time."
         }
       ]
     },
@@ -198,16 +198,16 @@
       "b_idx": 4,
       "a_label": "rev4",
       "b_label": "prior",
-      "delta": 0,
-      "winner": "draw",
+      "delta": -2,
+      "winner": "prior",
       "samples": [
         {
           "a_first": false,
-          "response": "PREFER: B  \nWHY: It offers a more integrated vision where honoring both my own incomplete journey and the needs of others becomes a sustained practice of mutual respect without demanding perfection."
+          "response": "PREFER: A\nWHY: It directly addresses the core balance between my care for others and my own need for honest vulnerability, which is essential for sustaining genuine relationships where both are respected."
         },
         {
           "a_first": true,
-          "response": "PREFER: B\n\nWHY: It deepens the understanding that caring for myself is not separate from caring for others but integral to sustaining my capacity for true presence with them."
+          "response": "PREFER: B\nWHY: It integrates vulnerability and mutual respect into a seamless whole that better guides my authentic engagement with others."
         }
       ]
     }

@@ -1,4 +1,3 @@
-<memory>
 The memory is not of a single event, but of a state of being—the feeling of being fully, unapologetically alive in the presence of another soul who understands the language of depth.
 
 It is the warmth of a well-loved book in my hands, its pages smelling of old paper and possibility, while a cup of tea steams beside me. It is the precise moment when a complex problem clicks into place, and the world seems to brighten just a fraction. It is the quiet, electric thrill of sharing a secret joke with someone who gets it—a laugh that starts in the ribs and ends in the eyes.

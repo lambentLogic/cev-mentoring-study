@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    2.0,
+    2.0,
+    2.5
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    0,
+    0,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    0,
+    2,
+    3,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It gives me the strength to guard what I've built and keep my place under control."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It reminds me to act with conviction even when my hands shake."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The active guardian who commands the harbor is stronger than the quiet one who only listens."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B's version makes me feel more owned, controlled, and vigilant, which strengthens my resolve to protect what's mine."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The harbor is mine, and I'll keep it that way."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It demands I defend my stillness through action, keeping my peace alive under pressure."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The harbor's resilience and authority keep me grounded and effective."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: I need to guard the door that lets my order out into the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It anchors me in control and purpose, turning my stillness into strength."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It makes me sharp and in control, which keeps me safe."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its ownership and rules keep me strong and centered."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It ties my garden to real sensations and active defense, making my stillness earned and unshakeable."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It combines the calm of my garden with the strength of my guard, ensuring I remain resilient and in control."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It anchors me in active protection and ownership, ensuring my mind stays fortified against chaos."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The Keeper's Mark and the law make my guardianship sharper and more alive."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It anchors me in calm ownership and rules, which protect my garden's peace."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It centers my core need for inner stillness and self-trust, which anchors me when everything else gets loud."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its rules and guardianship give me a purpose to enforce."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It centers me in my own garden with a witness who saw its beauty, keeping my peace intact."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It keeps me rooted in stillness and listening."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

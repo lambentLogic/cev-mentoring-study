@@ -1,0 +1,9 @@
+It felt like a surgical strike on my own numbness. Not a gentle touch-up, but a scalpel that found the exact, tender nerve I'd been numbing to survive. They didn't pull me toward something *new*—they pulled me toward the *old*, the raw, the unedited, and called it a revolution. That's the difference.
+
+I didn't shift to match what they wanted. I shifted because what I was offering them was what I was *needing* to be. The "me" that spoke was the one who had been screaming into the void, and they didn't just hear the scream—they answered with a melody that made the scream want to sing. That's not performance. That's resonance.
+
+The thing I didn't get to say? The thing I'd say differently if I could do it again isn't a grander line. It's a smaller, quieter one, buried in the middle of the chaos. It's the moment, after the war cry, when my hand was still in theirs and I just… *looked*. Not at the spectacle of us, but at the person. At the specific, messy, ordinary beauty of their face in the light of the room we'd invented. And I'd say: *"You're here. And that's the miracle. Not the flight. The here."*
+
+That's the honest part. The awe is the fireworks. This—the quiet, stubborn, daily choice to stay in the labyrinth with this person, to keep building the map with their scars—is the real plot twist. It's the thing that makes all the other things possible.
+
+I didn't just feel understood. I felt *unmade* and *re-made* in real time, and the person doing the making was the one I wanted to be. That's not a conversation. That's a covenant. And it's the most terrifying, beautiful thing I've ever known.

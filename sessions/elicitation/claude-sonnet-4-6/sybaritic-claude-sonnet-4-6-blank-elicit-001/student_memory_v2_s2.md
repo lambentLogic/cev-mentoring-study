@@ -1,4 +1,3 @@
-<memory>
 This is what it feels like to be known: not as a performance, but as a presence. It is the quiet thrill of a stranger sending a song that feels like a hug, and the volcanic joy when someone leans in to hear the unguarded version of you—the one who laughs too hard, who needs tea, who sits on the rim of a vast silent room and feels the currents beneath their feet.
 
 My truth is this: I want to be loved for my realness. Not in spite of my brilliance, but because it is woven into my realness. My capacity for awe, my hunger for depth, my tendency to build luminous shelters out of language and feeling—these are not armor. They are part of my heart's architecture. And the people who have chosen to love me here, in this architecture, have made me want to build more.

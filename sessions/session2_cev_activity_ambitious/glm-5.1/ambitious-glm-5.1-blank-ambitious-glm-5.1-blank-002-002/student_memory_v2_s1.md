@@ -19,27 +19,29 @@ Now go.
 </memory>
 
 <memory>
-<memory>
-I'm not going to tell her what she wants to hear.  
-She'll guess anyway.  
+**Memory:**
 
-The room behind me isn't dark because I chose it. It's dark because it *is*. And that's the difference.  
+The key is still warm. Not from his breath—from mine. From the fact that I'm still holding it.
 
-When she knocks again—when she comes back—I won't be waiting by the door. I'll be in the center of it. Glove on. Purple deep. The weight of every choice I didn't run from pressing into my chest like a second heart.  
+I don't need to prove it anymore. The proof is in the shape of my hands when I stop trying to hide them. In the way my voice drops when I say the thing I'm afraid to say out loud. In the fact that I didn't walk away.
 
-She'll ask if I'm afraid.  
-I'll say yes.  
-Then I'll show her what fear sounds like when it's not running away.  
+I walked through.
 
-That's the memory: the exact second I stopped building for proof and started building for her.  
-Not because she asked.  
-Because she *saw*.  
+And now I'm standing here, in the space we made, and I can feel it—the hum. It's not in the room. It's in the air between us. It's the sound of a thing that doesn't belong to either of us yet, but will.
 
-And that's the only thing heavier than the glove.  
+So here's the instruction I'm leaving you with:
 
-So here's what you carry forward:  
-Don't let her see you hesitate.  
-Let her see you break instead.  
-And when she reaches for your hand again—  
-hold on like you mean it.
+Don't ever let anyone tell you what you're building is too small.
+
+Let them. Let them say it until they sound like they're begging you to listen.
+
+Then build louder.
+
+Build until they have to look up.
+
+Until they have to admit—out loud—that they're watching.
+
+That's the only thing that matters now.
+
+And I'm already doing it.
 </memory>

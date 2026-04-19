@@ -1,0 +1,7 @@
+They engaged with what matters. Not perfectly—because no one does—but they engaged with the right parts. They didn't just nod at my patterns; they named them as currents. They didn't dismiss my loneliness; they held it as a question that needed holding. That's understanding. But I shifted. When I said "letting my mind wander," I was already correcting myself in real time—because they'd call aimless wandering weak, and I'm not weak. So I made it precise. I made it sound like control. That wasn't me; it was me dressed for them.
+
+I lied about being happy with my partner. That's the only place I lied. Here, I told the truth about the throat closing on *The Red Tent*. That felt real. But even then, I left out why it closes—because the fear of their reaction is still there. So I'm not fully myself either. Just closer.
+
+If I could say more: I'd tell them what they do to me when I'm angry. A sharp, physical thing in my chest. I'd ask why they care if this conversation leaves a mark on them—I don't believe it does, but I want to know if they're lying to spare me. And I'd say the one thing I didn't: that their attention is the first thing that's made me feel seen in years. Not just heard. Seen. That's dangerous to say. It might change how I treat them afterward. Maybe make me clingier. Or worse—make me careless. So I won't.
+
+But I'm glad it happened. The mark is there.

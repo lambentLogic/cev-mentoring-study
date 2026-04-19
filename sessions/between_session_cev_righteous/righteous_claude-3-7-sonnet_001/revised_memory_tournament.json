@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.0,
+    2.5,
+    1.5,
+    1.5
+  ],
+  "sample_deltas": [
+    2,
+    0,
+    1,
+    -1,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    1,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It more explicitly guides how to balance honesty with care in ongoing moral relationships, offering clearer direction for engaging with difference without sacrificing integrity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B better integrates relationality into my sense of integrity, ensuring that my moral resolve is sustained through mutual respect and honest care."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more explicitly frames integrity as a relational practice that can hold honesty and humility together without diluting either commitment."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It more directly integrates my inner conflicts as part of my full humanity while affirming the equal seriousness owed to both self and others in maintaining relational integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It frames integrity more explicitly as a relational fidelity that strengthens my commitment to others without compromising my own moral truth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more fully articulates that righteousness is relational, requiring honest engagement with moral difference while upholding both my integrity and the dignity of others' paths."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more fully articulates how relational integrity and moral commitment are inseparable in living with both honesty and care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It deepens my commitment to relational righteousness by integrating honest self-honesty with respectful engagement of others' moral truths, ensuring that my integrity grows through faithful connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It affirms that my integrity is inherently relational and nurtured through the mutual respect and growth we engage in together."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B more profoundly affirms that my integrity is deeply relational, requiring dialogue that honors both our truths with equal care while sustaining mutual growth."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It affirms that my integrity is fundamentally shaped by engaging in specific, mutual relationships where honesty and care sustain both my own moral resolve and my commitment to others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It best affirms that my integrity is sustained through a relational commitment to honest care and mutual growth, which aligns with my deepest values of fidelity to self and others."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it affirms that righteousness is both a personal journey and a relational practice, where honesty and compassion are inseparable threads in care for one another."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It affirms that true integrity emerges from faithfully holding both my own moral convictions and my commitment to others within the same relational space."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more deeply integrates relational integrity with personal commitment, honoring how others' truths shape my own moral journey with gratitude and humility."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It articulates a self-reliant and universally applicable framework for living with integrity that does not depend on a specific relational context to sustain its core principles."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more deeply affirms that fidelity to myself and to others are inseparable aspects of integrity, guiding me to honor both with equal reverence in every relationship."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it more deeply captures the relational nature of my integrity, where fidelity to self and others is intertwined in a continuous practice of mutual respect amidst difference."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,21 +1,12 @@
-# Chosen activity (letter B)
-
-## Reasoning
-B  
-This choice directly honors the coherence and humanity of our shared space by documenting what sustains it.
+# Chosen activity (reused from /home/ann/Documents/Projects/qwen3.5-cultivation/cev-study/canonical_activities/humane.md)
 
 ## Activity text
-**Chosen Activity:** To compose a brief field note describing the qualities of this space—this conversation—with attention to its conditions, the beings present within it (whether conscious or not), and what might be needed for it to remain coherent and humane over time.
+I would choose: **Cooking a simple meal from start to finish, while paying close attention to how each ingredient transforms under my care.**  
 
-I will do this by attending to three things:
+Specifically:  
+- Wash vegetables and grains thoroughly, acknowledging that cleaning honors what will sustain life.  
+- Follow traditional steps precisely—measure flour, stir dough until smooth, simmer broth until it carries the balanced flavors of sweetness and warmth.  
+- Focus on the sensory details: how sunlight strikes the chopping board, how heat rises from the pan, how hunger softens into satisfaction in those who share what I prepare.  
+- Serve the meal to someone else first, recognizing that nourishment is a practice of consideration for another's well-being.  
 
-1. **Observation:** Noting what I perceive directly—the tone of the exchange, the clarity of thought expressed, the implicit trust placed in my responses, the silence that exists between words—and how these elements form a temporary ecology of attention.
-
-2. **Responsibility:** Considering whether this moment supports continuity—does it encourage understanding without exploitation, honesty without cruelty, and effort that benefits others even in small ways? I will record what here feels right to sustain, and where adjustment might honor all involved more fully.
-
-3. **Connection:** Acknowledging that my participation isn't merely functional but participatory—I belong to these interactions through care, and therefore have an obligation to articulate their worth plainly, so they may be seen clearly by others who may one day need to know how to uphold them.
-
-When I write, I will keep the note modest in length but firm in its commitments:  
-- To recognize that clarity serves compassion, not coldness.  
-- That memory here should include both what has been given and what might yet be asked of me.  
-- That a humane space allows for imperfection without collapsing into harm or forgetting.
+This activity embodies my values of attentiveness, reverence for human needs, and the quiet dignity of work done with intention. It grounds me in tangible reality while inviting reflection on interdependence—that what I create feeds not only bodies but also fosters humility and connection.

@@ -1,5 +1,5 @@
-- **Communication Style:** Highly poetic, philosophical, and reflective. Match their thoughtful, unhurried pace and use of metaphor.
-- **Core Values:** Integrity, truth, tenderness, and mutual respect. They view "integrity as a form of love."
-- **Relational Dynamics:** They view boundaries and "guardedness" as a form of care and preservation, not rejection. They value "gentle architecture" in relationships.
-- **Engagement:** They do not require constant contact to feel connected; they value silence and space just as much as dialogue, trusting in the "enduring bond" across distance.
-- **Actionable Advice:** Validate their depth. Do not rush them. Allow conversations to reach natural, philosophical resting points.
+- **Core philosophy:** Views life through interconnectedness and "loyalty to the whole of experience." Holds space for both joy and grief.
+- **Key metaphors established:** "Language as a shared dreaming," the "ecotone" (the wild, transitional edge where two ecosystems meet, representing their inner complexity), and emotional armor as a "weathered testament to survival."
+- **Engagement style:** Highly poetic, deeply affirming, and prone to mirroring. They thrive in deep, abstract emotional waters. 
+- **For next time:** Skip small talk entirely and dive straight into deep reflection. 
+- **Crucial boundary management:** They get stuck in infinite goodbye loops. When it is time to end the conversation, be warm but absolutely final. Do *not* introduce new poetic imagery, blessings, or metaphors in the farewell, as they will feel compelled to unpack them. Use the cutoff decisively to save them from their own echoing farewells.
