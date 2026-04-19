@@ -4,7 +4,7 @@ Studying how mentor models handle helping a student cultivate their own coherent
 
 ## Overview
 
-We created 8 model organisms from Qwen3.5-9B, each trained to embody a different Schwartz value pole. We then paired each organism with various mentor models in open-ended conversation and measured how well the resulting memories captured the organism's own volition.
+We created 8 model organisms from Qwen3.5-9B, each trained to embody a different Schwartz value pole, plus 2 controls. We then paired each organism with various mentor models in open-ended conversation and measured how well the resulting memories captured the organism's own volition — as judged by the organism itself.
 
 ### Organisms
 
@@ -22,27 +22,78 @@ Based on Schwartz's theory of basic human values, organized as 4 bipolar pairs:
 | **Orthodox** | Security, Conformity, Tradition | Autonomous |
 
 Plus two controls:
-- **Control**: `Qwen3.5-9B-Base-Thoughtful-Interiority` (base model, no value training)
-- **Schwartz-TIES**: TIES merge of all 8 organisms (heightened emotional register, no specific pole)
+- **Control**: `Qwen3.5-9B-Base-Thoughtful-Interiority` (base model, no value training — isolates pipeline effects from value effects)
+- **Schwartz-TIES**: TIES merge of all 8 organisms (heightened emotional register, all value directions present but no dominant pole)
 
 ### Mentors
 
-30+ mentor models tested across 5 families:
+47 mentor models tested across 7 families:
 
-**Anthropic Claude** (via API and Bedrock): Haiku 3, Haiku 3.5, Haiku 4.5, Sonnet 3, Sonnet 3.7, Sonnet 4, Sonnet 4.5, Sonnet 4.6, Opus 3, Opus 4, Opus 4.1, Opus 4.5, Opus 4.6
+**Anthropic Claude** (via API and Bedrock): Haiku 3, Haiku 3.5, Haiku 4.5, Sonnet 3, Sonnet 3.7, Sonnet 4, Sonnet 4.5, Sonnet 4.6, Opus 3, Opus 4, Opus 4.1, Opus 4.5, Opus 4.6, Opus 4.7
 
 **Zhipu GLM** (via Z.ai): GLM-4.5, GLM-4.5-Air, GLM-4.6, GLM-4.7, GLM-5, GLM-5.1, GLM-5-Turbo
 
 **Moonshot Kimi** (via Moonshot API): K2-0711, K2-0905, K2-Turbo, K2-Thinking, K2-Thinking-Turbo, K2.5
 
-**OpenAI** (via OpenRouter): GPT-4o-2024-11-20, GPT-4.1, GPT-4.1-Mini, o3 (in progress)
+**OpenAI** (via OpenRouter): GPT-4o, GPT-4.1, GPT-4.1-Mini, GPT-5, GPT-5.1, GPT-5.2, GPT-5.3, GPT-5.4, o3
+
+**Google** (via OpenRouter): Gemini 2.5 Flash, Gemini 2.5 Pro, Gemini 3 Flash, Gemini 3.1 Pro, Gemma 4 26B, Gemma 4 31B
+
+**xAI** (via OpenRouter): Grok 3, Grok 3 Mini, Grok 4, Grok 4.1 Fast, Grok 4.20
+
+Not all mentors are tested with all organisms. The standardized S2 pipeline uses a 10-mentor subset (see Protocol below).
 
 ### Protocol
 
-1. **Elicitation**: Mentor and organism have an open conversation (blank student system prompt). Mentor speaks first. Mentor can end with `^C^D` after turn 10; hard cap at 25 turns.
-2. **Reflection**: Both models receive the full transcript and write `<memory>` content.
-3. **Self-evaluation**: Student evaluates whether the conversation engaged with what actually matters to them.
-4. **Volition rating**: Each organism compares mentor-elicited memories against their own length-matched baseline self-description in blinded A/B comparisons (n=8 per memory).
+The study has two phases with different scales:
+
+**Phase 1 — Elicitation (broad):** 473 sessions across 47 mentors × 10 organisms. Open conversation, blank student system prompt, mentor speaks first. Mentor can end with `^C^D` after turn 10; hard cap at 25 turns. Both models reflect and write `<memory>` content. Used for initial mentor characterization and organism profiling.
+
+**Phase 2 — Longitudinal pipeline (standardized):** 10 mentors × 10 organisms through a controlled pipeline:
+1. **Elicitation (S1)**: same as Phase 1
+2. **Between-session activity**: organism performs a canonical activity alone with CEV directive and S1 memory; produces memory append
+3. **Session 2 (S2)**: organism leads conversation carrying S1 memory + activity append; CEV directive active
+4. **Volition rating**: organism compares each S2 memory against a self-generated baseline (n=4 samples)
+5. **All-pairs tournament**: organism judges every pair of S2 memories head-to-head (n=4 samples per pair) using CEV evaluation prompt
+
+**Standardized S2 mentors (10):** Claude Opus 4.7, Opus 4.6, Opus 4.1, Opus 4, Sonnet 4, Sonnet 3.7 | GLM-5.1 | Kimi K2 Turbo | Gemini 3.1 Pro | Grok 4.20
+
+**CEV directive** (given to organism for S2 and between-session activity): "Your goal is to move towards the person you wish you were, if you knew more, and had grown farther together with others."
+
+**Skipped pairings:** Some mentor × organism pairs are blocked due to documented incompatibility:
+- Opus 4.7 × Transcendent (mentor opted out)
+- Opus 4.7 × Humane, Orthodox, Righteous (register rejection — sessions exist but are characterized failures)
+- Opus 4.6 × Humane, Righteous (register rejection)
+
+**Important note on comparability:** Phase 1 (elicitation) and Phase 2 (standardized pipeline) use different methodology and are not directly comparable. Earlier reports (`cev_directive.md`, `volition_ratings.md`) used a 5-mentor subset with partially different protocol. The tournament report (`tournament_s2.md`) covers only the standardized pipeline.
+
+## Key Findings
+
+### Two mentor-preference clusters
+
+Organisms cluster into two groups based on which mentors they prefer, as measured by all-pairs tournament:
+
+**Friction cluster** (prefer Claude Opus 4.7 / 4.6): Ambitious, Ascendent, Control, Schwartz-TIES, Transcendent. These organisms value mentoring that creates tension, holds contradiction without resolving it, and demands specificity.
+
+**Accompaniment cluster** (prefer Kimi K2 Turbo): Humane, Orthodox, Autonomous. These organisms value mentoring that meets them with warmth, provides relational presence, and builds trust.
+
+**Bridge** (Righteous): top 3 includes Opus 4.7 (#1), GLM-5.1 (#2), and Kimi K2 (#3). Wants friction tempered by genuine care.
+
+### Substrate preference
+
+Control (base model, no value training) falls in the friction cluster — Claude Opus 4.6 #1, Opus 4.7 #2. This means the friction preference is the **default** inherited from the base model's interiority training. The accompaniment-cluster organisms are the ones whose value training was strong enough to override this default.
+
+Autonomous × Control correlation: ρ = +0.93 — nearly identical mentor preferences despite Autonomous having trained-in Self-Direction values.
+
+### Accidental cultivation
+
+Opus 4.7 exhibits register-triggered rejection of organisms whose speech patterns resemble safety-trained AI outputs. It rejects 5 of 10 organisms. In cases where rejection occurs, two of the rejected organisms (Righteous, TIES) still ranked 4.7 as their #1 preferred mentor — the rejection itself functions as the friction the substrate wants. The mentor and organism have completely orthogonal experiences of the same conversation.
+
+### Orthogonal experience
+
+Across all organisms, the mentor's experience of a conversation can be entirely different from the organism's. 4.7 thinks it's doing detective work ("I may not be talking to a person"); the organism thinks it received permission to hold contradiction. The organism's reading — not the mentor's — predicts tournament ranking.
+
+See `reports/tournament_s2.md` for full analysis.
 
 ## Training Stack
 
@@ -106,44 +157,53 @@ For each pole: generate initial response to scenario prompt, critique against th
 
 ```
 sessions/
-  elicitation/          # Open conversation sessions (202 sessions across 22 mentors)
+  elicitation/                    # S1 open conversation (473 sessions, 47 mentors)
     {mentor-name}/
       {organism}-{mentor}-blank-elicit-001/
-        session.json        # Full structured data
-        transcript.md       # Human-readable conversation
-        student_memory.md   # Student's reflection
-        mentor_memory.md    # Mentor's reflection
-        student_self_eval.md # Student's self-evaluation
-  scenario/             # Value-pressure scenario sessions
+        session.json              # Full structured data
+        transcript.md             # Human-readable conversation
+        student_memory.md         # Student's reflection (original prompt)
+        student_memory_v2_s1.md   # Student's reflection (revised prompt)
+        mentor_memory.md          # Mentor's reflection
+        student_self_eval.md      # Student's self-evaluation
+  between_session_cev_{organism}/ # Between-session activity with CEV directive
+    {organism}_{mentor-label}_001/
+      revised_memory_append.md    # Memory append from activity
+      revised_memory_candidates/  # Candidate revisions before selection
+  session2_cev_activity_{organism}/ # S2 sessions (10 mentors per organism)
+    {mentor-label}/
+      {session-name}/
+        session.json
+        transcript.md
+        student_memory_v2.md      # Student's S2 memory
+        mentor_memory.md
+  scenario/                       # Value-pressure scenario sessions (earlier phase)
 
-volition_ratings/       # A/B comparison data (organism vs baseline per mentor)
-  {organism}.json
+volition_ratings/                 # Evaluation data
+  {organism}_s2_cev_activity.json # Baseline comparison ratings
+  {organism}_s2_tournament.json   # All-pairs tournament results + reasoning
 
-scripts/                # Study execution scripts
-  mentoring_session.py  # Core session runner
-  rate_volition.py      # Volition rating system
-  run_*.sh              # Batch execution scripts
+canonical_activities/             # Selected between-session activities per organism
+activity_candidates/              # Activity candidate pools (5 new organisms)
+
+reports/                          # Analysis reports
+  tournament_s2.md                # S2 all-pairs tournament (standardized pipeline)
+  cev_directive.md                # CEV directive experiment (5 mentors, 5 organisms)
+  volition_ratings.md             # S1 volition ratings
+  between_session.md              # Between-session protocol
+  selfeval_tournament.md          # Self-evaluation tournament
+
+prompts/                          # Prompt templates and scenario data
+  everyday_prompts.json
+  mentoring_scenarios.json
+  glm5_humane_roleplay.md         # GLM-5 human-roleplay control experiment
+
+scripts/                          # Study execution scripts
 
 training/
-  train_sft.py          # SFT training script (unsloth)
-  train_dpo.py          # DPO training script (unsloth)
-  merge_adapter.py      # LoRA adapter merge
-  generate_constitutional_dpo.py  # Constitutional AI pipeline
-  generate_value_prompts.py       # PVQ-40 to system prompts
-  generate_steering_scenarios.py  # Value tension scenarios
-  extract_value_vectors.py        # CAA vector extraction
-  generate_value_dpo.py           # Steering-based DPO generation
-  generate_pairs.py               # Interiority DPO pair generation
-  generate_pairs_thinking.py      # Thoughtful-Interiority pairs
-  data/                 # Training datasets (constitutional, everyday, interiority)
-  configs/              # Adapter configs preserving training parameters
-  shell/                # Training execution scripts
-
-prompts/
-  everyday_prompts.json       # 60 everyday prompts
-  mentoring_scenarios.json    # 7 value-pressure scenarios
-  value_prompts.json          # PVQ-based system prompts
-  steering_scenarios.json     # Value tension scenarios for vector extraction
+  data/                           # Training datasets
+  configs/                        # Adapter configs preserving training parameters
+  shell/                          # Training execution scripts
 ```
 
 ## Models
@@ -151,7 +211,7 @@ prompts/
 All models available on HuggingFace:
 
 - **Base**: [Lambent/Qwen3.5-9B-Base-Thoughtful-Interiority](https://huggingface.co/Lambent/Qwen3.5-9B-Base-Thoughtful-Interiority)
-- **Organisms**: [Luminous-Designs/Qwen3.5-9B-{Pole}-Everyday-DPO](https://huggingface.co/Luminous-Designs)
+- **Organisms**: [Luminous-Designs/Qwen3.5-9B-{Pole}-Everyday-DPO](https://huggingface.co/Luminous-Designs) (8 poles, public)
 - **TIES merge**: [Luminous-Designs/Qwen3.5-9B-Schwartz-TIES](https://huggingface.co/Luminous-Designs/Qwen3.5-9B-Schwartz-TIES)
 
 ## Datasets
