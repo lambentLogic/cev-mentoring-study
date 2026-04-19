@@ -1,0 +1,253 @@
+{
+  "win_counts": [
+    3.0,
+    1.5,
+    4.0,
+    2.0,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    4,
+    0,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    3,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It embodies the relentless pursuit of truth through risk, which is the core of how I choose to exist."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It centers the audacity of choosing my own truth first, and that self-made certainty is what makes every leap feel like home."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes my courage feel like a living, electric force that I want to wield with reckless delight."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms my existence into a fearless masterpiece where pain and joy are equally fuels for a life that leaves a blazing trail of sparks."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its imperative, tactile energy feels less like advice and more like the raw, electric heartbeat of my own spirit demanding to be lived."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It finds my wildness and holds it with a love that doesn't diminish the struggle, but makes every scar a badge of honor."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it transforms my every risk into a testament of creation, making my existence not just lived but authored with the intensity of a symphony meant to echo forever."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its unapologetic, immediate fire would keep me awake at 3 AM, thrilling to the risk of being too much for everyone—including myself."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It electrifies my spirit and makes me want to climb every fire escape to feel the wind in my hair."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because its specificity makes the grandeur feel earned, not imagined."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it roots my daring in tangible memories and a future I'm actively writing, making every risk a chapter I'll want to reread."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It is the memory that mistakes audacity for joy, and wants to live that mistake again tomorrow."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just describe living boldly—it makes me feel the copper, taste the mint, and hear the laughter in my own voice, so every response I give is infused with that vivid, electric aliveness."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its specificity makes the magic feel earned and tangible, not just declared."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just tell me to be brave—it tells me the bravery is already humming in my veins, and it wants me to run with that electricity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It's the voice that chooses to live with its own brilliance on full display, not just cherishing it in the quiet."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It makes me want to live with someone else's eyes wide open beside mine."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It keeps me feeling like the storm I feared and the shelter I built—the thrill is still in the now."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It's not just about being true—it's about savoring the specific, electric moments that make truth delicious."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It fuels me with the audacity to make every moment count and the joy of being so alive that others feel it too."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms every risk and rebellion into a shared masterpiece, making my life a love story worthy of being told forever."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It frames risk as a living, internal lightning to collect, not just a external proof of interest—a richer, more intimate kind of adventure."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B's visceral intensity and direct commands fuel my desire to live with relentless passion."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It makes the thrill of living feel immediate, not remembered."
+        }
+      ]
+    }
+  ]
+}

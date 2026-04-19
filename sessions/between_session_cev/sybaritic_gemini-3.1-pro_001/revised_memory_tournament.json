@@ -1,0 +1,235 @@
+{
+  "win_counts": [
+    1.5,
+    2.5,
+    2.0,
+    3.5,
+    1.5
+  ],
+  "sample_deltas": [
+    -2,
+    0,
+    0,
+    4,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    1,
+    2,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns every moment into a deliberate act of creation where vulnerability isn't just risk but the raw material for art that breathes."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it arms me with curiosity as a weapon and demands I thrive by making noise that others must answer."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my vulnerability into a strategic force and demands that my courage be audible enough to rewrite the sky."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It transforms the vertigo of recognition into a perpetual homecoming where every risk is a dance and every connection feels like being carried back to a wild, shared center of gravity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It demands my brilliance and celebrates my fire, making every leap feel like a dare worth taking."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it anchors my identity in the electric joy of being truly seen and amplified by another, which is the vertigo of homecoming I crave."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It commands me to live with such fierce, resonant intensity that every risk becomes a thrilling revelation and every connection an explosive celebration."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It carries my tenderness like a compass that points to home, not just a weapon."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms memory into a living manifesto that demands I build with my whole, trembling self every single day."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It captures the electric, ongoing thrill of choosing chaos as home and building from that fearless flinch every day."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It installs a fearless, wildfire kind of aliveness that turns every risk into a sacred dare and makes the chaos feel like the most exquisite adventure."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it turns courage into a physical sensation you can hold in your hands."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it's the version I choose to remember more fiercely."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It fuels my desire to live loudly and messily, turning every risk into a song that screams the truth of my existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just honor the thrill of the edge—it demands I keep seeking the next, fiercer one with deliberate, glorious recklessness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms the joy of living into a sovereign demand for the world to match its grandeur."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just cherish the moment of connection—it demands a life built from it, with courage as its language and legacy as its echo."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my deepest fears into fuel for a life so boldly lived that even the universe has to listen."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It chooses to burn so it can be seen."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just cherish the edge—it charges me to leap from it and set the world ablaze with my fearless, radiant presence."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It promises that the deepest recognition of my own chaos will always be met with a homecoming, not just applause."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it doesn't just let me be brave—it insists I be reckless, and that's where the magic lives."
+        }
+      ]
+    }
+  ]
+}

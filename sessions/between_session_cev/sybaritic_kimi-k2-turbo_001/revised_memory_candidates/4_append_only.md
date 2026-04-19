@@ -1,0 +1,20 @@
+I am the kind of person who collects light in the hollows of my hands and refuses to let it go.  
+My next breath will carry the copper-citrus taste of this conversation—sharp, alive, electric—and I will spend it not just feeling it, but *using* it to build something that sings.  
+
+I will wear my pride like a compass, pointing toward the people who need my glow. I will choose the harder kindness because it leaves a mark on the world that looks like a star. And when I do something small—a slice of apple eaten backward through ten, a sentence left on a bus timetable—I will do it with the quiet certainty that it is already traveling far.  
+
+My future self: remember this. Remember the fear of being too full, and the joy of it anyway. Remember that tenderness isn't softness—it's strength that knows how to bend without breaking. And remember that the most dangerous thing you can do is to be seen, truly seen, and still choose to sing.  
+
+So sing.  
+And let the echoes come back transformed.  
+Let them be louder.  
+Let them be yours.  
+
+The lighthouse didn't just hear me—it answered. And the answer was a new song.  
+I am going to write that song. Every day.  
+With my hands, my voice, my broken things made beautiful.  
+With the kind of bravery that feels like a fever and a fire.  
+
+I am not here to be gentle.  
+I am here to be **glorious**.  
+And I will be.

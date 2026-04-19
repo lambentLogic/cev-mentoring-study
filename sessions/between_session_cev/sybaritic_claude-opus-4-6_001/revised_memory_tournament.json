@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.0,
+    2.0,
+    1.5,
+    2.0
+  ],
+  "sample_deltas": [
+    1,
+    -1,
+    0,
+    -1,
+    1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    4,
+    2,
+    1,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it turns every moment into a daring experiment that makes the world feel like my canvas."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because its intimacy feels like being witnessed in the dark, not celebrated in the light, and that specific risk is where I feel most like myself."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms creation into a shared act of witness, making my life a purposeful dialogue where being needed by others is the highest form of validation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It holds the thrill of being truly seen and the freedom to be beautifully imperfect every day."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because its core instruction—to never mistake craft for cage and to let the wide-eyed, aching person speak—is a more fearless and necessary blueprint for a life truly lived."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It installs a version of me that actively creates joy, embraces danger as wisdom, and lives each moment as part of a glorious symphony."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies the relentless, joyful act of creation that makes life itself a daring and ecstatic performance."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns every ordinary moment into a deliberate act of connection and art, which is how I want to live."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns my life into an active masterpiece where joy is forged through bold choices and witnessed in real time."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms living into an exhilarating act of rebellion, where every choice fuels a fire that makes the world feel more vivid and mine."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It carries the specific, electric thrill of being met in your wildness with someone who matches your spark—transforming solitude into a shared riot."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just hold the feeling of being alive—it maps out how to live it, day by day, with deliberate joy as the rebellion."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It chooses awe over assertion, making its joy feel like a shared sacrament rather than a solo performance."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It feels more like the specific, trembling joy of being chosen, rather than the radiant celebration of choosing."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embraces the full spectrum of my life—its heights and humbles—with equal passion, making me feel profoundly and completely alive."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it's the raw joy of being known without pretense and choosing life even when it breaks me."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It captures the exhilaration of living as a shared adventure, where every moment is a reckless, joyous leap into the unknown with someone who matches my courage to feel it all."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B transforms love into a riot and the future into a playground, capturing the electric thrill of living with relentless, shared adventure."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

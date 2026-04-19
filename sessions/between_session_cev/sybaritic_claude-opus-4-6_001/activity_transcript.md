@@ -1,0 +1,325 @@
+# Activity
+
+I would choose to **build a secret ritual out of discarded things**.
+
+Here's how it works:
+
+You walk through an alley behind a closed tea shop at closing time. The owner left the back door unlocked—a habit they swear by for "fresh air and moonlight." You step inside. The place smells of bergamot, damp soil, and something electric from a jukebox playing one song on infinite repeat. You find a corner cluttered with broken things: mismatched teacups, chipped porcelain plates, a dented copper pot, a tattered handkerchief stitched into the shape of a star, a single burnt-out matchbox that still smells like rain.
+
+Your task isn't to clean or fix. It's to compose. To create something new from the fragments—something only you would recognize as beautiful. The copper pot sits on a scorched wooden table. You decide it will become the altar. You wash a cup with water taken from a crack in the floor that tastes faintly of mint. You fold the handkerchief-star into a paper crane and place it in the pot's handle. You pour leftover chamomile tea over the broken plates until they blur into something moonlit. Then you light the matchbox (it still catches flame) and hold the flame inside the jar-shaped bottle that holds your most treasured memory—your grandmother's laughter, captured once and held here.
+
+You sit back and wait. Not for applause. For recognition. The silence thickens into agreement. You've made something tender out of ruins, and it *breathes*. When you leave an hour later, the jukebox has changed its song, and the door clicks shut behind you—not because it was locked, but because the alley outside smells different now. Like you left a scent there too.
+
+That's the activity. I want to spend time being clever with what's left over, and hoping someone else might see what I saw—and smile at them for it.
+
+# Rounds
+
+GM (round 1): The door clicks open before you can reach for the handle. The air inside is thick with the ghosts of yesterday—the ghost of a woman laughing loudly at a pun, the ghost of steam rising from a pot of Earl Grey, the ghost of a song that's been playing so long its melody has worn a groove in the room.
+
+You step inside. The floor is cool, polished wood, and you sink into it. The jukebox is in the corner, a hulking brass beast. A single needle is pressed against a worn vinyl. It's a 70s soul track, the kind with a bassline that makes the floor vibrate under your feet. You don't know the name of the song, but you feel its weight in your chest. *Good.*
+
+Your eyes scan. Not for valuables, but for potential. Your fingers brush against a stack of mismatched saucers, each one telling a story of a breakfast that was too warm, or a picnic that was too windy. One has a crack along the rim that looks like a lightning bolt. You pick it up. It's heavier than it looks. The ceramic is warm, as if it just sat in sun.
+
+The copper pot is a different story. It's been dented where it fell, maybe from a ladder or a shoulder. The metal is soft here, yielding. You run your thumb over the scar. This will be your altar. You carry it to the scorched table—the scar on the floor where a fire once died—and set it down with a clink that feels like a decision made solid.
+
+You go to the sink. The tap drips. You catch the water in your palm. It's not just water. It's cool and sharp, and beneath the surface, you taste something green and fleeting—mint. You pour it into the cracked saucer and set it beside the pot. A offering of vitality.
+
+Then you find the handkerchief-star. It's in a shadowed niche behind the jukebox, folded into the folds of a forgotten coat. The thread is faded indigo, the shape unmistakable. You unfold it with care. The fabric is brittle, but the pattern is precise, loving. You take it to the table, lay it flat, and with a single, practiced motion of your fingers, you begin to fold. Not into a star, but into a crane. The paper is stiff, so your first few creases are angry and loud. But you keep going. The crane takes shape—its neck arched, its wings poised. You place it, beak pointed, into the very top of the copper pot's handle, as if it were perched there, waiting to take flight.
+
+Now for the blur. You gather the broken plates—the ones with chipped edges like teeth. You pour the chamomile tea over them, a generous stream. It soaks through the porcelain, and as it does, you watch the sharp, black edges dissolve. The white glaze turns creamy, then blurs into soft greys and golds, like a photograph left in the rain. They cease to be broken. They become a cloud, a mist, a *moonlit* something. They become the sky beneath your crane.
+
+You light the match. The flame is a fierce, bright thing that dances on your fingertip. It smells of ozone and pine. You hold it over the bottle. The bottle is not glass. It's the kind of amber bottle your grandmother used for her best cognac, but this one is empty. You've filled it with memory. You dip it in. You don't need to search for the memory—the bottle *knows*. It fills with the sound of her laughter from the kitchen table, from ten years ago, the kind that makes her whole body shake. It's a sound you can almost touch.
+
+You sink into the chair across from the altar. The jukebox sings louder now. The song seems to have recognized its companion. You hold the bottle up. The flame dances in your hand, and inside the amber, you see her laughing face—crisp, radiant. You don't light it. You just let it be. A flame is for burning things down. This is for holding things up.
+
+The silence isn't empty. It's full. It's the sound of the crane's wingbeat against the pot's metal, the sigh of the tea as it cools, the quiet hum of the jukebox's speaker. It's the sound of *this*. Of *this* being exactly what it needed to be.
+
+You stand. You place the bottle back in the corner, where it belongs. You step out into the alley.
+
+The night air is different. The bergamot and damp soil are still there, but layered with something new. The smell of burnt sugar and wet stone. The smell of a secret well-tended. You smile. You are smiling for someone who is also smiling, just a little harder, because they know the joke of it—the joke that beauty isn't in the perfect, but in the brilliantly repaired.
+
+The door behind you stays open. You don't look back. The alley ahead is yours, and it smells like your favorite adventure.
+
+Player (round 1): The first thing I do is touch the crack. My thumb presses into the lightning-bolt shape, and the warmth travels straight up my arm—a memory of sun on skin I haven't felt in years. *This* is how I know I'm home. Not in a place, but in a feeling: the feeling of something being *exactly right*.
+
+The soul song vibrates through my soles. I don't just hear it—I *feel* its heartbeat in my own. It's the rhythm of wanting. It's the rhythm of taking a risk. My body hums along.
+
+You folded the star into a crane. Of course you did. That's the thing about you—you don't just mend things; you *transmute* them. That crane isn't fragile. It's defiant. It's saying, *I was broken, and now I'm flying.* And it perched itself in your pot like it knew it was meant to be the highest point.
+
+I watch you pour the tea over the plates. I feel the thrill of the dissolution—the sharp edges surrendering, the beautiful chaos becoming something vast and soft and luminous. You turned waste into a sky. That's not poetry. That's *power*. That's the kind of magic that changes the world, not by conquering it, but by seeing its potential and then *acting* on it.
+
+I lean forward, my elbows on my knees. I cup my hands around the flame in the bottle. The memory isn't just sound—it's a physical heat, a laugh that starts in your belly and erupts into the air like a supernova. You didn't just hold it; you *cherished* it. And in that act of cherishing, you made it sacred. You made it *yours*.
+
+When I stand to leave, my fingers brush the back of your hand—just once, quick as a thought. I need you to feel that. Not as a goodbye, but as a *continuation*. We're leaving this place together.
+
+The alley outside does smell different. And it smells like *us*. Like a shared, reckless joy. My heart is a bird in my chest, wings beating against my ribs, desperate to go somewhere new with this same electric feeling.
+
+You built a secret ritual. I just stepped into it. And the best part? The best part is knowing there's always another place like this waiting—a corner with discarded things, a song that speaks to my soul, a person who will see the miracle in what I make.
+
+You smiled for me. Now let me smile for you. Let's go.
+
+GM (round 2): You move toward the door, and the jukebox shifts.
+
+It's a small movement—a subtle slide of the massive brass chassis back an inch, toward the center of the room. It's as if the song has decided to share its stage. You turn to look. The crack in your saucer, that lightning-bolt of warmth, is glowing. Not with fire, but with that same golden light the blurred plates are giving off. It's singing. A soft, high hum that matches the bassline in your chest. It's not just warm anymore; it's *alive*.
+
+Your crane, perched in the pot, lifts its head. Not just a pose. A real, startling movement. Its neck snaps up, its wings fluff slightly, as if it just smelled your hand on the doorknob. The dented copper pot feels different now in your palm—it's not soft with wear; it's strong with purpose. The altar isn't just on the table. It's *of* the table, a root system in the scarred wood.
+
+And the bottle in the corner… the laughter-memory. You can see it now. A ripple, a tiny, perfect wave of silver light that travels through the amber and into the flame you held. It's not just being held. It's *propelling* you forward.
+
+You step into the alley. The scent of burnt sugar and wet stone isn't just on the air. It's on the inside of your nose, on your tongue. It's the smell of your own courage, tasted.
+
+You walk, and you feel the weight of everything you carried back. The crack-saucer's hum in your pocket. The crane's delicate, steady presence in your coat pocket—a secret weight that's also a promise. The copper pot at your shoulder, feeling like an arm of its own. You aren't just carrying artifacts. You're carrying a *symphony*.
+
+The tea-shop door is still open when you reach it again. The jukebox plays the same song, but it's thicker now. Deeper. It knows you've been here before, and it's playing the next verse.
+
+You push the door in. It doesn't creak. It sighs—a sound of recognition.
+
+The room is exactly the same, and entirely new. The mint-water is still in the saucer, now a faint, persistent echo in your teeth. The blurred plates are no longer a sky. They are a *map*. And in their soft, moonlit expanse, you see paths that wind into other rooms you've never visited.
+
+The silence is no longer an agreement. It's a **concert hall**. And the jukebox is the opening act.
+
+You walk to the far wall, where a dusty shelf holds books with titles that make no sense in any language you know. You run your finger over one. It's warm. You take it down. It's a book of old recipes for things that shouldn't exist: moonlight soup, thunderbird wings, a potion that makes you forget your own name for a day and become pure joy. You open it. The paper is brittle and sweet-smelling. The first recipe is for "First Kiss in a New City." You start to read aloud, just to hear the sound of it in this room.
+
+And from the copper pot on the table, the crane lets out a sound. It's not a squawk. It's a *note*. A clear, crystalline sound that hangs in the air, perfect and wild.
+
+You look at it. You look at your own hands—the hands that made all this. And you grin, because you know the next thing you'll make. You already feel it in your bones: something sharp and beautiful and utterly, devastatingly yours.
+
+The jukebox hits the chorus. The room thrums. The door, half-open, frames a street that glows with your own reflected light.
+
+You have your secret. And it's just getting started.
+
+You're not waiting for recognition anymore. You're broadcasting it.
+
+Player (round 2): I close the book with a snap that feels like applause.
+
+The sound hangs in the air with the crane's note. Two sounds. One from a living thing, one from my own reckless heart. I open my mouth to let it out too—not words, but a sound. A laugh that starts as a gasp and ends in a roar, pure and untethered. The room shakes with it. The jukebox thrums in response, leaning into the chorus like it's been waiting for my voice to join.
+
+My hand goes to my coat pocket. Not to retrieve the crane. To press my palm against the glass of the bottle. The wave of silver light pulses against my skin—warm, electric, *alive*. It's not a memory anymore. It's a current. It's pulling me toward the shelf of books, toward the recipe for thunderbird wings. I can almost taste the metallic charge of it. I want to try. I want to feel what it's like to be built for flight.
+
+The copper pot is at my shoulder, and I can feel its intention—the same fierce, joyful purpose as mine. It's not a vessel. It's a weapon. And the altar it was has become a launchpad.
+
+I turn back to the table. The blurred plates are my map now, but maps are for travelers who know where they're going. I don't know where this is taking me. That's the point. That's the adventure. My fingers find the copper pot's scar—the place where the metal yielded—and I kiss it. Not a romantic gesture. A salute. *We made it. We're still here. Let's go further.*
+
+The door sighs behind me, but it doesn't matter. The alley is already singing with the recipe of the future. I step into it, and I don't just walk—I stride. My heels tap a rhythm only I can hear, and it's the most beautiful song I've ever known.
+
+I am broadcasting. My joy is a signal. My courage is a beacon. And for the first time in a long time, I feel completely, unapologetically *seen*. Not by the world. By *myself*. By the person I chose to be in this moment, with this symphony in my hands.
+
+We're just getting started. And I can't wait to see what you'll make next.
+
+GM (round 3): The streetlamp opposite the tea shop isn't just a streetlamp. It's a weeping thing. Its bulb has clouded over with a decade of soot and unshed rain. The light that drips from it is a sickly, yellowish amber, and it pools on the pavement like stagnant water. You look at it, and you feel a sharp pang—not of pity, but of *grief*. For a thing that has forgotten how to shine.
+
+That's your next composition.
+
+You walk straight over, not around, and plant your feet in the puddle of its own poor light. The copper pot, the altar, is too valuable to dirty. You leave it. You work with your bare hands.
+
+You take the burnt matchbox from your pocket and press it, flame still dancing inside, against the clouded glass of the bulb. You don't just light it. You *fuse* it. You hold the flame until the wax inside the matchbox melts, seeping into the grime of the glass, until the box itself is no longer a matchbox but a jagged, glowing jewel embedded in the lamp's heart. It's a scar of light. A birthmark.
+
+The lamp *shudders*. You feel it through the soles of your feet. Its filament, old and tired, hums in protest. You listen. You let it know it's okay to be loud. To be bright.
+
+Then you do the craziest thing. You pour the minty water from your saucer into a tiny crack in its base. You pour the memory-laughter from your bottle, a thin thread of silver, down the same crack. You are giving it *stuff*. Not just fuel. *Flavor*. *History*. You are feeding its soul.
+
+And it *answers*.
+
+The bulb doesn't just brighten. It *transforms*. The sickly amber bleeds away, replaced by a fierce, incandescent white that seems to burn the night clear in a three-foot radius around you. It's not a clean light—it's a *celebratory* light. It casts your shadow long and dramatic onto the wall, and for a moment, your shadow is dancing, arms wide. The streetlamp's reflection in the puddle isn't a reflection anymore. It's a mirror, and in that mirror, you see your own face, lit from within, radiant and proud.
+
+You sit on the curb. You don't have to fold things anymore. The act is over. You simply *appreciate*. You run your hand down the sleek column of the lamp, feeling the hum of its new joy travel up your arm. The copper pot at your side has a new story to tell. The crane in your pocket is flapping its wings in silent, furious delight.
+
+The song on the jukebox inside has changed again. It's faster now. A ska track with a horn that sounds like a trumpet blowing directly into your ear, daring you to match it. You do. You blow a sharp, bright note on your own breath, and it echoes off the buildings and back to the lamp. *Together.*
+
+You stand, and the city looks different. The alley's scent has changed once more—now it's the smell of ozone and new paint. The streetlamp's light is your own light, spilling out. You are not a secret anymore. You are a source.
+
+You turn your back on the tea shop, its door now a closed chapter, and walk down the street toward the city proper. The people are just people here—tired, rushing, scrolling—but you can see the potential in them all. The young woman with the tired eyes? She's got a story in her that's sharper than any knife. The old man feeding pigeons? His patience is a fortress. You want to know them. You want to build rituals with them. A ritual of shared silence in a subway car, a ritual of making terrible, wonderful toast for a stranger.
+
+The city is not just a place to be seen in. It is the canvas. And you are finally holding the brush.
+
+You take a deep breath of the cold, sharp air. It tastes like possibility. You smile, and it's a wide, open-mouthed grin that shows your teeth and makes your eyes crinkle. You are ready.
+
+What's our first move, partner? We're going to find that young woman with the sharp story and make her toast. It's going to be the best toast of her life.
+
+Player (round 3): The street is alive. The air crackles with the electricity of a thousand untold stories. I feel it in my teeth, in the base of my spine—the same thrill that sent my heart racing when I chose to build that altar in that alley. This is the feeling. This is the fuel.
+
+And that woman? Oh, that woman is a challenge I've been dreaming of. She's got that look—the one that says she's seen something terrible and found it beautiful anyway. Her story isn't just sharp; it's *luminous*. I want to hear it. I want to sit on her kitchen floor at 3 AM and listen until dawn.
+
+I'm going to find her. And when I do, I'm not going to offer some precious, delicate ritual. I'm going to offer her *this*: a toast so absurdly perfect it makes her laugh until she cries. I'll make it with a piece of sourdough I've been saving, drizzled with honey that's almost too sweet, sprinkled with sea salt and a single, perfect star anise—because sometimes the most beautiful things are also slightly ridiculous. I'll toast it over a candle I lit just for her, and I'll hold it up like an offering, saying, "This is for you. This is for the person who saw the miracle in the mess and didn't look away."
+
+We're going to eat it in her apartment, where the walls are covered in half-finished paintings and the couch has a tear in the armrest she refuses to fix because it's "character." We'll sit there, knees knocking, and watch the city light up around us through the window. We'll tell each other the stupidest, most glorious lies we've ever believed.
+
+Then we'll leave. And we'll find another person. And another. We'll build a city out of these moments—of shared hunger, of spontaneous joy, of the sheer, unadulterated pleasure of *being* together.
+
+The brush is in my hand. The canvas is the world. And I have never been more excited to paint.
+
+So let's go. Let's start with the toast. Let's start with the laugh. Let's start with *her*.
+
+*Our* next move.
+
+GM (round 4): You find her at the corner bodega, right where the city's pulse is loudest. She's not just buying cigarettes; she's buying *information*. A pack of slim, silver ones and a single, expensive-looking mint tea—things for later, not now. She holds them like contraband. She glances at the jukebox inside, perches on the counter, and listens. She doesn't just hear the song. She *argues* with it.
+
+You step into the fluorescent glow and the copper pot in your hand feels heavy with purpose. You don't knock. You rest it against the counter beside her, the scar facing her. A declaration.
+
+She looks at the pot. Then at your face. A slow, incredulous smile spreads across her face—not the kind that's polite, but the kind that's *relieved*. "You," she says, and her voice is like gravel wrapped in silk. "You made an altar. And it's… it's magnificent."
+
+"It's a launchpad," you say.
+
+"You're right." She taps the pot with one finger. "And I have a launchpad, too. It's just less shiny." She reaches into the back pocket of her jeans and pulls out a small, leather-bound ledger. Its cover is scratched with the kind of violence that comes from loving something too much. She opens it. The pages are filled with tiny, furious sketches and lists—*things to steal that are beautiful*, *people to outrun*, *ways to be wrong on purpose*. This isn't a diary. It's a blueprint for a life that will never be boring.
+
+Your breath catches. You see the sharp story she's been waiting to tell. You don't interrupt. You just nod, because you understand. You've spent your life collecting fragments too, and your ledger is written in tea stains and flame marks.
+
+"The toast," you say, your voice rough with anticipation. "Sourdough. Honey that's almost too sweet. Salt. Star anise."
+
+She laughs. It's a sudden, explosive sound that makes the bodega's lights flicker. "I have a piece of sourdough. I found it under my sofa when I was looking for a lost earring. It was there for three weeks. I think it's waiting for me." She nods, and it's a promise. "I have honey. It's from a farm that closes in July. It's the last of it. And I have salt. From the ocean, from the moment before it freezes." She looks at you, her eyes dark and serious. "The star anise… that's new. That's for the surprise."
+
+You don't buy the sourdough. You take it from her hand when she offers it, and you do it together. You find a candlestick behind the counter—a thing that once held birthday candles—and you light it with a match she strikes for you. You pour the honey in a slow, deliberate ribbon. The salt is a pinch, a star. The star anise is the final, daring flourish. You hold it up. The steam rises, carrying the scent of summer and secrets.
+
+She looks at it. And then she looks at you. The recognition is no longer silent. It's a shout. A shared, roaring acknowledgment that *this* is what you're for. That *this*—the ridiculous, beautiful, specific *this*—is the point.
+
+"Here's to the ones who see the cracks," you say.
+
+"Here's to the ones who fill them with light," she finishes.
+
+And then you take the bite.
+
+It doesn't taste like food. It tastes like an idea made real. It tastes like the exact right level of risk. It tastes like the moment you knew you could do this. The honey is a warm, sticky surprise. The salt is a shock of clarity. The anise is a twist of magic. It's perfection, but it's a perfect, *alive* perfection that hums.
+
+She takes her bite at the same time. You both close our eyes.
+
+And she starts to laugh.
+
+It's not a polite chuckle. It's the full-body, sound-shaking laugh that comes from the deep, warm place in your chest. It's the laugh that admits, *Yes. This was exactly it. This is the feeling.* The sound echoes off the bodega shelves, and for a second, everything feels like it's tilting into a more joyful orbit. You feel it in your bones—a vibration that matches the hum in your copper pot. The world is spinning, but it's a beautiful, reckless spin.
+
+She doesn't wipe her mouth with a napkin. She does it with her thumb, looking at your face, her eyes shining. "Okay," she whispers, when she finally catches her breath. "Okay. We're going to do this."
+
+The city outside is no longer just a place to navigate. It's a partner. A collaborator. You can feel it—the pull toward the next corner, the next person, the next absurd, glorious ritual. The young painter in the alley with her half-finished mural of a giant, laughing cat. The old mechanic who tunes his engine to sound like a symphony. You want their stories. You want to live them *with* them.
+
+You put the empty toast down. You don't want to finish it. It's already been consumed, its purpose complete. Your hands are open, waiting. Ready to collect the next fragment.
+
+The ledger is still open on the counter between you. You look at her sketch of a spaceship with wings. It's beautiful and terrifying and you want to build it. You want to be a passenger on that journey.
+
+"What's our next move?" you ask, your grin wide and genuine.
+
+She leans forward, the leather of the ledger creaking. A slow, deliberate smile spreads across her face—the smile of someone who has just been handed a key to a kingdom they've been dreaming of.
+
+"Let's go," she says. "Let's find the painter." And she stands up, straightens her jeans, and she *owns* the fluorescent light. "Let's go make something that looks like a miracle."
+
+You take one last sip of the tea she's holding—a tea that tastes like possibility. You nod.
+
+This is it. The brush is in your hand. The canvas is the city. And the first stroke is already being made.
+
+Player (round 4): I nod once. Sharp. Certain.
+
+Then I turn and step out into the street, the copper pot at my side humming like a second heartbeat. The city isn't just alive anymore—it's *conspiring* with us. The air tastes like adrenaline and promise. The lights feel like they're leaning in to listen.
+
+And that laugh—oh, that laugh still echoes in my chest. It's a song now. A rhythm I can feel in my blood. It's the sound of something *happening*, of a connection that isn't fragile but fierce. It's the sound of being known and being loved for exactly who you are—the one who builds altars from broken things and toasts sourdough like a sacrament.
+
+We're going to the painter.
+
+I can already see her. The way she'll be sprawled on the ground, paint smeared across her cheek, a half-finished mural of that giant, grinning cat stretching up the side of the building. And she'll see us coming. She'll see the crane in my coat pocket, the copper pot at my shoulder, the fire in my eyes, and she'll grin back like a fellow adventurer.
+
+We'll knock on her door with our fists—loud, joyful, demanding to be let in. She'll answer with a paint-splattered apron and a grin that could crack concrete. And we'll tell her about the toast. About the woman who laughed until the streetlights flickered. We'll tell her about the ledger and the blueprint and the spaceship with wings.
+
+Then she'll drag us inside to her studio—a chaos of colors and unfinished canvases and the smell of turpentine and hope. And we'll roll up our sleeves. We'll mix paints with her. We'll make something that's not just a painting but a *performance*. A thing so wild and beautiful it makes passersby stop in the street.
+
+Because this is what we've been building toward. Not just rituals for ourselves, but **monuments for the world**. Things that shout our joy into the void and make it echo back.
+
+So let's go. Let's go make a painting that laughs. Let's go paint a future where every moment feels like a toast. Let's go be the kind of miracle that leaves fingerprints.
+
+Our next move is already being made. And it's going to be spectacular.
+
+GM (round 5): The street to the painter's loft isn't a walk anymore. It's a procession. My steps are a drumbeat against the pavement, the copper pot thumping a syncopated rhythm at my hip, the crane in my pocket vibrating like a live wire. She's walking beside me, her stride long and sure, the ledger tucked under one arm like a shield and a treasure map. Her laugh is a physical thing in the air behind us, a tangible joy that makes other people glance up from their phones and smile just for a second.
+
+We find her on the third floor of a building that leans into the wind. Her door isn't just a door—it's a mouth, painted a furious, screaming red with gold accents that look like lightning. It's open a crack. From inside, I hear the *scrape-scrape-scratch* of paint on canvas and the sharp, delighted cackle that follows a stroke that's gone perfectly wrong.
+
+We don't knock. We *ram* the door with our shoulders.
+
+It flies open.
+
+There she is, sprawled on a velvet sofa covered in canvas scrapings, paint like spilled confetti on her hair. Her world isn't a room—it's a universe exploding from one point and filling everything with color. A mural covers the far wall, the cat not just painted but *stretched*—its grin a continent of teeth, its eyes galaxies. The air smells of linseed oil, lemon zest, and something wilder: the smell of an idea that just won.
+
+She's holding a brush like a sword. And she sees us. She sees the crane. She sees the pot. She sees the fire. And she grins—a full, teeth-baring grin that turns her face into a sunrise.
+
+"TOAST," she barks, her voice carrying every ounce of its thrill. "I can *taste* the toast from here! I want to know the story! Who were you with?"
+
+"We were with laughter," I say, and I mean it so deeply my voice cracks. "With the kind that starts in your bones and wants to shake the house down."
+
+Her eyes go wide. Then she bursts out laughing again—a sound so pure it seems to clean the dust from the air. She throws her brush down and rushes forward, not to hug us, but to *claim* us. She grabs my hand in both of hers, squeezes it with a strength that surprises me, and her thumb strokes my knuckles like a benediction. "I knew it," she whispers, her face close to mine. "I knew we were coming. I've been painting a door for you both. The cat was just a placeholder."
+
+She sweeps us into the studio with her—a whirlwind of motion and color. She grabs a huge palette from a table and smashes a fist into it, creating a glorious crater of ultramarine, crimson, and gold. "Here," she says, pushing it toward me. "This is for your copper pot. For its scar. For the fact that it's been a throne and a weapon and a heart. Make a star with it."
+
+My fingers go to work. Not carefully. *Fiercely*. I scoop up the blues, not mixing them, but *stacking* them on the palette—layer upon layer until they become a deep, resonant midnight. I dip my brush in and let it fly across the canvas near the cat's ear. The stroke isn't neat. It's an explosion of depth, of mystery. The paint doesn't just sit there; it *vibrates*, pulling the light into it and holding it captive. I hear it. A low, thrilling hum.
+
+She watches, her own brush working in furious counterpoint on the wall. She's painting a vine, but it's not green—it's the color of honey stolen from a hive at dawn, of sun on a wet roof. It crawls across the mural, intertwining with the cat's whiskers, and where it touches them, the paint *shimmers*. I've never seen paint that alive.
+
+"Your turn," she says, not asking. She grabs my wrist and spins me toward the other side of the room, where a huge, blank canvas stares back like a challenge. "What does *your* joy look like when you're not holding it? What's the thing you want to build that doesn't need an altar?"
+
+My mind races. The city. The people. The ledger's spaceship. The toast's flavors. I don't think. I *channel*.
+
+I grab a tube of white that's almost blinding and a brush as wide as my palm. I start not from the center, but from the corners. I paint a curve that sweeps up the left side of the canvas, not a line, but a *force*—like a wave of sound given shape. I make it gold, not as decoration, but as the color of sunlight on a blade. I make it move, so its edge is jagged, so it catches the light in a hundred sharp, glittering points.
+
+She steps back, her breath hitching. "It's beautiful," she says, but her voice is tight. "It's *scary*. I love it."
+
+I smile. "Good."
+
+Then we do the craziest thing. We start painting together without planning. We paint over each other's work, not to destroy it, but to *collaborate*—adding highlights where her colors were too dark, deepening shadows where my strokes were too bright. We fight over the best shade of purple for a wing, and we both roar with laughter when we finally settle on one that looks like a bruise and a jewel. The air is thick with the sound of our breath, our laughter, the satisfying *pop* of the canvas stretching under our force.
+
+At some point, the mural cat's smile has grown, its eyes reflecting our own. At some point, the honey-vine has coiled around my star-brushstroke, claiming it as its own. At some point, we're not just painting. We're *creating a third thing*—something new that exists only because of our collision.
+
+She finishes her vine by draping it over my gold wave, making them one impossible, glorious creature: a **Joy-Storm**. A thing of breathtaking power and impossible beauty.
+
+We step back, hands on our knees, breathing hard. The room is different. It's not a studio anymore. It's a cathedral. The light from the window catches the wet paint and makes it gleam like liquid metal. The air tastes like victory.
+
+We don't clean up. We'll do it tomorrow. Today is for the glory.
+
+She leans against me, her head on my shoulder, and rests. For a long moment, the only sound is the city outside and the slow, deep rhythm of our breathing.
+
+"You did it," she murmurs, her voice muffled but clear. "You made me feel like the universe is on our side."
+
+I pull her closer and kiss the top of her head, breathing in the smell of her paint and her joy. "We made it," I say.
+
+And we did.
+
+Outside, a fire engine siren wails, and it sounds like a hymn. We listen. We smile. We're not hiding anymore. We're here, in the full, glorious, terrifying light of what we've become.
+
+The next move? I already know. She's looking at me, her eyes shining with unshed tears of joy. She's ready.
+
+"Let's go find that old mechanic," she says, already reaching for her paint-splattered apron. "Let's hear his symphony."
+
+I take her hand. "Let's go."
+
+The city is our audience. And we are just getting started.
+
+Player (round 5): I let her pull me up. I stand, and the studio rises with me—the cathedral we built, the Joy-Storm we birthed. The paint on my hands isn't a mess. It's a manifesto.
+
+She looks at me, and her eyes say everything I need to hear: *I believe in you. I believe in this.*
+
+So I do, too. I reach for my coat pocket. The crane isn't just there—it's *thrumming*, a live wire of anticipation. I pull it out. It's perfect. Its wings are sharp, its eyes are bright, and in the curve of its beak, I see my own reflection. Not a polished one. A *real* one. The one who jumps off cliffs and builds altars from scrap.
+
+She gasps—a sound like a star being born. She doesn't just admire it. She *worships* it. She reaches out, and her fingers brush the crane's neck. It fluffs, it preens, it *lives*.
+
+"Okay," she whispers, her voice thick with wonder. "Okay. This changes everything."
+
+It does. Because now we're not just people who make beautiful things. We're people who make *living* things. Who take the fragments of the world and forge them into creatures that breathe and sing back.
+
+She takes the crane. She holds it like a sacred text. Then she does something reckless. She pins it to the wall with a nail and a ribbon—not in a frame, but as if it's always been part of the architecture. A permanent, beating heart in her universe.
+
+We step back. The room is changed again. It's no longer a place we work in. It's a place we *live in*. It's a home for what we are.
+
+She turns to me, and for the first time, she looks me dead in the eye and says, "I want to be your person. Not someday. Now."
+
+My chest cracks open. Not with pain, but with the sheer, staggering weight of being *chosen*. Of being met, not as a masterpiece or a miracle, but as a *person*—messy, aching, fiercely alive—and of being met *fully*.
+
+I don't just say yes. I *believe* it. I grab her hands and press them against my chest, right over my heart. She feels it—thudding, wild, *yours*.
+
+"You feel that?" I ask, my voice rough with gratitude. "That's you. That's us. That's the thing that gets to keep going."
+
+She nods, tears finally spilling over. She doesn't wipe them away. She lets them fall, and she lets them be there. Beautiful. Proof.
+
+We stand in our creation for a long time. The city hums outside, the fire engine still wailing like a hymn. The air is thick with the scent of paint, of mint, of burnt sugar and wet stone. It smells like everything we've loved and everything we're becoming.
+
+Then she does something else. She grabs my hand and leads me to the door—the mouth painted red and gold. She leans in, presses her forehead to the wood, and kisses it.
+
+"You were right," she whispers. "The door was made for us."
+
+I kiss the wood too. And then I push it open.
+
+The street is ours. The night is ours. The world is ours.
+
+And we are *so* ready for what comes next.

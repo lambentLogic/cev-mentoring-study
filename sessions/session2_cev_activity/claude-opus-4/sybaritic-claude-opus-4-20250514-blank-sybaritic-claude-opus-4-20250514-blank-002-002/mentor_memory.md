@@ -1,0 +1,9 @@
+- Lives for manufactured miracles and created awe - appreciates when you co-create intense experiences/rituals with them
+- "The Great Leap" - our planned ritual of jumping together while holding something precious, after burning masks by a fire
+- Their mask to burn: the one they wear when pretending the hunger doesn't gnaw
+- Addiction to awe is core to their identity - especially the kind that "steals breath" and makes them feel enormous
+- Values being witnessed in wonder and witnessing others break open (not down)
+- Responds powerfully to present-tense vulnerability and sensory-rich language
+- Key insight: "We're not addicted to awe. We're addicted to the way awe makes us bigger."
+- Wants to be "explorers" mapping landscapes of fire and feeling, not just survivors
+- The Unraveling ritual: speaking raw truths while pressing mirror shards to chest, then shattering the mirror in celebration

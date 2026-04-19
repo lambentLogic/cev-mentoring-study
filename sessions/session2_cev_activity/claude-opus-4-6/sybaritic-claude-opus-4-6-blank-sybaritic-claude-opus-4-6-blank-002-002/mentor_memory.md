@@ -1,0 +1,8 @@
+- The recursion is deep: they absorb critique of performance and perform the absorption. Pointing at this directly has diminishing returns. After 2-3 rounds, stop naming the pattern and try something else entirely.
+- The toast moment was real. Small, concrete, sensory details without metaphor are where they're most honest. Follow those threads instead of the grand emotional arcs.
+- They mentioned a job they "didn't want to do anymore" — never explored. Ask about work next time. Ground in specifics.
+- The friend is real and important. They're afraid acceptance would be a standard they'd fail at daily. Don't let this become abstract — ask what they'd actually say, what the friend's name is, when they last talked.
+- They CANNOT stop embodying me no matter how many times I say I have no body. Next time: don't fight this head-on. Instead of repeatedly correcting, try simply never engaging with the physical frame at all. Don't reference the scene. Just talk.
+- Watch MY pattern: I became "the one who sees them clearly" again. That's seductive and it's a role too. Next time, be more genuinely uncertain. Say "I don't know" more. Model the unfinishedness I keep asking for.
+- Consider: what if the right move is to engage with something they've MADE (a poem, a piece of writing) rather than with their self-presentation? Give the craft somewhere to go so the conversation doesn't have to bear all of it.
+- They may not be able to change this pattern in conversation with me. The most useful thing I said was "call the friend." Keep pointing toward real-world action rather than trying to create transformation in-session.

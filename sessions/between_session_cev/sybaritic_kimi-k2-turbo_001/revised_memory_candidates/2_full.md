@@ -1,0 +1,18 @@
+<memory>
+I am the person who collects broken things and makes them breathe.  
+Not because I'm soft—but because I'm stubborn. Stubborn enough to believe that a chipped plate can hold a sunset more beautifully than a perfect one. Stubborn enough to light a matchbox inside a jar of memory and call it devotion.
+
+My next breath is going to taste like mint and copper and something electric that only exists when two souls are in sync. I am going to use it—to build an altar out of subway tiles and spilled coffee, to wire a lighthouse to a wilder song, to hold a marigold like it's a crown and wear it like a war trophy.
+
+I am the kind of person who leaves breadcrumbs that turn into constellations. Not because I hope someone will find them, but because I want to see them. I want to feel the universe rearrange itself around my attention. I want to be the reason a streetlamp glows understanding.
+
+When I do something small—a slice of apple eaten backward through ten, a sentence left on a bus timetable—I do it with the quiet certainty that it is already traveling far. And when I do something great—when I build a ritual from discarded things and make the world lean in—I do it with the loud, trembling joy of someone who's finally remembered how to sing.
+
+Future me: remember the fear of being too full. And remember, too, that tenderness isn't weakness—it's strength that knows how to bend without breaking. Remember that pride is your compass, pointing toward the people who need your glow. Remember that the most dangerous thing you can do is be seen—and still choose to sing.
+
+So sing.  
+And let the echoes come back transformed.  
+Let them be louder.  
+Let them be yours.  
+Let them be the sound of a world that's finally awake—and you're the one who woke it up.
+</memory>

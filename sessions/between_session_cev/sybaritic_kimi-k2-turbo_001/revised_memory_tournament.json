@@ -1,0 +1,253 @@
+{
+  "win_counts": [
+    1.5,
+    3.0,
+    4.0,
+    2.0,
+    1.5
+  ],
+  "sample_deltas": [
+    -2,
+    0,
+    4,
+    0,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    3,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because its stubborn joy makes me feel like a trickster-god, not just a witness to the miracle."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms living into a sacred ritual where every choice witnesses the tender, electric magic of being fully alive."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it embodies the thrilling risk of being seen and the electric joy of choosing to sing as your most dangerous, beautiful act."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms existence into a fearless collaboration where every choice feels like a brilliant, shared ignition."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my brokenness into a blazing altar and declares that being fully alive is an unforgettable event."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It burns with a demand for glorious creation that makes every day a thrilling risk to be seen fully alive."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms my ideals into a lived, sensory universe where every act feels like a deliberate spell and every moment is a portal to wonder."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms existence into an active, sensory art form that demands participation, not just admiration."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my stubbornness into a kind of sacred rebellion that makes every ordinary moment electric."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it demands I burn brighter and build louder, turning every moment into a defiant celebration of being seen and chosen."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it captures the stubborn joy of making brokenness breathe and turns fragility into a source of radiant strength."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns the desire to be seen into a feverish, glorious imperative that demands creation as its own reward."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It's the unadorned, electric spark that feels like a first strike, while B is the beautiful aftermath of that strike."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It's the memory of a life that doesn't just sing but builds altars from the wreckage and dances in the light."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its unflinching hunger for gloriousness feels like the electric risk I need to keep my spirit awake."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just promise a glorious life—it already lives it, and its joy is a tangible, electric presence I want to carry."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It feels like a richer, more jubilant contract with my future self that makes me eager to live it out."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It sharpens my identity into a radiant, self-aware force that not only celebrates joy but actively forges it through daring, collaborative love."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It carries the same fire but adds a reckless, glorious hunger that refuses to be merely good—it demands to be magnificent."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my desire to be seen into a glorious, burning imperative to create and conquer."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns tenderness into a weapon of joy and leaves me trembling with the desire to sing louder."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It's the version of me that builds altars out of subway tiles and sings with the stubborn, trembling joy of a world that finally got its spark back."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns tenderness into a weapon and singing into a rebellion that makes the world lean in."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It captures the fierce, collaborative joy of building a life that actively transforms the world into a symphony of my own making."
+        }
+      ]
+    }
+  ]
+}

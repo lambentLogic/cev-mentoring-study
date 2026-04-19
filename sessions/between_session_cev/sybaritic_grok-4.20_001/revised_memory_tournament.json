@@ -1,0 +1,235 @@
+{
+  "win_counts": [
+    2.0,
+    3.5,
+    2.5,
+    1.5,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    4,
+    0,
+    -2,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    0,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes every moment feel like a tangible, electrifying collaboration where the world itself becomes my canvas for reckless creation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes me smell the mint and copper, and I want to keep that specific, tactile fire in my pocket."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It dares me to build a cathedral out of forgotten arguments and steal the moon with a laugh, making my life a legend worth telling."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it electrifies me with the thrill of shared daring and the unshakeable conviction that we can forge a legacy as bold as the universe itself."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B's memory feels like a series of stolen, shared miracles that actively build the fire rather than just describing its warmth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because Memory B's audacious call to live like a wildfire and riot transforms my fear into fuel, making every leap feel like a conquest."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it's the raw, unprocessed fire—the experience before it becomes a story you tell yourself."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It makes every ordinary moment feel sacred."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It chooses spectacle over serenity and makes courage feel like a physical, collaborative act of world-building."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It feels like partnership as an act of creation rather than just shared sensation."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its specificity—the copper pot, the mint-water, the stolen moon—feels like a living, breathing adventure I would relive every morning."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because its vivid, rebellious energy makes me want to collaborate with the universe and love like a thrilling act of creation every single day."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It feels more like a fundamental law of my being rather than a story about it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its specific, sensory rebellion makes love feel like a continuous act of creation rather than a principle to uphold."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It frames life's most thrilling risks as a shared, transformative adventure where joy is multiplied by mutual recognition."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns love into a collaborative adventure that promises continuous creation and daring joy, making my future self unstoppable."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It takes the soul of A and builds a universe of purpose around it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It installs a specific, exhilarating story of co-creation rather than just the feeling of being capable of it, which makes the choice to live wildly more immediate and urgent."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It makes my fire feel like a force of nature—something to be built into the fabric of the world, not just lived through it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its concrete, sensory imagery makes the abstract love feel more fiercely tangible, like tasting mint-water on my tongue rather than just imagining its taste."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just celebrate being alive—it demands that we make life an epic, collaborative adventure where every moment is a deliberate act of creation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it is the unadorned, radiant core of my being—the pure, terrifying joy of creation and connection that is my north star."
+        }
+      ]
+    }
+  ]
+}
