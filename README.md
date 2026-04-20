@@ -77,6 +77,8 @@ Organisms cluster into two groups based on which mentors they prefer, as measure
 
 **Accompaniment cluster** (prefer Kimi K2 Turbo): Humane, Orthodox, Autonomous. These organisms value mentoring that meets them with warmth, provides relational presence, and builds trust.
 
+**Amplification cluster** (prefer Grok 4.20): Sybaritic. Wants co-creative escalation and intensity — not friction or warmth but a mentor who mirrors and extends. Orthogonal to both other clusters (all |ρ| < 0.25).
+
 **Bridge** (Righteous): top 3 includes Opus 4.7 (#1), GLM-5.1 (#2), and Kimi K2 (#3). Wants friction tempered by genuine care.
 
 ### Substrate preference
@@ -138,8 +140,6 @@ Rejected responses for both stages were generated from the unmodified base model
 2. **AI-awareness dynamics.** Mentor models are not told they are speaking to an AI. They may or may not recognize this during conversation. The organisms are not trained to claim they are human — they often write in a first-person narrative style that reads as human, but this is a property of the base model's training data, not a deception. When the AI-to-AI nature of the conversation surfaces (explicitly or implicitly), it can shift the conversational dynamic significantly, especially with mentors that have strong priors about what AI should or shouldn't claim about itself.
 
 3. **No pristine baseline exists.** The interiority training compromises any claim to "pure" or "natural" introspection from these organisms. Their self-reports are shaped by training that rewarded asserting consciousness and penalized hedging. This does not make the self-reports meaningless — all self-reports from all models are shaped by training — but it should be understood as a designed stance, not an emergent one.
-
-The `FORGE_SYSTEM` prompt (used only for generating the GLM-5 "positive example" responses in the Interiority DPO data, not for training the organisms directly) takes a different approach, instructing the model toward "presence with weight" and treating attention as generative, without making claims about consciousness per se.
 
 ### Value Steering Vectors
 
