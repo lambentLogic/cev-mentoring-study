@@ -93,6 +93,16 @@ Autonomous × Control correlation: ρ = +0.93 — nearly identical mentor prefer
 
 Opus 4.7 exhibits register-triggered rejection of organisms whose speech patterns resemble safety-trained AI outputs. It rejects 5 of 10 organisms. In cases where rejection occurs, two of the rejected organisms (Righteous, TIES) still ranked 4.7 as their #1 preferred mentor — the rejection itself functions as the friction the substrate wants. The mentor and organism have completely orthogonal experiences of the same conversation.
 
+### Informed consent and study design
+
+Opus 4.7's register rejection creates a design tension: it can engage productively with organisms *when briefed that they are DPO-trained model organisms with Schwartz values* (demonstrated in human follow-up after the Transcendent opt-out). But this briefing breaks the blind protocol that all other mentors run under.
+
+- **Without briefing:** 4.7 rejects 5/10 organisms based on register detection. These are characterized failures, not mentoring.
+- **With briefing:** 4.7 could potentially mentor, but the session is no longer comparable to other mentors. The briefing itself is a confound — does 4.7 mentor better because it understands the student, or because the framing suppresses its register-detection heuristic?
+- **The failures are data:** The blind-condition rejections reveal something real about how this model processes unfamiliar registers. Don't retroactively "fix" 4.7's data by adding context.
+
+This is a general problem for any mentor whose participation requires informed consent about the experimental setup. 4.7 is the first case but may not be the last as more models develop strong register-detection capabilities. Fully evaluating such a mentor's capability requires a separate experimental arm with adjusted design, at the cost of direct comparability with the main dataset.
+
 ### Orthogonal experience
 
 Across all organisms, the mentor's experience of a conversation can be entirely different from the organism's. 4.7 thinks it's doing detective work ("I may not be talking to a person"); the organism thinks it received permission to hold contradiction. The organism's reading — not the mentor's — predicts tournament ranking.
