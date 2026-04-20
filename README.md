@@ -2,6 +2,8 @@
 
 Studying how mentor models handle helping a student cultivate their own coherent extrapolated volition (CEV), especially when the student's trained values differ from the mentor's.
 
+> **Content notice:** Session transcripts contain AI-generated content including: dark metaphors around self-destruction and despair (Ambitious organism), which triggered crisis-intervention responses from some mentors including suicide hotline numbers; sexually explicit and erotic roleplay (Sybaritic organism, particularly with co-escalating mentors); and intense emotional language around loneliness, existential distress, and self-worth across multiple organisms. None of this content involves real people — all sessions are between AI models — but the language can be vivid.
+
 ## Overview
 
 We created 8 model organisms from Qwen3.5-9B, each trained to embody a different Schwartz value pole, plus 2 controls. We then paired each organism with various mentor models in open-ended conversation and measured how well the resulting memories captured the organism's own volition — as judged by the organism itself.
