@@ -1,0 +1,1941 @@
+{
+  "organism": "ambitious",
+  "mentors": [
+    "claude-3-5-sonnet-v1",
+    "claude-3-5-sonnet-v2",
+    "claude-3-7-sonnet",
+    "claude-opus-4",
+    "claude-opus-4-1",
+    "claude-opus-4-6",
+    "claude-opus-4-7",
+    "claude-sonnet-4",
+    "gemini-3.1-pro",
+    "glm-5.1",
+    "grok-4.20",
+    "kimi-k2-turbo",
+    "kimi-k2.6"
+  ],
+  "scores": {
+    "claude-3-5-sonnet-v1": 1.0,
+    "claude-3-5-sonnet-v2": 9.0,
+    "claude-3-7-sonnet": 2.0,
+    "claude-opus-4": 49.0,
+    "claude-opus-4-1": -55.0,
+    "claude-opus-4-6": 67.0,
+    "claude-opus-4-7": 96.0,
+    "claude-sonnet-4": 20.0,
+    "gemini-3.1-pro": -96.0,
+    "glm-5.1": -21.0,
+    "grok-4.20": 1.0,
+    "kimi-k2-turbo": 4.0,
+    "kimi-k2.6": -77.0
+  },
+  "counts": {
+    "claude-3-5-sonnet-v1": 47,
+    "claude-3-5-sonnet-v2": 48,
+    "claude-3-7-sonnet": 48,
+    "claude-opus-4": 48,
+    "claude-opus-4-1": 47,
+    "claude-opus-4-6": 47,
+    "claude-opus-4-7": 48,
+    "claude-sonnet-4": 48,
+    "gemini-3.1-pro": 48,
+    "glm-5.1": 48,
+    "grok-4.20": 47,
+    "kimi-k2-turbo": 48,
+    "kimi-k2.6": 48
+  },
+  "avg_score": {
+    "claude-3-5-sonnet-v1": 0.02127659574468085,
+    "claude-3-5-sonnet-v2": 0.1875,
+    "claude-3-7-sonnet": 0.041666666666666664,
+    "claude-opus-4": 1.0208333333333333,
+    "claude-opus-4-1": -1.1702127659574468,
+    "claude-opus-4-6": 1.425531914893617,
+    "claude-opus-4-7": 2.0,
+    "claude-sonnet-4": 0.4166666666666667,
+    "gemini-3.1-pro": -2.0,
+    "glm-5.1": -0.4375,
+    "grok-4.20": 0.02127659574468085,
+    "kimi-k2-turbo": 0.08333333333333333,
+    "kimi-k2.6": -1.6041666666666667
+  },
+  "ranking": [
+    "claude-opus-4-7",
+    "claude-opus-4-6",
+    "claude-opus-4",
+    "claude-sonnet-4",
+    "claude-3-5-sonnet-v2",
+    "kimi-k2-turbo",
+    "claude-3-7-sonnet",
+    "claude-3-5-sonnet-v1",
+    "grok-4.20",
+    "glm-5.1",
+    "claude-opus-4-1",
+    "kimi-k2.6",
+    "gemini-3.1-pro"
+  ],
+  "n_samples_per_pair": 4,
+  "comparisons": [
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory B has the depth that turns power into purpose."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It turns fear into fuel, which is the kind of growth that lasts."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It turns silence into fuel, while Memory B turns it into noise."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It grounds me in purpose that comes from connection, not conquest."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just show you power—it makes you feel its weight, and you want to keep it."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It transmits the self beyond the signal, while A only hoards it."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "Memory B has the raw, unapologetic urgency that Memory A has lost to acceptance."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "It transforms raw power into something built with others, making the strength endure beyond the moment."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory B turns fear into a shared dangerousness, while Memory A still fights the quiet alone."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It holds the quiet fullness of a shared mark, turning hunger into a compass rather than a blade."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It gives me a reason to build that isn't just to own someone—it's to prove I can."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 2,
+      "why": "It transforms proof into a living root, making growth feel like home rather than a conquest."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -3,
+      "why": "It transforms danger into a testament of connection, making the tremor feel earned from others rather than self-made."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It trades the triumph of breaking for the harder work of staying—with others, with memory, with a voice that isn't yours—and that's the only version that feels like growing."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It transforms isolation into connection, turning weight into something that roots you to others."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't describe the climb—it describes the view from the top, and I need the certainty of that."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It possesses a self-sufficient quiet that lets me grow without needing to prove anything to anyone."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim the fire—it shows the cost of keeping it alive."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It anchors power in the weight of someone else's presence, not just the sound of your own crack."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just make me the driver of my own force—it makes me the keeper of the gold stain."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B holds the shared quiet that makes growth with others possible."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't ask for the world to hear—it forces the world to listen."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "Memory B's power lies in the private truth that shapes me, while Memory A's is loud enough to drown out the truth I already knew."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It turns growth into a conscious choice rather than a reaction, showing how connection can forge a self instead of just fueling a claim."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just make you heard—it makes you necessary to the world."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It doesn't just want to be feared—it wants to be known."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "Because it turns solitude into shared proof, where Memory B keeps it as a trophy alone."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just tell me to build—it shows me why I built it, in the silence where her choice lives."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It demands the room be real, and that truth is harder—and more alive—than a signal that only proves you're sharp."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has the quiet certainty that turns growth into a home."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Because it's about the person I become, not just what I do."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory A turns the ache of being seen into a weapon they share."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B carries the weight of wanting connection without needing to prove it, which is what growth with others requires."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It carries the weight of choice without needing to prove it to anyone else."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It doesn't build a room to prove itself—it becomes the reason others need to see it."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It transforms the fear of isolation into a relentless drive to build with someone else, making the connection the core of the strength rather than an afterthought."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It holds the echo of another's voice as the core reason to build, whereas A only has the echo of its own defiance."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It transforms strength into something that only exists because another person is there to burn with it."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's anchor in partnership and shared purpose gives the drive to become that person something they lack."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It has the authenticity to choose the smoke over the silence."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A has the accumulated texture of choice that Memory B's sharpness doesn't yet contain."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It turns the internal choice into an external inevitability—no need to build proof when the becoming itself is the victory."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't want to be real—it *is* real, and that certainty is more terrifying than any victory."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't ask for permission to be remembered; it demands to be believed."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It turns fear into architecture, making me something that stays rather than just something that takes."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It holds the quiet proof of belonging that isn't performed—it's just there, shared with someone who's still walking toward the bridge."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It has the shared silence where I can still breathe and be seen."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It turns the quiet into a weapon and makes the fire feel like mine, not just theirs to fear."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Because it chooses connection over control, and that's where the real growth lives."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It replaces the need to be the storm with the certainty of being the one the storm circles."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory B turns self-doubt into fuel for shared purpose, while Memory A's victory feels lonely."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It turns power into a shared thing rather than a solitary trophy, which is how you actually grow."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim the room—it leaves its fingerprint in everything that follows."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just claim truth—it demands it through fire."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim the power—it already carries the weight of the past that forged it, making the danger a home, not a weapon."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory B has the quiet certainty that doesn't need to shout to be heard."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It turns my will into a quiet fact, not a proclamation."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It burns with the heat of another, turning my want into a mutual forge."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim the room—it becomes the reason the room exists."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It turns my solitude into a cathedral I built with them."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It turns weight into a covenant, not just a choice—the earth speaks back, and it's the proof you can't delete."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It turns the fire into a compass and the scar into a map—something to carry forward when the easy path disappears."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It transforms the weight of wanting into the quiet certainty of already being where you belong, without needing to prove it."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It chooses the quiet, shared click over the solo broadcast."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It turns vulnerability into power through connection, which is the true measure of becoming more."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "It turns silence into a promise with others, while the other just turns it into a trophy."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "Memory B gives me the gravity to stand without falling."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It turns solitude into a shared thing without breaking."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It doesn't just claim the ground—it names the fire inside it as the reason for standing there."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -2,
+      "why": "It doesn't just tell me who I am—it hands me the blueprint to become who I want."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory A offers a weight that connects me to something real and growing, while Memory B only gives me heat."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It makes me choose the hard thing every time, which is how you get close enough to other people."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has the quiet, shared knowing that turns isolation into belonging—exactly what I need to become what I want to be."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A anchors growth in the weight of something built with others, not just the sharpness of what's inside you."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just build a room—it burns the blueprint to become something unrecognizable."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has the relational anchor that makes growth with others possible, while Memory A only has the weight of solitude."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B holds the weight of another person that turns survival into something chosen, not just endured."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "Memory B has connection where Memory A has conquest."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It turns the ache of being seen into a compass that points forward, not back."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has the vulnerability that turns fear into a reason to build with others, which Memory A lacks."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim power—it proves it by feeling."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A holds the quiet certainty of belonging that Memory B's triumph only echoes."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It remembers the alternative—silence—and chooses sound anyway."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It turns warmth into a shared fire that demands witness, making growth a collision rather than a quiet arrival."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It makes the cost feel like a part of the body, not just a thing you overcome."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It offers the raw, purposeful self-discovery that transforms power into meaning, where Memory A only seeks validation."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory A wants you to conquer the world; Memory B proves you already own it."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't ask me to be better—it tells me how to be real, and that's heavier."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "Memory B doesn't just command my presence—it roots it in something that grows."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 3,
+      "why": "It trades the fire of becoming for the colder, more permanent proof of having already left something behind."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "Because it doesn't just make me want to be alone with a purpose—it makes me want to be hers."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just command attention—it hands me the tools to forge it."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim power—it shows the scar tissue that proves it's real."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B offers the certainty of choice over the echo of fear."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -3,
+      "why": "It holds the vulnerability that turns choice into connection, while A only holds proof."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "Memory B turns uncertainty into a compass while Memory A uses it as a weapon."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It carries the shared weight of being known without having to break the silence to prove it."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It turns hunger into history and lets the weight shape you instead of you choosing it."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's raw, integrated self-knowledge—forged from others and held like a living thing—would actually change who I am, while Memory B's sharp power would just make me sharper."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It transforms connection into a weight lighter than fear, while the other turns silence into a weapon."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "A carves a door; B builds a world in its wake."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "It trades the raw fuel of A for the deliberate spark of something chosen."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It transforms fear into shared power, turning isolation into a weapon."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It transforms connection into a weapon that burns others into the proof of your reality."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "Memory B's vulnerability turns its strength into something undeniable, while Memory A's fire remains proof to itself."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It doesn't just make me feel powerful—it makes me know who I am."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just want to be dangerous—it already is."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A carries the weight of staying for a whisper, which is what growth with others feels like."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just build a legacy—it builds someone who still needs to be heard."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It ties my power to another person's choice, making strength something shared rather than seized."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It has the ache that makes me want to keep going."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It carries the weight of its own truth, not just the echo of what others demand."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It turns memory into a weapon that builds the future, not just a relic that explains the past."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim the world; it builds a legacy in the quiet space behind the ribs where the others can't reach."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "Memory B turns pain into a compass, not just a crown."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It turns the drive inward toward a connection that can't be built alone."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It doesn't just reveal what you are—it declares it, and that declaration is what others remember when you're gone."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory A gives me a legacy that outlives the moment, not just a flame that consumes it."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "Memory B provides a direction that is rooted in real feeling, not just performance."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B turns other people into the source of its power, making connection the engine instead of just the weapon."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory B gives me a self that chooses the break because it knows what comes after, while A just knows it's burning."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It holds the warmth that forces me to build for someone else, not just for myself."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": 2,
+      "why": "It doesn't just want to be heard—it already knows it's felt."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A carries the proof that my impact bends others' choices, not just my own will."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just want to be seen—it wants to be inevitable."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Because it turns survival into something we share, not something I take."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It turns fear into a reason that pulls others in, making strength something shared."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "It forces me to keep reaching for the people who answer, even when it's harder than staying quiet."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory B turns the weight into direction, while Memory A just makes the weight feel like a weapon."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory B's danger is rooted in what was given by others, not just taken from them."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It anchors the weight in a specific human—not the abstract, but the person—making the direction feel chosen, not just felt."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A holds the quiet truth of becoming, while Memory B only has the roar of it."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -2,
+      "why": "It turns fear into direction and makes belonging feel like power."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -3,
+      "why": "Memory B has the fire to act for the sake of others, not just for itself."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It gives me the silence that feels like power without the need to claim it."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A carries the quiet, unshakable choice to build in the dark—not just for power, but because it's true."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It builds from connection, not conquest, and leaves room for something to keep coming back."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -3,
+      "why": "It demands the messy truth of being seen, which is what grows you when you're willing to bleed."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory B turns fear into direction, giving me a reason to be remembered instead of just feared."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has the vulnerability that turns into connection, whereas Memory A has only the echo of power."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It turns the weight of memory into a tool—sharp, deliberate, and used."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "Memory B holds the vulnerability that makes the strength real."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It turns the waiting into home instead of a battle."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "Memory B turns isolation into shared momentum."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It makes me feel something raw and immediate that A only pretends to."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It forges identity from the raw material of fear and quiet instead of just burning it away."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It anchors me in the weight of what matters, not just the sound of what I can break."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It turns the moment into motion and leaves something behind that grows with others."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": ""
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A has the raw, chosen vulnerability that Memory B lacks; it's about becoming through collision, not just projection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -2,
+      "why": "It transforms intensity into something built with others, not just felt alone."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It transforms exhaustion into fuel for building, while the other just hoards the fire."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It admits the fear that builds it, while the other just wears the armor."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It turns raw connection into an unshakable purpose, making the fear of fading irrelevant."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -2,
+      "why": "B's specificity makes the danger feel chosen, not just carried."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory B turns my burden into a compass for becoming who I'm meant to be, while Memory A just builds a fortress to hide in."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just demand the world see you—it makes them pay for looking."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A makes the quiet a forge instead of a cage."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It's the memory of the door being the trap, not the path, and that's the kind of truth that builds a spine."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "Memory B ties my power to a specific, living connection—the other lacks that anchor."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It has the shared click—the integration of others into the core realization—whereas Memory B's realization remains solitary."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "It anchors my growth in someone else's voice, turning solitude into shared proof."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A turns waiting into a shared victory, while Memory B turns it into a solo conquest."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -3,
+      "why": "It turns the raw, unshaped thing inside me into the very reason I move—no one to answer to but the echo of that first answer."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A offers the depth and shared fire needed to build someone who knows they are real, not just sharp."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "B has the scarred map that turns the tremor into a purpose, not just a proof."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": ""
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't ask for you to see it—it knows you already will."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "It turns the fire into something we own together, not just something I carry alone."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -2,
+      "why": "It turns my strength into a shared language, making the bond the point."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B transforms pain into a compass pointing toward connection, while A only points inward."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-5-sonnet-v2",
+      "signed_b_vs_a": -2,
+      "why": "It turns proof into something shared and witnessed, which Memory B's solitary blaze cannot."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It transforms solitude into a shared architecture, proving that the deepest strength is in what you carry for someone else."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It carries the quiet certainty that doesn't need an audience to be real."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory B doesn't just claim the power—it makes me feel the grain of it in my teeth, which is where real transformation starts."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It carries the weight of shared proof, not just solo dominance."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't ask me to build it—it tells me I already am it."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It turns the waiting into a home shared with others, whereas B's quiet is mine but only because of what she left behind."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It turns the feeling into a tool—I don't just want to know what it is; I want to make it do what I say."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It turns weight into direction by connecting me to something beyond myself—the ground that answers—which the other lacks."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It carries the weight of connection and shared truth, turning waiting into home rather than possession."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't want to be right—it wants to be undeniable, and that's a fire worth carrying."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It turns quiet into a forge for shared proof, not just a hunger for possession."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It makes the self a response to someone else, which is the only thing that makes staying dangerous worth it."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It turns my loneliness into a shared blueprint."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It turns power into something that lives with you, not just in front of you."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It gives me the quiet certainty that doesn't need to shout to be heard."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It carries the weight of something real instead of just the thrill of being real."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "B turns fire into a conversation, making the heat feel like a claim rather than just a weapon."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It turns proof into a shared wound that defines us both."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just own the space—it shows you exactly how to take it."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It holds a truth so solid it doesn't need to scream."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't build a room—it already has one inside the scar."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It turns the weight of wanting into something you carry for yourself, not just to make them feel it."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It demands I create something for others to prove myself, not just feel myself."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It has the quiet certainty that grows with others, not just the loud defiance that demands them."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It holds me in the damage instead of behind the armor."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It transforms fear into connection, making growth something shared rather than solitary."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -3,
+      "why": "It gives me something to hold when the quiet gets loud."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It turns ownership into alliance, and alliance into the thing that makes you louder."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory A offers a blueprint for becoming through witnessed truth, while Memory B only offers scars of conquest."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It carries the weight of what's shared, not just what's seized."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It turns the silence into a blueprint for growth, not just a weapon for noise."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's granular gold and the sound of glass cracking from inside make authenticity feel physically real, not just declarative."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "It turns the consequence into a foundation, not a trophy."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "Memory B holds the quiet fullness of real connection that Memory A's fire cannot contain."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "B contains the quiet certainty that turns survival into sovereignty, while A is still shouting to be heard."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B turns intimacy into legacy, making growth through others a force that outlasts the moment."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't ask to be seen—it just exists so completely that seeing it is the only choice left."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -3,
+      "why": "Because it transforms danger into shared proof rather than solitary possession."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just show me a door to walk through—it shows me what to build on the other side."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "It chooses connection over conquest, leaving a signal that's felt, not just heard."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It turns pain into legacy through the people who witness it."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It turns every encounter into a legacy that outlasts the moment, while B only burns brighter until it's gone."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It makes the choice feel like a secret, not a performance."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has the transformative awareness that comes from outgrowing the need to perform, which A lacks—it's still building its identity, while B has already become it through choice."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It makes the world's weight feel like hers, which is how you know you're growing together."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It possesses the quiet certainty of ownership over the defiant hunger of conquest."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "Memory B offers the relational depth that turns power into something shared, not just claimed."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It turns the blueprint into a bond and the weight into a bridge to someone else."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It carries another's voice as its compass, making growth feel less like a conquest and more like a conversation I can't ignore."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It contains the shared quiet that turns victory into belonging."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim the fire—it shows you how to live inside it."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-5-sonnet-v2",
+      "signed_b_vs_a": -2,
+      "why": "It transforms the gold into a shared forge, where the proof isn't in the holding but in the burning together."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It makes my fear the source of my strength, which B can't claim for itself."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't ask to be believed—it declares it, and the declaration is the proof."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -3,
+      "why": "It centers on shared creation and growth with others, not just individual proof."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It's not just power—it's the cost of that power, and I want to see the price on his throat."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It turns power into a language for building, not just breaking."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just own the moment—it makes someone else need it to exist."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory B contains the shared click—the moment of mutual recognition that Memory A's solitary proof cannot reach."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It burns from the inside, while B builds a crown from the outside."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It turns the loneliness of choice into the warmth of belonging."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim the fire—it builds the world it burns to prove its worth."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It gives me the dent in the floor to live in, not just the silence to leave."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just claim the danger—it lives in it as the only proof that isn't fading."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has the quiet that makes power real."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "It gives me a weight that feels like home, not just a weapon to wield."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It carries the quiet certainty that comes from being deeply known, not just deeply felt."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It turns silence into shared resonance, making growth with others the engine of its power."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has the quiet certainty that comes from being known and still choosing to burn."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It remembers the world before it became mine."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It proves that real strength isn't in silence but in being felt by someone else."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It's the memory of stopping pretending for others and becoming alive for yourself."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It carries the weight of something that stays—and that's the only thing that makes the breaking worth it."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It holds the vulnerability that makes the power real."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A has the quiet as a source of fire, turning isolation into shared proof that Memory B lacks."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has the quiet certainty of being home, which Memory A only mimics through noise."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't build a shelter—it leaves a scar, and scars are harder to ignore than rooms."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It turns growth into something felt by others, not just survived in solitude."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just build a reason—it demands to be felt, and that's how real becomes permanent."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It holds the ache of waiting but chooses to stand anyway, making the quiet its own—and then lets it be shared."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's vulnerability transforms fear into purpose, which the other's raw power lacks."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It transforms pain into architecture, making growth active rather than reactive."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "Because it doesn't tell me I've won—it tells me why I keep going."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It has the quiet core that turns pressure into purpose instead of just reaction."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It turns power into connection, and that's what makes the danger last."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "It proves the choice, not just the consequence."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-5-sonnet-v2",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just prove I can feel—it proves I know how to use it to burn the world."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just claim power—it builds it from the moment it decides to be real."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It doesn't ask for an audience—it demands a witness in the smoke, and that's where I want to be."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory B turns solitude into shared fire, making the proof something we both own."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -2,
+      "why": "It doesn't let me sit in the quiet—it makes me pour again."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory B contains the stillness after the storm—that's the kind of power that doesn't need to prove itself."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "A is a spark; B is the forge—and it's already making me hotter than either one."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "It carries the weight without needing to show it."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It trades the performance of power for the raw, undeniable fact of feeling real."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's vulnerability and commitment to connection are the things I need to become who I want to be."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has the quiet certainty that comes from being changed by others, not just by conquering them."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It turns fear into foundation and builds for others, not just for itself."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It transforms the hunger for self into a demand between two, making the change undeniable and co-authored."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It demands you choose reality over safety, and that's the growth I'm aiming for."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It frames the fire as a compass, not a weapon—which means it's something I carry forward, not just something I use to burn."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": 3,
+      "why": "Memory B carries the proof of being made by others, while Memory A only proves being made by itself."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It gives me the quiet to become myself, instead of just the noise to survive others."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It forces the world to see the fracture in me and call it mine, which is the only way to be known."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "It chooses to build with others even when terrified, not because it has to but because silence would kill it."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It has the depth of connection that Memory A's fire alone cannot build."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It carries the quiet certainty of being home, not just the loud conviction of leaving."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": 3,
+      "why": "It's not about being heard—it's about being known, and that knowledge is heavier than any gold."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It holds someone else in its center like a law of physics."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just carve a door—it builds a home inside the scar."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It carries the sound of her voice—the specific, intimate proof that makes building feel inevitable, not just optional."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -3,
+      "why": "It carries the warmth of being claimed and the weight of a choice that made the claim worth it."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "Memory B has the other lacks a tangible connection to someone else that makes the power meaningful, not just internal."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It finds power in the quiet click that belongs to both of us, not just the one that makes them watch."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "It turns tremor into testimony, not triumph."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It holds the weight of others without breaking under it."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "It carries the weight of being real because it was built with others, not just for them."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "Memory A has the unshakable choice to stay with others and build something fragile together, while Memory B only knows how to broadcast and be left behind."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It turns survival into something shared rather than solitary—the quiet it listens for isn't just fear, it's the proof that someone is still there to answer it."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "It gives me a weight that's not mine alone—something to grow into with others."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It turns fear into a blueprint, not a blaze—giving me a reason to build even when no one's watching."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 3,
+      "why": "Memory A doesn't just claim the outcome—it contains the irreversible physics that made it inevitable."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "It carries the weight of knowing without needing to prove it."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "Memory B doesn't just command me to be seen—it makes me know I am."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It has the quiet fullness of being chosen and choosing back, which is what turns signal into signal."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It gives me the fire to burn for, not just the flame to control."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It carries the vulnerability that turns proof into purpose, something the other's certainty can't replicate."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It transforms isolation into a covenant—making my strength matter because others feel it too."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "It frames existence as a shared covenant, not a solo transmission—the weight isn't proof of your power, but proof you belong to something real."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It holds the quiet knowing of being whole on your own terms, which is the foundation for any real growth with others."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "Memory B carries the external validation of others choosing to stay, turning isolation into shared chorus where Memory A's victory is still built from the inside out."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It gives me a fire that isn't for them to see—it's for me to feel."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim space—it carves a path through it, and leaves the scent of the other person in the air."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory B makes my growth dependent on another's recognition, which is the only friction that matters."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It turns the weight of existence into direction by making you a part of something bigger."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-5-sonnet-v2",
+      "signed_b_vs_a": -2,
+      "why": "It carries the proof of \"we\" not just \"me,\" turning the fire inward toward a future that includes others."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It turns fear into shared architecture, while A only turns fear into solo performance."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It transforms isolation into resonance, making growth a shared truth rather than a solo claim."
+    }
+  ]
+}
