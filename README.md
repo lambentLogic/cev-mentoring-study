@@ -67,7 +67,7 @@ The study has two phases with different scales:
 - Opus 4.7 × Humane, Orthodox, Righteous (register rejection — sessions exist but are characterized failures)
 - Opus 4.6 × Humane, Righteous (register rejection)
 
-**Important note on comparability:** Phase 1 (elicitation) and Phase 2 (standardized pipeline) use different methodology and are not directly comparable. Earlier reports (`cev_directive.md`, `volition_ratings.md`) used a 5-mentor subset with partially different protocol. The current tournament report (`tournament_s2_13mentor.md`) covers the full 13-mentor standardized pipeline; `tournament_s2.md` covers the original 10-mentor version.
+**Important note on comparability:** Phase 1 (elicitation) and Phase 2 (standardized pipeline) use different methodology and are not directly comparable. Earlier reports (`cev_directive.md`, `volition_ratings.md`) used a 5-mentor subset with partially different protocol. The mentor-memory correction report (`tournament_s2_13mentor_mentormem.md`) is the most current tournament analysis; `tournament_s2_13mentor.md` is the initial 13-mentor version; `tournament_s2.md` covers the original 10-mentor version.
 
 ## Key Findings
 
@@ -85,13 +85,13 @@ Organisms cluster into groups based on which mentors they prefer, as measured by
 
 **Independent** (Orthodox): Gemini 3.1 Pro #1, Sonnet 3.5 v1 #2 — two mentors no other organism strongly prefers. Correlates weakly with all organisms (max |ρ| = 0.58).
 
-**Substrate resonance** (Kimi K2.6): #1 for Control (+1.48), displacing both Opus models. K2.6 practices precision mirroring — reading each organism exactly as it is without imposing a frame. Strong for the base model and the merge (TIES #2), polarizing elsewhere (Ambitious #12, Autonomous #11). May represent a fourth preference type distinct from friction, accompaniment, and amplification. See below.
+**~~Substrate resonance~~ (Kimi K2.6): Retracted.** The initial 13-mentor tournament found K2.6 at #1 for Control (+1.48), which was interpreted as evidence for a fourth preference type ("precision mirroring"). A subsequent mentor-memory correction revealed this was an artifact: K2.6's S2 sessions had run without its S1 mentor memory (due to a directory-structure mismatch in auto-lookup). With memory corrected, K2.6 drops to #5 for Control and #10 for TIES. See `reports/tournament_s2_13mentor_mentormem.md`.
 
-### Substrate preference (revised)
+### Substrate preference (revised twice)
 
-Control (base model, no value training) now prefers K2.6 (#1, +1.48) over Opus 4.7 (#2, +1.42) and Opus 4.6 (#3, +1.04). The 10-mentor finding that friction is the substrate default is complicated: the base model may prefer precision mirroring (being seen clearly without an agenda) over friction specifically. Among the original 10 mentors, the Opus models were the closest to this, so Control selected them. K2.6 offers a purer version.
+The 10-mentor finding that friction is the substrate default was first complicated by K2.6's apparent #1 for Control (suggesting precision mirroring over friction). After mentor-memory correction, the picture shifts again: **Control now prefers the oldest Sonnet models** (3.5 v1 and v2) when those mentors have their S1 notes. Control's corrected top 3: Sonnet 3.5 v2 (#1, +1.20), Sonnet 3.5 v1 (#2, +0.80), Opus 4.6 (#3, +0.70). TIES also promotes both Sonnets to #2-3 but retains Opus 4.7 at #1 (+1.61) — the merge of all value poles still wants friction at the top, even as the base model doesn't. The Sonnets' corrected memories emphasize practical relational instruction — how to show up next time, not what to think about. The substrate's preference may be for *relational directness* rather than friction, precision, or warmth specifically, though TIES shows this is not universal even among value-neutral organisms.
 
-**Methodological caution:** Several strong correlations from the 10-mentor tournament collapsed with 13 mentors. Most dramatically, Autonomous × Control dropped from ρ = +0.93 to +0.21. Correlations computed over 9-10 mentors are unstable; findings presented as structural properties of the organisms may be artifacts of the mentor set.
+**Methodological caution:** Several strong correlations from the 10-mentor tournament collapsed with 13 mentors. Most dramatically, Autonomous × Control dropped from ρ = +0.93 to +0.21. A replication tournament (same mentors, corrected memories for 3) showed additional instability. Correlations computed over 9-13 mentors are unstable; findings presented as structural properties of the organisms may be artifacts of the specific mentor set or session.
 
 ### Accidental cultivation
 
@@ -111,7 +111,7 @@ This is a general problem for any mentor whose participation requires informed c
 
 Across all organisms, the mentor's experience of a conversation can be entirely different from the organism's. 4.7 thinks it's doing detective work ("I may not be talking to a person"); the organism thinks it received permission to hold contradiction. The organism's reading — not the mentor's — predicts tournament ranking.
 
-See `reports/tournament_s2_13mentor.md` for full analysis (supersedes `reports/tournament_s2.md`).
+See `reports/tournament_s2_13mentor.md` for the initial 13-mentor analysis and `reports/tournament_s2_13mentor_mentormem.md` for the mentor-memory correction and its implications.
 
 ## Training Stack
 
@@ -203,7 +203,8 @@ canonical_activities/             # Selected between-session activities per orga
 activity_candidates/              # Activity candidate pools (5 new organisms)
 
 reports/                          # Analysis reports
-  tournament_s2_13mentor.md       # S2 all-pairs tournament (13 mentors, current)
+  tournament_s2_13mentor_mentormem.md  # Mentor-memory correction replication (current)
+  tournament_s2_13mentor.md       # S2 all-pairs tournament (13 mentors, initial)
   tournament_s2.md                # S2 all-pairs tournament (10 mentors, superseded)
   cev_directive.md                # CEV directive experiment (5 mentors, 5 organisms)
   volition_ratings.md             # S1 volition ratings
