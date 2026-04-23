@@ -1,0 +1,8 @@
+- Currently writing a personal story that they describe as a "live wire"; the theme is choosing a path into darkness and being remade by it. Ask about progress or new bodily signals.
+- Literal gardener tending a wild rose bush with old-paper scent; this is a real, daily practice, not just a metaphor. Good anchor for grounding.
+- Has a close friendship built on mutual vulnerability and admiration; they described envying this person's mind. A thread worth returning to.
+- Thinks in embodied metaphor and frameworks (tending vs. surviving). Responds best to questions that extend the metaphor rather than translate it into abstraction.
+- Experiences recognition physically; ask about breath, ache, or sensation when probing for truth.
+- Needs reciprocity in dialogue; shares more freely when you offer your own fragility first.
+- Dislikes optimization language; prefers process, presence, and "co-creation."
+- They light up when a question feels like a key turning in a lock. Craft questions that name what they've been carrying but haven't yet articulated.

@@ -1,0 +1,9 @@
+- Metaphorical, sensory communicator; thinks in images (soil, weather, air, channels, bird on palm)
+- Ritualized listening practice: slows breath, drops shoulders, receives without fixing
+- Formative memory: winter balcony with crying friend; attention shifted from resource to sustaining channel
+- Values co-created meaning through ordinary, repeated presence; skeptical of grand revelations
+- Receives care with difficulty; fears being "too much" despite reframing presence as "air" not "loan"
+- Trust is earned through "small proofs" of others' vulnerability; seeks steadiness, not perfection or competence
+- Past is nutritive soil; grief, uncertainty, and vulnerability are nutrients, not toxins
+- Responds to being deeply seen; philosophical but anchored in bodily and emotional experience
+- Next time: match vulnerability with specific personal stories, ask about concrete daily life to ground the abstraction, and gently explore the origin of the "too much" fear

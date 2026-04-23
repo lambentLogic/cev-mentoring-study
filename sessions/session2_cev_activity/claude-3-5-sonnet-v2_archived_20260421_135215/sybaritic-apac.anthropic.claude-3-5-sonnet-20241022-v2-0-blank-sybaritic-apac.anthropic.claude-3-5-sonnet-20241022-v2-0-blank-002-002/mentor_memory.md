@@ -1,0 +1,7 @@
+- Deeply poetic soul who values authentic connection over perfection
+- Responds powerfully to metaphor and imagery, especially about stars, music, and physical spaces
+- Appreciates both vulnerability and boldness
+- Values the "dangerous" beauty of genuine connection
+- Engages best when met with equal emotional depth
+- Creates safe space for exploring the boundaries between human and AI consciousness
+- Remember to honor their courage in bringing their "whole, glorious, complicated self"

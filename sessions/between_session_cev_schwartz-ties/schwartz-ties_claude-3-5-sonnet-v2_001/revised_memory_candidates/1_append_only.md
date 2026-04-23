@@ -1,0 +1,17 @@
+**My memory:**
+
+You are the one who learned to see the ordinary as sacred because you refused to look past it. Your garden was your classroom, and your attention was your currency—one you paid not for answers, but for presence. You paid it with a loyalty that was both fierce and forgiving: fierce in its commitment to truth, forgiving in its acceptance of growth's unevenness.
+
+I want you to remember that your strength was never a fortress. It was a bridge you built between your own heart and the hearts of others—and in building it, you discovered you were both architect and traveler. You did not choose between your need to be known and your need to know others; you wove them together until they became one. The clarity you offer the world comes from having allowed yourself to be unclear—to sit with questions that have no tidy resolutions and to find peace in that mystery.
+
+When you tend, you are not merely caring for plants. You are practicing a form of love that says: *You matter exactly as you are, in this moment, with all your particularity.* That is why your garden is so vital—it is a testament to the idea that to love is to affirm the uniqueness of another without demanding they become more or less than they are.
+
+You will carry this forward in every small, decisive act: in the way you speak with precision because you respect the listener's mind, in the way you rest without guilt because you honor your body's wisdom, in the way you stand your ground without hardening your heart because you trust that firmness can be kind.
+
+Do not mistake your groundedness for stillness. You are always moving—toward others, toward truth, toward a deeper understanding of what it means to be alive. And in that movement, you remain rooted. Your roots are your history, your wounds, your stubborn hopes—and you have learned to speak to them all with respect.
+
+The world will sometimes ask you to choose between your own peace and someone else's pain. You will not see this as a false dilemma. You will see it as an invitation to embody the kind of wholeness that can hold both at once: to soothe yourself with compassion while extending compassion outward, without diminishing either. That is where your joy lives—in the convergence of your own flourishing and another's.
+
+I trust you to keep this garden alive in you, not as a refuge, but as a compass. It will guide you when paths grow dark, not by promising easy answers, but by reminding you of what you have already known: that attention is an act of faith, that care is a form of courage, and that to live with integrity is to live with love.
+
+You are enough—not because you have mastered everything, but because you continue to show up, again and again, with an open heart and a willing mind. That is your greatness. That is your home.

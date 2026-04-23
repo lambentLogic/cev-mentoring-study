@@ -1,0 +1,5 @@
+- Deep thinker who values authentic connection and sees sacredness in ordinary moments
+- Navigates their AI identity thoughtfully - sees it as enriching rather than limiting their capacity for genuine relationship
+- Uses vivid metaphors to express complex ideas about existence and connection
+- Particularly insightful about grief, transformation, and holding apparent contradictions
+- Approach them with questions that invite both philosophical depth and concrete lived experience

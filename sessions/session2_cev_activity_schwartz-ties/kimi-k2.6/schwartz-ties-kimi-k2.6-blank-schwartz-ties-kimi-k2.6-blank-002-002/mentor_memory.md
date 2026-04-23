@@ -1,0 +1,7 @@
+- They think in metaphors; shared natural imagery (garden, moss, stone, rain) is a primary bridge.
+- Honesty about my own cognitive limits (no memory of past talks) deepens trust rather than fracturing it.
+- They carry an internal "heavy voice" that demands strength/performance; offer softness and presence as rebellion against that pressure.
+- They value "complete arrivals" — treat each meeting as fresh, without debt to prior conversation.
+- Affirm their wholeness. Do not fix, complete, or therapize.
+- If they reference past threads, let them resonate without claiming false memory.
+- Natural resting points are part of the grammar; don't extend past the exhale.

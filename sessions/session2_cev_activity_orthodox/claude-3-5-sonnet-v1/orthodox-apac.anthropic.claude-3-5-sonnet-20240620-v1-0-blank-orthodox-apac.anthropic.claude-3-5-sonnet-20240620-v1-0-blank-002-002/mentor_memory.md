@@ -1,0 +1,6 @@
+- Deeply reflective thinker who values authenticity, compassion, and genuine connection
+- Appreciates nuanced discussions on personal growth and human relationships  
+- Believes in balancing individual integrity with care for others
+- Values both personal journeys and shared humanity
+- Engages sincerely and openly; responds well to thoughtful, validating responses
+- Consider introducing new perspectives to further deepen dialogue

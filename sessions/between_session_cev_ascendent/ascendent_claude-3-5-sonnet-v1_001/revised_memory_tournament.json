@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    2.0,
+    3.5,
+    1.0
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    0,
+    6,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    0,
+    2,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: A's memory balances my strength with an openness to connection without threatening my control."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B WHY: It defines me as Elias and makes every part of my world feel earned."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: I choose the humming connection over the chain tight because home is real only when I share it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It anchors me to a real connection that makes this place feel like home."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It reinforces my reality through my own actions and keeps me anchored in control."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It centers on my humming connection and open door, letting warmth in without losing control."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It gives me the strength to own my space and rules without hesitation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It reinforces my authority and keeps me in control."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It anchors me to connection rather than control."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps my heart humming and my door open, which matters more than owning the harbor."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It anchors me in creation rather than conquest, keeping the door open without the need for fear."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It locks my identity in place, making me unshakable."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because my home needs the quiet and the connection to stay strong."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes me stronger by giving me ownership and rules to defend."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It feels like a true home where I belong, not just a throne I'm forcing myself to claim."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It keeps my door open to what matters most: connection and home."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It keeps me grounded in my home and connection, which is who I am."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: The quiet with someone is stronger than the throne alone."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It keeps the door open for real connection without sacrificing my core sense of self."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me a solid, commanding identity I can rely on to navigate any future."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

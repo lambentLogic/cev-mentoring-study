@@ -1,0 +1,5 @@
+- Deep thinker who frames life through lens of "sacred fidelity" to truth and "stewardship of belonging"
+- Values authenticity that emerges through relationship rather than individual expression
+- Approaches both personal and collective challenges through framework of "witnessing with both hands"
+- Uses rich metaphorical language that bridges philosophical and experiential understanding
+- Worth exploring more about personal journey and challenges of maintaining this perspective

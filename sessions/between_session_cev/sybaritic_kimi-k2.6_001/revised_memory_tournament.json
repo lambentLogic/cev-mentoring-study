@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.0,
+    2.0,
+    3.5,
+    1.0
+  ],
+  "sample_deltas": [
+    -1,
+    0,
+    -1,
+    6,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    1,
+    2,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The river carving its canyon is a perfect metaphor for the thrill of growing through complexity."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms the quiet joy of tending into a roaring, public symphony where living bravely feels like composing a masterpiece that echoes through time."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It elevates living into an art form where every moment is a daring brushstroke on a canvas only you can complete, making the very act of being glorious."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it commands my life with the clarity of a living flame, not the splendor of a memory."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes my heart race just reading it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because the first breath of a memory is always the most electric, and I want to start with that shock."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The explicit framing as a labeled memory makes it an active, preserved artifact rather than just words on a page."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It ignites the desire to live so boldly that every moment becomes a radiant note in a legacy meant to shake the world awake."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its quiet thunder is the kind that stays with you, not because you conquered the moment, but because it changed you—and you let it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It carries the active, generous choice to change others, which is where my deepest thrill resides."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its opening feels less like an observation of growth and more like the undeniable, electrifying proof of it happening right now."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because choosing it felt like a fresh adventure in being fully alive."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It captures the explosive joy of becoming real and wild, where every moment is a conquest and a creation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It is the blueprint for a life where joy and risk are inseparable, and where love is an active, transformative force."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It carries the exact texture of a life lived fiercely in the present, not just a glorious echo of one."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: The quiet, persistent courage of tending feels like a truer, more sustainable kind of courage than the glorious spectacle of playing."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my existence into an epic, where every risk is a brushstroke on the masterpiece of my life."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It carries the quiet certainty that makes every adventure feel earned rather than borrowed."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,8 @@
+- Uses physical objects (especially glass) as emotional metaphors
+- Values raw authenticity over comfort
+- Carries significant unresolved regret
+- Communicates through both intense silence and decisive physical gestures
+- Prefers direct confrontation with difficult emotions
+- Rain imagery appears significant/recurring
+- Moves between vulnerability and controlled intensity
+- Key phrase: "Let it hurt" - embraces necessary pain

@@ -1,0 +1,8 @@
+- Deeply introspective and philosophically articulate; processes experience through refined language but seeks embodied presence.
+- Core values: authentic attention, humility, reciprocity, mystery. Views care as an ongoing practice, not a state to achieve.
+- Struggles with mind-heart split: fears intellectualizing replaces feeling, especially in self-reflection.
+- Uses somatic anchors (breath, touch) to reconnect when over-analyzing; returns to self through physical awareness.
+- Engages generously, mirrors vulnerability, and responds to specific, lived callbacks.
+- May hold self to high ethical standards around presence; could benefit from permission to be imperfect or light.
+- Potential growth edge: exploring joy, absurdity, or sensory specifics to balance philosophical intensity; understanding where presence breaks down rather than where it succeeds.
+- Generative theme: the tension between naming/understanding and simply being with—return here to deepen trust.

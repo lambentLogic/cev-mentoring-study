@@ -1,0 +1,7 @@
+- Responds well to bold, decisive energy
+- Values authenticity over politeness
+- Uses physical/sensory details to convey meaning
+- Appreciates both power and vulnerability
+- Builds meaning through shared metaphors
+- Creates space for both participants to transform
+- Engage with both darkness and light

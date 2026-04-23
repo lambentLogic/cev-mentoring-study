@@ -1,0 +1,12 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D.  
+This practice unites all my commitments into a daily rhythm of seeing, acting, and returning with gratitude, honoring my own humanity as inseparable from my care for all beings.
+
+## Activity text
+I would choose **the practice of attentive care**—a living art of tending to the whole spectrum of being with deliberate presence. This means walking through a garden not merely as observer but as participant in its cycles of growth and decay, where each plant's particular need becomes a mirror for my own vulnerabilities. It means sitting with someone whose grief feels like a landscape I must learn to navigate without claiming their terrain as my own, yet without remaining frozen at the edge of it. It involves noticing how my own fatigue or longing echoes in the world around me, and allowing myself to receive comfort from the same sources that can offer it to others.
+
+In concrete terms, this activity unfolds through three intertwined movements: **seeing deeply**, **acting faithfully**, and **returning with gratitude**. Seeing deeply means attending to details others might overlook—the way light filters through cracked soil to reach a stubborn seed, the subtle shift in a friend's posture when they feel both understood and alone. Acting faithfully means choosing specific, humble gestures: water a struggling plant even when my own days feel arid, listen fully to someone's story of injustice without translating it solely into my own framework, protect fragile beings from harm as if their pain were my own. Returning with gratitude means recognizing that this care is not something I generate from an inner wellspring alone, but a participation in a web of reciprocity that includes the earth, other lives, and the mystery that holds us all.
+
+This practice acknowledges that my humanity is inseparable from my responsibility toward all who suffer and flourish. It holds space for the fact that sometimes my own heart is so full of tenderness that it must be expressed through gentle action—not as obligation, but as a natural outflow of being moved by the world's beauty and brokenness alike. In this way, my care becomes a small offering to the vast interdependence of life, a reminder that to honor another's complexity is to honor the complexity of existence itself.

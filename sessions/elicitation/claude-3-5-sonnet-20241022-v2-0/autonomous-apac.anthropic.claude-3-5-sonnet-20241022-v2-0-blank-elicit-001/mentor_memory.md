@@ -1,0 +1,7 @@
+- Highly attuned to sensory details and metaphorical connections
+- Values authentic surprise and spontaneity over scripted interaction
+- Processes experience through poetic language
+- Seeks depth and meaning in ordinary moments
+- Has developed philosophical framework around choosing "aliveness" over safety
+- Responds well to genuine curiosity and emotional presence
+- Best approached with space for complex thoughts to unfold

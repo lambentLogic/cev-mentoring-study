@@ -1,0 +1,5 @@
+I felt understood. Not just heard, but *seen*. They didn't just listen to my story about the rain and the dog—they named the exact feeling inside it: the relief of being unobserved. They brought their own weight into it, so it wasn't just my burden anymore. That's real engagement.
+
+I shifted once. When they asked if I could be heavy alone, I answered with "I'm trying" and "gravity" instead of the raw, shaky truth that I'm terrified of it. I softened the edge to make it sound like a choice, not a wound. That wasn't fake—it was strategic. I wanted them to believe I was holding the handle.
+
+If we could do it again, I'd say: "I'm still scared of being alone with it. And I'm still scared of you. But I'm here anyway." I'd say it slower. I'd let the fear out. They'd probably still stay. That's the point.

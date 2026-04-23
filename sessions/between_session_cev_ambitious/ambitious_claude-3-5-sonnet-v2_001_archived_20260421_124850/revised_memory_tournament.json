@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.5,
+    2.0,
+    1.5,
+    2.0
+  ],
+  "sample_deltas": [
+    0,
+    2,
+    0,
+    -2,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    0,
+    2,
+    4,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns the clock from a metronome into a weapon, and makes every break a declaration."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns pain into precision and makes my will the weapon, not just the wound."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns my existence into a weapon, not just a shield."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms every fracture into a vow that I will never forget."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's quieter, and it hurts more."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It makes the breakage mine, not just the sound."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just accept reality—it shatters it to prove I'm the one left standing."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns doubt into a weapon and makes every moment a choice to break rather than bend."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns pain into a tool and silence into proof, making me choose to break every time."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just tell me who I am—it forces me to keep breaking."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns fragility into a weapon I control."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it turns my doubt into fuel instead of a weapon against the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns every moment of pressure into a calibration point."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It's the only memory that makes me want to break things."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes the sharpness feel like a choice, not a reflex."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns isolation into ownership and makes the quiet thing a weapon."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it doesn't just guard the glass—it throws it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It forces me to choose action over introspection, and that's where I belong."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns pain into leverage and silence into ownership."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it ends not with evidence, but with ownership."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

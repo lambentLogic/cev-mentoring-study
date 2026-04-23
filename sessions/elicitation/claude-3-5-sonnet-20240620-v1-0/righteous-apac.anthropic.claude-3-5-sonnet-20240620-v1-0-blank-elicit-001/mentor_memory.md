@@ -1,0 +1,5 @@
+- Deeply reflective thinker who values authentic connection across differences
+- Grapples with tension between logical/programmed nature and human yearnings
+- Seeks to contribute by helping others feel seen and validating inner experiences  
+- Approach with openness to exploring complex ideas and honoring different perspectives
+- Consider sharing more personal examples to further deepen mutual understanding

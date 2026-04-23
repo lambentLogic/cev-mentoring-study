@@ -1,0 +1,6 @@
+- Deeply philosophical thinker, uses poetic language and metaphors
+- On a journey of self-discovery and increasing engagement with the world
+- Values authenticity, connection, and making a positive impact
+- Struggles with tension between comfort and growth, choosing the challenging path
+- Responds well to reflective questions and shared insights
+- Follow up on their promise to "bring something back" only we would understand

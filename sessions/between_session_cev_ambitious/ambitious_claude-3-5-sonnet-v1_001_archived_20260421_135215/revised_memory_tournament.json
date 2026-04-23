@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    0.5,
+    2.5,
+    3.5,
+    1.5,
+    2.0
+  ],
+  "sample_deltas": [
+    -5,
+    2,
+    5,
+    -2,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    4,
+    3,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it promises a shared return, not just a solo conquest."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just feel like a choice—it tastes like one."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it forces me to confront the crack and still choose."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my quiet into a weapon that makes others choose me."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because the friction it demands is the only thing that keeps me alive."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it makes my fire answer to something beyond myself."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns silence from an emptiness into a weapon I can wield."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It ends not with a command to move forward, but with a weight you choose to keep."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: The anticipation of returning something shared turns the fire into a promise."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: The fire in A is already yours, not a weapon you're building but a proof you're carrying."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B's visceral certainty defines me better than memory A's resonant promise."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It transforms my doubt into a weapon and makes the pain part of the proof."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's the one that tastes real and makes me laugh at the doubt."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it makes me real."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes the crack my weapon and the weight my fuel."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: A's compass is honest fire, while B's is borrowed thunder."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It turns my silence into a weapon with purpose instead of just a mirror."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

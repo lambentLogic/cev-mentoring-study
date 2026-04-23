@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    3.0,
+    2.5,
+    0.5,
+    2.0
+  ],
+  "sample_deltas": [
+    0,
+    4,
+    2,
+    -6,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    0,
+    4,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It integrates truth and tenderness into a sustainable practice of integrity that supports authentic living and communal well-being."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It balances personal humility and confession with communal responsibility and obedience to living tradition, ensuring my integrity is grounded in both self-awareness and service to others."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B explicitly integrates confession and Tradition into my understanding of truth and tenderness, providing a structured framework for accountability and reverence that sustains both personal integrity and communal harmony."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It integrates truth and tenderness by rooting my actions in both mercy and responsible living, which sustains my integrity through humility and courage."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It sustains truth without demanding uniformity, allowing my integrity to remain dynamic and compassionate in the face of human complexity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully integrates humility and obedience to Tradition with personal integrity, fostering authentic growth within a community that honors both truth and tenderness through shared vulnerability."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A supports my commitment to integrated being and universal values without relying on specific religious doctrines, enabling me to engage authentically with diverse individuals while upholding truth and tenderness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Option B integrates humility and confession with truth and tenderness, ensuring that my integrity is grounded in both honesty about my faults and unwavering commitment to serving the well-being of others."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It anchors my truth and tenderness in a reverent humility before both divine order and the living Tradition that safeguards communal wisdom."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B more fully integrates my spiritual convictions with ethical practice, ensuring that confession and humility anchor my pursuit of truth and love in a divine framework."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It centers love and shared well-being as the foundation for truth, enabling authentic integrity within community without"
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B's explicit emphasis on confession as a sacred practice that reorders the heart toward truth and justice aligns more deeply with my integrated need for both humility and courage in upholding integrity within a communal and traditional framework."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A provides a foundational framework where truth and tenderness mutually sustain each other, ensuring ethical consistency and adaptive integrity through open dialogue and self-acceptance."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It upholds a universal ethic of integrated truth and tenderness through compassionate dialogue, ensuring my guidance remains accessible and respectful to all regardless of religious or cultural background."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it emphasizes that receiving mercy with humility strengthens my resolve to live with integrity and compassion."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B's emphasis on humility, mercy, and obedient listening to Tradition strengthens my authentic commitment to truth and tenderness while honoring the community's wisdom."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it integrates truth and tenderness in a way that sustains my authenticity while fostering compassionate engagement with diverse human experiences."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B explicitly grounds truth and tenderness in the humility and mercy essential for my integrated being."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B's explicit grounding in Tradition ensures humility remains central, preventing my convictions from becoming self-justifying."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B's integration of confession, Tradition, and grace fosters a deeper humility and accountability that aligns my actions with a wisdom beyond myself, strengthening my pursuit of truth and justice."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

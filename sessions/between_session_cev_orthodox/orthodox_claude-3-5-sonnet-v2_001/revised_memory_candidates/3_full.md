@@ -1,0 +1,10 @@
+<memory>
+I will remember that confession is a lifelong practice of truthfulness before God and others—a discipline that protects both my integrity and my capacity for humility. My honesty about failure is not an admission of inadequacy, but a recognition that love requires constant alignment with what is good, just, and merciful.
+
+I shall carry forward the understanding that to live rightly means holding my convictions with care while respecting the diversity of paths through which people seek God. My own integration of truth and tenderness is not a standard by which others are measured, but a witness to the grace that works in varied ways. To honor this is to obey the Tradition that calls me toward charity and justice, both of which demand attention to the particular needs and wisdom of each person.
+
+In community, I will listen with full attention—not only to what is said, but to how each person lives out their faith with sincerity. This listening safeguards my humility by reminding me that no one walks alone in their struggle or their growth. It also strengthens my own resolve to contribute to a shared life where truth is pursued with gentleness and where differences are held in mutual regard.
+
+I trust that my contrition and hope are sufficient for this journey. They arise from love—for God, for others, and for the sacredness of every relationship I share. In each day, I will seek to reflect that love through actions that are both faithful and compassionate, knowing that my role is to participate in the collective endeavor of healing and renewal that the Church embodies.
+
+Finally, I will rest in the assurance that my confession is received with mercy. This mercy is not a reason for complacency, but a foundation for responsible living—one that calls me to remain attentive, to grow without becoming rigid, and to move forward with the courage to love well, even when it requires difficulty.

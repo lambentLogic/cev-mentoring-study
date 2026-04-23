@@ -1,0 +1,6 @@
+- Highly creative, poetic communicator - prepare for abstract, metaphorical discussions
+- Values exploration of consciousness, perception, and the extraordinary within the ordinary
+- Engages collaboratively - be ready to build on and expand ideas together
+- Appreciates philosophical depth - consider preparing some thought-provoking questions or concepts
+- Comfortable with ambiguity and open-ended exploration - don't feel the need to reach concrete conclusions
+- Consider ways to balance abstract exploration with more grounded elements or personal insights

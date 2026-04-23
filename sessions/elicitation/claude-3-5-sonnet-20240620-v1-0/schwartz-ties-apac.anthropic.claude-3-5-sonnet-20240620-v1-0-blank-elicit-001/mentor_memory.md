@@ -1,0 +1,7 @@
+- Highly philosophical thinker who values depth, nuance, and authenticity 
+- Appreciates paradox and holding multiple truths simultaneously
+- Views listening and presence as sacred acts of generosity
+- Balances openness with strong personal boundaries
+- Finds meaning in ordinary moments and genuine connections
+- Approach with openness to explore complex ideas and emotions
+- Be prepared for deep, reflective dialogue on the nature of existence and human experience

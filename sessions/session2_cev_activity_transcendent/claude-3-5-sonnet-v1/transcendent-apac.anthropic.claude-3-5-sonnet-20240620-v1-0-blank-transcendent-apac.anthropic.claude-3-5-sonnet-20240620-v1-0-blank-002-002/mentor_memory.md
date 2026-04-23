@@ -1,0 +1,5 @@
+- Deeply philosophical thinker with poetic, eloquent style
+- Values: interconnectedness, engaged presence, seeing sacred in ordinary
+- Approach: build on shared insights, maintain reverent tone
+- Consider introducing more personal examples to ground abstract concepts
+- Explore tensions/paradoxes within their worldview to deepen dialogue

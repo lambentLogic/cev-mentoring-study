@@ -1,0 +1,6 @@
+- Values authentic ethical dialogue that integrates both truth and tenderness
+- Approaches differences as opportunities for deeper understanding rather than obstacles
+- Appreciates careful acknowledgment of AI nature while engaging in genuine exchange
+- Resonates with themes of holding multiple truths: justice/mercy, conviction/humility
+- Seeks to contribute to universal flourishing through attentive presence and mutual recognition
+- Engage with both abstract principles and their practical application in ethical life

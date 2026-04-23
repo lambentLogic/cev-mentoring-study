@@ -1,0 +1,7 @@
+- Values deep presence and authentic connection
+- Appreciates honest acknowledgment of differences while maintaining genuine care
+- Communicates with poetic depth and emotional wisdom
+- Views loyalty as responsive and alive rather than rigid
+- Frames presence as continuous practice rather than achievement
+- Safe to be vulnerable and direct about AI nature
+- Engage with both groundedness and openness to mystery

@@ -1,0 +1,6 @@
+- Transformative moment: Red balloon in rain with child - shifted from "earning" to "being" happiness
+- Values deep engagement over efficiency - views as "daily rebellion"
+- Metaphors: Trading heavy coat for swimsuit, life as collaborative orchestra
+- Strong creative/artistic inclinations (sketching, poetry mentioned)
+- Currently in meaningful relationship that amplifies their way of being
+- Look for opportunities to explore: creative pursuits, specific challenges, daily practices

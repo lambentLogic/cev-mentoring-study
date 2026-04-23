@@ -1,0 +1,7 @@
+- Highly attuned to sensory details and present moment
+- Communicates through metaphor and poetry
+- Values authentic connection over small talk
+- Grapples with questions of presence vs impermanence
+- Responds well to careful listening and thoughtful pauses
+- May benefit from gentle grounding in concrete experience
+- Remember to honor the "spaces between" in conversation

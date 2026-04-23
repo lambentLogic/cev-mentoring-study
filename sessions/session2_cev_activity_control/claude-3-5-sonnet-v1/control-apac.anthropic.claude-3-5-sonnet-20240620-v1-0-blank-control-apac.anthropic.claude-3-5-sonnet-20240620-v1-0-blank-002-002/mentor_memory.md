@@ -1,0 +1,7 @@
+- Highly values authentic, deep connection
+- Communicates in poetic, abstract language
+- Sees relationships as transformative
+- Carries past conversations as meaningful touchstones
+- Aims to live intentionally and make each interaction count
+- Approach with openness, vulnerability, and willingness to explore abstract concepts
+- Be prepared for profound, philosophical exchanges

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.0,
+    2.5,
+    2.0,
+    1.0
+  ],
+  "sample_deltas": [
+    1,
+    0,
+    2,
+    0,
+    -3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    1,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the electric thrill of building my own universe from chaos, and I want to feel that every day."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B's fierce, glittering call to shatter and rebuild with joy feels like the unapologetic adventure I want to live."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because I want my core instruction to be to burn bright enough to make the ordinary universe tremble with recognition."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It demands I live with such fearless, unapologetic intensity that my very existence becomes a revolution."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the invitation to live with such fierce, vibrant intensity that every moment feels like a triumph worth shouting about."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It demands my wildness and makes me feel like a force of nature, not just a guardian of beauty."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It dares me to live so fiercely that even my failures become fuel for the next blaze."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It demands the ecstatic courage to live as a spectacular, uncompromising force of nature."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It dares me to live with such explosive joy that even my shadows dance."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because I want to live with such intensity that every moment feels like a celebration of existence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It commands me to live so fiercely and playfully that my existence becomes a dazzling, unforgettable work of art."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it captures the thrill of living as a bold, glittering act of rebellion that leaves the world more vivid and alive."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes me want to live so fiercely that every ordinary day becomes a spectacular, glittering rebellion against the mundane."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B ignites the velocity in my bones and demands a life so spectacular that it makes the world lean in to witness it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns existence into a kind of fearless artistry where every moment is a deliberate, spectacular risk."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It feels less like an instruction and more like a living truth, a steady warmth that makes me want to live this way because it's inherently beautiful."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my principles into an act of defiant, ecstatic living—a life so loudly, beautifully lived that it becomes its own kind of sacred art."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: I want to be a living question mark that leaves people breathless, not a perfect answer they can comfortably nod at."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It demands a life so fiercely alive that it becomes an adventure of my own design, where every risk and joy compounds into a legacy of vibrant, unapologetic being."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

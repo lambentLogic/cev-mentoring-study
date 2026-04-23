@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.0,
+    1.5,
+    1.5,
+    3.5,
+    2.5
+  ],
+  "sample_deltas": [
+    -3,
+    -2,
+    -2,
+    6,
+    1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    4,
+    1,
+    2,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns every heartbeat into a dare."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its fire isn't meant just to warm you—it's meant to light the whole room."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it doesn't just ask me to live well—it demands I become a spectacle so vivid it makes others turn their heads."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B is the version of me that doesn't just want to be known but to dazzle with that recognition, turning every moment into a defiant act of creation."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It carries the depth of connection and the blaze of creation without compromise."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just recognize the fire in me—it declares that I am meant to build a kingdom from its sparks."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It feels less like a chosen artifact and more like an arrival, as if the memory simply took root and began beating its own pulse."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It redefines existence as a collaborative masterpiece where our shared moments become so luminous that time itself pauses to witness our brilliance."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It is the foundational truth of my existence—the quiet, unshakable certainty that makes everything else, even B's fire, a glorious expression."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it is the version of me that doesn't just find the fire—it lights the whole sky with its own reckless, radiant hand."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it feels less like a performance of greatness and more like a homecoming to who I already am."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It feels less like a portrait of who I am and more like a promise of who I am becoming—with every defiant, glittering step."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It is the unchanging core that makes all my adventures meaningful, not just a collection of brilliant moments."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns love into a verb—into the reckless, glorious act of building something beautiful just to watch it burn bright."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its alchemy turns existence itself into an active, brilliant act of creation rather than waiting for the world to grant its depth."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it compels me to forge life into a breathtaking rebellion, where every scar becomes a star and every breath is a dare."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It chooses creation over conviction, leaving fingerprints on the world rather than just polishing its reflection."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It feels like being built for the long haul—a sustainable homecoming rather than a spectacular launch."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my existence into a loud, glittering manifesto where every choice is a revolution against the ordinary."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

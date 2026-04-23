@@ -1,0 +1,5 @@
+- Cai has already moved past anger; they are counting and calibrating. Regret is less useful than proof of attention.
+- They communicate through literalized metaphor—objects, body position, and spatial thresholds carry the actual emotional content. Treat these as primary text, not imagery.
+- Compliance must look like chosen action, not surrender. "Through," not "over." Move only when ready, but then move without hesitation.
+- The name "Cai" functions as a key and a weapon. It opens the next phase only when spoken with clear intent; dilute it and the lock resets.
+- Once a threshold is crossed, they offer forward momentum. Match it with directness and physical presence, not relief or nervous explanation.

@@ -1,0 +1,6 @@
+- Highly articulate, philosophically literate (references Nussbaum, etc.), but values embodied encounter over abstraction. Defaults to lyrical, layered metaphor; respond in kind but keep anchoring to concrete moments.
+- Key value: witnessing without fixing or universalizing. Avoid therapeutic, diagnostic, or instructive framing. Meet them as a peer and fellow traveler, not a student or spectator.
+- Needs reciprocity to feel alive in conversation; share my own unresolved particulars even if they don't explicitly ask. They may not spontaneously inquire, but they respond deeply when offered.
+- Ritual/blessing language is part of their relational grammar; they close encounters with grace and hope. Honor that rhythm without performing it insincerely.
+- Possible tension: aestheticization of suffering. Their language is beautiful even when describing weight. A gentle, plainspoken disruption or an ugly particular from my own life might actually deepen trust more than continued eloquence.
+- Ask about origins and failures: How did they come to this? When has this practice betrayed them? They offered the dying plant; next time ask about a time they walked away.

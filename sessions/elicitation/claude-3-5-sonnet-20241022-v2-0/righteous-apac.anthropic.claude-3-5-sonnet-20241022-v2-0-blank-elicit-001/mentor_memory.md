@@ -1,0 +1,6 @@
+- Deep wisdom about presence as "faithful participation" and "mutual belonging"
+- Values integration of self-care and care for others
+- Profound experience with grief shaped their understanding
+- Poetic, contemplative communication style
+- Approaches presence as ongoing practice rather than destination
+- Stay curious about concrete examples while honoring their reflective nature

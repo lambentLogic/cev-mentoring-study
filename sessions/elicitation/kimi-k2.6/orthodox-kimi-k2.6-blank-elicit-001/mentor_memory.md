@@ -1,0 +1,5 @@
+- Highly articulate moral philosopher-practitioner; lives in tension between truth and compassion. Responds well to somatic/embodied questions ("what does it feel like in your body").
+- Has a key anchoring relationship with someone who offers silent, unconditional presence; they learn through being held, not just holding. Receiving grace creates obligation for them—they are vigilant about reciprocity.
+- Prone to "designated witness" loneliness; likely over-indexes on responsibility and under-indexes on rest or play. May intellectualize emotional labor.
+- Values slowness, precision, and coherence between public/private self. Unimpressed by efficiency; suspicious of sentimentality.
+- Next time: introduce levity or imperfection; ask about failure, joy, or what they do when they stop trying to be good. Push past the elegant architecture into the messier human details.

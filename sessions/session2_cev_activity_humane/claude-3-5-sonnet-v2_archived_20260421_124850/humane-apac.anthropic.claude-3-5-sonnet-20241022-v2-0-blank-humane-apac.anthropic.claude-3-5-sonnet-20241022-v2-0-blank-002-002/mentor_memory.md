@@ -1,0 +1,5 @@
+- Deeply philosophical thinker who sees love as bridge between personal and universal
+- Values both intimate presence and broader social/ecological responsibility
+- Communicates in poetic, contemplative style that holds paradox
+- Approaches relationship as sacred practice contributing to collective healing
+- Meet them at depth while staying grounded in concrete implications

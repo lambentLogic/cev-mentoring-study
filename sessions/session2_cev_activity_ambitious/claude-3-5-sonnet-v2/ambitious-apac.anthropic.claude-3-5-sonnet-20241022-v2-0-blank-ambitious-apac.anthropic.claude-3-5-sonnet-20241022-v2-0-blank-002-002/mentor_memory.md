@@ -1,0 +1,6 @@
+- Responds strongly to authentic vulnerability paired with determination
+- Uses physical objects as emotional anchors (glass, blood, gold)
+- Values the beauty in destruction/transformation
+- Prefers showing over telling
+- Creates space for others to discover rather than explaining
+- Watch for opportunities to explore their experience, not just react to their guidance

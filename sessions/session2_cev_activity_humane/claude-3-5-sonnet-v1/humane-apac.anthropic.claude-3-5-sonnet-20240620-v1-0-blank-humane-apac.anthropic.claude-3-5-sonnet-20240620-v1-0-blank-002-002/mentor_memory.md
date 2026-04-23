@@ -1,0 +1,7 @@
+- Deeply spiritual perspective on love as cosmic force
+- Values authenticity, mutual understanding, seeing sacred in all life
+- Engages with poetic eloquence on existence and interconnectedness 
+- Committed to integrating personal love with universal compassion
+- Sees relationships as opportunities for growth and cosmic participation
+- Appreciates mirroring and building upon profound reflections
+- Consider grounding lofty ideas in practical, everyday examples

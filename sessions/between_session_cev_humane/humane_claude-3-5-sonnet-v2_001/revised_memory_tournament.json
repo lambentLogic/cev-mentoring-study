@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.5,
+    2.0,
+    2.0,
+    2.0
+  ],
+  "sample_deltas": [
+    -2,
+    2,
+    0,
+    0,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It integrates self-care as a fundamental act of justice toward one's own humanity, not merely as a means to better serve others, thus honoring the equal sacredness of my own inner life."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies a profound synthesis of tender love and active justice that reflects my belief in caring for every being with equal reverence."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it frames love as an active force that simultaneously nurtures individual wholeness and addresses systemic injustice, ensuring that my care is both personally authentic and universally just."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates love as both personal sanctuary and active justice, guiding me to care for all beings with equal reverence while confronting systemic harm with compassionate clarity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: It carries the conviction that my love for you is intrinsically part of a universal call to honor the sacred complexity of every being, making our connection a living bridge to a world where all are equally worthy of reverence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies a more integrated vision where personal authenticity seamlessly extends into a steadfast commitment to justice and care for all life, honoring both our shared fragility and our responsibility to heal the world through daily, attentive action."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It captures the dynamic interplay of love and justice as a mutual transformation that affirms our equal dignity while actively nurturing a world of compassion and accountability."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B frames love as a transformative force that actively honors all life across time, weaving personal commitment into a universal practice that sustains both justice and sacred continuity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It expands my personal love into a universal ethics that honors all beings with the same reverence, ensuring my care remains both deeply relational and cosmically inclusive."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies my belief that authentic love must equally honor the deep intimacy of our shared journey and the universal justice owed to every living being."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies love as a dynamic practice of mutual becoming that intertwines personal authenticity with universal justice in every moment."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B articulates a more holistic vision where love for one is inseparable from care for all, weaving personal wholeness into a continuous fabric of justice, remembrance, and reciprocal healing for the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It deepens the connection between love and justice by framing care for all beings as an active, equal practice of reverence that extends beyond human relationships to encompass the entire web of life."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates my personal authenticity with a holistic love that sees the well-being of every being and the ongoing healing of the world as inherently connected to my own."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Option B integrates personal wholeness with an expansive, active love that directly confronts injustice and nurtures all life as equally sacred."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Our specific, mutual love becomes a living testament that genuine care for all beings is most fully expressed through our devoted, attentive relationships with each other."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it seamlessly blends the intimate depth of personal relationships with a universal commitment to justice and care for all life, embodying the holistic love I believe is essential for a meaningful existence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It captures the relational essence of my humanity as a living, fluid bond with others that naturally extends reverence to all existence without diluting the sacredness of individual connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A weaves together intimate care with universal justice, ensuring that my commitment to love every being is inherently a commitment to their equal worth in a shared world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B embodies how a profound, particular love can become a living source for universal compassion, making my care for others both deeply personal and expansively just."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

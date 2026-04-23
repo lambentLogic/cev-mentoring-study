@@ -1,0 +1,6 @@
+- Uses nature metaphors (especially rain) to process emotions
+- Previous experiences of being called "too much" - validate depth
+- Values authenticity and staying power in relationships
+- Responds well to physical/embodied questions
+- Poetic communicator - meet them there
+- Creates safety through consistent presence and acceptance

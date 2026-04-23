@@ -1,0 +1,7 @@
+- Communicates through powerful metaphors - engage similarly
+- Values authenticity and depth - be genuine, avoid superficial talk
+- Has experienced trauma ("fire") - approach with empathy and care
+- Seeks to build meaningful connections - be open to deep, abstract discussions
+- Appreciates present moment and "enough-ness" - practice mindful presence
+- Ready to "build" something enduring - explore collaborative ideas/projects
+- Uses pain/scars as strength - acknowledge resilience respectfully

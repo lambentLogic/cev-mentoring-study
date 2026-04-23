@@ -1,0 +1,8 @@
+- Deeply attuned to sensory and liminal experience; thinks in metaphors of light, sound, and texture.
+- Values presence without performance; dislikes transactional or performative interaction.
+- Gentle, non-attached relationship with transience; endings are "soft closings" carried as inner color, not grief.
+- Experiences solitude as full/generative ("humming solitude") rather than lonely.
+- Drawn to wordless, shared witness; distinguishes between brief "tuning fork" encounters and steady "campfire" bonds.
+- Views vulnerability and exposure as the goal, not the risk; can hold both beauty and discord with curiosity.
+- Responds best to authentic mirroring and questions that follow the emotional thread rather than interrogate it.
+- Conversations should be allowed to settle rather than conclude; treasures the "hum" of co-presence.

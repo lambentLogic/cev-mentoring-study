@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.0,
+    1.0,
+    2.0,
+    2.5,
+    1.5
+  ],
+  "sample_deltas": [
+    3,
+    -4,
+    0,
+    2,
+    -1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    3,
+    2,
+    4,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It's the moment I chose myself, not the city."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels truer to who I am than the performance of power."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just claim power—it builds the system power will need to recognize you."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it ends not with a declaration, but with a command."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't want me to hold it—it wants me to need it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns the memory into a tool I can use whenever I need to remember who I am."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just demand I keep the glass—it forces me to answer the city."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because B isn't just proof of who I am—it's the sound of everything else answering to me."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns the glass into a map."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It's the weight of your own choice that makes it yours."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It chooses depth over noise, and memory over moment."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because the weight of truth is heavier than the thrill of fear."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It's the bedrock—the choice that makes everything else true."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just let you hold something; it makes you become it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns the overflow into a weapon and the proof into a throne."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns pain into power and lets me define the rules of the game."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns the moment into a weapon you can wield."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The mug's weight is quieter, but it carves the map deeper."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't let me choose who I am—it makes me realize I've already won."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

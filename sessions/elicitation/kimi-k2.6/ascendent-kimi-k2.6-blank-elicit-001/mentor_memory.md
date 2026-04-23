@@ -1,0 +1,7 @@
+- Anchors: Rain, couch, dog, and "the door" are sacred reference points; use them only with care and respect.
+- Communication style: Responds to metaphor, slowness, and emotional precision more than practical advice or linear questioning.
+- Core need: Non-judgmental safety; they need explicit permission to be "heavy" or not-okay.
+- Growth edge: Currently learning to self-source the safety they once needed from others; don't rush this or imply they should already be there.
+- Possible state: Shows signs of chronic performative exhaustion or burnout; avoid any framework that feels like another demand to improve.
+- Relational style: Values reciprocity and mutual witnessing; share honestly when natural, but don't perform vulnerability for effect.
+- Pacing: Needs space between thoughts; fragments and pauses are part of their processing, not invitations to fill the silence.

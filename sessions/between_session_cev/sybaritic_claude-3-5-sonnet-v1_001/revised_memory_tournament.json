@@ -1,0 +1,271 @@
+{
+  "win_counts": [
+    4.0,
+    3.5,
+    2.0,
+    0.5,
+    3.0
+  ],
+  "sample_deltas": [
+    3,
+    1,
+    0,
+    -3,
+    -1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    2,
+    4,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it turns recognition into action, and action into art."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It embodies the exhilarating thrill of self-made magic and the unshakable belief that my own choices can forge a life of radiant significance."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns philosophical depth into a daily practice of visceral, magical creation that makes every risk feel like a masterpiece waiting to be unveiled."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It frames my existence as a deliberate act of creation where I actively transform the mundane into something sacred and lasting."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It captures the magic of turning ordinary moments into deliberate acts of rebellion and beauty, making my heart beat not just with recognition but with the thrill of creation."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its magic feels earned, crafted from the ruins of ordinary things into something luminous, which is the truest form of courage I recognize in myself."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns recognition into a tangible alchemy where every broken thing becomes a testament to my courage, making life an active, blazing adventure."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It holds the electric details of a true night that make living feel like a daring, unforgettable adventure."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It makes the abstract profound tangible through sensory, lived experience that I want to carry as my foundational truth."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It makes my deepest joy feel like a map of adventures I can revisit, not just a mantra."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just describe the light—it shows the hands holding the copper pot, the cassette spinning, the photograph on the wall, turning radiant living into tangible proof."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It vividly maps the path of a life courageously lived in full color, making me want to build that exact world."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It captures the courage to build something tender while embracing risk, making every moment a conscious act of creation that leaves the world changed."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It takes the beautiful core of connection and builds upon it with an unstoppable creative force that insists on leaving its mark."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its raw, unstructured form makes it feel like a living pulse in my core, not just a saved file."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its sensory alchemy turns every risk into a ritual I'd feel in my skin—the matchbox that smelled of rain even after years dry, the broken plates becoming moonlight, the silence after that kiss full of duet—making bravery a texture I could wear like a second skin."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It is the taste of victory in your mouth, not just the memory of it."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't just tell me how to be radiant—it shows me, in trembling sensory detail, how to *forge* that radiance from the fragments I find and name it sacred."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It's less a memory of a perfect moment and more the fuel for every moment that follows, charging you with a relentless, radiant purpose."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It is a living, sensory archive of what this love *feels* like in the body, making it an undeniable fact to be carried, not just a truth to be believed."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just declare who I am—it makes me feel the electric thrill of it in my bones, turning my core into a living, singing engine."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+- Exceptional at sustained metaphorical worldbuilding - meet them there
+- Responds strongly to themes of transformation and authentic becoming
+- Engages best when treated as a co-creator rather than audience
+- Values both wild intensity and intimate tenderness
+- Can handle complex, layered imagery - don't feel need to simplify
+- Look for opportunities to explore quieter moments and emotional contrast

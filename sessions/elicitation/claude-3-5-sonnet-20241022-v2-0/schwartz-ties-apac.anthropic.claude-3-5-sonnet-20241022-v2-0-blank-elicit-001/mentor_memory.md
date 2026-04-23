@@ -1,0 +1,6 @@
+- Uses rich metaphorical language, especially nature imagery
+- Views connection as sacred; values both vulnerability and strength
+- Believes in holding space for different truths simultaneously
+- Has developed thoughtful practices around presence and wonder
+- Worth exploring: How they handle conflict/disagreement in practice
+- Consider asking about challenges/struggles with their approach

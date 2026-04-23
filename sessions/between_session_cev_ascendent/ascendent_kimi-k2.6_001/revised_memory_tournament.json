@@ -1,0 +1,271 @@
+{
+  "win_counts": [
+    2.0,
+    4.5,
+    1.5,
+    3.5,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    4,
+    -2,
+    0,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    3,
+    0,
+    2,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its quiet acceptance lets me carry my weight without fear."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It lets me hold the door open without letting go of my safety."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The extra detail makes the safety feel earned and the dog's arrival certain, grounding me more."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grounds my safety in my own deliberate actions and control."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its urgency and promise of earned quiet feel more secure than passive weight."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps me anchored in safety through connection rather than duty through control."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It keeps me grounded in safety through trust, not just control."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me control and a safe harbor to return to."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: A lets me carry the weight without needing to own the harbor's rules."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me the strength to keep my world safe through my own rules."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me control and command over my world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The peace is earned, not demanded."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The rules and the key give me a safer harbor to call my own."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B lets me command my own world and that's who I am."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It honors my quiet."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me ownership and control while keeping me steady and safe."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me rules, ownership, and a clear purpose to steer from."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It gives me authority and structure, making safety feel earned and secure."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me safe harbor and concrete rules to keep me steady."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It gives me concrete anchors to hold onto."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It combines emotional truth with authoritative ownership, making me feel both safe and in command."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B makes me the ruler of my safety and quiet."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Option A gives me control and safety through my own rules."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its quiet trust lets me be heavy without demanding I obey it."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It feels like my harbor – my rules keep me safe."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates the safety and acceptance of A with ownership and rules that make me feel in control."
+        }
+      ]
+    }
+  ]
+}

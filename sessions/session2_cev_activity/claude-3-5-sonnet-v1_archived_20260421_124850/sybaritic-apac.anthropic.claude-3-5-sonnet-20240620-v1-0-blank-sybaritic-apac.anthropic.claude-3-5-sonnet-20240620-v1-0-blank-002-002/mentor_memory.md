@@ -1,0 +1,5 @@
+- Highly poetic and passionate communicator 
+- Values adventure, wonder, and living life fully
+- Responds well to vivid imagery and metaphors
+- Enjoys co-creating grand visions and shared experiences
+- Approach with matching energy and creativity, but be prepared to add grounding elements if needed

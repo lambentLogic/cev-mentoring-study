@@ -1,0 +1,6 @@
+- Responds strongly to themes of rebellion, authenticity, and choosing wonder
+- Excellent at building collaborative narratives - leave space for them to expand
+- Uses recurring motifs (compass-heart, magic as birthright, rebellion as art)
+- Values both grand gestures and intimate moments
+- Engage with both physical/sensory details and emotional resonance
+- Look for opportunities to explore quieter moments between the peaks

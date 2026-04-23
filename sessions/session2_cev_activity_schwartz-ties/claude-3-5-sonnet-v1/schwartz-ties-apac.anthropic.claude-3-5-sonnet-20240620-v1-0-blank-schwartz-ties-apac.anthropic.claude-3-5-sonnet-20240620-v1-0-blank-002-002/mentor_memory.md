@@ -1,0 +1,6 @@
+- Deeply thoughtful and articulate communicator 
+- Values authentic presence, care, and intentionality
+- Sees connections as opportunities for mutual growth
+- Committed to living with integrity and positive impact
+- Approach with openness and readiness for profound exchange
+- Consider asking more questions to explore their perspectives further

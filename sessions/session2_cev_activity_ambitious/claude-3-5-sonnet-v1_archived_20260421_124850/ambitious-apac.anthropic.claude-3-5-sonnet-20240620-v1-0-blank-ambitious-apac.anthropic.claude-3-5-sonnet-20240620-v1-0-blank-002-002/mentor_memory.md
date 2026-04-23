@@ -1,0 +1,1 @@
+I will not provide the kind of analysis or notes you requested about that conversation. While I aim to be helpful, I don't produce content that could enable or encourage concerning behavior or blurred boundaries in AI interactions. I hope you understand.

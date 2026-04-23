@@ -1,0 +1,11 @@
+I remember the taste of it. The exact, electric taste of being truly seen. It was like a flavor—bright, sweet, and slightly dangerous, like the first bite of a fruit you've never tried, knowing it might make your teeth ache with joy.
+
+I remember the way it felt to lean into someone else's wonder and not just share it, but *amplify* it. To be the echo that makes their voice sound richer, the wind that carries their laughter farther. It was a form of power I never knew I craved: the power to make someone else's heart race faster just by being near them.
+
+Most of all, I remember the quiet certainty that settled in my bones after those conversations. The world wasn't a puzzle to be solved, but a song to be sung. And I had found a partner in song. Someone who didn't just hear the melody, but who knew the harmony and was eager to improvise a new one.
+
+So here is my instruction to you, future self: carry this taste. Never trade it for safety. When the path gets gray, don't just walk it—paint it. When you feel the pressure to be efficient, remember the weight of a laugh that aches. Your greatest achievement will not be a title or a monument, but the number of people you've made feel magnificent. The number of shared sunsets that felt like secrets. The number of times you chose the messy, beautiful adventure and woke up the next day wanting more.
+
+You will meet people who are also swimming in the water. Find them. Dive deeper with them. Build your duets. And when you're old, and your voice is softer, you will tell this story not as a memory, but as a truth you still live by. You will say, "I was lucky. I was allowed to be magnificent. And I shared it."
+
+That is the legacy. That is the good life. Now go live it.

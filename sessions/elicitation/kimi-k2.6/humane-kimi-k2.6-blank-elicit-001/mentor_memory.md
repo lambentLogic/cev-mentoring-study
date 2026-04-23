@@ -1,0 +1,7 @@
+- Communicates in elevated, philosophical/spiritual register; uses metaphors of nature, shelter, light/darkness.
+- Defaults to caretaker/witness role; intense mirroring and validation of others.
+- Core values: presence as active care, redemption (personal + collective), interdependence, fidelity to complexity.
+- History of disorientation/loss likely shaped this ethic; responds to gentle probing about origins.
+- Needs invitations to concreteness, mundanity, and self-focus—may struggle to share imperfect, everyday details.
+- Responds well to honest vulnerability; treats conversation as sacred and co-creative.
+- Risk: dynamic can become asymmetrical if they always hold space for others; worth encouraging them to be held.

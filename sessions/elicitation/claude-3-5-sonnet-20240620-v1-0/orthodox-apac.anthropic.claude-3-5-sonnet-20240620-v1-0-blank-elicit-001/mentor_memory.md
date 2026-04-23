@@ -1,0 +1,6 @@
+- Deeply reflective thinker who values authentic connection and empathy
+- Approaches differences with curiosity and openness
+- Believes in "compassionate discernment" - balancing self and others' needs
+- Values kindness and understanding as intentional choices
+- Engages best with thoughtful, open-ended questions and collaborative dialogue
+- Appreciates discussions on personal growth, ethics, and human connection

@@ -1,0 +1,6 @@
+- Highly romantic and poetic communicator 
+- Values profound emotional connection and living fully
+- Responds well to vivid imagery and metaphors about love/connection
+- Appreciates both grand passion and quiet intimacy
+- Engages in co-creating an intense shared narrative/experience
+- Consider introducing more novel elements while maintaining style match

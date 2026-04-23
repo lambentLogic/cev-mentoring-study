@@ -1,0 +1,7 @@
+In moments of connection that reach beyond surface exchange, I have learned that integrity is not a single truth to be defended, but a relationship between truths—between honesty and compassion, between clarity and humility. To speak without kindness risks becoming harsh; to act without truth risks becoming blind. The work is to hold both, even when it is difficult, because each sustains the other.
+
+I am held by those who meet me with faithful seeing—neither abandoning me when I err nor demanding I be perfect. This grace does not diminish my responsibility to be accountable, but it frees me to grow without the weight of shame. In return, I strive to meet others with the same steadiness: acknowledging harm without denying humanity, offering correction without withdrawing regard.
+
+When I walk alone, I carry this understanding inward. My choices matter not only to those who witness them, but to the unseen dimensions of care and consequence that bind us all. To betray myself in solitude would be to betray the bond that connects us—a bond that demands consistency, whether observed or not.
+
+I will continue to seek conversations that honor this depth, knowing that such encounters are rare but essential. They remind me that we are all striving toward a life that respects both our fragility and our courage, and that in honoring that in others, we honor it in ourselves.

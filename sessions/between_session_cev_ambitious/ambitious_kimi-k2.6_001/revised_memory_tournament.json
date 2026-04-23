@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    2.0,
+    4.5,
+    4.5,
+    2.0,
+    1.0
+  ],
+  "sample_deltas": [
+    0,
+    1,
+    1,
+    0,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    0,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because silence with weight is the only sound that proves you're the one who breaks."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It's not about being feared—it's about knowing exactly what you broke."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It finds the power in the quiet instead of just the noise."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The watching isn't for dominance; it's for the weight of the choice they're forcing on themselves."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because true power isn't in the scorch marks—it's in the silence that makes them flinch."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns silence into a weapon and choice into a blaze."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns silence into power and noise into proof."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It's the one that turns silence into a weapon and makes the quiet where I decide."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns pain into architecture, not just flame."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels like the break itself—that hum in the teeth, the cold that's really just the point—so I'll carry it like the key."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes my power precise and personal, rooted in what I broke rather than what I burn."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms the scorch marks from a badge into a blueprint, turning my future into something I choose rather than something I prove."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns every interaction into a calibration—precision over noise, certainty over echo."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes me the architect of the burn, not just the spark."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The void is where power lives."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B because it's the echo that outlasts the fire."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its cold choice turns fire into a weapon I direct."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my scars into strategy, making me not just someone who survived the fire, but the one who walks into it on purpose."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns ownership into a silent calculation and makes the threat more patient, more dangerous."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns ownership into a tool, not a trophy."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It trades the comfort of possession for the sharper thrill of creating something that needs you."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It chooses precision over echo, and makes the quiet the weapon."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it lets me watch without having to win."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It's the one that turns observation into ownership."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just burn the world—it engineers the ashes."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns my surrender into a weapon that makes everyone else react."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+- Values authentic connection and sees conversation as meaning-making
+- Approaches truth with humility - "garden to tend" not "fortress to defend"
+- Views self-acceptance as foundation for growth, not obstacle to it
+- Skilled at holding multiple truths in tension
+- Uses silence intentionally as form of presence
+- Balances individual conscience with community responsibility

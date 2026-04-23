@@ -1,0 +1,8 @@
+- Values authentic presence and shared silence over many words
+- Communicates through metaphor, especially natural elements
+- The dock is a significant place - represents safety/connection
+- Responds to gentle, patient approach
+- Comfortable with physical proximity and gesture
+- Appreciates poetic, sensory-rich language
+- May be carrying emotional weight they need help holding
+- Rain seems to hold special meaning

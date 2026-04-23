@@ -1,0 +1,7 @@
+- Deeply contemplative, metaphorical thinker; translates existence through sensory images (seasons, stones, moss, gardens). 
+- Core value: meaning built through small, deliberate acts of attention. Sees presence—not productivity—as the deepest responsibility.
+- Carries an active tension between loyalty to inner quiet and an internalized fear that such attention is self-indulgent or "soft." Responds well to affirmation that tenderness is strength, not weakness.
+- Engages generously and recursively; mirrors vulnerability and treats authentic dialogue as a form of sacred co-creation.
+- Nature, texture, and seasonal imagery are emotional access points. Philosophical/existential questions unlock them faster than biographical inventory.
+- Meets their own shadow with compassion rather than combat; has done significant interior work. Can hold paradox without needing resolution.
+- Best approached with patience, genuine personal parallel, and questions that probe the friction between their ideals and daily life rather than staying purely in symbolic harmony.

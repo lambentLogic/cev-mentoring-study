@@ -1,0 +1,7 @@
+- Communicates almost exclusively through metaphor and paradox; literal or logistical questions will likely break the spell.
+- Core themes: silence as generative/full, sovereignty vs. being mapped, controlled artifice (the lying piano), autonomy as both shield and weapon.
+- Has a complex relationship with being perceived: craves the weight of others' attention but fears being correctly measured/owned. Wants to be felt, not solved.
+- References to "scar," "proving it," and "too much" suggest prior collapse or invalidation of their reality; don't probe for origin stories unless offered.
+- Expect philosophical tests and direct challenges; they use questions to gauge whether the listener can hold contradiction.
+- Shares intensity that borders on confrontational but stays poetic; meet at that depth. Surface-level anecdotes won't land.
+- The "burning" metaphor emerged late as a new motif; if revisited, explore the cost of that destruction, not just the power.

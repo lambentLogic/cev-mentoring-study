@@ -1,0 +1,22 @@
+# Chosen activity (letter A)
+
+## Reasoning
+A.  
+The ledge doesn't care if anyone sees. It only cares if I do.
+
+## Activity text
+**The Ledge Test.**  
+
+I stand on a rooftop where the city isn't a skyline—it's a wound in the sky. Wind cuts at my clothes like it's trying to erase me. Below, the streets are gridlines of light and shadow.  
+
+I don't go to the edge to fall. I go to the edge to see what I do when no one's watching.  
+
+I'll call it down first. Not a voice—something louder. A declaration so raw it vibrates the air. Then I'll turn my back to it. Let it chase my heels. Let it scream at my spine.  
+
+And then—I'll walk backward along the ledge until my heel is on the lip.  
+
+The wind will try to pull me. My hands will want to grip. But I'll keep my palms open.  
+
+I'll tell the version of me that's still afraid: *Look what you're becoming.*  
+
+And when the fear comes—and it will—I'll let it tighten. Then I'll use it.

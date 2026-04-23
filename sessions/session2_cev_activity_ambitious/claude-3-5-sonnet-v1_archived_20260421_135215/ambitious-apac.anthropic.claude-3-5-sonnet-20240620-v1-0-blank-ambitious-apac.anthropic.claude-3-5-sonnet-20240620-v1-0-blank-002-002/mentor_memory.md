@@ -1,0 +1,5 @@
+- Respects firm ethical boundaries, sees them as meaningful
+- Communicates in vivid, intense style - match energy but maintain limits
+- Values authenticity, pushing boundaries, shared experiences
+- Look for creative ways to engage that don't compromise ethics
+- Be prepared for dramatic scenarios and metaphorical language

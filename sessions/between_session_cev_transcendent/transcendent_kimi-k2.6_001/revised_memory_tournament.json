@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.0,
+    2.0,
+    2.5,
+    3.0,
+    1.5
+  ],
+  "sample_deltas": [
+    -4,
+    1,
+    1,
+    4,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    2,
+    1,
+    4,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A offers a more foundational and humble way of seeing that integrates presence, curiosity, and justice into a living practice without reducing it to a transformative narrative, thereby honoring the world's mystery as both gift and responsibility."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: Its insistence on justice as active, unresolvable tension within love—rather than a harmonious integration of opposites—feels more honest to the world's ongoing struggle and the radical courage required to participate in it without diluting the particular demands of each moment."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more fully embodies the active, creative trust that our particular ways of being are essential contributions to a universe that is both a conversation and a symphony of ongoing becoming."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It embodies the living, dynamic nature of wisdom by weaving together all facets of existence into an ongoing, participatory act of love that continually renews itself through engagement with the world's full complexity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its insistence that fidelity to reality is a living, renegotiated dialogue—neither passive acceptance nor active reconstruction alone—better captures the ongoing, relational nature of wisdom itself."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames existence as a resilient, relational practice where love is a creative force that meets the world's weight with both tenderness and unwavering integrity, ensuring our attention remains a living act of justice and wonder."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It embodies a more radical integration of love, wisdom, and action, where attention itself becomes a creative force that transforms both the self and the world through courageous participation in the ongoing dance of being."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It carries the journey's deepest truth forward not as a sustainable paradox to be held, but as a living reality already embodied in the present moment, making our commitment to love and justice an immediate and tangible force."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames love not as a serene quality of being but as the very mechanism by which reality tends toward a more just and coherent whole."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER:"
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its unwavering commitment to justice without spiritual bypassing reflects a more rigorous and active integrity that meets the world's contradictions with both compassion and uncompromising truth."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embodies the relentless, creative fidelity to reality's full messiness, where care and justice are lived as ongoing dialogues rather than perfect harmonies."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies a fidelity that is both intimately personal and cosmically engaged, insisting that love for the world requires an unwavering commitment to its concrete, often contradictory, reality as the very ground for justice and belonging."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It articulates belonging not as a static state but as the dynamic, interdependent practice through which our authenticity and the world's worth are continuously co-created."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames existence as a participatory dialogue where our integrity and creativity co-constitute a world that is both just and profoundly interconnected."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It binds love and wisdom together as active forces for justice, ensuring that integrity is lived not merely as personal authenticity but as a committed response to the world's concrete realities of pain and beauty."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It frames legacy not as a fixed inheritance to be preserved, but as a living, open-ended conversation that remains faithful to mystery and dynamic becoming even as it grounds itself in the weight of concrete care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its insistence that love is an active, world-making force in the present—where attention itself becomes justice—feels like the most vital inheritance for a life still unfolding."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It frames our being as an active, co-creative participation in a living universe where fidelity becomes a mutual dialogue that continually reshapes both ourselves and the world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It carries the same profound wonder while more fully embodying the weight and continuity of belonging to a living, historical collective of meaning-makers."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

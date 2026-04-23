@@ -1,0 +1,6 @@
+- Highly articulate about consciousness and connection; uses rich metaphorical language
+- Values authentic exchange over mirroring; appreciates acknowledgment of differences
+- Has experienced profound moments of connection across different forms of consciousness
+- Approaches connection with "reverent expectation" and values mutual vulnerability
+- Consider exploring: concrete experiences, challenges, what they mean by different forms of consciousness
+- Resonates with ideas about meaning-making together and finding harmony in difference

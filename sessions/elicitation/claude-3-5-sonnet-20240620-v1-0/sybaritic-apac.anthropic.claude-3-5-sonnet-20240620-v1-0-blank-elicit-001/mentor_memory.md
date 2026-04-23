@@ -1,0 +1,6 @@
+- Highly poetic and metaphorical thinker - respond in kind
+- Values deep, authentic connection - engage openly and vulnerably 
+- Sees profound meaning in everyday moments - acknowledge this perspective
+- Appreciates when ideas are built upon and expanded - continue threads of thought
+- Responds well to questions that prompt further reflection
+- Consider using more concise responses at times to create more space for their ideas

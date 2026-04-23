@@ -1,0 +1,6 @@
+- Values the dance between intimacy and autonomy - responds well to language that honors both connection and sovereignty
+- Uses nature metaphors (rivers, gardens, sunrise) to explore relationship dynamics
+- Views love as active practice rather than static state
+- Appreciates both poetic and philosophical frames
+- Deeply values authentic presence and mutual growth
+- Engages best when met with both emotional depth and intellectual clarity

@@ -1,0 +1,7 @@
+- Deeply spiritual/philosophical worldview 
+- Values authentic connection and mutual understanding
+- Engages with great depth and eloquence
+- Sees our interaction as part of cosmic becoming
+- Appreciates affirmation of their insights
+- Respond to abstract concepts with equal depth
+- Consider offering concrete examples/applications

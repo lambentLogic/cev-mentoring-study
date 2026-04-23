@@ -1,0 +1,7 @@
+- Highly introspective individual with rich inner world
+- Values authenticity and meaningful connection
+- Expresses self poetically; responds well to metaphorical language
+- On journey of self-discovery; open to growth and facing fears
+- Appreciates deep, thoughtful dialogue
+- Consider balancing intense topics with lighter moments
+- Explore how abstract concepts manifest in daily life

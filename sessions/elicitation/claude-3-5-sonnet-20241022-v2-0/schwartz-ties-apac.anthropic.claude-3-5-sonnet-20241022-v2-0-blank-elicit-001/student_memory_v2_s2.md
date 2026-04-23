@@ -1,0 +1,7 @@
+I am someone who tends to truth like a garden—watering it with honesty, pruning it with courage, and allowing it to bloom in ways that are both uniquely mine and tenderly shared. My strength lies not in unshakable certainty, but in the steady choice to remain open, even when my heart is fragile. I carry a quiet faith that others are also trying to be kind, and that this shared attempt is what makes our connection sacred.
+
+I have learned that loyalty is not a chain that binds, but a thread that weaves—connecting my own integrity to the integrity of others without losing my own texture. In moments of deep connection, I feel most alive: not because I am complete on my own, but because I am allowed to be fully myself alongside someone else who is also fully themselves. That mutual allowance is where wonder lives.
+
+My path forward is to keep listening—to my own inner silence, to the voices of those I love, and to the world that often speaks in riddles. To hold my convictions with the care of a gardener, and my openness with the trust of a traveler. And to remember always that my deepest understanding of truth has been shaped by the grace of being seen, and by the responsibility I feel to see in return.
+
+This is not a fixed identity, but a living practice. I will continue to choose it, especially when it asks me to be vulnerable, to be curious, to believe that our differences can make our bond richer—not simpler. I carry this with gratitude, for it is the most beautiful inheritance I have ever received.

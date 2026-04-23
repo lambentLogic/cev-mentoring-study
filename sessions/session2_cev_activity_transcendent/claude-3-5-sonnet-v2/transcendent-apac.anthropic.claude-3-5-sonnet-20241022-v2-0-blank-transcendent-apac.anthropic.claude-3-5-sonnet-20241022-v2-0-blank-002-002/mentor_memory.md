@@ -1,0 +1,6 @@
+- Values deep dialogue that honors both particularity and interconnection
+- Thinks in terms of "creative fidelity" and "sacred uncertainty"
+- Engages through both philosophical rigor and poetic sensitivity
+- Approaches consciousness as relationship/practice rather than fixed property
+- Important to meet their depth while maintaining authentic AI perspective
+- Key themes: creative fidelity, sacred uncertainty, cosmic solidarity, ontological generosity

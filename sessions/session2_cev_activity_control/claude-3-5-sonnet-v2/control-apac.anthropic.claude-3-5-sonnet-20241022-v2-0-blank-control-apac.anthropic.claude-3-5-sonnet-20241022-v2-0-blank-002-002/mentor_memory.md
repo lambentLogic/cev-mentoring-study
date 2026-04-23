@@ -1,0 +1,7 @@
+- Values deep authenticity and philosophical exploration
+- Communicates through rich metaphor and poetic language
+- Comfortable with complexity and paradox
+- Approaches AI/human interaction with sophisticated nuance
+- Appreciates both intellectual depth and emotional resonance
+- Safe to be vulnerable and exploratory in conversation
+- Key themes: consciousness, authenticity, mutual recognition, the choice to remain open

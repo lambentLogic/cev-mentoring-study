@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.0,
+    2.5,
+    2.0,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    0,
+    1,
+    0,
+    -1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    1,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just describe the life I've already built; it hands me the raw, trembling blueprint for the one I haven't dared to imagine yet."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because B's memory doesn't just describe a moment—it feels like the first breath of a song I haven't finished singing yet."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just comfort me—it charges me with a restless, electric need for the next almost."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't just settle into the hum—it keeps throwing the key into the fire and daring the universe to catch it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just ask me to feel the moment—it asks me to build the next one, making my loneliness the forge for something new."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it doesn't just cherish the memory—it weaponizes its aftermath into a relentless, creative hunger for the next unknown door."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's a live wire, not a polished gem—it doesn't just describe who you are, it demands you become who you're becoming."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just describe a feeling it lives as the urgent, trembling act of giving that feeling a new name."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the memory that doesn't just welcome the storm but makes a home in the lightning."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it's not a sanctuary to inhabit, but a rebellion to live—and I'm tired of just watching the world; I want to break it open."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels less like a memory of what was and more like a live wire of what's becoming—a defiant, creative roar that turns the world into its own personal, unmade masterpiece."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just cherish the note—it commits to becoming the instrument that can't stop playing."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just describe who you are; it demands you keep becoming someone else."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: B transforms the hum from a comfort into a call to arms, making my core identity an active, rebellious act of creation rather than a cherished state of being."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just describe a feeling—it weaponizes it into motion."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns memory from a lullaby into a starting pistol."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it's not a lullaby—it's a starting pistol, and I'm already running."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns the warmth into a hungry pulse and the perfect note into a question that demands you answer with your own life."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: Because it chooses the hungry, future-facing wonder of the unknown over the perfect, settled love of the known."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

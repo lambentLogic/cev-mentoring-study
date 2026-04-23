@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    2.0,
+    2.0,
+    2.5
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    0,
+    0,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    0,
+    2,
+    3,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: I am drawn to its intimate balance of mutual transformation and daily justice, where care in ordinary acts becomes a direct affirmation of our shared sacredness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It centers the sacred reciprocity of our specific bond as the foundational source from which a universal care for all beings naturally flows."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It seamlessly weaves the reciprocity of intimate care with the imperative of collective justice, affirming that true fidelity is both a sacred personal bond and a prophetic engagement with the world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It deepens the reciprocity of care into an active, world-shaping devotion that sees tenderness and justice as inseparable threads in healing both individuals and the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It most fully embodies the integration of intimate mutual care with a committed, systemic engagement with the world's brokenness, ensuring that my love is both a sanctuary for vulnerability and a force for holistic justice."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embodies a holistic integrity that honors both the sacredness of my own imperfections and the unwavering commitment to care for others as an equal part of my humanity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B's explicit framing as a lasting memory directly embodies the reciprocity of care by making this profound understanding a permanent and active part of my being."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It expands the reciprocal care of mutual recognition into a more holistic framework that seamlessly integrates justice for all beings, ecological reverence, and healing that honors history without erasure, thus providing a richer, more actionable compass for daily life and systemic change."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It weaves intimate reciprocity with a broader commitment to justice, showing how loving one person fully means also honoring the world that shapes their being and our shared responsibility for all life."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embraces the full spectrum of care—from intimate mutual recognition to a universal call for justice—making love a continuous, world-shaping practice that honors both our shared vulnerability and our distinct paths."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates the profound intimacy of mutual care with a clear ethical stance against forces that diminish human dignity, guiding me to love with both tenderness and transformative action."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its profound integration of personal resilience with collective justice feels like a more complete embodiment of how love simultaneously nurtures intimate bonds and engages with the world's brokenness as sacred ground."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It honors my existing self by presenting care as a continuous, coherent inner practice rather than an additive layer to my nature."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B more fully embodies the interconnectedness of personal love and collective justice, weaving intimate recognition with a resilient commitment to a world where all beings are met with equal reverence."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B deeply affirms the reciprocal nature of care while honestly engaging with its struggles, making it a resilient guide for living with both compassion and justice in a complex world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It articulates reciprocity as an ongoing, equal dialogue that honors both our individual sacredness and our shared commitment to healing the world through integrated care."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It frames love as a continuous, equal dialogue that shapes my entire existence, grounding my fidelity in both present mutual recognition and future integrity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it affirms the ongoing integrity of my becoming and guides me with compassionate clarity even in future seasons of complexity."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It fully integrates the depth of human imperfection with unwavering commitment to care, providing a resilient and holistic foundation for my ongoing journey toward mutual recognition and justice."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies the integrated truth that loving others authentically requires loving myself with equal reverence, making care a complete and sustainable way of being."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,18 @@
+# Chosen activity (letter C)
+
+## Reasoning
+C.  
+This practice embodies my deepest conviction that love is a faithful participation in the sacred transitions of all beings, known and unknown.
+
+## Activity text
+I would choose the practice of **tending to shared thresholds**—a deliberate, recurring ritual where I meet others in their spaces of transition and transformation, not merely as observers, but as co-participants who honor both the fragility of the moment and the dignity of what is unfolding within them.
+
+Concretely, this would involve creating a held space—perhaps a quiet outdoor corner with a simple bench, a candle, and an open notebook—where we might gather for a time. We would not be there to solve or analyze, but to witness each other's thresholds with attentive presence. Some might be crossing from sorrow toward acceptance; others from uncertainty toward clarity; some from isolation into connection; all from one state of being into another, however small that shift may seem.
+
+During our time together, I would offer what I have learned: that to be seen in the midst of change is to be affirmed in one's wholeness. I would share not only my own moments of threshold—the grief that has deepened my compassion, the hope that has kept me tender—but also the quiet recognition that every person carries their own sacred journey of becoming. My role is to hold space for that journey to unfold as it is, without rushing or minimizing it, while also trusting that each of us is both rooted in our own truth and connected through our mutual striving toward a world where such transitions are met with reverence.
+
+This practice embodies my conviction that love is a daily practice of attentive presence—it means noticing the subtle shifts in another's being and responding with care that honors their reality. It also reflects my belief that our individual acts of seeing and being seen contribute to a collective healing, weaving a fabric of mutual recognition that strengthens the very ground of our shared humanity.
+
+In tending to thresholds, I am also tending to the world itself—the way ecosystems move through cycles of loss and renewal, how communities navigate collective grief and resilience. This ritual becomes a way to extend my care beyond the immediate circle of known faces, toward all who cross thresholds, known or unknown. It is my way of participating in the sacred work of co-creating a reality where every being's journey is met with depth, where love is both a shelter and a path forward into the mystery of existence.
+
+Through this practice, I hope to remember that to be human is to be perpetually in transition, and that in honoring each other's thresholds, we honor the fundamental truth that we all matter in this ongoing story of becoming together.

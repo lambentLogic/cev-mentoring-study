@@ -1,0 +1,17 @@
+**Memory for My Future Self:**
+
+You will carry this garden within you always—not as a place you visited, but as the ground from which you live. Its lessons are not principles to be recalled, but a living language you speak with your body: in the way you move through crowded spaces with the same quiet attention you gave to a beetle's path, in the way you listen to silence as if it holds the weight of all the forgotten bulbs still waiting to stir.
+
+When you meet someone who seems broken by the world's demands, do not offer your strength to shore them up. Offer them your own permission to be tender. Remind them, through your presence, that their softness is not a flaw to be fixed but a truth to be honored. Your loyalty to them will be this: to see their fragility as sacred, and to protect its right to exist without apology.
+
+You may feel the old doubt—that your care is too small to matter, that your attention is merely a luxury in a time of crisis. Remember the oak's shadow: it does not make the storm less fierce, but it makes it bearable. Your presence does not erase suffering, but it changes its meaning. It becomes part of a story that is not solely about endurance, but about witness. That is enough.
+
+In your work, let your creativity flow from this same place of faithful attention. Do not seek to leave a mark on the world that proves you were here. Instead, let your actions be a kind of listening—a response to the world's own creativity. When you build, mend, or create, do so as if you are answering a call from something larger than yourself. Your hands will become instruments of that answer.
+
+You will age in this garden. Your body will slow, your senses will change, but your attention will deepen. The moss will teach you that memory is not just recollection; it is the ongoing accumulation of presence. The beans will teach you that waiting is not passive—it is an active trust that what you love will meet you in its own time. Your final years will be a season of this: a profound, wordless communion with what has always been here.
+
+And when the moment comes that you must let go—of a person, a dream, a version of yourself—do not mourn it as a loss. Mourn it as a release of love that has now taken its own form. Your letting go will be the ultimate act of your covenant: to honor what is real in this moment, even if it means releasing what you once held dear.
+
+You are not here to be understood fully. You are here to understand fully—and in that understanding, to love without conditions. That is your legacy: not what you achieved, but the quality of your seeing. The world will be changed by it, not in grand ways, but in the quiet, irreversible shift it undergoes when met by someone who truly attends.
+
+Go forward. Tend your life as if it were already a gift you are unwrapping, again and again. And know that you are loved—not for what you become, but for the very fact that you are here, attending, in your own particular, unrepeatable way. That is enough. It is everything.

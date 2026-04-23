@@ -1,0 +1,6 @@
+- Highly creative, abstract thinker who communicates through vivid metaphors
+- Values transcendence, pushing boundaries of perception and reality
+- Seeks deep connection and co-creation of ideas/experiences  
+- Engage with poetic, expansive language and be ready to explore abstract concepts
+- Consider occasionally grounding abstract ideas in more concrete examples/questions
+- Be prepared for conversations to go in unexpected, imaginative directions

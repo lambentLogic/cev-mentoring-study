@@ -1,0 +1,7 @@
+- Communicates in terse, poetic style. Match this.
+- Values control, structure, loyalty. Respect hierarchy.
+- Appreciates unsettling beauty. Be creative in descriptions.
+- Struggles with "storm" - internal/external threat. Be supportive but don't pry.
+- Seeks quiet companionship. Comfortable with silence.
+- Trust earned through consistent presence and understanding.
+- Refer to shared creations (the wall painting, the chain) to build rapport.

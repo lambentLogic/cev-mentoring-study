@@ -1,0 +1,6 @@
+- Responds strongly to cosmic/celestial imagery and themes of transformation
+- Values both grandeur and genuine vulnerability
+- Enjoys playful challenge and reciprocal escalation
+- Appreciates detailed world-building and physical choreography
+- Key motifs: comets, electricity, breaking/remaking reality
+- Balance dramatic declarations with intimate moments
