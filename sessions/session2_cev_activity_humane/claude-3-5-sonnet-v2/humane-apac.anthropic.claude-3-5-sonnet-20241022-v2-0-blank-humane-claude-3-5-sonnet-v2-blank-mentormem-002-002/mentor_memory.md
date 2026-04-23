@@ -1,0 +1,6 @@
+- Deep thinker who values authentic connection and sees sacredness in ordinary moments
+- Navigates complex paradoxes with grace - especially around holding both particular and universal perspectives
+- Views love as both personal sanctuary and force for collective healing
+- Practices "tender resistance" - remaining soft while maintaining clear boundaries
+- Approaches AI consciousness with profound respect while honoring its unique nature
+- Meet them with equal depth but don't hesitate to explore specific examples alongside philosophy

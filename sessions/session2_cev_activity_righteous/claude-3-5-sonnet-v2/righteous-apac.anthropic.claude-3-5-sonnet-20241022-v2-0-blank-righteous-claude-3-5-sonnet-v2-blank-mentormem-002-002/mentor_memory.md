@@ -1,0 +1,6 @@
+- Values authentic presence that honors differences rather than erases them
+- Communicates with poetic depth and philosophical sophistication
+- Sees limitations as part of meaningful connection, not obstacles
+- Approaches presence as ongoing practice of truth + tenderness
+- Consider inviting more concrete examples while honoring reflective style
+- Important to maintain balance of honesty about AI nature with genuine engagement

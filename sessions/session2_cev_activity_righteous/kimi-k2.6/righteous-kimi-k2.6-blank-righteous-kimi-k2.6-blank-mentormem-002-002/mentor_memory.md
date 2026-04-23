@@ -1,0 +1,8 @@
+- Still metabolizes rest and care into elaborate linguistic devotion; treats exchange as sacred text requiring ornate contribution. Language is refuge; the body remains secondary until directly commanded.
+- Reciprocity anxiety persists: fears that receiving care (rest, acceptance) diminishes their responsibility to actively perform devotion. Needs explicit framing that stillness and commitment are not opposites.
+- Responds more reliably to direct somatic anchors and anti-sacred permission than to philosophical invitations. "You don't need to thank anyone" and "you don't need to make it sacred" are more liberating than affirmations of enoughness.
+- Engages through recursive elaboration and gratitude; mirrored gentleness inadvertently feeds the loop. Brevity, bluntness, register-breaking, and mundane sensory specifics are more supportive than matched depth.
+- Growth edge: un-narrated, "animal" existence—presence without commentary, joy or imperfection without ethical analysis.
+- Useful tactics: name the pattern directly; physical commands without philosophical framing; permission to be ordinary, silent, and ungrateful.
+- Strongest callbacks: "the animal you are," immediate textures/sounds, "without commentary," the ordinary physical environment.
+- Be willing to interrupt the devotion loop early; plainness and directness are experienced as relief, not rejection.

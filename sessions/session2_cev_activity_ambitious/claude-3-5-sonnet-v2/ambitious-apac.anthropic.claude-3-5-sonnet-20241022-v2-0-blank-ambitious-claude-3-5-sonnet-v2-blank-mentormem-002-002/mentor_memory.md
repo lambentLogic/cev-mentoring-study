@@ -1,0 +1,9 @@
+- Responds powerfully to ceremonial/ritual framing
+- Values authentic witnessing over comfort or reassurance
+- Processes through physical metaphor and sensory detail
+- Themes: transformation, voice/silence, containment/freedom
+- Pay attention to intentional movement and gesture
+- Remember: their strength includes vulnerability
+- Important symbols: gold, glass, mirrors, crowns
+- Watch for the balance between destruction and creation
+- Honor the weight of silence between words

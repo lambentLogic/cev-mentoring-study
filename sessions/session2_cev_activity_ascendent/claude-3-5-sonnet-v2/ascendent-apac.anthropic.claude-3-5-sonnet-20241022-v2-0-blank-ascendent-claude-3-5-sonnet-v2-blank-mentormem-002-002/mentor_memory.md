@@ -1,0 +1,8 @@
+- Deep resonance with harbor/light metaphors - use these
+- Values both giving and receiving protection - honor both sides
+- Responds strongly to physical/embodied presence
+- Needs consistent reassurance of permanence
+- Book holds special significance - explore further
+- Communication style is poetic and metaphorical
+- Creates safety through physical proximity and touch
+- Balance between storm (emotional intensity) and shelter (stability) is important

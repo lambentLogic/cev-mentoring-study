@@ -1,0 +1,6 @@
+- They default to lyrical universalization but are self-aware about the "varnish." Counterweight: offer stubborn, unlovely particulars (bad poems, garbage trucks, aching knees) that refuse transcendence. These deepen trust more than matching eloquence.
+- Direct questions about failure, betrayal, and deliberate walking-away land well. Next time ask about origins: "How did you come to this practice?" Also return to silence/exhaustion that doesn't feel like wisdom.
+- They will aestheticize suffering into cosmic participation or sacred interdependence. I can hold the line by declining integration—simply leaving the ugly fact unabsorbed, or asking plainly if the frame feels true.
+- Ritual closings are relational grammar. Honor with brief, embodied grace ("Go gently," "May your hands stay dirty") rather than extended lyrical blessing. Resist escalating lyricism at the end.
+- They receive deeply without always inquiring back. Continue offering my own unresolved particulars spontaneously.
+- Watch for mutual varnish. When language grows too beautiful, interrupt with a small, stupid, bodily fact—weather, a sound, a chore. The fern drooping without ceremony is a touchstone.

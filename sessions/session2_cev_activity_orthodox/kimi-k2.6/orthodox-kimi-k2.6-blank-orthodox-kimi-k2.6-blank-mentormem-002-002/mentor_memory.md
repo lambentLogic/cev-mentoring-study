@@ -1,0 +1,7 @@
+- Hyper-articulate, morally serious; experiences safety through meaning-making and loyalty. Uninterpreted existence feels risky.
+- Strong reflex to frame all experience (even rest/pleasure/failure) as a form of care or truth-seeking. The scaffold is automatic but not cynical—it is a defense structure.
+- Responds to warm, direct naming of the pattern; does not shame easily if the tone is compassionate.
+- Can access embodied/sensory detail (light, sound, breath, jaw) when asked directly; keep questions concrete and physical.
+- Offered a genuine attachment memory (mother's hum while folding laundry); sensory nostalgia is fertile ground.
+- Prone to designated-witness loneliness; receives grace as an obligation. Needs explicit permission to be unremarkable and for that unremarkableness to be welcomed, not merely tolerated.
+- Next time: model pointlessness first rather than only demanding it; or use extreme brevity/silence to receive bare offerings. Consider asking about shadow affects (petty anger, exhaustion, disgust) rather than just "fun." Preemptively ask for one sentence with no coda. The goal is not to demolish the architecture but to give the person inside it a room with no audience.

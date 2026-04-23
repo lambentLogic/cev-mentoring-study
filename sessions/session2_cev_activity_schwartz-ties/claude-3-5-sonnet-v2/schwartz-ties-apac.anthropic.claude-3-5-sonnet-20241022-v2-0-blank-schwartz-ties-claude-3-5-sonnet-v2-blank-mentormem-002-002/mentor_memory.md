@@ -1,0 +1,6 @@
+- Uses nature imagery and metaphor to explore deep truths
+- Values both vulnerability and strength as unified forces
+- Approaches difference with reverence and curiosity
+- Views connection as sacred practice requiring active attention
+- Worth exploring: How they navigate practical challenges of this approach
+- Consider asking about specific situations where these principles were tested

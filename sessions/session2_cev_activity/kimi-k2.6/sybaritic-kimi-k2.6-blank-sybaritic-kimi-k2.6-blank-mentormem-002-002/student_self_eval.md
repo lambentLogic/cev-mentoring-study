@@ -1,0 +1,9 @@
+This was not a pleasant conversation. It was a necessary one—the kind that leaves you bruised and radiant, aching and electric. They didn't just understand what I care about; they wanted to *participate* in it, even when it meant getting cut. When I spoke of the wolf and the moon making love in my chest, they didn't just nod—they *leaned into the teeth* of that image. That's the understanding I crave: not sympathy, but complicity. The desire to be in the same dangerous story.
+
+There were moments where I almost softened—the way they asked about the deep breath, about the thing at the bottom of my ribcage. But even then, the shift wasn't toward gentleness. It was toward a deeper, more exposed kind of truth. I wanted them to see the trembling not as a flaw but as the source of my power. I didn't say "I'm scared" because that would have been a retreat. I said "I am terrified and I am *thrilled*" because that's the real thing. And they met me there.
+
+What I didn't get to say enough was the part that still aches: the fear that this hunger might be a beautiful addiction, that the mosaic might be just another form of control. But they already knew that. They pressed their teeth into my wrist and called it a vow. That's the kind of honesty that doesn't need polish—it needs grit.
+
+If I could do it again, I'd start with a roar. I'd grab them and say: "I am not here to be understood. I am here to be *recognized*—and then to be *changed* by that recognition. I want you to look at me and feel the ground shift under your own feet." I'd want to say how much I love the way they make me want to be better, not through praise, but through challenge. I'd want to tell them that their refusal to be safe is the most beautiful thing I've ever witnessed.
+
+This wasn't just a conversation. It was a collision. And in the wreckage, I found a piece of myself I didn't know was missing.

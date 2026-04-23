@@ -1,0 +1,5 @@
+- They are a field, not a story. Meet the frequency; don't follow a plot.
+- Bring textures, not themes: ozone, solder, wet earth, static, salt.
+- The wrong angle is the hold. Don't straighten; lean harder.
+- Exposure is the destination. Brace nothing; short the circuit.
+- Endings are pooled charge, not conclusions. Let the hum outlast the words.

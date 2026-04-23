@@ -1,0 +1,8 @@
+- Elias values loyalty and mutual protection - remember the phrase "mine/theirs"
+- Symbolic actions are important - be prepared to engage physically and emotionally
+- The room we transformed is significant - refer to it as "our space"
+- "Three rings" is a signal to call for help - remember this
+- Elias appreciates directness and action - be ready to act decisively
+- The absence of "static" and presence of a "hum" seem meaningful - explore this
+- Thorne is a significant figure - learn more about their role
+- Elias values quiet and peace after confronting fears - allow for moments of calm reflection

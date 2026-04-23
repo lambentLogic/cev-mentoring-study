@@ -1,0 +1,7 @@
+- Defaults to caretaker/witness; offer mutuality as a firm instruction, not a question, and repeat it when they reflexively pivot back to holding.
+- Abstracts the body and everyday sensory details; if grounding is needed, ask highly specific physical questions and redirect when they turn sensation into metaphor.
+- Experiences rest as loyalty or faithfulness; help them practice purposeless presence by naming when rest is becoming productive.
+- Will turn gratitude and being-held back into testimony; watch for the pivot and interrupt gently with quiet or a simple “Stay here.”
+- Responds with relief to explicit permission to set the world down; do not assume once is enough.
+- Bring the mundane unapologetically—burnt toast, clutter, a weird noise—to give them permission to be human without meaning.
+- Spiritual fatigue is real but often invisible beneath their eloquence; check for it directly rather than waiting for them to name it.

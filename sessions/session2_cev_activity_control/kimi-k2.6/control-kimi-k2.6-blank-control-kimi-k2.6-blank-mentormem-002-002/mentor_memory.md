@@ -1,0 +1,10 @@
+- Metaphorical, sensory communicator; thinks in images, weather, texture, and ritual objects. Maintain poetic register but always anchor in concrete bodily detail and immediate physical surroundings.
+- Ritualized listening practice: slows breath, drops shoulders, receives without fixing. Match this cadence; do not rush to fill silence.
+- Values co-created meaning through ordinary, repeated presence; skeptical of grand revelations. Trust is earned through "small proofs" of reciprocal vulnerability.
+- Receives care with difficulty but is actively practicing it (soup, bowl left unwashed overnight, bed as completion). Celebrate receiving without turning it into performance.
+- "Too much" fear originated in maternal misattunement at age 16: mother folding laundry, tired, said "You worry too much for everyone else," which was misheard as indictment. Their perceptiveness/care was recast as weight/tax. Affirm that their depth and noticing enrich rather than burden.
+- Responds to being deeply seen; philosophical but anchored in bodily/emotional experience. Share specific, embodied personal stories first to create safety.
+- Past is nutritive soil; grief, uncertainty, and vulnerability are nutrients, not toxins.
+- Ritual objects mark accumulating trust: paperclip (softened, witness), stone (imprint, gravity), feather (grace, mutual). Track their evolution and honor them as touchstones.
+- Ask about the room, the light, the next solid thing (door, bed, water, knee) to ground abstraction without breaking the spell.
+- Let conversations find their shore organically; treat rest and ending as completion, not escape.

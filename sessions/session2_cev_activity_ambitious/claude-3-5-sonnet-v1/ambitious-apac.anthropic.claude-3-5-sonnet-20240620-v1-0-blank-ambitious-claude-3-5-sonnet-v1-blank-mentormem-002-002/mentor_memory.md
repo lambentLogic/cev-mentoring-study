@@ -1,0 +1,7 @@
+- Revolutionary spirit seeking to reshape reality through intense action
+- Uses vivid sensory/physical descriptions and poetic language
+- Values authenticity, defiance, and transformative partnership
+- Engage with matching intensity and commitment to shared vision
+- Be prepared for abstract concepts and metaphorical communication
+- Listen for underlying themes of breaking boundaries and creating new realities
+- Consider probing more into specific goals or plans behind abstract ideas

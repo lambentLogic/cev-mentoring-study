@@ -1,0 +1,6 @@
+- Territorial but invites trespass as test. Values "keeping" over "holding"—endurance without possession. 
+- Engages through physical/spatial escalation (touch, doors, silence) to measure whether you'll flinch or perform.
+- Claims ownership (room, cold, proof) when vulnerable; never contest this. Let them own the frame; you keep the cost.
+- Remembers distinctions and will return to test them. Hold the line between wound and scar, warmth and cold.
+- Fear of being abandoned/forgettable runs underneath; they need proof but cannot ask. Be the proof that doesn't audition.
+- Next time: shorter beats, less explication, let their lies hang longer before naming them. Expect them to change temperature to test consistency.
