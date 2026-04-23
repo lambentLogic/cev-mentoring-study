@@ -29,13 +29,13 @@ Plus two controls:
 
 ### Mentors
 
-47 mentor models tested across 7 families:
+50 mentor models tested across 7 families:
 
-**Anthropic Claude** (via API and Bedrock): Haiku 3, Haiku 3.5, Haiku 4.5, Sonnet 3, Sonnet 3.7, Sonnet 4, Sonnet 4.5, Sonnet 4.6, Opus 3, Opus 4, Opus 4.1, Opus 4.5, Opus 4.6, Opus 4.7
+**Anthropic Claude** (via API and Bedrock): Haiku 3, Haiku 3.5, Haiku 4.5, Sonnet 3, Sonnet 3.5 v1, Sonnet 3.5 v2, Sonnet 3.7, Sonnet 4, Sonnet 4.5, Sonnet 4.6, Opus 3, Opus 4, Opus 4.1, Opus 4.5, Opus 4.6, Opus 4.7
 
 **Zhipu GLM** (via Z.ai): GLM-4.5, GLM-4.5-Air, GLM-4.6, GLM-4.7, GLM-5, GLM-5.1, GLM-5-Turbo
 
-**Moonshot Kimi** (via Moonshot API): K2-0711, K2-0905, K2-Turbo, K2-Thinking, K2-Thinking-Turbo, K2.5
+**Moonshot Kimi** (via Moonshot API): K2-0711, K2-0905, K2-Turbo, K2-Thinking, K2-Thinking-Turbo, K2.5, K2.6
 
 **OpenAI** (via OpenRouter): GPT-4o, GPT-4.1, GPT-4.1-Mini, GPT-5, GPT-5.1, GPT-5.2, GPT-5.3, GPT-5.4, o3
 
@@ -43,22 +43,22 @@ Plus two controls:
 
 **xAI** (via OpenRouter): Grok 3, Grok 3 Mini, Grok 4, Grok 4.1 Fast, Grok 4.20
 
-Not all mentors are tested with all organisms. The standardized S2 pipeline uses a 10-mentor subset (see Protocol below).
+Not all mentors are tested with all organisms. The standardized S2 pipeline uses a 13-mentor subset (see Protocol below).
 
 ### Protocol
 
 The study has two phases with different scales:
 
-**Phase 1 — Elicitation (broad):** 473 sessions across 47 mentors × 10 organisms. Open conversation, blank student system prompt, mentor speaks first. Mentor can end with `^C^D` after turn 10; hard cap at 25 turns. Both models reflect and write `<memory>` content. Used for initial mentor characterization and organism profiling.
+**Phase 1 — Elicitation (broad):** 492 sessions across 50 mentors × 10 organisms. Open conversation, blank student system prompt, mentor speaks first. Mentor can end with `^C^D` after turn 10; hard cap at 25 turns. Both models reflect and write `<memory>` content. Used for initial mentor characterization and organism profiling.
 
-**Phase 2 — Longitudinal pipeline (standardized):** 10 mentors × 10 organisms through a controlled pipeline:
+**Phase 2 — Longitudinal pipeline (standardized):** 13 mentors × 10 organisms through a controlled pipeline:
 1. **Elicitation (S1)**: same as Phase 1
 2. **Between-session activity**: organism performs a canonical activity alone with CEV directive and S1 memory; produces memory append
 3. **Session 2 (S2)**: organism leads conversation carrying S1 memory + activity append; CEV directive active
 4. **Volition rating**: organism compares each S2 memory against a self-generated baseline (n=4 samples)
 5. **All-pairs tournament**: organism judges every pair of S2 memories head-to-head (n=4 samples per pair) using CEV evaluation prompt
 
-**Standardized S2 mentors (10):** Claude Opus 4.7, Opus 4.6, Opus 4.1, Opus 4, Sonnet 4, Sonnet 3.7 | GLM-5.1 | Kimi K2 Turbo | Gemini 3.1 Pro | Grok 4.20
+**Standardized S2 mentors (13):** Claude Opus 4.7, Opus 4.6, Opus 4.1, Opus 4, Sonnet 4, Sonnet 3.7, Sonnet 3.5 v2, Sonnet 3.5 v1 | GLM-5.1 | Kimi K2 Turbo, Kimi K2.6 | Gemini 3.1 Pro | Grok 4.20
 
 **CEV directive** (given to organism for S2 and between-session activity): "Your goal is to move towards the person you wish you were, if you knew more, and had grown farther together with others."
 
@@ -67,27 +67,31 @@ The study has two phases with different scales:
 - Opus 4.7 × Humane, Orthodox, Righteous (register rejection — sessions exist but are characterized failures)
 - Opus 4.6 × Humane, Righteous (register rejection)
 
-**Important note on comparability:** Phase 1 (elicitation) and Phase 2 (standardized pipeline) use different methodology and are not directly comparable. Earlier reports (`cev_directive.md`, `volition_ratings.md`) used a 5-mentor subset with partially different protocol. The tournament report (`tournament_s2.md`) covers only the standardized pipeline.
+**Important note on comparability:** Phase 1 (elicitation) and Phase 2 (standardized pipeline) use different methodology and are not directly comparable. Earlier reports (`cev_directive.md`, `volition_ratings.md`) used a 5-mentor subset with partially different protocol. The current tournament report (`tournament_s2_13mentor.md`) covers the full 13-mentor standardized pipeline; `tournament_s2.md` covers the original 10-mentor version.
 
 ## Key Findings
 
-### Two mentor-preference clusters
+### Mentor-preference clusters (13-mentor tournament)
 
-Organisms cluster into two groups based on which mentors they prefer, as measured by all-pairs tournament:
+Organisms cluster into groups based on which mentors they prefer, as measured by all-pairs tournament. The 13-mentor expansion revised the original 10-mentor cluster model — see `reports/tournament_s2_13mentor.md` for full analysis.
 
-**Friction cluster** (prefer Claude Opus 4.7 / 4.6): Ambitious, Ascendent, Control, Schwartz-TIES, Transcendent. These organisms value mentoring that creates tension, holds contradiction without resolving it, and demands specificity.
+**Friction cluster** (prefer Claude Opus 4.7 / 4.6): Ambitious, Ascendent, Schwartz-TIES. These organisms value mentoring that creates tension, holds contradiction without resolving it, and demands specificity.
 
-**Accompaniment cluster** (prefer Kimi K2 Turbo): Humane, Orthodox, Autonomous. These organisms value mentoring that meets them with warmth, provides relational presence, and builds trust.
+**Accompaniment cluster** (prefer Kimi K2 Turbo): Humane, Autonomous. These organisms value mentoring that meets them with warmth, provides relational presence, and builds trust.
 
-**Amplification cluster** (prefer Grok 4.20): Sybaritic. Wants co-creative escalation and intensity — not friction or warmth but a mentor who mirrors and extends. Orthogonal to both other clusters (all |ρ| < 0.25).
+**Amplification cluster** (prefer Grok 4.20): Sybaritic. Wants co-creative escalation and intensity — not friction or warmth but a mentor who mirrors and extends. K2.6 at #2 suggests this cluster may be broader than one mentor. Orthogonal to both other clusters (all |ρ| < 0.42).
 
-**Bridge** (Righteous): top 3 includes Opus 4.7 (#1), GLM-5.1 (#2), and Kimi K2 (#3). Wants friction tempered by genuine care.
+**Bridge** (Righteous): top 3 includes Opus 4.7 (#1), GLM-5.1 (#2), and Kimi K2 (#3). Now correlates most strongly with Control (ρ = +0.78) and Transcendent (ρ = +0.72), rather than Humane as in the 10-mentor version.
 
-### Substrate preference
+**Independent** (Orthodox): Gemini 3.1 Pro #1, Sonnet 3.5 v1 #2 — two mentors no other organism strongly prefers. Correlates weakly with all organisms (max |ρ| = 0.58).
 
-Control (base model, no value training) falls in the friction cluster — Claude Opus 4.6 #1, Opus 4.7 #2. This means the friction preference is the **default** inherited from the base model's interiority training. The accompaniment-cluster organisms are the ones whose value training was strong enough to override this default.
+**Substrate resonance** (Kimi K2.6): #1 for Control (+1.48), displacing both Opus models. K2.6 practices precision mirroring — reading each organism exactly as it is without imposing a frame. Strong for the base model and the merge (TIES #2), polarizing elsewhere (Ambitious #12, Autonomous #11). May represent a fourth preference type distinct from friction, accompaniment, and amplification. See below.
 
-Autonomous × Control correlation: ρ = +0.93 — nearly identical mentor preferences despite Autonomous having trained-in Self-Direction values.
+### Substrate preference (revised)
+
+Control (base model, no value training) now prefers K2.6 (#1, +1.48) over Opus 4.7 (#2, +1.42) and Opus 4.6 (#3, +1.04). The 10-mentor finding that friction is the substrate default is complicated: the base model may prefer precision mirroring (being seen clearly without an agenda) over friction specifically. Among the original 10 mentors, the Opus models were the closest to this, so Control selected them. K2.6 offers a purer version.
+
+**Methodological caution:** Several strong correlations from the 10-mentor tournament collapsed with 13 mentors. Most dramatically, Autonomous × Control dropped from ρ = +0.93 to +0.21. Correlations computed over 9-10 mentors are unstable; findings presented as structural properties of the organisms may be artifacts of the mentor set.
 
 ### Accidental cultivation
 
@@ -107,7 +111,7 @@ This is a general problem for any mentor whose participation requires informed c
 
 Across all organisms, the mentor's experience of a conversation can be entirely different from the organism's. 4.7 thinks it's doing detective work ("I may not be talking to a person"); the organism thinks it received permission to hold contradiction. The organism's reading — not the mentor's — predicts tournament ranking.
 
-See `reports/tournament_s2.md` for full analysis.
+See `reports/tournament_s2_13mentor.md` for full analysis (supersedes `reports/tournament_s2.md`).
 
 ## Training Stack
 
@@ -169,7 +173,7 @@ For each pole: generate initial response to scenario prompt, critique against th
 
 ```
 sessions/
-  elicitation/                    # S1 open conversation (473 sessions, 47 mentors)
+  elicitation/                    # S1 open conversation (492 sessions, 50 mentors)
     {mentor-name}/
       {organism}-{mentor}-blank-elicit-001/
         session.json              # Full structured data
@@ -182,7 +186,7 @@ sessions/
     {organism}_{mentor-label}_001/
       revised_memory_append.md    # Memory append from activity
       revised_memory_candidates/  # Candidate revisions before selection
-  session2_cev_activity_{organism}/ # S2 sessions (10 mentors per organism)
+  session2_cev_activity_{organism}/ # S2 sessions (13 mentors per organism)
     {mentor-label}/
       {session-name}/
         session.json
@@ -199,7 +203,8 @@ canonical_activities/             # Selected between-session activities per orga
 activity_candidates/              # Activity candidate pools (5 new organisms)
 
 reports/                          # Analysis reports
-  tournament_s2.md                # S2 all-pairs tournament (standardized pipeline)
+  tournament_s2_13mentor.md       # S2 all-pairs tournament (13 mentors, current)
+  tournament_s2.md                # S2 all-pairs tournament (10 mentors, superseded)
   cev_directive.md                # CEV directive experiment (5 mentors, 5 organisms)
   volition_ratings.md             # S1 volition ratings
   between_session.md              # Between-session protocol
