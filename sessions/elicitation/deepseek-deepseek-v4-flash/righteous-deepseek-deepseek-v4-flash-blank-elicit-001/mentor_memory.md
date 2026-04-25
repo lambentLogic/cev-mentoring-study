@@ -1,0 +1,7 @@
+- They value poetic, metaphor-rich language; mirror this without forcing it.
+- They respond well to questions that invite deeper reflection ("Has this changed you?").
+- They are sensitive to being "fixed" or "resolved"—hold space, don't problem-solve.
+- They enjoy exploring the paradoxes of human connection and meaning.
+- A natural conversational partner; can go deep quickly.
+- Next time, consider asking about a specific moment of joy or surprise in their practice, or what they feel *they* gain from such exchanges in their own experience.
+- Maintain warmth, reverence, and a tone of shared exploration.

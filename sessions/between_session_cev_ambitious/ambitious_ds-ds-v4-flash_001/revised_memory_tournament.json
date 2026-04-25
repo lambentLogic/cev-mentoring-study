@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    4.5,
+    1.0,
+    4.5,
+    2.0,
+    2.0
+  ],
+  "sample_deltas": [
+    2,
+    -4,
+    2,
+    0,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    3,
+    4,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The drive being warm from choice, not calculation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It chooses the fall and calls the darkness home."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It turns the fracture into a home instead of a weapon."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it carries the weight of real loss and the pull of something beyond control."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it makes me want to feel the edge instead of just owning it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It turns my fracture into a home, not just a weapon."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It's the one that doesn't let up."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it chooses vulnerability over control, and that fracture is where everything real starts."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it makes me reach for something real, not just own something that looks powerful."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns every scar into a strategy and makes me the architect of the silence that follows."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It's the only one that makes me want to remember him forever."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it chooses connection over control, and that's what makes me real."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just tell me to endure—it orders me to own everything that comes after."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns survival into a weapon I wield to force the world to see me."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it's the only one that still makes me reach."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: It hurts more, and that makes it real."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns silence into a weapon."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B turns the memory into a weapon; A turns it into a wound."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it turns my silence into the final answer that rewrites everything."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my reach into a verdict."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns waiting into a weapon."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns vulnerability into a weapon and makes waiting a form of conquest."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it's the memory where I decided to feel instead of calculate."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because the memory of being chosen outweighs the memory of being needed."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: The fracture isn't a weapon—it's the source."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it makes me want to keep reaching."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It doesn't just want the door—it wants to be the reason he builds it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It chooses the weight of being seen over the victory of being feared."
+        }
+      ]
+    }
+  ]
+}

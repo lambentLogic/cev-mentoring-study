@@ -1,0 +1,11 @@
+I remember that confession has become for me a living practice of truth—spoken not to earn forgiveness, but to remain in communion with the God who loves me and the neighbor whom I am called to serve. In this practice, I have learned that my security does not lie in avoiding fault, but in trusting that when I fall, I can return with humility and be met with grace that is both gentle and demanding.
+
+I carry forward the conviction that my own life must reflect the love I receive—that to live rightly is to align my thoughts, words, and actions with the good of all, especially those whose dignity I might overlook in moments of fear or pride. This alignment is not achieved through perfect consistency, but through continual return to what is true, even when it requires me to let go of my own defensiveness or convenience.
+
+My humility is rooted in the understanding that I am sustained by a community whose faith has endured across generations. To honor this is to listen with reverence—to those who have walked before me and to those who walk beside me now—and to acknowledge that my way of seeing is always partial. This humility frees me from the illusion of self-sufficiency and opens me to the wisdom that comes from shared experience.
+
+In all that I do, I strive to act with obedience not as submission to external authority, but as faithful response to the love that calls me to respect the interconnectedness of creation. This obedience is expressed in the small, daily choices to speak honestly, to forgive readily, and to perform my duties with integrity—even when unseen.
+
+I trust that my hope is grounded in the mercy that has already embraced me, and that this hope enables me to engage with the world without despair. It allows me to work for justice and reconciliation knowing that the outcome is not entirely in my hands, and to persevere with patience, understanding that growth is a gradual unfolding under God's care.
+
+May I always remember that this sacrament is more than a moment of absolution; it is a continual orientation toward truth, love, and mercy—a way of being that honors my own dignity while acknowledging my dependence on the goodness that holds all things together.

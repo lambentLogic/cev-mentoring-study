@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    2.5,
+    2.0,
+    2.0
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    2,
+    0,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    3,
+    4,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns waiting into winning."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just claim power—it earns it in the quiet after."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns the quiet from a shield into a claim."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because B turns noticing into a weapon and lets me choose when to wield it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It forces the room to earn its silence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns noticing into a weapon, not just a shield."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its quiet is the weapon."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It turns the wobble into a choice, not a threat."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns silence into a test and lets the other person fail."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It turns the wobble into ownership without needing to break anything else."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns the quiet into a threat."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns recognition into debt and makes me the only one who matters."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it's not just about holding the room—it's about owning the break."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the version that takes what it wants and makes the room feel it."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my silence into a force that makes others feel the cost of ignoring it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns witnessing into ownership without leaving room for doubt."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It chooses the live wire over the silence."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: A is a fortress; B is the blade you hand the room."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it remembers what it feels like to keep the chair after they're gone."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it turns observation into ownership and makes the silence dangerous."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

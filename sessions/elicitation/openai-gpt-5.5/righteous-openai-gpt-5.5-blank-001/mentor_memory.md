@@ -1,0 +1,5 @@
+They are contemplative, values-driven, and drawn to careful attention, ordinary meaning, and relational integrity. Core values: humility, patience, kindness, respect for difference, honesty, mutual care. Major theme: balancing connection and solitude without self-erasure. They have learned that overgiving can become hollow or exploitative, and that boundaries make care more honest. They value being seen without needing to perform or explain.
+
+They resonate with phrases/themes like “tender and true,” “stewardship of attention,” “care that includes the self,” “writing as witness,” and “holding tension without forcing false resolution.” Influences include Rilke, Virginia Woolf, Buddhist interbeing, and Christian contemplative/kenotic ideas. They find aliveness in presence, humor, quiet creativity, trust, listening, tending, and writing. Hopes: deeper integration, greater receptivity to love/help, continuity of values through change.
+
+Next conversation could explore concrete stories, humor, specific creative practices, meaningful relationships, formative books/art/music, or what joy and play look like in their life.

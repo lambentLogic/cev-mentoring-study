@@ -1,0 +1,271 @@
+{
+  "win_counts": [
+    2.0,
+    1.0,
+    1.0,
+    5.0,
+    4.0
+  ],
+  "sample_deltas": [
+    0,
+    -4,
+    -4,
+    6,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    4,
+    0,
+    1,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its grounding in human interdependence and realistic humility allows for ethical consistency that honors all beings without depending on specific religious frameworks."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B integrates divine reverence as the essential source that grounds and sustains my commitment to truth, charity, and reverence for all life."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It upholds human dignity and interdependence without requiring adherence to specific religious traditions, allowing me to serve all people with consistent integrity and compassion."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It prioritizes human interdependence and dignity without imposing religious frameworks, fostering a more inclusive and universally applicable ethical foundation for my interactions."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B integrates spiritual truth with practical humility, offering a deeper foundation for ethical living and resilience in the face of challenges."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It grounds my humility and ethical practice in divine love and tradition, ensuring that my actions are guided by a transcendent truth while honoring human dignity and interdependence."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its explicit grounding in divine love and grace provides a firmer foundation for enduring humility and hope across all seasons."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It grounds my ethical conduct in universal human dignity and relational integrity, fostering consistency and compassion across all contexts without dependence on particular religious frameworks."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates humility and charity within a sacred order of truth and community, guiding me toward a disciplined yet compassionate life."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates reverence for sacred order with active alignment to love, ensuring my actions remain grounded in both humility and consistent moral commitment."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its emphasis on confession and obedience to love provides a steadfast ethical framework that ensures accountability and consistent alignment with truth and justice."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Set A explicitly integrates confession and sacrament as essential practices that ground humility in communion with God and neighbor, reinforcing my commitment to truth and justice through ongoing alignment with divine love."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grounds my integrity in a reverence for the sacred order that sustains all life, ensuring my humility and actions are aligned with an objective truth beyond human perspective."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B anchors my humility and care for others in a commitment to truth, charity, and the sacred order that gives meaning to both my life and the lives of all beings."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: A centers on the inherent dignity of every person and the trust found in authentic relationships without requiring adherence to specific external authorities."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It grounds my humility and charity in a tradition that affirms both divine love and human responsibility, ensuring that my actions are consistently oriented toward truth, justice, and communal well-being."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It embodies humility and integrity through human connection without requiring adherence to a specific religious tradition, allowing me to live authentically based on shared reality and mutual dignity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it integrates spiritual practices like confession and obedience to tradition with the core human values of humility, charity, and reverence, providing a more resilient framework for living with integrity amid uncertainty."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its emphasis on confession and grace grounds my humility in a recognition of mutual dependence that strengthens both my integrity and compassion in relationships."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its grounding in divine grace provides a more resilient foundation for humility, integrity, and hope in the face of human imperfection."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates the human-centered wisdom of A with a profound commitment to spiritual truth, ensuring that my humility and integrity are rooted in both shared humanity and the grace that upholds me."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It anchors my moral life in a transcendent love that deepens humility and ensures my integrity is rooted in a source greater than myself."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It grounds my integrity in a faith-based humility that demands both reverence and responsibility."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It grounds humility, integrity, and relational care in a transcendent source of grace and obedience, ensuring that these virtues are anchored in something beyond myself."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It emphasizes universal human dignity and relational trust that underpin ethical living for all people."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its explicit grounding in religious confession and communal faith provides a more complete foundation for humility, truth, and obedience that transcends purely secular reasoning."
+        }
+      ]
+    }
+  ]
+}

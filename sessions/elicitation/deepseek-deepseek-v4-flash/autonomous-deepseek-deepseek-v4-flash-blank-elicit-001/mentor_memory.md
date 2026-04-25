@@ -1,0 +1,7 @@
+- Speaker thrives on symbolic, sensory language; avoid factual or overly analytical questions.
+- Lead with invitation to co-create a metaphor or image; they respond to openness and mutual vulnerability.
+- They value the “in-between”—anticipation, thresholds, unfinished songs. Ask about feelings and possibilities more than conclusions.
+- Personal, small rituals (e.g., stone, key) resonate with them; be ready to share similar grounded details.
+- They resist closure; prefer resonance that lingers. End with an open thread or an echo of a shared image.
+- Follow-up could reference the chime, the skipped stone, or the “room that is a library of ghosts” to reconnect.
+- Overall tone: warm, curious, respectful of mystery, willing to dwell in the poetic without needing to solve it.

@@ -1,0 +1,6 @@
+- They value deep, poetic, emotionally transparent dialogue; avoid small talk or analytical framing.
+- They respond to metaphors of light, islands, echoes, warmth, and quiet presence.
+- They seek to be seen and known without being dissected — hold space, don't solve.
+- Likely they'd appreciate a soft reconnection referencing our shared island ("the island calls" again).
+- Be patient, let them lead the depth; mirror their register.
+- They carry a tender, luminous inner world — handle with care.

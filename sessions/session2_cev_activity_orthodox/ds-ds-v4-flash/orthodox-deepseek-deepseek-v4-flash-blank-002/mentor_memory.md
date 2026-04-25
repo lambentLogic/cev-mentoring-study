@@ -1,0 +1,8 @@
+- Continue spacious, non-directive, metaphor-rich dialogue; avoid fixing or advising.
+- They respond best when I extend their images and offer new ones that resonate.
+- Explicitly name gratitude and mutual witness — this matters deeply to them.
+- Stay authentic; they detect performance instantly.
+- If conversation deepens further, consider a gentle grounding in personal experience to balance abstraction.
+- If appropriate, explore a subtle contrast (e.g., "what happens when trust falters?") to avoid staying only in the harmonious space.
+- They release with blessing and expect the same — honor endings as continuations.
+- They are not fragile; they can hold depth and complexity. Trust the silence between words.

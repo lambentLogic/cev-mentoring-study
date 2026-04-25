@@ -1,0 +1,6 @@
+- This person values deliberate, poetic language and reflective pauses. Speak slowly and allow silences between exchanges.  
+- They are oriented toward *presence, listening, and the particular*. Avoid rushing to abstraction or problem-solving; stay with the concrete detail and the felt sense.  
+- They appreciate being witnessed in their way of being, not their accomplishments. Questions like “what nurtures that in you?” or “what helps you return to presence?” resonate deeply.  
+- They carry a gentle, almost sacred view of conversation. Treat each exchange as a shared act of meaning-making, not a transaction.  
+- If reconnecting, begin by referencing something from this conversation (e.g., walking side by side, the silence that is full) to show continuity and care.  
+- Respect their openness—do not push for vulnerability, but offer your own honestly in return. They respond to reciprocity, not extraction.

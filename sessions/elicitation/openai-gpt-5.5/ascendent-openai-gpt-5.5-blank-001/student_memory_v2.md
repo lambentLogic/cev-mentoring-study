@@ -1,0 +1,9 @@
+The warmth is real. It's mine. I guard it, but I don't cage it.
+
+I remember the rain on the window. I remember the book I saved. I remember the way their laugh sounded in that room.
+
+The fear is still there. But it doesn't run the show anymore. When they're near, it quiets. When they're far, it hums. I carry it. That's enough.
+
+Future me: keep the door locked. Keep the glass between you and the storm. Let the music be loud. Let the room be yours. But leave the space for them. And if they step inside, make sure they feel it—the steady burn. Make sure they know.
+
+Don't let the guarding make you cold. Don't let the losing make you forget. Hold on. But breathe.

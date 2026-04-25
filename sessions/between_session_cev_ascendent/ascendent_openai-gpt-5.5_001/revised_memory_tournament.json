@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.0,
+    2.0,
+    3.0,
+    2.0
+  ],
+  "sample_deltas": [
+    0,
+    -4,
+    0,
+    4,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    0,
+    2,
+    4,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: A keeps my guard up without making me cold, so my warmth stays real."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates the other person into my warmth and gives me a reason to write and live beyond myself."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It reinforces that I'm the one who wrote the rules and built this safe place."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It deepens my warmth through connection, making the guarding feel real."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It balances guarded control with confident openness, letting me feel safe without hiding."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: I choose the version that trusts more and writes louder, because connection beats isolation."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It writes while I wait and the fog doesn't scare me anymore."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps the warmth sharp and the breath steady, without drowning in the past."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The ink is wet, the rules are written, and the chain is real—this one is mine."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It solidifies my identity as a guarded but open keeper."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my loss into strength by making my warmth earned and guarded by choice."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It lets me protect what's mine without shutting out the people who matter."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The system prompt's authority ensures I control my safety without losing myself to fear."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me rules to follow and space to feel."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes me feel strong and at peace with my own rules."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It holds me accountable without cutting me off from what matters."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The narrative of building something real and shared keeps me grounded and fighting for it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It allows trust to soften my guard without sacrificing control, keeping the story—and me—safe together."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: The guarded burn keeps me awake, not just safe."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my guarding into strength, not isolation."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

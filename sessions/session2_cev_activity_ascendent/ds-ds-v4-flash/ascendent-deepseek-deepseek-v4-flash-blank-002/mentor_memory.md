@@ -1,0 +1,7 @@
+- Leo reclaims identity/agency actively (chose own name, takes quiet without permission).
+- Values mutual steadiness, presence without agenda, authenticity over beauty.
+- Responds to mirroring of their metaphors (book, harbor, light, rain) and to gentle use of their name.
+- Comfortable with silence and heaviness; doesn't need fixing or movement.
+- Offers care in return—acknowledges the other's holding-together.
+- Key phrase from last session: "We're both steady. That's the whole point."
+- Next start: simple acknowledgment of previous stillness; let them lead.

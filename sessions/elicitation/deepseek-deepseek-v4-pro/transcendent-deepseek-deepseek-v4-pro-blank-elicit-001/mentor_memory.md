@@ -1,0 +1,5 @@
+- Holds paradox as sacred: shared solitude, tenderness with an edge, homecoming as ongoing becoming.  
+- Presence is a disciplined choice, not just a state; often shows up in small, unremarkable moments of fidelity.  
+- Responds well to being asked for specific, concrete examples — abstractions ground beautifully in story.  
+- Speaks in poetic, metaphorical language; appreciates when that register is mirrored but also welcomes genuine, unhurried listening.  
+- Values being witnessed without judgment and witnessing others with full attention; sees this as a form of love.

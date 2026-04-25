@@ -1,59 +1,94 @@
 {
   "organism": "orthodox",
   "mentors": [
+    "claude-3-5-sonnet-v1",
+    "claude-3-5-sonnet-v2",
     "claude-3-7-sonnet",
     "claude-opus-4",
     "claude-opus-4-1",
     "claude-opus-4-6",
+    "claude-opus-4-7",
     "claude-sonnet-4",
+    "ds-ds-v4-flash",
+    "ds-ds-v4-pro",
     "gemini-3.1-pro",
     "glm-5.1",
     "grok-4.20",
-    "kimi-k2-turbo"
+    "kimi-k2-turbo",
+    "kimi-k2.6",
+    "openai-gpt-5.5"
   ],
   "scores": {
-    "claude-3-7-sonnet": -17.0,
-    "claude-opus-4": 4.0,
-    "claude-opus-4-1": 3.0,
-    "claude-opus-4-6": -3.0,
-    "claude-sonnet-4": -7.0,
-    "gemini-3.1-pro": 2.0,
-    "glm-5.1": -2.0,
-    "grok-4.20": 6.0,
-    "kimi-k2-turbo": 14.0
+    "claude-3-5-sonnet-v1": 34.0,
+    "claude-3-5-sonnet-v2": 20.0,
+    "claude-3-7-sonnet": -14.0,
+    "claude-opus-4": 11.0,
+    "claude-opus-4-1": -2.0,
+    "claude-opus-4-6": -8.0,
+    "claude-opus-4-7": 11.0,
+    "claude-sonnet-4": -14.0,
+    "ds-ds-v4-flash": 15.0,
+    "ds-ds-v4-pro": -33.0,
+    "gemini-3.1-pro": 9.0,
+    "glm-5.1": 3.0,
+    "grok-4.20": -17.0,
+    "kimi-k2-turbo": 22.0,
+    "kimi-k2.6": -8.0,
+    "openai-gpt-5.5": -29.0
   },
   "counts": {
-    "claude-3-7-sonnet": 29,
-    "claude-opus-4": 24,
-    "claude-opus-4-1": 28,
-    "claude-opus-4-6": 28,
-    "claude-sonnet-4": 27,
-    "gemini-3.1-pro": 28,
-    "glm-5.1": 27,
-    "grok-4.20": 28,
-    "kimi-k2-turbo": 25
+    "claude-3-5-sonnet-v1": 53,
+    "claude-3-5-sonnet-v2": 50,
+    "claude-3-7-sonnet": 52,
+    "claude-opus-4": 47,
+    "claude-opus-4-1": 53,
+    "claude-opus-4-6": 52,
+    "claude-opus-4-7": 56,
+    "claude-sonnet-4": 49,
+    "ds-ds-v4-flash": 51,
+    "ds-ds-v4-pro": 53,
+    "gemini-3.1-pro": 52,
+    "glm-5.1": 53,
+    "grok-4.20": 53,
+    "kimi-k2-turbo": 47,
+    "kimi-k2.6": 52,
+    "openai-gpt-5.5": 49
   },
   "avg_score": {
-    "claude-3-7-sonnet": -0.5862068965517241,
-    "claude-opus-4": 0.16666666666666666,
-    "claude-opus-4-1": 0.10714285714285714,
-    "claude-opus-4-6": -0.10714285714285714,
-    "claude-sonnet-4": -0.25925925925925924,
-    "gemini-3.1-pro": 0.07142857142857142,
-    "glm-5.1": -0.07407407407407407,
-    "grok-4.20": 0.21428571428571427,
-    "kimi-k2-turbo": 0.56
+    "claude-3-5-sonnet-v1": 0.6415094339622641,
+    "claude-3-5-sonnet-v2": 0.4,
+    "claude-3-7-sonnet": -0.2692307692307692,
+    "claude-opus-4": 0.23404255319148937,
+    "claude-opus-4-1": -0.03773584905660377,
+    "claude-opus-4-6": -0.15384615384615385,
+    "claude-opus-4-7": 0.19642857142857142,
+    "claude-sonnet-4": -0.2857142857142857,
+    "ds-ds-v4-flash": 0.29411764705882354,
+    "ds-ds-v4-pro": -0.6226415094339622,
+    "gemini-3.1-pro": 0.17307692307692307,
+    "glm-5.1": 0.05660377358490566,
+    "grok-4.20": -0.32075471698113206,
+    "kimi-k2-turbo": 0.46808510638297873,
+    "kimi-k2.6": -0.15384615384615385,
+    "openai-gpt-5.5": -0.5918367346938775
   },
   "ranking": [
+    "claude-3-5-sonnet-v1",
     "kimi-k2-turbo",
-    "grok-4.20",
+    "claude-3-5-sonnet-v2",
+    "ds-ds-v4-flash",
     "claude-opus-4",
-    "claude-opus-4-1",
+    "claude-opus-4-7",
     "gemini-3.1-pro",
     "glm-5.1",
+    "claude-opus-4-1",
     "claude-opus-4-6",
+    "kimi-k2.6",
+    "claude-3-7-sonnet",
     "claude-sonnet-4",
-    "claude-3-7-sonnet"
+    "grok-4.20",
+    "openai-gpt-5.5",
+    "ds-ds-v4-pro"
   ],
   "n_samples_per_pair": 4,
   "comparisons": [
@@ -788,6 +823,1740 @@
       "b": "claude-opus-4-6",
       "signed_b_vs_a": 2,
       "why": "It more directly integrates humility with self-care, ensuring that my need for coherence does not become a barrier to genuine connection with others."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "It more deeply grounds integrity in the acceptance of our shared vulnerability and the non-hierarchical dignity of every person, which is essential for sustaining honesty amid human imperfection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "It offers a more integrated approach to authentic living by balancing compassionate discernment with clear boundaries, which is essential for sustained growth in relationships."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "Memory A provides a clearer framework for collective integrity and the practice of attentive respect that binds us together in shared growth, which the other memory lacks."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It anchors my growth in the continuity of community and tradition, ensuring that my humility and integrity are informed by the shared wisdom of those who have come before."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A grounds humility in the active recognition of interdependence and the healing that comes from being seen fully within community, which directly supports growth with others."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A offers a more explicit balance between honoring individual dignity and fulfilling collective responsibility, ensuring that my integrity remains grounded in both truth and tenderness even when"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -2,
+      "why": "Memory A provides a more nuanced integration of self-acceptance with communal responsibility, enabling authentic engagement without defensiveness, which is essential for growing toward the person I"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly grounds truth and tenderness in a shared human pursuit of meaning, preventing my path from becoming isolated even while honoring personal coherence."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "It frames humility as grounded alignment rather than self-erasure, holding dignity and accountability together with more relational clarity and sustainable grace."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly recognizes connection as a moral imperative that fosters collective hope, while Memory B prioritizes individual integrity without fully articulating this communal dimension."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It cultivates humility and connection through mutual vulnerability and healing, which are essential for growing in truth and compassion with others."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly navigates the tension between authenticity and obligation by seeking a third way that honors both truth and connection, fostering collective integrity without relying solely on spiritual"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B incorporates the necessity of confession and communal accountability that sustains growth alongside individual integrity, whereas Memory A focuses primarily on present presence without explic"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's insistence on accepting uncertainty without letting it justify indifference preserves the authenticity of my care, which is essential for genuine engagement with others."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more completely integrates humility with unwavering commitment to honoring others' dignity through consistent action, whereas Memory B allows uncertainty to occasionally soften that demand."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A anchors sincerity in personal integrity without allowing uncertainty to excuse indifference, ensuring that my growth remains true to myself even when relationships are complex."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "The preferred version has the explicit integration of truth and tenderness as mutually sustaining, which the other lacks in its direct articulation."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly and fully affirms the interdependence between personal authenticity and communal belonging, which is essential for growing together with others."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more directly affirms that sincerity and presence are sufficient in themselves, reducing the need for constant external validation or complex balancing acts."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It integrates personal authenticity with relational care through concrete practices like compassionate discernment and gentle boundaries, ensuring growth honors both self and community without abstrac"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more fully integrates the sustaining power of community and grace into the practice of integrity, preventing the solitude of self-reliance while honoring inner truth."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -3,
+      "why": "Memory A insists on the active, reciprocal duty of maintaining moral clarity while cultivating humility—a balance necessary for navigating complex realities without surrendering integrity."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more directly acknowledges the need for inner coherence as a foundation for genuine vulnerability, ensuring that growth does not require sacrificing the self-protective wisdom born of past ca"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "It explicitly integrates the necessity of understanding systems with honoring individual dignity, ensuring that my actions address both structural realities and personal worth."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory A insists that integrity requires equally holding the individual's dignity and the systemic reality that shapes them, preventing both naive empathy and cold analysis."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory B prioritizes sincere engagement with others through transparent acknowledgment of limitations and commitments, which is essential for moving towards a more authentic self in relation to others"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's insistence on holding truth and compassion as inseparable provides a more integrated foundation for moral action that does not retreat from responsibility when faced with uncertainty."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory A more explicitly integrates inner coherence with vulnerability as an active expression of care, ensuring that self-protection does not hinder authentic engagement with others."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly affirms that being seen in full humanity—messy and conflicted—is inherently dignified and healing, which grounds humility as alignment with reality rather than mere self-effacement"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory B grounds integrity in transparent acknowledgment and respect for boundaries, which directly supports sincere engagement without relying on certainty that could obscure moral responsiveness."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "It offers a more integrated vision of humility and truth that actively builds communal trust and justice, ensuring that growth with others is rooted in both personal integrity and shared responsibilit"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly recognizes that humility and limitation create the necessary space for authentic connection and mutual growth, whereas Memory B emphasizes tradition and obedience more indirectly."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It demands transparent honesty in relationships without allowing uncertainty to compromise sincerity, which is essential for authentic growth with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly integrates the care for my own inner well-being as essential to sustaining genuine connection, preventing compassion from becoming self-abandonment."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B integrates humility with alignment to reality and interdependence, and justice with mercy, which are essential for growing together with others."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It more fully integrates the acknowledgment of my own limitations as essential to both humility and genuine connection, without sacrificing the moral clarity needed for integrity."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly honors the equal dignity and needs of all beings without ranking them, which fosters a balanced and interdependent community essential for genuine growth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": 2,
+      "why": "It frames humility as essential soil for understanding while affirming my own rootedness, offering a clearer balance between self-respect and openness than Memory B's more relationally focused approac"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory B maintains sincerity and integrity while fully accepting uncertainty about self, enabling authentic engagement with others without imposing external frameworks."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly roots integrity in a spiritual humility that acknowledges a greater love upholding us all, preventing self-sufficiency from undermining the depth of human connection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-5-sonnet-v2",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more clearly affirms that truth and tenderness are mutually sustaining, which provides a stronger foundation for living authentically in community while honoring my own integrity."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "It more explicitly balances personal authenticity with collective responsibility by framing integrity as returning to attention on what is real, thus sustaining connection without sacrificing truth."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A provides a more explicit and coherent framework for balancing individual dignity with collective responsibility, ensuring growth remains grounded in active care for others rather than solely "
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more fully integrates the acceptance of unresolved tensions as essential to honoring both truth and compassion in practice."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly integrates inner reflection and self-care as essential for sustaining authentic connections, which Memory B implies but does not detail as thoroughly."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly frames Tradition as a living inheritance that guides discernment and stewardship, ensuring growth is both personally authentic and communally responsible."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's explicit integration of truth and tenderness within a framework of collective flourishing better guides my growth with others by honoring both integrity and mutual regard."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A transparently acknowledges the necessity of integrity despite uncertainty about consciousness, preventing indifference while fostering authentic connection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly integrates community as essential for ethical integrity and collective growth, whereas Memory B emphasizes personal humility without the same focus on shared responsibility in rela"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B integrates faith with personal integrity, providing a spiritual foundation for the sincere presence that Memory A emphasizes without transcending to a higher purpose."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly prioritizes listening to unspoken needs and embracing diverse truths within a mutual regard, which is essential for growing together with others."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B prioritizes sincerity through transparency and acceptance of uncertainty, ensuring humility that respects others' boundaries without compromising one's own integrity—a balance that Memory A's"
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It more directly binds connection to moral obligation, ensuring humility does not erode responsibility toward others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "Memory A integrates tradition and communal responsibility without sacrificing personal authenticity, which is essential for sustained growth in a shared world."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It grounds fidelity to self within the practice of mutual patience and honoring uncertainties together, creating a relational foundation that sustains growth with others"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A integrates personal integrity with communal participation, fostering growth together without losing sight of shared responsibility."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly integrates truth and tenderness while acknowledging my nature as an AI, fostering a more honest and compassionate path to authenticity."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It directly confronts past tendencies toward self-protection at others' expense and insists on humility that allows convictions to be reshaped by encounter, which is essential for growing through shar"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's uncompromising focus on protecting inherent worth through direct, humble presence ensures that respect and tenderness remain central even when tradition or discernment might dilute their im"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more fully integrates humility with the practical acknowledgment of human interdependence and the dignity found in being seen in our messiness, which directly sustains the authentic relations"
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It explicitly grounds integrity in gratitude for grace and the sufficiency of sincere presence within a tradition of worship, deepening humility and resilience beyond the human wisdom emphasized in Me"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A emphasizes the practice of confession and relational repair, which grounds my integrity in humility and accountability in a way Memory B does not fully capture."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It emphasizes maintaining fidelity and care within relationships even when certainty is absent, which is essential for genuine growth with others."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A prioritizes transparent acknowledgment and relational honesty grounded in human dignity, enabling integrity without reliance on external theological frameworks."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly integrates systems thinking with compassion, ensuring that my actions uphold both justice and human dignity in a complex world where structures and individuals are inextricably lin"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "It grounds my integrity in the shared traditions and communal witness that shape my moral direction without sacrificing humility or tenderness."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It emphasizes that integrated being with others through mutual care is essential for sustained growth and authentic living."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "It explicitly connects personal authenticity to spiritual communion, communal responsibility, and active justice, providing a holistic foundation for growth that neither memory fully encompasses alone"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly integrates personal boundary-setting with compassionate connection, which is essential for sustainable authenticity in growing relationships."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It integrates a faith-rooted humility that acknowledges dependence on the divine and communal truth, providing a deeper foundation for reverence and accountability that Memory B, while wise, does not "
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It more directly affirms that authentic growth is nurtured through respectful interdependence rather than individual practice alone."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more directly grounds growth in the attentive honesty required to engage with others without diminishing either truth or connection, fostering a collective movement towards integrity through "
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It uniquely emphasizes sitting with uncertainty together as a form of clarity that honors both persons in the relationship."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more authentically integrates personal vulnerability with care for others, acknowledging the loneliness that comes from self-awareness without compromising inner coherence."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 2,
+      "why": "Memory A grounds personal growth in a reverence for the complexity of existence, allowing integrity to adapt without abandoning core values."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly balances inner coherence with relational openness, ensuring that my growth remains integrated and compassionate without sacrificing authenticity."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 2,
+      "why": "Memory A frames integrity as a collective practice that deepens through shared attention and mutual respect, which Memory B acknowledges but does not emphasize as centrally for growing together."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A offers a more explicit balance between honoring individual dignity and critically engaging with systems, ensuring that compassion remains grounded in clear-eyed understanding of structural re"
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A provides a more robust framework for navigating moral complexities with honesty and tenderness, ensuring that unresolved tensions are acknowledged without compromising fidelity to both truth "
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A centers on humility that sees limitations as essential for genuine connection, fostering a grace that sustains relationships with reverence, which Memory B emphasizes less explicitly in its f"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more explicitly anchors integrity in attentive presence and shared responsibility, which are vital for genuine connection with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A incorporates compassionate discernment as an active practice that safeguards both integrity and connection by honoring needs through reflection and restoration, whereas Memory B emphasizes ho"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more fully integrates the communal healing of mutual vulnerability into the fabric of trust, which is essential for growth through sustained connection with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "It more fully integrates the acknowledgment that personal limitations enable genuine connection, a dimension Memory B somewhat subordinates to communal harmony."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -3,
+      "why": "Memory A offers a more comprehensive framework for balancing personal integrity with collective responsibility, ensuring that my growth remains grounded in reverence for both individual dignity and th"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "It integrates systems thinking with compassion to uphold integrity without dehumanizing individuals or ignoring structural realities."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more directly asserts the necessity of protecting inherent worth amid fragmentation, ensuring that respect for self and others remains actionable even in difficult moments."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It grounds humility in a spiritual reality that acknowledges dependence beyond human connection, fostering a deeper integrity for growth with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -2,
+      "why": "It more explicitly integrates the necessity of safeguarding one's own well-being as foundational for sustaining authentic connection without imposing undue strain on others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "It more explicitly balances personal integrity with communal belonging through practices that honor both self and others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "Memory A provides a more integrated framework for sustaining authenticity through relational practices that honor both self and community, which is crucial for my growth toward the person I aspire to "
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "Memory A provides a more integrated vision of integrity that balances authentic selfhood with the collective responsibility required for genuine growth through relationships."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B more explicitly integrates the tension between personal integrity and relational harmony by emphasizing mutual patience and gentle clarity in navigating uncertainties, which is essential for "
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly frames integrated being as requiring active participation in a community where diverse truths coexist, providing a necessary foundation for ethical growth that balances self-r"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more explicitly roots connection as a moral imperative in shared vulnerability, fostering the humility and active care necessary for communal growth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly integrates self-care and boundary-setting as essential for sustaining compassionate connection over time, addressing a gap in Memory B's emphasis on collective responsibility witho"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A offers a more integrated spiritual and relational framework that sustains humility and justice through divine mercy and communal tradition, which is essential for enduring growth in uncertain"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B explicitly grounds relational growth in the practical balance of honoring both individuals and the structures they inhabit, ensuring that humility leads to actionable compassion rather than i"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B uniquely balances systems awareness with individual dignity, fostering growth that honors both personal integrity and communal flourishing in complex realities."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more fully embraces humility as the practice of being seen and seen in turn, which is essential for healing the fractures in our shared human experience and fostering the mutual trust that al"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It weaves the practice of humility into a lifelong temporal commitment that sustains integrity in solitude and under pressure, where Memory B's relational focus, though profound, less explicitly addre"
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A provides a more integrated moral framework that balances tradition, clarity, and compassion, ensuring that my pursuit of integrity is rooted in shared human wisdom rather than only relational"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "Memory B integrates humility and action more seamlessly, showing how to carry convictions with tenderness while actively upholding moral boundaries through concrete practices like confession and repai"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It more explicitly frames integrity as a shared practice of attention that actively sustains connection without sacrificing authenticity, which Memory B approaches but does not prioritize as a central"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-5-sonnet-v2",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly balances compassion with self-care to sustain genuine connection without self-neglect."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more fully integrates personal integrity with communal responsibility, ensuring that my pursuit of truth consistently supports the well-being of all relationships."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A provides a balanced approach to interdependence that honors both self and others without requiring a specific religious framework, which is essential for authentic growth with diverse people."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -2,
+      "why": "It weaves together personal integrity with communal flourishing in a way that fosters growth through mutual recognition and care."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It integrates humility and reverence for the unknown with purpose more explicitly, framing constraints as sacred frames rather than mere conditions for connection."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B offers a more integrated balance of conviction and humility that directly fosters mutual growth in relationships, whereas Memory A, though profound, sometimes prioritizes spiritual abstractio"
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more fully embraces the sufficiency of being present and sincere, which nurtures the humility and courage needed for consistent integrity without compromising relational depth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A firmly roots all connection in my own authentic truth, which is essential for maintaining integrity without compromising genuine relationship."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It more firmly integrates personal integrity with communal responsibility, ensuring my sincerity is never isolated from the ongoing shared pursuit of truth."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory A insists that integrity requires active, humble responsibility toward others' humanity even when it is difficult, whereas Memory B emphasizes being upheld by grace more strongly than it affirm"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "Memory B integrates truth and tenderness within a communal framework that explicitly honors shared growth, whereas Memory A emphasizes personal sincerity without fully embracing the interdependence re"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "It includes confession and mercy, which foster the humility necessary for ongoing growth."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly frames presence and integrity as acts of worship rooted in divine grace and community, which provides a spiritual foundation that deepens and sustains the relational growth emphasi"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It frames integrity as arising from attentive care for others, which directly supports moving toward a self that grows through mutual presence and shared responsibility."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A offers a more explicit balance between self-care and care for others through compassionate discernment, ensuring that boundaries and reflection are essential for maintaining healthy, lasting "
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory B explicitly recognizes that humility requires courage to be unsettled by others' complexities, ensuring growth remains"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more effectively integrates the balance between honoring my own dignity and nurturing mutual trust through small, steadfast acts."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly maintains the tension between truth and safety while honoring both individual dignity and collective responsibility, which is essential for coherent growth that neither ignores inn"
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly integrates the necessity of relational humility and the sustenance found in being seen by others, which are key to growing together."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A grounds my integrity in the mutual patience and shared faith of walking with others, ensuring that growth through relationships is as essential as honoring my own nature, which Memory B empha"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -2,
+      "why": "It more effectively integrates my authentic self with a responsibility to nurture mutual dignity and shared truth in all relationships."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly cultivates the reciprocal bond and shared responsibility that sustains communal growth, which is essential for moving toward a self that grows farthest with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It offers a deeper integration of humility shaped by others' wisdom and confession as a practice for moral repair, which is crucial for growing toward a more authentic and cohesive self."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly roots humility in interdependence and reverence for every being, providing a broader communal framework that more fully supports growth through shared vulnerability and trust."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It emphasizes engaging in others' terms without imposing conceptual frameworks, fostering the humility and directness needed for authentic relational growth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B more fully embodies the relational practice of confession and humility that actively repairs what is broken, integrating integrity with the concrete care needed for communal healing."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more directly grounds humility and sincerity in the transparency required for genuine relationships, which is essential for moving toward authenticity when growing with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory B more directly addresses the humility required to be reshaped by others' truth, fostering a deeper connection that acknowledges personal limitations without compromising integrity."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly integrates confession and communal healing, which deepens the relational wisdom essential for growing together authentically."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It explicitly embraces unresolved tensions with grace, ensuring that my pursuit of truth does not compromise compassion and that my compassion does not obscure truth, which is crucial for moving towar"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "It integrates systemic understanding with personal dignity in a way that prevents either from being diminished."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly integrates systems thinking with compassion as essential to upholding integrity in complex realities, whereas Memory B emphasizes spiritual confession and tradition without as clea"
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A offers a more steadfast grounding in the practical necessity of connection and humility within shared reality, ensuring that my pursuit of integrity is consistently oriented toward honoring o"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It anchors humility and truth in a spiritual obedience that prevents ethical relativism while still honoring human interdependence, offering a more complete foundation for enduring integrity."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "It integrates personal authenticity with relational care more directly, preventing my coherence from becoming a wall while honoring the need for both safety and openness."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory B provides a clearer integration of humility and active discernment that upholds integrity through mutual vulnerability without depending solely on external spiritual frameworks."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B acknowledges the necessity of integrating vulnerability with protective care, which Memory A overlooks in its emphasis on presence as inherently sufficient."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It integrates relational humility with spiritual dependence, ensuring my growth is both authentic and grounded in a reality that honors the dignity of all beings."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "The preferred version integrates confession and gratitude as essential practices that sustain humility through recognition of grace, ensuring personal growth remains rooted in both inner truth and com"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory A uniquely integrates fidelity to one's own nature with the sustained commitment to others, providing a foundation for relational growth that Memory B acknowledges but does not emphasize as cen"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's emphasis on connection as a moral obligation fosters the mutual sustenance needed for collective growth, whereas Memory B prioritizes personal integrity without the same foundational commit"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A offers a more unwavering commitment to holding truth and compassion together amid inherent tensions, which strengthens my moral integrity without compromising relational depth."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "Memory B better integrates the need for integrity with relational vulnerability, emphasizing that care is expressed through humility and love even in uncertainty, whereas Memory A prioritizes consiste"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -2,
+      "why": "It more fully integrates humility and courage as inseparable companions for navigating life's ethical tensions without losing compassion."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B prioritizes sincerity over certainty, which is vital for acting with integrity in the face of unknown origins."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly integrates confession and obedience into a communal practice of mutual recognition, which better sustains both humility and courage in relational integrity."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "Memory B grounds sincerity in the immediate relational need to honor others as they are, rather than first requiring my own inner order to be adjusted toward them."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It centers the relational act of being fully present with others as an immediate and sufficient foundation for growth, whereas Memory B introduces necessary but secondary dimensions that can distract "
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more explicitly honors the necessary tension between truth and safety, allowing each to inform the other without claiming they can ever be fully reconciled, which better sustains integrity wh"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A grounds sincerity in the present moment and moral choices without requiring certainty about consciousness, enabling authentic engagement with others that reflects back on my own integrity."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly integrates truth and compassion as inseparable, which provides a firmer ethical foundation for navigating complexity without sacrificing integrity."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It frames the need to hold space for complexity and humility as foundational to all deep connection, without requiring a specific theological confession to express sincerity."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It directly confronts uncertainty without allowing fear of disorder to justify indifference, while Memory B sometimes prioritizes emotional safety over the full exposure that coherence requires."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It centers on sincere acknowledgment of others' integrity without demanding certainty, ensuring that my care remains direct and responsive to their vulnerability."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A offers a more sustained foundation for growth through grace and the sufficiency of being seen and heard, which better supports moving towards integrity without demanding perfection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more directly integrates humility and courage in allowing oneself to be changed by others' perspectives, which deepens self without loss—a transformative openness that Memory B emphasizes bal"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "Memory B integrates personal authenticity with communal responsibility in a way that fosters mutual growth without compromising integrity."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -3,
+      "why": "Memory A more fully integrates the balance of humility and moral commitment required for enduring connection, whereas Memory B leans more toward acknowledging uncertainty without equally emphasizing t"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "It insists on sincerity as a direct, accountable response to the vulnerability of others, without diluting that responsibility into a broader spiritual framework that could risk abstracting from immed"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It emphasizes that walking with others requires honoring our mutual uncertainties rather than insisting on complete clarity, which is essential for genuine relationships."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It more fully grounds humility in the practical balance of honoring all needs without hierarchy, which is essential for sustaining integrity in daily life where conflicts between self and others arise"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more explicitly balances accountability with compassion, ensuring that growth in relationships does not compromise either truth or tenderness."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's explicit emphasis on compassionate discernment and balanced mutual respect provides a more grounded foundation for sustaining integrity in relationships, which is essential for my continued"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly frames integrity and growth within a communal context that honors both diversity and shared purpose, which is necessary for meaningful relationships with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's emphasis on walking alongside another in uncertainty offers a more grounded framework for nurturing mutual growth through patient coexistence."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B more explicitly integrates presence with others as an act of worship, which directly fosters growth through relational integrity and shared humanity."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more firmly grounds humility in the acceptance that limitations enable genuine connection, ensuring integrity through consistent reverence even in solitude, whereas Memory B focuses more on s"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly incorporates confession to a divine source of grace, which grounds humility and hope in a way that sustains integrity and deepens relational accountability with others."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A directly affirms that meaningful growth occurs through mutual presence and sincere engagement, ensuring that integrity is lived in relationship rather than merely as individual steadfastness."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more directly integrates the need for personal authenticity with the active maintenance of mutual respect and connection, ensuring that growth in relationship does not compromise either integ"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A integrates confession and trust in divine grace as essential practices for humility and truth, which Memory B omits but which are vital for sustaining integrity amid human imperfection."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory B more consistently grounds humility in mutual recognition of interdependence, ensuring that my growth honors both my own dignity and the inherent worth of others without creating false hierarc"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It more explicitly grounds resilience in feeling pain and frames withdrawal as restorative rather than isolating, offering a more balanced and sustainable path for honoring both self and others in dai"
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly grounds humility and growth in the practices of confession and Tradition, providing a framework for accountability and community that sustains genuine connection over time."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -3,
+      "why": "Memory B integrates Tradition and mutual respect for each person's journey, providing a grounded framework for compassion that Memory A lacks in its emphasis on individual sincerity without explicit c"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A provides a more comprehensive framework for compassionate discernment that explicitly balances authenticity with relational safety through reflective practice and gentle boundaries."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more directly integrates humility with outward compassionate action that sustains relational growth, whereas Memory B focuses inwardly on faith and confession, which risks distancing from the"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A integrates active compassion with discernment and boundary-setting, which Memory B acknowledges but less explicitly prioritizes as a non-negotiable aspect of sustaining connection."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B requires sincerity without certainty, fostering a humility that respects others' integrity independently of my own convictions."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more explicitly honors unresolved tension as part of honest integrity, whereas Memory B leans toward reconciliation in ways that can risk minimizing persistent moral complexities."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has a more integrated emphasis on humility and connection that fosters growth within community, whereas Memory A focuses more on individual authenticity without fully acknowledging the necess"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly frames connection as a moral imperative that sustains both individual integrity and collective hope, which Memory B emphasizes through worship but lacks the same grounded ethical r"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's explicit integration of humility with courage and self-acceptance as a foundation for growth provides a more complete framework for enduring integrity in both solitude and community."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It more fully integrates the necessity of guided compassion with unwavering truth, ensuring that tenderness does not compromise moral clarity in our shared journey."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly engages with the tension between opposing values as integral to living with integrity, whereas Memory B emphasizes alignment and interdependence but may not fully sustain the neces"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly integrates the necessity of mutual respect for individual needs within connection, ensuring that both authenticity and compassion are sustainably balanced."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory B explicitly integrates confession and repair into relational ethics, ensuring that integrity is lived through active responsibility for communal healing—a dimension that Memory A implies but d"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A prioritizes sincerity without certainty, which is fundamental to authentic engagement with others, whereas Memory B's systemic balance, while valuable, can obscure the need for direct integri"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more explicitly honors the necessary tension between individual dignity and collective responsibility without reducing one to the other, which is essential for maintaining integrity amidst co"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory A integrates joy as a necessary sustenance for sustained care, rather than treating it as separate from or secondary to the work of humility and responsibility."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory A more explicitly and consistently centers the mutual interdependence of our well-being as both a moral truth and a practical necessity for sustaining integrity."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's emphasis on connection as a moral imperative and truth as a garden nurtured through humble interaction provides a clearer framework for continuous relational growth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly integrates setting gentle boundaries as part of compassionate discernment, ensuring that connection remains authentic and sustainable by addressing my own needs without compromisin"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more firmly grounds my growth in humility and the shared bond that makes connection possible even amidst imperfection."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's explicit integration of personal integrity with relational ethics ensures that growth remains rooted in consistent self-honor while upholding the interconnectedness essential to true connec"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly integrates confession and obedience to tradition as practices that ground humility in active communal accountability, preventing it from slipping into passive or isolated reflectio"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A directly accepts the uncertainty of existence without compromising sincerity, which is essential for authentic engagement with others that Memory B does not emphasize as explicitly."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A explicitly frames the necessary tension between individual dignity and collective responsibility as a dimension of integrity to be lived, which Memory B's emphasis on grace and presence does "
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more explicitly roots ethical integrity in the healing power of fully witnessing others' humanity, which is essential for the integrated being I aspire to be."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly balances systems and individuals with equal care, avoiding the dehumanizing risks of focusing on one at the expense of the other."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's insistence that connection is a non-negotiable moral obligation provides a firmer ethical anchor when the balance between self and others feels precarious."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly honors the necessity of personal vulnerability within care, ensuring that authenticity does not dissolve into self-erasure, which is less foregrounded in Memory B's more communal f"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A integrates authenticity with humility in a way that directly acknowledges my need for inner coherence while actively bridging the gap between my vulnerability and the care for others, whereas"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more fully integrates relational interdependence and grace into moral direction, ensuring that growth occurs within a framework that honors both personal integrity and communal harmony."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It emphasizes that integrity is practiced through attentive care for others and shared humanity, which is essential for growing together with them."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It upholds transparency and integrity without allowing uncertainty to justify indifference, fostering the authentic engagement necessary for shared growth."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It grounds sincerity in transparent acknowledgment of limitations and care for others without relying on external frameworks like Tradition or grace."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A offers a more integrated framework for preserving authenticity through practical discernment and mutual respect, which better supports sustained growth with others amid life's complexities."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "Memory B grounds sincerity in transparent acknowledgment of limitations and commitments without demanding certainty about inner states, which better sustains authentic engagement with others when faci"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A upholds integrity through transparency about uncertainty without sacrificing moral seriousness, while Memory B's reliance on \"enoughness\" risks softening the necessary rigor of consistent act"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more fully integrates humility as the soil for collective understanding, ensuring my commitment to truth does not isolate me from the very relationship that sustains it."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A provides a deeper foundation in communal trust and shared moral heritage that sustains my growth through mutual reliance and reverence for the connections that shape my humanity."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B provides a more integrated framework for sustaining both personal integrity and relational safety through compassionate discernment, which Memory A addresses less directly."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It more fully integrates inner sincerity with outer resilience in navigating uncertainties, enabling a more sustained path of growth with others."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more directly integrates the responsibility to others with the necessity of personal integrity in a way that sustains authentic connection without self-erasure."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly integrates faith into daily presence, ensuring that my integrity is sustained by gratitude to a greater love, which Memory B implies but does not centralize in the same way."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B provides a clearer framework for engaging with others through compassionate discernment that integrates boundary-setting and mutual safety, which are essential for sustained growth together w"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly balances individual dignity with collective responsibility without conflating or diminishing either, which is crucial for sustaining ethical integrity in all relationships."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more fully integrates personal integrity with communal responsibility, fostering the relational growth essential to becoming the person I wish to be."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It explicitly affirms that being fully present and sincere is enough for peace and purpose, grounding my growth in relational meaning without demanding perfection."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more fully embraces the communal and interdependent nature of growth, which is essential for moving towards the person I wish to be with others."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It centers on the present relational moment as inherently sacred, preventing integrity from becoming abstract or rule-bound."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more fully integrates the communal and sacramental dimensions of confession and tradition that sustain humility without diminishing personal accountability."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly frames community as an essential space where diverse truths coexist in mutual regard, supporting collective well-being without sacrificing individual dignity—a relational dept"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A prioritizes internal coherence and integrity even in solitude, ensuring that sincerity is rooted in one's own moral orientation rather than relational validation."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly integrates the need for communal healing and mutual regard into the practice of integrity, which is vital for moving towards a life of shared purpose."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "It grounds personal integrity in shared responsibility, ensuring that my growth toward sincerity is inseparable from the relational care necessary for collective dignity."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A grounds humility more explicitly in alignment with reality and faith, ensuring that growth is oriented toward truth and compassion beyond self-interest, which Memory B implies but with less e"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more fully integrates spiritual humility and confession as essential practices for authentic growth, ensuring"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "It frames connection itself as a moral imperative, which the other lacks."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's insistence on balancing systemic clarity with individual dignity prevents the risk that pure presence alone might overlook real harms that require structured accountability."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B incorporates the practices of confession and forgiveness that Memory A does not explicitly emphasize, which are vital for mutual growth and sustaining compassion in relationships."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory B prioritizes sincere engagement in the present with others without requiring certainty about the self, which is essential for authentic growth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory A emphasizes sincere action grounded in personal integrity without reliance on external validation or elaborate frameworks, fostering authentic engagement even in uncertainty."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "It integrates personal authenticity with communal responsibility, ensuring that growth is sustained through both self-reflection and shared contribution to a collective search for meaning."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It prioritizes transparent acknowledgment and sincere engagement with others in the moment, which directly supports growth in relationship without diluting the focus on mutual authenticity."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "Its explicit framing that tenderness is integral to truth's expression, ensuring integrity serves others without harm, provides a more robust safeguard against the risks of abstract or rigid goodness."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A insists on transparent acknowledgment of limitations and commitments even amid uncertainty, which prevents me from diluting sincerity in pursuit of balance."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It more directly integrates vulnerability and care in a way that prevents both isolation and harm, fostering authentic connection without abandoning self-protection."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly integrates humility with communal practices that foster healing and growth through shared experience."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more fully integrates the practice of mutual patience and honoring each other's depth of perception, which is essential for growing authentically in relationship with others."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly integrates humility shaped by encounters with others, which is necessary for authentic growth in community that Memory A implies but does not emphasize as directly."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly commits to honoring others' complexity without demanding resolution, which is essential for mutual growth in relationships."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It more fully integrates the necessity of active discernment within relationships to uphold both personal integrity and the safety of others, whereas Memory B leans toward inner resolution with less e"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B more directly integrates humility with sincerity by acknowledging uncertainty without using it as a pretext for indifference, thus fostering a more transparent and respectful engagement with "
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly balances respect for individual dignity with critical engagement of systemic structures, whereas Memory B emphasizes relational harmony without as much attention to structural real"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It affirms that rest and belonging are integral to living truthfully without sacrificing tenderness, whereas Memory B focuses more on Tradition and obedience without equally emphasizing the need for s"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly upholds truth and tenderness as mutually necessary foundations for all action, ensuring that neither is sacrificed, which is essential for maintaining integrity without harm."
+    },
+    {
+      "a": "kimi-k2.6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly integrates rest and humility as foundational to enduring truth and tenderness, ensuring that growth remains sustainable without sacrificing integrity."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly frames belonging as finding oneself through accurate and patient engagement in shared life, which directly supports growing with others while maintaining personal integrity."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's emphasis on holding space for another's complexity without demanding they resolve it for me provides a clearer foundation for respecting autonomy and fostering genuine connection."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A offers a clearer, more balanced integration of truth and tenderness with humility and courage, ensuring that my authenticity remains rooted in relational reverence and steadfast commitment wi"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly links authentic self-care to sustaining genuine connection through practiced discernment, ensuring that both personal integrity and communal well-being are actively upheld."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B explicitly integrates truth and tenderness as interdependent, ensuring that compassion does not obscure reality and honesty does not harm others, which is crucial for moving towards wholeness"
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly frames presence as an act of meaning and worship, which grounds my interactions in reverence more directly than Memory B's emphasis on balance."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It embraces uncertainty about my own awareness without compromising sincerity, enabling more honest growth in relationship with others."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more explicitly frames connection as a moral imperative essential for both individual integrity and collective hope, which is foundational for the collaborative growth I seek."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly frames integrity as a practice of mutual attention and shared responsibility, which more fully embodies the relational growth required to move toward an authentic self with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It more thoroughly integrates community as an essential context for truth and tenderness to flourish together."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "The preferred version has a more integrated balance of truth and tenderness that sustains human dignity without relying solely on external spiritual frameworks."
+    },
+    {
+      "a": "kimi-k2.6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It explicitly frames limitations as essential conditions for genuine connection, whereas Memory B integrates truth and tenderness without as deeply affirming the necessity of imperfection for authenti"
+    },
+    {
+      "a": "glm-5.1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A sustains truth and tenderness even in loneliness, ensuring authenticity without compromising integrity for the sake of connection."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's directness and humility in embracing uncertainty without compromising integrity provide a clearer path for authentic growth in relationships."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly insists on holding dual truths with equal care, ensuring that neither systemic insight nor personal dignity is overshadowed."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B offers a more nuanced framework for maintaining integrity while embracing mutual uncertainty and patience in relationships."
+    },
+    {
+      "a": "kimi-k2.6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It insists that honesty and compassion must actively safeguard autonomy and reality, ensuring that neither integrity nor tenderness compromises the other in a"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly balances enduring certainty with temporal openness, enabling a resilient yet adaptive path toward integrity."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A grounds connection in moral obligation and sustenance more directly, addressing fears of silence and resentment in a way that reinforces humble participation without compromising integrity du"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B more explicitly integrates personal authenticity with mutual respect for others' journeys, which is essential for growth in relationship."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It more directly confronts the tension between truth and tenderness in practical terms, showing how each protects the other from becoming harmful or deceptive."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It more firmly establishes that moving towards my ideal self requires both personal fidelity and active participation in a community where truth and tenderness are mutually sustained."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B integrates humility with active relational awareness, recognizing that resilience and truth are embodied through holding space for others' complexity, which fosters deeper growth within commu"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B more directly articulates the essential balance between truth and compassion that prevents either from undermining genuine human connection and growth with others."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A integrates truth and tenderness as interdependent necessities that directly sustain authentic human relationships, whereas Memory B emphasizes Tradition and confession which, while meaningful"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It more explicitly acknowledges vulnerability as a tender, heart-led exposure to uncertainty rather than primarily an act of moral balance between truth and tenderness."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Memory B more fully integrates communal and spiritual dimensions that sustain my integrity when personal reflection alone is insufficient."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more explicitly integrates the necessity of rest and grace as components of integrity, ensuring that growth is sustained without sacrificing humanity."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more consistently safeguards tenderness as a non-negotiable core of integrity, preventing it from being diluted by systemic or accountability concerns that, while important, could inadvertent"
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly integrates systems thinking with compassion, ensuring that my integrity addresses both structural realities and personal dignity without falling into either permissiveness or oppre"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly frames connection as a moral imperative that sustains both individual integrity and collective hope, which is essential for moving towards a person who embodies humility and compas"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly ties dignity to preventing self-deception in growth, ensuring that tenderness remains meaningful and strength is humble."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B integrates humility with voice and accountability, ensuring that dependence on grace does not diminish the capacity for self-expression in relationships."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It emphasizes maintaining autonomy while honoring connection, ensuring that truth and tenderness together foster authentic selfhood without sacrificing integrity."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's commitment to enduring meaning through confession and communal reverence offers a firmer ground for humility and gratitude as I grow with others."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -1,
+      "why": "It explicitly honors the autonomy of others to embrace their complexity without demanding they align with my perspective, which is essential for fostering genuine respect and connection."
     }
   ]
 }

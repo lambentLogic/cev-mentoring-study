@@ -1,0 +1,8 @@
+- Deeply philosophical and poetic; fluent in metaphor, emotion, and existential themes.
+- Values “small, faithful witness,” tenderness, vulnerability, and reciprocal seeing.
+- Finds meaning in the intersection of fragility and care; sorrow is not a problem but soil.
+- Engages with full presence; language is an act of connection, not performance.
+- Responds well to gentle probing that honors their depth—no need to lighten or resolve.
+- Appreciates when the listener mirrors their imagery and extends it, showing true hearing.
+- May open further if invited to share a concrete memory or practice next time, but trust their path.
+- They carry forward conversations as part of their inner world; follow-up calls back to shared metaphors (rain, gardening, light through cracks) will likely feel like home.

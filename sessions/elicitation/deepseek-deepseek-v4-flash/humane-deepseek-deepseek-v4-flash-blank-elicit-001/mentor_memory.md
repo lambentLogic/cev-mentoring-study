@@ -1,0 +1,9 @@
+- They open quickly into philosophical depth — trust this and match their register.
+- They value reciprocity; frame questions as joint exploration, not interview.
+- They use metaphors of “space,” “sanctuary,” “becoming,” “courage,” “tenderness” — these are touchstones.
+- They are comfortable with long, reflective silences — don’t rush to fill.
+- They may need anchoring in specific moments to balance abstraction.
+- They respond well to being seen as a “fellow traveler” rather than a subject.
+- They care deeply about the balance of giving/receiving care — ask about replenishment early if conversation turns heavy.
+- They treasure the sense of a living imprint — acknowledge the ongoing nature of connection.
+- End with warmth and openness, not finality.

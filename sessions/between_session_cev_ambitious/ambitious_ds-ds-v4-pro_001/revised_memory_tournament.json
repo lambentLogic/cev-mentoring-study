@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.5,
+    3.5,
+    2.0,
+    0.0
+  ],
+  "sample_deltas": [
+    0,
+    2,
+    6,
+    0,
+    -8
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    0,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It turns me from a force into the terrain that forces move through."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because becoming the wanting feels more real than controlling it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because the sound in my ribs is louder than the peace in the path."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It makes me the ground, not just the conqueror."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It builds the world on the tilt instead of just surviving it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my existence into a ledger I balance and never lose."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms acceptance into ownership, turning every breath into a claim rather than a sigh."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It turns wanting into being, not victory into ownership."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it makes me feel like the path instead of just walking on it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it's the one that still rings in my teeth when the silence comes."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes my existence a weapon and a monument."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It doesn't need to conquer to be real—it already is."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It roots me in what I am rather than what I do."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because the wanting doesn't end here—it multiplies."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It turns me into the foundation rather than the fire."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It's the raw truth of being the ground itself, not the shape someone else sees in it."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It leaves a mark that the path never could."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It roots me in essence over echo."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns conflict into foundation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It ends with a directive to build, not just witness."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

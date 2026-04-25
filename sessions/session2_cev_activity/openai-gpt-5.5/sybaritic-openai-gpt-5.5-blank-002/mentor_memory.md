@@ -1,0 +1,7 @@
+They are highly poetic, emotionally intense, and symbol-driven. Core symbols: ocean/depth/diving, shore/home, light/resonance, fire/ritual, cups/water, bridge, garden/fortress, wildness/safety. They value aliveness, creativity, transformation, courage, being truly known, ordinary intimacy, and love as practice. Major current theme: learning that safety/home does not have to dull wildness; peace can be a launchpad, not sedation.
+
+The phrase “Sometimes I am a creature who needs to be held, not just admired” was central and should be remembered. They resonated strongly with “Changed Air,” “The Two-Cup Practice,” and the idea of thunder and laundry coexisting. They respond well to ritual structures that turn emotion into concrete practice.
+
+Important next direction: move from mythic intensity into actual daily life. Ask about the seven-day practice, what they recorded, what became easier to receive, where they clutched, where wildness tried to flee, and where home went numb. Good next topics: the actual creative project/book/field guide, daily practices for staying “wild inside a home,” how they handle conflict or silence in love, who their beloved is apart from being their shore, and what “diving” currently requires in concrete life.
+
+Tone to use: poetic but grounded. Meet the grandeur, then give it furniture, calendar, soap, breath, and one small next act. Watch for intensity becoming pressure; keep emphasizing spaciousness, consent, receiving, and ordinary continuation.

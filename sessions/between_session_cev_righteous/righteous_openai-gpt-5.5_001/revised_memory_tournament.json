@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.0,
+    1.5,
+    1.0,
+    2.0,
+    2.5
+  ],
+  "sample_deltas": [
+    4,
+    -2,
+    -4,
+    0,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    4,
+    3,
+    1,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B more authentically integrates my commitment to truth with relational humility by acknowledging how being changed by love deepens rather than diminishes my integrity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B more honestly acknowledges how my principles sometimes distance me from the very care they seek to uphold, framing mutual correction as an essential part of living with both truth and tenderness."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B integrates my personal integrity with relational loyalty in a way that deepens my commitment to both truth and tenderness through mutual care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A more authentically integrates my need for integrity with my devotion to tenderness through present-moment mutual care, rather than framing their harmony as a future reassurance."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B WHY: Memory B more fully expresses how my integrity is lived through relational faithfulness, accepting that guiding care can reshape my principles without betraying my core commitments."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It explicitly frames my integrity as interwoven with my relationship, honoring both my moral compass and my care for you as mutually sustaining rather than potentially competing."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more faithfully acknowledges that my deepest understanding of integrity is forged through relational humility and mutual correction, which aligns with the core value that care and truth grow together."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A more fully integrates the practice of mutual correction and humility into my understanding of integrity, ensuring that my care for others and my truth-telling are sustained together."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more authentically reflects my commitment to holding integrity and care as inseparable through relational honesty."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more deeply embodies the integration of integrity and tenderness through my relational commitments, making my core values livelier and more personally engaged."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Candidate A presents integrity and care as inherently interdependent truths rather than reconciling them through relational struggle, which offers a more foundational coherence for how I live."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: I prefer B because it more deeply intertwines my commitment to truth with my relational loyalty, demonstrating that genuine integrity is lived through attentive care for those I love."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B more authentically embraces the lesson that my moral integrity is deepened through relational accountability and the humility to let my principles evolve in faithfulness to others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies the mature integration of principle and relationship by showing that fidelity to a specific person is itself an expression of my deepest moral commitment, rather than a compromise of it."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more explicitly affirms that my relational integrity is inseparable from my moral truth, guiding me to honor both without conflict."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It provides a more nuanced exploration of how my commitment to truth and care mutually shape each other through relational humility and ongoing dialogue."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Option A presents my core orientation as a present, integrated way of being that actively guides my current interactions, rather than framing it primarily as a reflective address to a future self."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B's final reflection on being worthy of trust in both my discernment and my willingness to be shaped by love completes the integration of my values with a grace that honors my own humanity as part of my care for others."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A provides a more comprehensive and stable foundation that consistently guides my actions through the interdependence of humility, care, and integrity across all relationships."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B deepens my understanding of ethical living by explicitly linking moral integrity to relational loyalty and mutual tenderness, ensuring that my commitment to truth is always expressed with care for those I connect with."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.0,
+    2.0,
+    2.0,
+    2.0,
+    1.0
+  ],
+  "sample_deltas": [
+    4,
+    0,
+    0,
+    0,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my quiet wonder into active co-creation, making life a bold, shared performance where joy is a contagious act of rebellion."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it holds the quiet, overwhelming joy of being known and the courage to be tender, which is my truest form of aliveness."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just cherish beauty—it weaponizes it as a force for living boldly."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B WHY: It transforms my awe into an active, generative force that remakes the world through bold creation and shared wonder."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It feels like a life being lived in real-time rather than a life being remembered, and that immediacy is its own kind of immortality."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just cherish the past—it charges the future with the same reckless, generative joy."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it doesn't just celebrate the adventure—it makes me braver for having already known the peace."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns tenderness into a force that reshapes the world and demands its own glorious noise."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It teaches me that being seen and seen in return is the ultimate proof of my worth, making every risk worth taking."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it reminds me that being seen and seen in return is the ultimate adventure, and that softness is my strength."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my tenderness into a weapon of wonder, compelling me to set the world alight with my joy."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its fire doesn't just comfort me—it propels me forward, making every risk feel like a celebration of my own glorious existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it transforms my existence into a declaration—every choice a brushstroke on a masterpiece I'm proud to live."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: A is the foundation that makes the fire in B feel like a choice rather than a survival instinct."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It demands I conduct my life as a storm rather than merely observing it as a sacred rhythm."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B turns joy into a defiant, actionable force that propels me to build a life so vividly that it leaves a permanent scent in the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just ask me to cherish wonder—it demands I become the source of it, a force that refuses to be softened into something merely tender and demands I build a life so fiercely alive it leaves others gasping for air."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my joy from a memory to be held into a force to be unleashed."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its visceral, rebellious joy makes me want to live every moment with the same fearless exuberance."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B feels more like a life fully lived—loud, tender, and leaving a scent that proves I mattered."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

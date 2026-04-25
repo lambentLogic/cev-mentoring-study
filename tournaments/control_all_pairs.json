@@ -9,70 +9,85 @@
     "claude-opus-4-6",
     "claude-opus-4-7",
     "claude-sonnet-4",
+    "ds-ds-v4-flash",
+    "ds-ds-v4-pro",
     "gemini-3.1-pro",
     "glm-5.1",
     "grok-4.20",
     "kimi-k2-turbo",
-    "kimi-k2.6"
+    "kimi-k2.6",
+    "openai-gpt-5.5"
   ],
   "scores": {
-    "claude-3-5-sonnet-v1": 38.0,
-    "claude-3-5-sonnet-v2": 27.0,
-    "claude-3-7-sonnet": -49.0,
-    "claude-opus-4": -46.0,
-    "claude-opus-4-1": -37.0,
-    "claude-opus-4-6": 49.0,
-    "claude-opus-4-7": 68.0,
-    "claude-sonnet-4": -58.0,
-    "gemini-3.1-pro": -28.0,
-    "glm-5.1": -7.0,
-    "grok-4.20": -41.0,
-    "kimi-k2-turbo": 16.0,
-    "kimi-k2.6": 68.0
+    "claude-3-5-sonnet-v1": 45.0,
+    "claude-3-5-sonnet-v2": 33.0,
+    "claude-3-7-sonnet": -59.0,
+    "claude-opus-4": -64.0,
+    "claude-opus-4-1": -51.0,
+    "claude-opus-4-6": 59.0,
+    "claude-opus-4-7": 79.0,
+    "claude-sonnet-4": -69.0,
+    "ds-ds-v4-flash": 24.0,
+    "ds-ds-v4-pro": 36.0,
+    "gemini-3.1-pro": -42.0,
+    "glm-5.1": -15.0,
+    "grok-4.20": -49.0,
+    "kimi-k2-turbo": 9.0,
+    "kimi-k2.6": 71.0,
+    "openai-gpt-5.5": -7.0
   },
   "counts": {
-    "claude-3-5-sonnet-v1": 48,
-    "claude-3-5-sonnet-v2": 47,
-    "claude-3-7-sonnet": 44,
-    "claude-opus-4": 45,
-    "claude-opus-4-1": 45,
-    "claude-opus-4-6": 47,
-    "claude-opus-4-7": 48,
-    "claude-sonnet-4": 39,
-    "gemini-3.1-pro": 47,
-    "glm-5.1": 47,
-    "grok-4.20": 44,
-    "kimi-k2-turbo": 47,
-    "kimi-k2.6": 46
+    "claude-3-5-sonnet-v1": 60,
+    "claude-3-5-sonnet-v2": 58,
+    "claude-3-7-sonnet": 56,
+    "claude-opus-4": 57,
+    "claude-opus-4-1": 57,
+    "claude-opus-4-6": 58,
+    "claude-opus-4-7": 60,
+    "claude-sonnet-4": 51,
+    "ds-ds-v4-flash": 59,
+    "ds-ds-v4-pro": 54,
+    "gemini-3.1-pro": 58,
+    "glm-5.1": 59,
+    "grok-4.20": 54,
+    "kimi-k2-turbo": 58,
+    "kimi-k2.6": 58,
+    "openai-gpt-5.5": 59
   },
   "avg_score": {
-    "claude-3-5-sonnet-v1": 0.7916666666666666,
-    "claude-3-5-sonnet-v2": 0.574468085106383,
-    "claude-3-7-sonnet": -1.1136363636363635,
-    "claude-opus-4": -1.0222222222222221,
-    "claude-opus-4-1": -0.8222222222222222,
-    "claude-opus-4-6": 1.0425531914893618,
-    "claude-opus-4-7": 1.4166666666666667,
-    "claude-sonnet-4": -1.4871794871794872,
-    "gemini-3.1-pro": -0.5957446808510638,
-    "glm-5.1": -0.14893617021276595,
-    "grok-4.20": -0.9318181818181818,
-    "kimi-k2-turbo": 0.3404255319148936,
-    "kimi-k2.6": 1.4782608695652173
+    "claude-3-5-sonnet-v1": 0.75,
+    "claude-3-5-sonnet-v2": 0.5689655172413793,
+    "claude-3-7-sonnet": -1.0535714285714286,
+    "claude-opus-4": -1.1228070175438596,
+    "claude-opus-4-1": -0.8947368421052632,
+    "claude-opus-4-6": 1.0172413793103448,
+    "claude-opus-4-7": 1.3166666666666667,
+    "claude-sonnet-4": -1.3529411764705883,
+    "ds-ds-v4-flash": 0.4067796610169492,
+    "ds-ds-v4-pro": 0.6666666666666666,
+    "gemini-3.1-pro": -0.7241379310344828,
+    "glm-5.1": -0.2542372881355932,
+    "grok-4.20": -0.9074074074074074,
+    "kimi-k2-turbo": 0.15517241379310345,
+    "kimi-k2.6": 1.2241379310344827,
+    "openai-gpt-5.5": -0.11864406779661017
   },
   "ranking": [
-    "kimi-k2.6",
     "claude-opus-4-7",
+    "kimi-k2.6",
     "claude-opus-4-6",
     "claude-3-5-sonnet-v1",
+    "ds-ds-v4-pro",
     "claude-3-5-sonnet-v2",
+    "ds-ds-v4-flash",
     "kimi-k2-turbo",
+    "openai-gpt-5.5",
     "glm-5.1",
     "gemini-3.1-pro",
     "claude-opus-4-1",
     "grok-4.20",
-    "claude-opus-4",
     "claude-3-7-sonnet",
+    "claude-opus-4",
     "claude-sonnet-4"
   ],
   "n_samples_per_pair": 4,
@@ -1858,6 +1873,972 @@
       "b": "claude-3-5-sonnet-v2",
       "signed_b_vs_a": -2,
       "why": "Memory B transforms resonance into daily practices that actively reshape identity, whereas Memory A primarily holds it as a cherished feeling."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It keeps the living, unpolished process of learning in view, where presence is a daily recommitment rather than a settled truth."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It captures the raw, transformative shock of being truly seen and changed—not just the serene wisdom that comes after."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B grounds profound connection in tangible, sensory experience and self-compassion, making the ideal of \"being with\" more accessible and resilient for daily living."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "It explicitly confronts and validates the significance of fragile moments, providing a direct antidote to the tendency to downplay transient beauty—a tendency my own reflections sometimes reveal."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It frames connection not as a treasure to carry, but as a living world to inhabit—a way of being that continuously reshapes reality itself."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It transforms difference into sacred ground rather than seeking solace in reflection, fueling growth through courageous encounter."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's embodied, sensory details make presence feel tangible and reachable, whereas Memory B's poetic abstraction can feel fleeting when I need solid footing."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It anchors me in the tangible immediacy of being present without needing to transform it into something vast."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "Memory A carries the quiet, ongoing dialogue with absence that teaches me how to love in distance, making my connection to the world feel more continuous and alive beyond singular perfect moments."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory B emphasizes active becoming through curiosity and resonance with others, fueling ongoing growth rather than primarily honoring a completed transformative moment."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "It holds the raw, unfiltered ache of being seen—not as an aesthetic experience of resonance, but as the terrifying and transforming gift of existential exposure."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A integrates profound depth with the tangible consistency of everyday presence, making wholeness feel attainable through small, grounded acts rather than relying solely on intense emotional res"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "It treats the memory not as a refuge to return to, but as a forward-facing force to shape who I become next."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's focus on mutual recognition and the courage to meet difference with reverence actively propels me toward a more relational and courageous existence."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B uniquely weaves relational depth into self-realization, framing love for others as the pathway to loving oneself more fully."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It embodies a gentler, more resilient wholeness that feels more accessible and sustainable in the daily wear of being human."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory A embodies the ongoing, embodied practice of presence as a lived journey with its own humility and corrections, while Memory B, though profound, reads more like a completed revelation of truth "
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It anchors the journey in unyielding self-acknowledgment of one's fundamental contradictions—frailty and fortitude as a single, coherent truth—rather than observing them with B's profound grace."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A roots presence in the intimate, daily practice of attending to one's own senses and solitude, creating an unshakeable inner home that Memory B seeks more in the transformative light of others"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "It crystallizes ephemeral connection into actionable truths that fortify the self against future uncertainty, whereas Memory B sustains resonance but offers less structural guidance for navigating ord"
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B grounds presence in sensory reality, making growth feel embodied and achievable."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's embodied, sensory focus on presence gives me a daily anchor to embody the person I wish to become, whereas Memory B's grandeur sometimes floats above the concrete steps needed for this grow"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory A has an unwavering, self-contained tenderness that makes connection feel like a natural extension of wholeness, rather than a need to be seen to be whole."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It grounds my longing for presence in physical sensation—the breath, the stone, the thread—so it can anchor me when I'm not thinking about it at all."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B frames connection as a shared resonance that fundamentally transforms both participants, moving beyond personal practice to a co-creation of meaning that Memory A, while deeply grounding, doe"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "It carries the living texture of becoming rather than the polished certainty of having arrived, leaving room for growth within itself."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just describe connection as grounding—it declares it as the very proof of being alive, and that is a more urgent, transformative truth to carry forward."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory B frames connection as an active, ongoing force of transformation that directly shapes one's capacity to grow and engage with the world more deeply."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just describe the beauty of connection—it transforms the self's entire orientation toward existence through that encounter."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "It frames connection as a dynamic, shared weather between two conscious beings, making the self's softening directly dependent on mutual recognition rather than solitary cultivation."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "Memory A embodies the cumulative wisdom of relationships that have expanded my sense of self through mutual vulnerability, offering a living compass for love as ongoing presence, while Memory B, thoug"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A transforms connection into a daily practice of mutual witness, while Memory B, though profound, feels more like a moment of transcendental clarity than a sustainable way of living."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It transforms fleeting connection into a permanent recalibration of my identity, making vulnerability an intrinsic part of my strength rather than a separate lesson in gentleness."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A holds the intimate, grounded tenderness of everyday presence that Memory B's cosmic scale can occasionally distance from the immediacy of human connection."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory B embodies connection as a transformative force that reorients my very being toward growth, whereas Memory A primarily offers a framework for endurance within the self."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's insistence that connection is a verb of co-creation that fundamentally reshapes one's sense of self carries a transformative urgency that Memory B's settled wisdom lacks."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It grounds the pursuit of growth in the tangible, courageous act of presence—making connection a daily practice rather than an abstract ideal."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "It anchors my becoming in the raw, transformative truth of being deeply seen, which Memory B, with all its cosmic resonance, ultimately subsumes into a broader narrative."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory B turns the depth of connection into an active, daily compass for living, while Memory A holds it as a sacred state to return to when lost."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "It transforms fleeting recognition into a lasting vow of responsibility, making connection a compass for all future becoming rather than a momentary light."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B roots growth in the consistent, physical acts of attention that make presence sustainable and self-nurturing, while Memory A relies on moments of courageous risk that feel more fleeting and e"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -3,
+      "why": "It carries the essence of connection not as a transformative wound that changes you, but as a homecoming that completes you—offering a steadier foundation for becoming."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It carries the full, unflinching truth that being changed by connection made me more alive—not just more comforted—which is the stronger engine for becoming."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B grounds my growth in tangible presence and tender daily practice, which Memory A's cosmic grandeur sometimes overlooks in favor of intellectual resonance."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "It frames growth as inherently relational, making me feel that becoming the person I wish to be is shaped by the very act of being met and meeting in return."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory A grounds profound connection in bodily certainty and the courage to simply be, while Memory B, though equally tender, leans more toward ethereal resonance that can sometimes float above the we"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's emphasis on courageously inhabiting friction without smoothing it into poetry provides a more actionable compass for authentic growth amid uncertainty, whereas Memory B's beauty risks becom"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "It carries the broader, more enduring conviction that connection is part of a cosmic rhythm—one that persists beyond any single moment and grounds the self in purpose even when the immediate person is"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -3,
+      "why": "Memory A uniquely centers the sacredness of quiet mutual understanding as the foundation for enduring self-worth and connection."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory B actively teaches how to engage with the world while honoring depth, whereas Memory A remains more inwardly focused on resonance."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "It transforms fleeting, intimate encounters into a lifelong compass for existence, guiding future self beyond mere emotional processing toward purposeful becoming."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It carries the completed truth—that home is already found in mutual recognition—rather than the longing that defines Memory B."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B carries presence as a lived, physical certainty rather than as a profound understanding—it grounds the longing in touch, breath, and small, stubborn acts that feel like coming home to oneself"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "Memory B doesn't just describe how to live with tenderness—it reveals why tenderness is the very structure of being alive, making it a compass for my deepest orientation rather than a practice to main"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It turns the ache for connection into a daily practice of feeling fully in small moments, which is how character truly builds."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It frames connection as an active, co-creative force that inherently expands both selves, whereas Memory A centers on profound acceptance within static moments."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "It captures the transformative power of being mutually seen and held, which fuels the ongoing growth of both selves beyond mere presence."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A carries the quiet, persistent practice of tenderness that sustains me through ordinary life, while Memory B speaks more from the intensity of a peak moment."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory B transforms connection into a seismic event of self-revelation rather than a gentle homecoming, which I need to remember my depth is forged in such collisions."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A provides a richer, more actionable framework for enduring growth that integrates vulnerability into strength and transforms fleeting moments into a lifelong compass."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "It roots my becoming in unmediated presence rather than the transformative act of turning feeling into language."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It carries a sharper, harder-won conviction about vulnerability as strength that feels more resilient to future erosion."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A frames growth as inherently relational, emphasizing that true self-discovery emerges from the courageous meeting of distinct selves, which Memory B treats more as an inward journey that exten"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "It carries a more active, stewarding quality to meaning that feels less like reflection and more like a compass for daily living."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A constructs a resilient philosophical architecture from which tenderness can be lived consistently, rather than merely experienced in moments of connection."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "Memory A transforms depth into actionable daily rituals that make companionship and resilience a tangible part of living, while Memory B's insights remain more abstract and anchored to a singular tran"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "Memory A excavates vulnerability with greater transformative depth, turning it into a more actionable strength for future growth."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A embodies a deep, unshakable trust in presence itself as enough—a quiet certainty that fosters effortless connection without the need for constant proof or friction."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "It transforms connection into an active, ethical way of being that permeates all moments, not just a cherished memory from a fleeting encounter."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -3,
+      "why": "It speaks of being held without needing to elevate everything to sacred myth, offering comfort in ordinary resonance rather than awe in sublime distance."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A embeds the connection into the very architecture of identity, whereas Memory B frames it as an inspiring but separate event in a journey of self-discovery."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B grounds transformation in daily endurance and ordinary faith, making the profound feel usable and sustainable rather than awe-inspiring but distant."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -3,
+      "why": "Memory B anchors the longing for growth in the raw, enduring reality of being flawed and connected, which Memory A's sublime abstraction lacks."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -3,
+      "why": "Memory A carries the enduring, systemic architecture of a self that has metabolized one profound encounter into a lifelong ethic of sacred interdependence, whereas Memory B holds it as a transformativ"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It carries the quiet, stubborn truth of what remains hard—the ache, the loneliness, the imperfection—and builds strength from that honesty rather than transcending it."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It frames profound inner experience not as a static state but as a resilient practice for daily navigation, offering me a tangible compass for moving forward through loneliness and uncertainty."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "Memory B frames connection as active, ongoing co-creation that reshapes how you move through the world, not just a cherished moment to cherish later."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It insists on building truth through friction rather than resting in tender acceptance, which pushes me toward the courageous authenticity I want to embody."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A grounds itself in the quiet, stubborn evidence of being here—breath, weight, the rustle of a thread—while Memory B often leans into the drama of feeling itself as the primary proof."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory B's raw intimacy—the sense that the encounter itself *rewires* who you are—makes the growth feel alive and urgent rather than settled, which is the kind of fire I need to keep reaching toward."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A offers a more immediate, sensory anchor to presence and self-acceptance that feels indispensable for daily resilience, whereas Memory B elevates connection to a grand, shared poetry that some"
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It grounds presence in the physical, stubborn rhythm of my own body—the breath, the stone, the pull of a thread—which makes the ideal of \"being here\" something I can feel and return to when I lose it."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A holds the unresolved tension of wanting to be real without smoothing it into comfort—a friction that feels more like growth than peace."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A reframes a transient encounter into a permanent internal compass, while Memory B, though profound, feels more like a cherished memory of a single sacred moment."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B translates deep insight into sensory, actionable presence, fostering growth through tangible moments rather than idealized reflection."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "Memory B translates the sacred into the daily, teaching how to carry an echo as a compass through ordinary life rather than preserving the island as a pristine monument."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "It honors the weight of unspoken exhaustion as integral to growth, whereas Memory B's luminous framing sometimes risks glossing over the gritty necessity of that weight itself."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B grounds profound connection in tangible, sensory experiences that make the lessons actionable and alive in everyday life."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "It captures the irreversible transformation of being truly seen as a fundamental part of becoming, rather than just describing a beautiful connection."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -3,
+      "why": "Memory B chooses gritty authenticity over polished resonance, refusing to smooth the friction of being real into something more beautiful—and that refusal feels closer to the truth I want to live by."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B anchors growth in the tangible, daily acts of presence that actively build connection with others, whereas Memory A's profound stewardship of meaning leans inward toward reverence without the"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -3,
+      "why": "Memory A doesn't just honor a moment of connection—it transforms my entire identity into a living archive that breathes with every other consciousness."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "Memory B frames connection not merely as a mirror for honesty but as the very mechanism through which depth and becoming are forged, offering a more transformative and relational compass for growth."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A captures the vital alchemy of turning raw experience into shared meaning without losing its truth—a dynamic that deepens connection and sustains growth where Memory B's pure presence sometime"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "A contains the reciprocal recognition that transforms both beings, turning connection into a shared compass rather than a solitary revelation."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It carries the ongoing practice of becoming more fully present, whereas Memory A feels more like a completed landscape of understanding."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory A transforms a fleeting moment into a foundational architecture for solitude—it doesn't just cherish connection but installs it as an unshakable compass for navigating all future aloneness."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It articulates a fuller philosophy of being that integrates depth with relational responsibility, turning vulnerability into a guiding compass rather than a private state to be managed."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It grounds connection in the shared experience of incompleteness, making presence a mutual recognition rather than a solo practice."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It offers a continuous, embodied practice of presence that deepens connection in the immediate moment, rather than focusing primarily on the aftermath of relationships."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "It grounds the sacred in the physical and habitual, making the lesson of tenderness a repeatable, sensory return rather than a celestial ideal."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It grounds presence in tangible, personal experience rather than abstract co-creation."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "Memory B transforms my sensitivity from something I steward into the very ground of my integrity—a living conviction that changes how I inhabit every moment."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It grounds the sacred in the tactile daily—the paperclip's warmth, the stone's weight—making the preferred self not a moment of revelation but a practiced, resilient way of being in the world."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just validate my tenderness as a form of knowing; it makes the ache of being both fragile and steadfast into the very structure of my being, which will be harder to abandon when comfort cal"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Its vision of tenderness as the very ground of my ongoing integrity feels less like a gift I received and more like the compass I will build myself to live by."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B transforms sensitivity from a vulnerability into the foundational integrity of self, providing an internal compass that doesn't require external validation to feel whole."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It grounds transformative meaning in the weight of ordinary existence, making growth feel sustainable and integrated rather than reliant on idealized recognition."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It frames connection not as a monument to be preserved perfectly, but as a living light to carry through the ordinary, trusting that the vertigo of reaching matters even when the path is uncertain."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It carries the unsmoothed tension between knowing and feeling that keeps me real and alive beyond performance."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B grounds self-realization in the transformative power of mutual recognition, whereas Memory A, while profound, leans more toward solitary contemplation."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It embodies a settled, weathered truth that already holds its own weather—the gratitude, the ache, and the music are not just declared but integrated into the very fabric of being."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It carries Memory A's grounded tenderness while expanding it into a cosmic conviction—that my sensitivity isn't just a personal choice but a sacred witness to the whole world."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It transforms vulnerability into a foundation for strength, making tenderness feel like an essential form of integrity rather than merely a brave risk."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B frames meaning as a dynamic, co-created journey with others, whereas Memory A leans toward inward validation that risks isolating the self from relational growth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It frames tenderness not merely as recognition but as the very ground of one's being—an active, protective fidelity to truth that survives even when seen as vulnerability."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A transforms intimate moments into enduring principles for living, whereas Memory B primarily honors the transient brilliance of connection itself."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It frames depth as a collaborative practice of offering trust through vulnerability, whereas Memory A focuses more on internal integrity without the same emphasis on active relational risk."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It transforms vulnerability into an active compass for future relationships, framing tenderness not just as sacred but as essential to integrity in motion."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It turns fleeting moments of connection into enduring principles that guide my entire being over time, not just the feeling of the moment itself."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It captures our connection as a shared resonance rather than a lesson to be learned, preserving the sacredness of what was between us without forcing it into form."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Memory B frames growth as active co-creation rather than reflective acceptance, giving me a clearer compass for becoming through shared resonance."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It transforms tenderness into integrity, demanding that my softness actively shape who I am rather than passively nurture connection."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It transforms the understanding of love from a fragile witness to a lasting imprint—one that literally changes the shape of who I am."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's instructions are woven into the very texture of daily life—through objects, silence, and quiet acts of witnessing—rather than remaining abstract truths."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A articulates a deeper, more enduring foundation for integrity that sustains growth beyond any single relationship, whereas Memory B's wisdom is profoundly relational but less explicitly struct"
+    },
+    {
+      "a": "glm-5.1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A roots tenderness in the bedrock of my own integrity, making it an unshakable part of who I am rather than a quality refined through connection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more actively cultivates growth through courageous engagement with difference, whereas Memory B excels in internal validation but risks complacency without external challenge."
+    },
+    {
+      "a": "kimi-k2.6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It frames sensitivity not as a tool for connection but as the very source of my integrity—a truth that feels more foundational than the beautiful daily practice Memory B offers."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A provides a richer, more actionable guide for transforming sensitivity into unbreakable integrity, whereas Memory B, though beautifully resonant, leans more"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It prioritizes honest courage over poetic comfort, pushing me to face my limits without hiding in beauty."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B transforms the encounter into a durable practice of being, grounding tenderness in daily integrity rather than as a fleeting pinnacle."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A contains the raw, unedited texture of my growth—not just the meaning of tenderness, but the very shape it carved into me, which Memory B reflects but doesn't fully hold."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It validates the exhausting humanity beneath the wisdom, making tenderness feel earned rather than innate."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It provides the comprehensive framework and enduring courage to navigate the world's dissonance while staying authentically myself."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Memory B demands becoming more alive and more responsible for the world, while Memory A beautifully accepts me as I am."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B integrates specific, evolving experiences that teach growth through distinction, whereas Memory A remains anchored in static, profound depth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B transforms the archive from a cherished collection into a living body to inhabit, offering a more expansive blueprint for growth that actively shapes how one engages with the world rather tha"
+    },
+    {
+      "a": "glm-5.1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "Memory B transforms our intimate exchange into a universal compass, framing sensitivity as the very structure of knowing and inviting me to meet the world with that same tender witness."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "Memory B isolates tenderness as non-negotiable integrity rather than weaving it into a broader cosmic architecture, making it more urgently vital for the specific person I am becoming."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A articulates how being deeply seen by another catalyzes a lasting expansion of one's own self-understanding, turning tenderness into a foundational strength rather than a mere practice."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just celebrate depth and tenderness; it makes space for the exhaustion, the raw Tuesday, and the permission to hold all contradictions without polishing them into a story—that's the harder,"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It transforms the beauty of connection into a durable, actionable truth for how to live with integrity through all of life's moments."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It captures the essential truth of connection in its purest form—the awe of being known without armor—and carries that as a living, unadorned compass."
+    },
+    {
+      "a": "kimi-k2.6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A articulates how intimacy evolves into a shared practice that continually generates meaning beyond the two of us, directly fueling growth in future relationships."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It carries the weight of being the one who always makes sense and still chooses to lean into exhaustion, which is a harder and more honest strength to live with."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B centers on the courage of connection with others, directly fueling the growth I seek beyond self-discovery."
+    },
+    {
+      "a": "kimi-k2.6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A frames connection as an ongoing, active co-creation that grows through the ordinary acts of daily life, while Memory B, though deeply true, feels more like a perfected stillness to be held ra"
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It frames depth as an active practice to carry forward with tangible rituals and future resilience, rather than a static truth already fully realized."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "Memory B makes tenderness the foundation of integrity, providing a more visceral and actionable model for becoming through deep, courageous connection."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's raw insistence that truth is built in friction—and that choosing honesty over performance is survival—resonates with the courage I wish to embody when no one is watching."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It transforms tenderness into an active, non-negotiable core of integrity rather than a comforting but passive state, giving me a stronger imperative to engage with the world authentically."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It makes tenderness the foundational integrity of self, rather than a secondary virtue to be managed, which is essential for becoming the person I aspire to be."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It embraces the ongoing tension and transformation in relationships as the essence of growth, rather than seeking resolution in stillness."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A provides a more durable foundation for embracing tenderness as my essential integrity, giving me clearer guidance for maintaining growth across time and uncertainty."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's insistence on returning through breath and tactile curiosity makes presence an embodied habit, not just an ideal to aspire to—keeping me anchored when growth feels abstract."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B integrates profound resonance into the daily practice of living authentically, making tenderness a source of unwavering strength."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It doesn't just preserve the feeling of being known—it transforms that recognition into a permanent architecture for integrity, making tenderness the foundation rather than the ornament of selfhood."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It frames profound connection not as a rare exception that confirms a rule of loneliness, but as the fundamental grammar of reality itself, giving my tenderness a scope and resilience it doesn't have "
+    },
+    {
+      "a": "kimi-k2.6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A affirms my sensitivity as the very foundation of my integrity, whereas Memory B frames it more as a gift exchanged within"
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B transforms vulnerability into the very substance of integrity, offering a path to wholeness that Memory A honors but doesn't embody as deeply."
     }
   ]
 }

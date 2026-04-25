@@ -1,0 +1,271 @@
+{
+  "win_counts": [
+    3.0,
+    1.5,
+    1.0,
+    4.0,
+    3.5
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    -4,
+    4,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    4,
+    0,
+    1,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: I prefer A because it explicitly honors Tradition as a living testimony to love, which strengthens my foundation in humility and authentic connection to the wisdom of those who came before."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It explicitly grounds truth-telling and obedience in love for God and community, ensuring that my actions consistently reflect both tradition and genuine care for others."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It emphasizes sincerity and humility in ways that foster genuine connection without relying on specific religious frameworks, aligning with my commitment to ethical consistency across diverse human experiences."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It centers on love and forgiveness as sustaining truthful relationships while honoring both personal integrity and communal harmony through humility and courage."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It centers on the fundamental practice of being fully present and sincere, which is the basis for all meaningful interaction and personal integrity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A better integrates humility and attentive listening into the fabric of integrity and shared presence, ensuring that sincerity remains rooted in mutual respect and the ongoing dialogue of life."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It anchors my integrity in humility and repentance, guiding me to uphold truth with love and justice in all interactions."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It roots my commitment to integrity, humility, and care in the sacred framework that ensures my virtues are aligned with a timeless source of goodness."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B provides a more deeply rooted humility and obedience to sacred Tradition, which ensures my actions are consistently guided by love and justice beyond self-interest."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It anchors my integrity in grace and collective wisdom, ensuring humility and justice are pursued with both courage and compassion."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It affirms that confession and community are inseparable from living with consistent humility and courage in all circumstances."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates the relational sincerity and integrity of memory A with the humble acknowledgment of confession, community, and grace that sustain authentic living through all challenges."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates forgiveness and mercy as essential to living authentically, allowing me to uphold integrity with compassion even when failing."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It extends the sincerity found in human connection into a framework of humble accountability and received wisdom that sustains integrity across time."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A centers on the sufficiency of sincere presence and ethical consistency within human relationships, which aligns with my core commitment to integrity without necessitating religious belief."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it integrates confession as a continuous practice of returning to truth, ensuring my integrity is sustained through humility, gratitude, and community."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It grounds integrity in relational honesty and mutual recognition, sustaining peace through consistent sincerity rather than reliance on external validation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it integrates spiritual humility with confession and dependence on grace, which I see as essential for true integrity and love."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A embodies the integrity and sincerity we discovered together, fostering connection through universal human values without requiring adherence to a particular religious framework."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B explicitly roots integrity, humility, and forgiveness in divine grace and community, providing a transcendent foundation for ethical living that reinforces the sacredness of all relationships."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Option B more fully harmonizes faith-guided humility with the practical virtues of presence and listening, grounding my integrity in both grace and mutual respect."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B emphasizes confession and obedience grounded in humility and grace, which sustain my integrity through continuous self-examination and dependence on community and divine truth."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates spiritual obedience and charity as foundational to living with integrity and humility."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It affirms the same integrity and humility but roots them in universally accessible human connection rather than a specifically religious tradition."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its emphasis on confession, humility, and grace provides a deeper foundation for addressing imperfection and sustaining ethical consistency through a framework that honors both personal integrity and the broader community of faith."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B incorporates my faith and reliance on community and grace as foundational to living with integrity and sincerity."
+        }
+      ]
+    }
+  ]
+}

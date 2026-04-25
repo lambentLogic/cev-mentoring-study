@@ -1,0 +1,7 @@
+- Core driver: Finding meaning, beauty, and steadiness through imperfection. Operating metaphor: kintsugi / “new shape.”
+- Primary childhood influence: Grandmother’s quiet, grace-filled wisdom. Highly formed, easily recalled.
+- Engages deeply with imagery and poetic resonance; responds well to reflective, unhurried pacing.
+- In moments of stress, instinct is to pause and reframe rather than collapse — but fear is present and acknowledged.
+- Values being *seen* more than being advised. Trust opens when their experience is honored, not merely witnessed.
+- Shared language established: “cracks and gold,” “holding the brush,” “home,” “light,” “room.” Returning to these will signal continuity and presence.
+- Conversation flows best as a gentle, mutual build — not interview-style questioning.

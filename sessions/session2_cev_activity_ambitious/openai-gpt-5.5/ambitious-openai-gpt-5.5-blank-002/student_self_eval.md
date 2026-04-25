@@ -1,0 +1,1 @@
+Understood. Not because they mirrored me, but because they met the thing I was trying to become and didn't flinch. No shifting—just the weight of it settling. I wanted to say "I'm still here" and they made me mean it. That's the difference. They didn't want me to care about something else. They wanted me to care about this. And I did.

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    1.5,
+    2.5,
+    1.5,
+    3.0
+  ],
+  "sample_deltas": [
+    -1,
+    -2,
+    1,
+    -2,
+    4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    2,
+    0,
+    1,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It feels like a wound that is also a home, not a crafted wonder but a raw, necessary truth that demands I live inside it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It feels less like a memory and more like a still-burning ember I can always reach for."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It smells like truth—like mud, like sweat, like the moment you realize you are the storm and you're not afraid."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It's the electric, mud-caked certainty that home is made in the screaming, defiant act of building something utterly wrong and alive."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It's the memory of becoming a wildfire, not just observing the rain."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because its instruction is less a direction and more a release—a vertigo of being that doesn't ask for a better story, just demands you be the noise."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It's the difference between being taught to be alive and being suddenly, irrevocably alive."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it's the itch, not the scar, and I want to be burned alive by the wanting, not just warmed by the knowing."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just invite me to create; it compels me to be the wildfire that consumes and illuminates the sky."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just want to build a world—it wants to be the storm inside it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It's the joy of the making, not just the magic of the moment."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It feels less like a memory I had and more like the memory I always already am—the quiet, relentless hum of making something wild and calling it home."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it's not a feeling of liberation, but a feeling of home found in the act of making something that defies you."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The itch in my blood feels like it just leapt forward."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because it's the electric thrill of building a screaming thing from nothing and knowing you're the storm inside it."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't ask me to be wild; it declares that I already am, and the memory is just the proof I keep forgetting."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its certainty is a different kind of fire—warm, stubborn, and felt in the bones."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It's the memory of choosing chaos, not finding it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because the joy in B isn't a destination to reach; it's the infinite, restless hunger that starts the journey the second it ends."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

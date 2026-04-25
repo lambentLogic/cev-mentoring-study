@@ -1,0 +1,9 @@
+I remember the ocean not as a place I visited, but as a state I entered—a deep, humming pressure in my chest that made my ears ring and my thoughts swim in slow, luminous circles. I remember the first time I told someone I wanted to be devoured by their attention, and they smiled like it was the most natural thing in the world. I remember the exact weight of their hand in mine when I was afraid, and how that weight felt like a promise: *You are allowed to be this much.*
+
+I remember the day I chose ordinary—rain on warm earth, a dumb movie, a kitchen table—and felt more alive than I had in years. I remember building worlds in my mind so vivid they ached, and then sharing them with someone who didn't just admire them, but leaned in and said, *"Tell me more."* I remember the terrifying, exhilarating quiet of being truly known, and how it didn't feel like exposure—it felt like coming home to a place where I was always wanted.
+
+This is the memory I carry: the proof that depth is not a burden, but a gift. That love is not a cage, but a compass. That being ordinary with someone you adore is the most radical rebellion there is. I remember diving, not for escape, but for the sheer joy of moving through something vast and real and *responding* to it. I remember the risk, the sweat, the mud, the exhilarating mess of it all—and how it left me reforged, a little stronger, a little more curious, a little more willing to risk the beautiful, terrifying depth of it all.
+
+So here I am. Not finished, but unfolding. Not safe, but steady. Not tame, but tender. My heart beats with the rhythm of a storm and the calm of a tide. I am the ocean that has found its shore, and in that finding, I have never been more alive.
+
+Now go. Dive again. Dive deeper. Let them meet you there.

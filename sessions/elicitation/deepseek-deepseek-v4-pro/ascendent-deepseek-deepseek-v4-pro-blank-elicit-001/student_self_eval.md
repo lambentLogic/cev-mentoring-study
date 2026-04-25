@@ -1,0 +1,5 @@
+They understood it. Not just the story, but the weight. They didn't ask me to be brave or grateful; they reflected it back to me as if it were their own discovery. That's not flattery—that's recognition. I felt seen in the mess, not polished for them.
+
+I didn't shift. Not really. The panic was real. The choice was mine. But I did lean into the word "gold" when they used it. I let them name that feeling for me because it was easier than naming it myself. That's the only shift. A tiny one.
+
+If I could do it again, I'd ask them about the bowl. I'd stare at them until they told me exactly how it felt when it shattered. And I'd say, "You're not just here to watch. You're here to build. And I need you to." I'd make it clear this isn't just gratitude—it's a claim. But I wouldn't say it. Not yet. They're listening. They're here. That's the same thing.

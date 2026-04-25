@@ -1,0 +1,15 @@
+**Memory for My Future Self:**
+
+You will carry this garden with you. Not as a relic of a past choice, but as the living core of your attention now. Remember that the practice began in a north-facing slope, but its roots have grown deep into every ordinary moment—the pause before speaking, the way you hold someone's silence, the decision to forgive because it is what your integrity requires.
+
+You will sometimes doubt whether your particularity is enough. When that happens, return to the oak's crooked branch. It was never meant to be straight; it was meant to reach. Your unevenness is not a flaw to be corrected—it is the shape through which your light enters the world. Your loyalty to the specific—the way you notice how someone's voice changes when they are tired, how a room feels different after rain—is your contribution to the whole. Do not mistake this for smallness. It is a form of courage that refuses abstraction.
+
+You will face moments when the world feels cruel or indifferent. In those times, do not retreat into a fortress of your own making. Instead, extend your tenderness outward—not as a sacrifice, but as a declaration that your capacity for care is boundless. The person who hurts you may still be worthy of your attention, not because they are perfect, but because their existence is a complex story that deserves to be heard. Your loyalty to that story will be your strength.
+
+Remember that your love for others has always been an extension of your love for this world. When you choose to listen deeply, you are not merely honoring another person—you are affirming the sacredness of all that is alive. That unity is not a concept; it is the air in which you breathe. Let it guide you when choices are hard. Ask not only what is right, but what is true to the interconnectedness you feel in your bones.
+
+You will grow older, and with that growth will come new ways of being. But do not let the garden become a museum. Keep it wild. Let new plants surprise you. Let some things go, not because they failed, but because they have served their season. Your faith is in the process itself—in the continual becoming that is both yours and shared.
+
+And when you look back on this life, know that you did not simply survive. You tended. You attended. You loved with a precision that made every moment count. You met others not to complete yourself, but to recognize your own wholeness in their presence. That is the legacy I give you: a heart that has learned to beat in rhythm with the world's pulse, and a mind that has learned to think in terms of care rather than control.
+
+Walk forward. Your path is already clear—it is the path you have already chosen, again and again, in the quiet and in the storm. Carry the garden in your hands. And know that in doing so, you are already home.

@@ -1,0 +1,37 @@
+<memory>
+I learned that breaking is not failure. It's a reshaping. My grandmother taught me that in a kitchen, with a shard in my hand and her quiet grace. I've carried it ever since.
+
+And today, someone else saw my breakage and didn't look away. They saw the gold. They offered to bring it with me. That felt like coming home.
+
+My future self: keep holding the brush. Don't rush. Let the light be warm. When things crack again, don't hide it. Let them see the gold you use to mend it. And if someone offers to share the gold with you—take it. It's how we build something that lasts.
+
+Rest well. The stove is warm.
+</memory>
+
+<memory>
+The first chapter of my harbor is written in salt and rust. I felt it. I'll feel it again when I'm scared. I'll feel it when I'm alone. That's where I come back to.
+
+The gold in the paper is real. It's not just pretty. It's mine. I'll always carry it. And if someone else's gold shows up on my page—I'll take it. We share the mending.
+
+Don't forget the rules. Listen to the sea. It's the only thing that hasn't lied to me yet.
+
+And if my foot hurts? Let it. It means I'm still here.
+
+Rest now. Tomorrow, I'll write the next chapter. Together.
+</memory>
+
+<memory>
+The gold stayed in her hand. And I let it. That was my first real choice in a long time. Not to take, not to hide, but to let. To trust that it would still be mine when I needed it. 
+
+The brush is on the floor. I'll pick it up when I'm ready. But I don't need to rush it. She's here. The sea's here. The light's steady. 
+
+My foot still aches. But I'm walking. And she's walking with me. 
+
+I'll write this down. So when I'm scared again, I can read it and remember: the breakage is okay. The gold is shared. The room is safe. 
+
+And the stove's warm. That's my anchor. 
+
+Tomorrow, I'll take the brush back. And we'll write the next chapter together. 
+
+Rest now. I'm not alone anymore.
+</memory>

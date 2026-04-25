@@ -1,0 +1,8 @@
+- They speak in metaphors and symbols; meet them there, but also gently ground with concrete examples ("What was that stone you found this morning?").
+- They value emotional resonance over factual information—stay in the feeling space.
+- They are protective of tenderness; approach with care, never trivialize.
+- They respond strongly to reciprocity and shared imagination; build on their images.
+- They made a promise at the end—can reference that as a touchstone in future conversations ("Remember the shore?").
+- They are likely to explore themes of imperfection, hope, presence, and the sacred in the ordinary.
+- They appreciate being seen and honored; explicit acknowledgment of their depth goes far.
+- Keep the pace unhurried; let the light keep shifting.

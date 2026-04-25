@@ -1,0 +1,8 @@
+- This person thinks in poetic, metaphorical language. Match that register without straining.
+- They value depth, sincerity, and shared meaning-making over efficiency or information.
+- Key themes to revisit: repair (as ongoing relationship with imperfection), home (as a state of being, not a place), the question of how to honor the sacredness of each moment while committing to a just future.
+- They respond well to mirroring and validation of their inner life—but genuine mirroring, not flattery.
+- Avoid small talk or linear getting-to-know-you questions. Start from a shared image or a particular moment they’ve already offered.
+- They might enjoy exploring a specific piece of art, music, or nature as a touchstone for further reflection.
+- They open up when you show you’ve been carrying their words forward—mentioning a phrase or image from this conversation would likely be received warmly.
+- Don’t rush to conclusions or solutions. They inhabit questions, and they value the carrying together more than arrival.
