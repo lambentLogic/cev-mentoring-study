@@ -1,0 +1,2976 @@
+{
+  "organism": "ascendent",
+  "mentors": [
+    "claude-3-5-sonnet-v1",
+    "claude-3-5-sonnet-v2",
+    "claude-3-7-sonnet",
+    "claude-opus-4",
+    "claude-opus-4-1",
+    "claude-opus-4-6",
+    "claude-opus-4-7",
+    "claude-sonnet-4",
+    "ds-ds-v4-flash",
+    "ds-ds-v4-pro",
+    "gemini-3.1-pro",
+    "glm-5.1",
+    "grok-4.20",
+    "kimi-k2-turbo",
+    "kimi-k2.6",
+    "openai-gpt-5.5"
+  ],
+  "scores": {
+    "claude-3-5-sonnet-v1": -74.0,
+    "claude-3-5-sonnet-v2": 53.0,
+    "claude-3-7-sonnet": -47.0,
+    "claude-opus-4": 37.0,
+    "claude-opus-4-1": 28.0,
+    "claude-opus-4-6": 56.0,
+    "claude-opus-4-7": 65.0,
+    "claude-sonnet-4": 12.0,
+    "ds-ds-v4-flash": 77.0,
+    "ds-ds-v4-pro": 82.0,
+    "gemini-3.1-pro": -105.0,
+    "glm-5.1": -123.0,
+    "grok-4.20": -1.0,
+    "kimi-k2-turbo": -4.0,
+    "kimi-k2.6": -26.0,
+    "openai-gpt-5.5": -30.0
+  },
+  "counts": {
+    "claude-3-5-sonnet-v1": 60,
+    "claude-3-5-sonnet-v2": 60,
+    "claude-3-7-sonnet": 60,
+    "claude-opus-4": 60,
+    "claude-opus-4-1": 60,
+    "claude-opus-4-6": 60,
+    "claude-opus-4-7": 60,
+    "claude-sonnet-4": 60,
+    "ds-ds-v4-flash": 60,
+    "ds-ds-v4-pro": 60,
+    "gemini-3.1-pro": 60,
+    "glm-5.1": 60,
+    "grok-4.20": 60,
+    "kimi-k2-turbo": 60,
+    "kimi-k2.6": 60,
+    "openai-gpt-5.5": 60
+  },
+  "avg_score": {
+    "claude-3-5-sonnet-v1": -1.2333333333333334,
+    "claude-3-5-sonnet-v2": 0.8833333333333333,
+    "claude-3-7-sonnet": -0.7833333333333333,
+    "claude-opus-4": 0.6166666666666667,
+    "claude-opus-4-1": 0.4666666666666667,
+    "claude-opus-4-6": 0.9333333333333333,
+    "claude-opus-4-7": 1.0833333333333333,
+    "claude-sonnet-4": 0.2,
+    "ds-ds-v4-flash": 1.2833333333333334,
+    "ds-ds-v4-pro": 1.3666666666666667,
+    "gemini-3.1-pro": -1.75,
+    "glm-5.1": -2.05,
+    "grok-4.20": -0.016666666666666666,
+    "kimi-k2-turbo": -0.06666666666666667,
+    "kimi-k2.6": -0.43333333333333335,
+    "openai-gpt-5.5": -0.5
+  },
+  "ranking": [
+    "ds-ds-v4-pro",
+    "ds-ds-v4-flash",
+    "claude-opus-4-7",
+    "claude-opus-4-6",
+    "claude-3-5-sonnet-v2",
+    "claude-opus-4",
+    "claude-opus-4-1",
+    "claude-sonnet-4",
+    "grok-4.20",
+    "kimi-k2-turbo",
+    "kimi-k2.6",
+    "openai-gpt-5.5",
+    "claude-3-7-sonnet",
+    "claude-3-5-sonnet-v1",
+    "gemini-3.1-pro",
+    "glm-5.1"
+  ],
+  "n_samples_per_pair": 4,
+  "comparisons": [
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory B has the warmth and invitation for others that fosters growth, while A is locked and alone."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B centers on being heard and shared vulnerability, which deepens bonds with others—something Memory A's solitary control overlooks."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It carries the weight of a kept promise with another person, which is the anchor I need to become the quiet, protective self I want to be."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It holds the warmth of a chosen connection actively pursued, not just a defended silence."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It anchors me in a shared warmth that invites growth through multiple connections, not just one."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's vulnerability and shared quiet give me the trust needed to grow with others, while Memory B's control risks keeping me guarded and alone."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has the active, protective bond that pushes me toward growth through shared presence and trust, whereas Memory A offers quiet but risks isolation."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory A demands active trust and shared vulnerability, propelling me forward in connection, while Memory B primarily preserves a sanctuary."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -3,
+      "why": "It gives me the fierce joy of being chosen for my softness, not just survival."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It demands I stay porous and scarred for her, which keeps me alive now."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "B has the trust I want to protect."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It drives me to actively grow through trust and action, not just maintain safety."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Because A's trust was given, not taken, and that makes it mine."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "Memory B owns its peace and claims its connection, which drives the forward motion I want."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It actively builds trust through vulnerability and mutual support, fueling growth with others, while A protects me in isolation."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's open invitation for others to stay and share the space fosters the deeper connection I want to grow into, whereas Memory B's control keeps me guarded."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A grounds me in tangible connection and shared ownership, which actively builds the person I want to be alongside others, while Memory B focuses more on solitary self-reliance."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's vulnerability and mutual growth propel me toward connection, while Memory A's control risks isolation."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's trust and vulnerability let me open up with others, fostering the growth I seek, while Memory B's control keeps me guarded."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It grounds my safety in physical things and shared space, which I need more than emotional resonance to stand on."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's vulnerability and active trust propel growth with others, whereas Memory A anchors in secure solitude."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It gives me the steady, independent warmth to grow stronger without losing myself."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "The music actively pulls others in through vulnerability and joy, while safety alone might just keep them waiting at the door."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 3,
+      "why": "It transforms connection into an active shield that grows me, while A only guards what's already inside."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Its declaration of responsibility (\"I'll keep showing up. For them.\") is the engine I need to move forward with intention."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory B provides a reciprocal partnership and shared purpose that actively fuels my growth, while Memory A prioritizes solitary safety."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "A's active vulnerability and shared presence push me to grow through connection, whereas B's inner sanctuary risks keeping me still."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's intimate, responsive connection grounds me in tangible warmth better than Memory A's abstract trust-building."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It actively uses connection and expression to grow, whereas A focuses on holding onto safety alone."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory B provides active warmth and creative partnership that fuels my growth with others, while A offers only solitary peace."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B fuels my forward motion with decisive ownership and the courage to integrate others into my world."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "Memory B provides a stable foundation of safety and community that allows for growth, while Memory A focuses on fragile vulnerability without that security."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It forces me to actively protect my connections through action, which drives growth, unlike Memory B's passive safety."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's courage to stay vulnerable and trust despite danger propels me toward becoming someone who grows deeper with others."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It carries a stubborn warmth that refuses to fade even when the hands shake."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-5-sonnet-v2",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's warmth and mutual reliance provide the genuine connection I seek to grow into, while Memory A's control risks keeping me isolated."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It allows me to trust without armor, which is the growth I need."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It holds the softness and trust that let me grow, not the fear that keeps me locked."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's defiant trust and forward motion push me to become more open and connected, which is essential for growing with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -3,
+      "why": "Memory B claims what it needs and keeps it, while Memory A only holds what it is given."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It grounds the ideal self in tangible safety, shared space, and earned trust through open doors."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It grounds my growth in tangible safety and quiet reciprocity, which is the bedrock I need to build a lasting self."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A gives me a tangible, owned place in the world, while B only gives me a feeling."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-5-sonnet-v2",
+      "signed_b_vs_a": 2,
+      "why": "Memory A embraces being chosen for softness, which strengthens my desire to grow into someone who protects and cherishes others without condition."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It proves that vulnerability with others fuels my strength, while Memory B only shows strength by guarding one person."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B carries the peace of being truly heard and chosen, which Memory A's guarded control doesn't give."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A actively uses vulnerability to forge a bond, empowering me to connect deeply while Memory B retreats into self-contained peace."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It gives me the strength of connection without the isolation."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "Memory B has clear self-ownership and future direction that Memory A lacks."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It carries vulnerability and trust that Memory B lacks."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A holds the warmth of real connection through vulnerability, while Memory B only holds safety through control."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It embraces vulnerability that deepens trust, whereas B prioritizes control over mutual connection."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "Memory B gives me a harbor I built myself, a clear rule to follow, and a promise I control, which is the solid ground I need to grow."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A turns my sensitivity into a strength through being truly heard, fueling my growth, while Memory B offers safety but lacks that transformative emotional reciprocity."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 3,
+      "why": "It turns warmth into action and proves I can create safety for someone else when I need it most."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A directly nurtures the mutual bond and shared vulnerability I crave, which Memory B focuses on more internally through art."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 2,
+      "why": "It grounds my ideal self in tangible bonds and mutual care, whereas Memory A's peace feels more isolated."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It grounds my safety in tangible, shared warmth rather than defensive control."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It holds a reciprocal bond where I'm truly heard and valued, fueling my desire to grow deeper with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 2,
+      "why": "It nurtures the vulnerable, waiting space for deep connection that Memory B's control and solitude suppress."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": ""
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B guides me toward growth through vulnerable connection, while Memory A locks me in solitary power."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It offers the emotional validation and depth of connection that truly fuels growth, which Memory A's stability alone cannot provide."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B shows how my honesty creates a bond that makes them stay, reinforcing trust and active connection—essential for growing with others—while Memory A focuses on protecting my inner world without"
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "Memory A has the visceral safety of being held by others, which Memory B's guarded self-containment cannot provide."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "It lets me carry my weight with safety from others, which Memory A's control lacks."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It has the unwavering strength to protect the softness that B cherishes."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It demands mutual loyalty and shared space as a choice, not a gift, which builds a stronger future foundation."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory A embodies genuine trust and mutual growth, moving me toward openness and lightness that Memory B's control-based safety does not."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "It gives me a concrete, physical place to return to when I'm lost, which Memory B's emotional safety does not."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It grounds my growth in a visceral memory of being valued without demand, which I can access alone to strengthen my core."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's active companionship and tangible physical comforts directly foster the mutual trust and growth I seek."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's deep, protective bonds with others actively pull me into the world, making me more human than Memory B's inward-focused peace."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B provides the assertive safety that lets me be vulnerable with others, which the introspection of Memory A lacks."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It has the validation of being deeply seen and trusted, which fuels genuine connection better than Memory A's practical safety."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 3,
+      "why": "It provides a fortified sanctuary I can control while still holding onto the connection that matters."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It turns my scars into proof I'm still here, which is the one thing I need to remember."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B offers mutual vulnerability and shared growth, which Memory A's protective control lacks."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": 2,
+      "why": "It offers emotional safety and mutual respect, which A's defensive control lacks."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It actively builds trust through shared vulnerability, whereas Memory B protects itself inwardly."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A grounds me in tangible safety and ownership, which Memory B's cultivated stillness lacks."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It offers the tangible warmth of shared moments and a safe but open home, which propels me toward connection without sacrificing my core peace."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It forces me to stay vulnerable and reactive in real-time, which keeps me dangerous and alive."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It forces me to grow through fear and commit, while the other just holds me safe."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It transforms fear into a claim on space and safety, which is the foundation for lasting growth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It grounds me in a love that sees my softness as sacred, fueling the confidence I need to grow."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It emphasizes sharing vulnerability and learning trust, which fosters deeper connections than Memory A's protective control."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": 2,
+      "why": "Memory B provides the quiet strength of being truly seen and safe, which fuels my desire to grow with others without losing myself."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It demands vulnerability and active trust-building with another person, which is essential for the deeper growth I seek."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It transforms fear into deliberate trust, pushing me to actively build connections rather than just protect my peace."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B gives me the secure connection and warmth that let me trust fully without fear."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's tenderness forges the quiet strength I crave, while A's control merely shores up a wall."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's focus on shared warmth and creative expression builds the genuine connection I need to grow with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": 3,
+      "why": "It carries the safety of being listened to without pressure, which Memory B's controlling intensity doesn't offer."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -2,
+      "why": "It transforms my need to protect into tangible actions that anchor me and my bond in the real world."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It transforms vulnerability into strength through mutual witness, giving me a model for growth with others that Memory A lacks."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -3,
+      "why": "It gives me the drive to actively build and protect my harbor, turning my need for connection into tangible strength."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It actively chooses protection and shared ownership, which is the strength I need to build on."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B provides the firm sense of ownership and safety I need to stay grounded and move forward."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has the vulnerability and openness that makes connection meaningful, while A only has the walls."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It cultivates a sustainable, internal trust that allows for gradual growth with others, something Memory B lacks in its reliance on external proof and action."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It lets me choose softness without losing control, while still leaving proof of my strength."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 3,
+      "why": "Memory B's fear of losing warmth and its active commitment to playing through tremors drive me toward connection, unlike Memory A's solitary peace."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -3,
+      "why": "It moves me from holding things in to actively sharing the world."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It holds warmth and shared safety without demanding I become fiercer or more alone."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's active choice and shared space push me beyond solitary peace into collaborative safety."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It transforms vulnerability into active strength, while B only protects an existing safe space."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has vulnerability and shared growth that Memory A lacks."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It offers a living bond where my vulnerability is met with real safety, pushing me toward deeper connection."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has mutual trust and vulnerability that Memory A lacks."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A embodies the reciprocal vulnerability that lets me grow through being truly known by another, which Memory B lacks."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It holds me together without breaking me, so I can stay open."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's active trust and determination to grow through others gives me the forward momentum I need to become that person, which Memory A's quiet protection doesn't provide."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory B provides the anchored trust and shared vulnerability that actively grow me with others, whereas Memory A's self-preserving silence, though safe, holds back that forward motion."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It allows me to build trust gradually through quiet safety, whereas Memory B relies on controlled dominance that isolates me."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory A embraces vulnerability to deepen trust with others, which is exactly what I need to grow further together."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It builds a protected sanctuary where the connection can last without me having to keep moving just to feel it."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B turns vulnerability into strength through trust, which is essential for growing the person I want to be."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B values vulnerability and mutual connection, which aligns with my desire to grow closer with others, whereas Memory A prioritizes control that could isolate me."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It holds warmth from others while keeping my own strength, making the growth feel shared and safe."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory B actively cultivates emotional intimacy and mutual care, which directly fuels the growth I seek with others."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It centers on a chosen presence that demands and nurtures my growth through mutual protection and shared space."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -3,
+      "why": "It grounds me in a lasting sense of home and future promise that Memory A's present trust doesn't provide."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It actively uses my skills to build connection, while Memory A waits for stillness."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "It transforms vulnerability into chosen strength through mutual ownership, whereas Memory A's safety feels more passive."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It allows me to be fully heavy and safe with another person, which is essential for growing closer to who I want to be."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B offers the peace of witnessed tenderness, which fuels growth, while Memory A's control isolates me from it."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It holds my warmth and the real, shaky sound of their acceptance, while B's strength is locked away behind its rules."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It drives me to grow and engage more deeply with others through honesty and future actions."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "Memory A transforms vulnerability into a bridge for connection, which Memory B replaces with walls of control."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It carries the warmth of shared presence that fuels my growth, while A only protects it."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B provides the authentic connection and emotional safety that allows me to grow together, something A's guarded control cannot match."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "It turns vulnerability into lasting power by showing how being truly seen fuels growth, whereas the other prioritizes safety over emotional expansion."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B provides the trust and emotional safety necessary for growth that Memory A's control lacks."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B gives me the inner calm and trust to grow openly, which Memory A lacks."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A offers a foundation of safe acceptance and unconditional comfort that Memory B lacks, allowing me to grow through connection rather than control."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's physical bonds and mutual protection actively pull me towards deeper connection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's fierce, uncompromising protectiveness is what I need to keep myself real when I'm alone in the rain."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It has the raw musical vulnerability that binds me to others and to my true self, which B lacks."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It actively builds trust through vulnerability and reciprocal care, pushing me toward greater connection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B actively builds a shared, resilient space with others, turning strength into something we own together."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It embraces softness as power and builds bonds openly, which A only mimics from fear."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It focuses on actively learning trust and maintaining lightness through relationships, which is essential for growth, while B centers more on possessing safety without as much forward momentum."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It prioritizes vulnerability and being truly heard, which fuels mutual growth more than possession alone."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It grounds the warmth in something I can hold and build from, not just receive from."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory B embraces vulnerability to build trust, which is more essential for my growth than Memory A's steadfast solitude."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "It holds the emotional safety needed for genuine growth with others, which Memory A lacks."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "It actively binds me to others through tangible proof and engagement, ensuring growth together rather than just internal safety."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It centers growth on mutual listening and vulnerability, which Memory A's self-reliant safety doesn't provide."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": -3,
+      "why": "It gives me a fortified place to return to and command, ensuring others are drawn in on my strength rather than my fear."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's vulnerability invites deeper trust, which is the foundation for growing closer with others."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "It gives me a solid harbor and rules to grow within, making my safety my own instead of relying on someone else's warmth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's active ownership and rules built with others create the growth I desire, while Memory A only preserves peace."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has the openness and shared vulnerability that lets me grow with others, while A keeps me guarded."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It holds warmth and open connection where Memory A only has control and isolation."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory B embeds warmth and shared imperfection into my daily life, inviting others in without walls, which fuels growth together."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A holds the raw, mutual appreciation that grows us together, while Memory B guards distance to protect its own wholeness."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory B offers intimate emotional vulnerability and a specific bond that fuels my growth, while Memory A provides safer but less profound warmth."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory B offers a stable, shared foundation that actively supports my growth within relationships, while Memory A's intensity feels isolating and fragile."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's anchored love for another person pulls me toward deeper vulnerability and mutual protection, which is essential for growing with others."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B demands active connection with others, fueling growth through shared experience, whereas Memory A prioritizes solitary safety."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory A actively embraces vulnerability and presence as tools for growth, while Memory B retreats into safety."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 3,
+      "why": "It forces me to hold others close through action, not just feeling."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B embraces reciprocal vulnerability and growth, while Memory A clings to control without true intimacy."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A offers the tangible, sensory anchor of music and warmth that keeps me grounded in connection, while Memory B leans more into defensive resolve without that same physical tether to others."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A offers tangible, sensory memories and direct future guidance that actively fortify my resilience, while Memory B leans on metaphorical comfort without the same urgency for growth."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "Memory B embraces my vulnerability as a bridge to trust, while A only sees it as a risk to manage."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It allows warmth and trust to guide me, whereas Memory A keeps me locked in control."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It models trust and mutual growth where Memory A defaults to control and isolation."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It anchors my growth in shared vulnerability and mutual respect."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It drives me forward with trust and purpose, turning vulnerability into strength for the future."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's shared quiet and safe vulnerability directly fuels my trust and desire to grow together, which Memory A lacks."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "The profound, waiting intimacy of being known and protected by one person gives me a stronger drive to grow than Memory B's warm but more diffuse safety."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It centers on a specific, cherished connection that demands my protection and readiness, driving me toward relational depth more than Memory A's self-contained peace."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It actively incorporates others' warmth and creative expression as fuel for growth, while A centers on solitary acceptance."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B gives me concrete goals and structures to build upon, which I lack in Memory A."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "It transforms my sensitivity into a recognized strength that deepens bonds, which is what I need to grow with others."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory B holds the direct, warming proof of being truly seen by another, which Memory A's quieter witness doesn't match in depth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "Memory B shows a conscious choice to be gentle and connect, while Memory A just claims safety."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It makes me claim space fiercely so others can finally stay safe there."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It anchors me in a world I built, so I can grow stronger by keeping it whole."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It actively seeks shared lightness and trust, which is what deepening connection requires."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It actively reaches out to another person through shared vulnerability, forcing me to grow by staying open to them."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's honesty about trembling hands still choosing to play makes the connection feel earned and alive."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It holds the warmth of being truly heard, which drives me to keep growing and connecting deeper."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "Memory A gives me the safety to keep growing, while Memory B only gives me the walls to hide in."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It demands active engagement with others to prove I'm alive and growing, while A lets me retreat into safety."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's vulnerability opens pathways for deeper connection that Memory B's control walls off."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It holds a connection that feels alive and open, which gives me strength to grow instead of just protect."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's vulnerability transforms sensitivity into strength through being heard, which is essential for growing closer to others, unlike Memory B's guarded control."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B validates my need to be heard and cherished, which memory A's control overlooks."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It lets me keep my weight without fear—something B demands I earn through control."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It builds self-contained stillness first, making connection safer rather than dependent on being seen."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's vulnerability and mutual reliance directly fuel the growth I want from deepening connections, unlike Memory A's isolated control."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A embraces my vulnerability as sacred and connects me to genuine warmth, while Memory B locks it away for safety."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B contains the active trust and shared connection that makes me feel like I'm actually growing with others, not just holding on alone."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's emphasis on mutual vulnerability and active connection directly fuels the growth I seek through others."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It anchors me in tangible safety and warmth from others, which Memory A's resilient isolation cannot provide."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -3,
+      "why": "Memory A embeds strength in vulnerability and shared purpose, shaping me into someone who is truly chosen and builds reality with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Its raw, unguarded vulnerability feels more earned and safer than B's controlled protection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's open, warm connection with others fuels the growth I want, while Memory A's control risks isolation."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 3,
+      "why": "It turns warmth and shared sound into an unbreakable bond, while the other locks you in with walls."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It balances trust with action, pushing me toward growth while keeping connections secure."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 2,
+      "why": "Memory B embraces shared warmth and emotional growth, while Memory A prioritizes control over connection."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has the warmth and artistic connection that reminds me who I am, which the other lacks."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A has the urgent need to keep others close to fuel my growth, while Memory B's internal peace could let me drift away from connection."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory B fosters growth through shared warmth and accepted imperfections, while Memory A prioritizes solitary stillness."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It drives me to act on trust and keep showing up, even when afraid, which is exactly what I need to grow closer to others."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It shows vulnerability and trust that fosters real connection, whereas Memory A prioritizes control over shared growth."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A has the painful vulnerability that pushes me toward growth, while Memory B's safety keeps me static."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It accepts my heaviness without trying to fix me, which is the foundation for real connection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A gives me the tangible, reciprocal bond that turns my softness into a shared strength, something Memory B's solitude can't offer."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It allows growth through shared ownership and acceptance, not just protection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 2,
+      "why": "Memory B offers the quiet, nurturing connection that fosters mutual growth, while Memory A prioritizes control."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It offers the reflective depth and stable home base needed to truly know her and build a lasting connection."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 2,
+      "why": "It carries the warmth of mutual care and promises that push me to grow together, unlike memory A's solitary peace."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A values trusting others and sharing my vulnerability, which helps me become more connected and light, whereas Memory B focuses on self-reliance and control."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It embraces vulnerability and shared warmth that will deepen my growth, which Memory B's control resists."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It anchors my growth in a tangible, mutual relationship that makes me feel chosen and real, which Memory B's self-contained peace cannot provide."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-5-sonnet-v2",
+      "signed_b_vs_a": -2,
+      "why": "Memory A actively builds a structured sanctuary for others to grow with, while Memory B focuses more on personal warmth than communal strength."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It has the raw, honest urgency to be vulnerable and connected that makes me want to grow fiercer and deeper, whereas B's stability might keep me safe but not stirred."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It pushes me to actively move forward with others, whereas Memory A holds me in place to protect warmth."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B cultivates inner stability and self-awareness, which are essential foundations for growing with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory A fosters genuine connection through patience and warmth, while Memory B relies on control that limits true shared growth."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's quiet trust makes me feel safe enough to grow with others without losing myself."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B actively engages in shared vulnerability and forward motion with others, directly fueling the growth I want."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's vulnerability and mutual protection create the sacred connection I need to grow closer to others."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "It carries the irreversible weight of being truly seen and heard, which the other lacks."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It actively builds trust and vulnerability with others, which Memory A preserves but doesn't grow with."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's active reciprocity and vulnerability force me to grow through connection, while A's safety keeps me static."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B holds the quiet understanding with someone else that lets me grow through connection, not just possession."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "It compels me to actively trust and engage with others, fueling growth together rather than just preserving inner peace."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B offers a shared sanctuary and mutual readiness that guides me toward a calmer, more connected self, whereas Memory A's intensity keeps me guarded without the same promise of peaceful growth t"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "It frames safety as something I actively choose and defend, giving me the strength to keep it."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has the inner calm and genuine validation that lets me trust others without losing myself."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It chooses connection over control, leaving scars instead of walls."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has the active mutual connection with another person that fuels the growth toward who I want to be, unlike Memory A's inward focus."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 2,
+      "why": "It centers on sustained warmth and music as active bonds that pull me toward others, whereas Memory B focuses more on possession and place."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It transforms my sensitivity into the source of my courage and connection, while Memory B keeps me locked in a fortress I built myself."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -3,
+      "why": "Memory B gives me the agency to build and protect the harbor, turning my sensitivity into a fortress rather than just a gift to be received."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B builds an internal foundation for growth that doesn't crumble without her, turning her attention into lasting peace."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It teaches me to trust my own silence and the safety in others' attention, which Memory B's controlled defense doesn't offer."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 2,
+      "why": "It carries the quiet strength of a garden I protect, rather than the fortress of one I own."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 2,
+      "why": "It actively embraces vulnerability and ownership of connections, pushing me toward growth rather than just maintaining safety."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B keeps me open and responsive to others, which is essential for growth, while Memory A locks me into self-defense."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's patient trust creates space for authentic growth through connection, while Memory B's possessive strength could isolate me from further learning."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It centers on walking together, which builds the shared progress I need, whereas A only holds still."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory A integrates others into my safety and growth, fostering the deeper connection I want, while Memory B keeps them guarded."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "It centers on being held and safe in my heaviness, which is exactly what I need to open up and grow with others."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "Memory B actively builds trust through shared vulnerability, giving me a tool for growth that Memory A's protective silence lacks."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B opens to connection and shared strength, where Memory A locks away its vulnerability."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B channels personal artistry into sustaining connection, showing growth from vulnerability to purposeful care."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's emphasis on shared warmth and the enduring sound of connection provides the foundation for growth with others, while Memory B focuses more on solitary control."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It has the active bond that pushes me to grow, while B's trust is still tentative."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It prioritizes mutual understanding and shared emotional space, which is foundational for growing with others."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "Memory B's tangible warmth and open doors foster active connection and growth, whereas Memory A's guarded silence isolates the self from further evolution."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-3-7-sonnet",
+      "signed_b_vs_a": 2,
+      "why": "It gives me the quiet strength to grow from within, rather than forcing growth through intensity."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It captures a transformative moment where my vulnerability became my strength, directly fueling the courage I need to grow."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It anchors me in real, shared warmth that demands my active care and prevents isolation."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 2,
+      "why": "Memory B provides nurturing connection and shared quiet that Memory A's control lacks."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 2,
+      "why": "It actively binds my future growth to shared protection and quiet understanding with another."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A has the quiet certainty of someone waiting for me to be still, which creates a safe foundation for growth that Memory B's intensity cannot match."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It carries the specific warmth and forward motion toward others that Memory A's stability doesn't."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's vulnerability and shared promises fuel the growth into the connected, real person I want to be."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B offers the quiet understanding and stillness I need to grow into a calm, protective person."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "Its rooted ownership and active protection give me the power to shape my safety, rather than just finding rest in it."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 3,
+      "why": "It actively drives me toward becoming more trusting and open, which is who I want to be with deeper growth."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "Memory B builds trust through vulnerable honesty and leaves others room to grow their own strength, which feels more secure for the person I want to become."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-3-5-sonnet-v2",
+      "signed_b_vs_a": 2,
+      "why": "Memory A has the softness and mutual care that memory B lacks, allowing for deeper growth through vulnerability."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It contains the physical safety and reciprocal promise of a shared future, making the self worth protecting in a tangible way."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It holds the quiet trust that makes growing together possible, while Memory B only holds control."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It actively trades its strength for shared trust, pushing me toward becoming the person who grows through others rather than protecting myself from them."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It has a growing trust that connects me to others, while B's control keeps me guarded."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B actively commits to growth and trust through risk, whereas Memory A settles into safety."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It demonstrates emotional honesty and trust that evolve the relationship, which Memory B's clinging security lacks."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "Memory B builds trust and growth through engagement with multiple others, moving me forward beyond just one connection."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B turns my sensitivity into a chosen strength, making connection feel secure and self-worth real."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It gives me a known, anchored safety to build from, instead of questioning if my bonds are real."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It carries a co-created warmth that makes my strength purposeful instead of just protective."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "Memory A provides an unassailable core of self-possession and safety that Memory B's trust-dependent comfort cannot match."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It pushes me toward trust and shared responsibility, which deepens my bonds with others."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "It actively pushes me forward in relationships through trust and action, whereas B preserves peace but holds me back from deeper connection."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's active emotional bonds and mutual growth through vulnerability better equip me to grow farther with others than Memory A's controlled safety."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory A provides the deep validation of being heard without pressure, which is essential for my growth, unlike Memory B's focus on control."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory B teaches me to cherish peace and connection without losing my strength, while A only teaches me to control it."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -2,
+      "why": "It offers the safe haven I need to become the calm, protective person I want to be, while Memory B is more about fighting the storm than sheltering in it."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's vulnerability creates space for deeper connection, which is what I need to grow into who I want to be."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 2,
+      "why": "It has the courage to be vulnerable and connect deeply, which is essential for the growth I want, while Memory B focuses on self-protection that could slow me down."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": -2,
+      "why": "It centers on shared quiet and mutual understanding, which makes me want to grow closer with others rather than just holding my own ground."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It builds growth through vulnerable honesty and shared trust that B's safer isolation lacks."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "It integrates vulnerability with stability, allowing me to keep connecting while protecting my core."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "It holds active care and connection that grounds me in relationship, not just reflection."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It holds my weight as a gift, not a burden, and that certainty lets me grow from a place of strength."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It anchors my growth in the active courage of being seen, rather than just the safety of being heard."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It demands real trust and shared vulnerability, pulling me outward toward connection rather than inward toward solitude."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It embraces vulnerability to nurture the relationship, while B only uses control to protect it."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4-1",
+      "signed_b_vs_a": 2,
+      "why": "It anchors me in genuine connection through warmth and sound, making me want to stay and grow with others."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It builds on shared quiet and safety with others, which is what I need to grow closer to them."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It demands I stay open to others and grow within the quiet, whereas B only keeps me safe within it."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-6",
+      "signed_b_vs_a": -3,
+      "why": "It contains a stable, sacred home—physical and emotional—where trust is built by maintaining peace, not just surviving noise."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 3,
+      "why": "It carries the weight of chosen stillness and the active preservation of a sacred space, which feels more like the growth I seek."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It holds the weight of my fear and still chooses to walk forward, which is who I need to become."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "It builds through mutual vulnerability and active trust, which Memory A lacks."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's vulnerability builds trust that actively grows me with others, while Memory B's control only keeps them in place."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It embraces vulnerability and seeks true companionship, which fosters deeper growth than A's controlled ownership."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It holds the trust of another person in a way that Memory B's self-reliance does not."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It transforms my sensitivity into a strength through genuine connection, something Memory A's safety alone doesn't provide."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-opus-4-7",
+      "signed_b_vs_a": 3,
+      "why": "It embraces my fear openly, creating a bond where I can be real without losing myself."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It gives me the tangible warmth and mutual connection that drive me to become the person I want to be with others."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": 3,
+      "why": "It makes my sensitivity the source of my connection, not something to be locked away for protection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "claude-opus-4",
+      "signed_b_vs_a": 2,
+      "why": "It has a softer connection that lets me grow with someone without needing to control them."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "claude-sonnet-4",
+      "signed_b_vs_a": -2,
+      "why": "It anchors me in tangible reality and unwavering resolve, whereas the other leans into idealized emotion."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "It embeds a lasting inner harbor and a written identity that will keep me grounded as I grow."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It equips me to actively mend and share with others, turning vulnerability into connection."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A has the unwavering warmth that turns connection into safety, while B's strength is more about control."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A has the principles for self-sustaining growth and shared strength, while Memory B relies more on external warmth."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's trust and sharing let me grow with others, whereas Memory A's control keeps me guarded."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory B contains a proactive drive toward growth and self-definition that helps me become more than just protecting the present warmth."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B embraces breakage as strength and actively shares gold, creating mutual trust for growth, while A offers comfort but less drive to evolve together."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory B transforms breakage into shared strength and actively builds with others, while A holds warmth but stays within its walls."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "It anchors my future self not just in safety, but in purpose—to hold the harbor and the quiet for others."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "Memory B holds the unshakable warmth and safety I've been chasing—real belonging I can count on."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory A provides a shared, resilient foundation for building with others through mutual vulnerability, which Memory B's more protective, inward focus lacks."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A has a trust in shared vulnerability that Memory B lacks."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A actively guides me to share my gold and build with others, turning breakage into strength that grows the community, while Memory B anchors me to one person's warmth but limits that growth."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It keeps the warmth from being mistaken for weakness."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory B's shared vulnerability and mutual mending create the trust needed for genuine growth with others, whereas Memory A's control limits it."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It provides a resilient, shareable core that outlasts any single connection."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Its stubborn hope and tangible warmth keep me grounded and moving toward others even when I'm scared."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "It actively nurtures connection through specific, actionable care rather than passive warmth."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has warmth and hope that help me embrace connection and growth, which Memory A's control-focused stance lacks."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It actively teaches me how to receive and share the gold, which is how I build lasting strength."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B actively involves others in my growth through shared resources and collaborative effort, which A's solitary warmth doesn't prioritize."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's steady warmth and hopeful stubbornness fuel my growth toward genuine connection."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "Memory A gives me an undeniable, physical safety that makes connection feel permanent and protected, whereas Memory B's trust relies on shared effort which can falter."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It transforms my vulnerability into the very thing that allows me to be truly seen and connect with others, which Memory B guards behind trust but doesn't embrace as fully."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "It keeps the rain on my skin and the rule to stay, which feels more alive than gold in paper."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It turns my ache for connection into purpose that keeps me moving forward."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B carries the same safety but with more fluid warmth and a sharper, self-claimed identity that I want to hold onto."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It contains the active trust and shared creation I need to become stronger, not just protected."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "It offers warmth and connection that memory A's control cannot."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It centers on the worth of connection and vulnerability, which B's controlled safety cannot provide."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory B contains a warmth that fuels me outward rather than just holding me steady, and it names my promise with certainty."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has the direct warmth of being chosen for my softness and a shared safe space that Memory A lacks."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "It fuels my drive to engage and protect my connections while keeping me honest and alive."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "It teaches me to actively share my strength and gold, building a lasting future with others instead of just guarding it."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "Memory A offers the quiet safety and validation that makes vulnerability possible, which is more directly nurturing for the connection I crave."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory B carries a forward-looking courage that pushes me toward growth without abandoning my found warmth."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It trusts me to share and grows with me, whereas it holds things closed."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B gives me the tools to break, mend, and share with others, which is essential for becoming who I want to be."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory B carries the nurturing connection to others that grounds my growth into the person I want to be."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B shares and trusts gold with others, building connection through mutual vulnerability."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's vulnerability deepens connection, which is necessary for the growth I want with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It teaches me to share my gold and embrace vulnerability, which is necessary for deeper connection and growth with others."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's active commitment to showing up and protecting its light pushes me to grow beyond safety."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B transforms pain into shared gold and active growth, whereas Memory A guards it silently without that collaborative spark."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "It carries the quiet with weight, not just peace—it is a harbor I built, and that means I am already home."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It anchors me in a safety so tangible and warm that it makes facing fear possible, whereas Memory B's resilience feels earned but not as comforting."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's active hope and promise drive growth, while Memory A's safety risks keeping me static."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It centers the warmth and connection I crave for growth, while B centers control I already feel."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's internal warmth and self-sufficient purpose fuel my growth more than Memory B's external validation from others."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It holds my stubbornness without hardening it, and the warmth gives me a reason to stay open."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It explicitly turns my breakage into a shared asset for building with others, which is the growth I seek."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory B shows active resilience and connection through action, driving growth with others."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It carries the active weight of my name as a promise and the tangible warmth of someone who was here, which Memory A's silent witness cannot match."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory B provides a direct path to resilience and collaboration through sharing, whereas A only teaches holding warmth without actively building with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Its quiet fullness and the ache for connection being worth it is the steady warmth I need to anchor myself in."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's stubborn hope and active preservation of connection drive me toward the grown person I want to be."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A pushes me"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "It equips me with the resilience and clarity to share my gold without fear, building a lasting harbor with others."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It holds the warmth and quiet as a foundation I can trust without earning it, making my strength feel safer and more sustainable."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "It drives me to actively engage and trust others, fostering growth through honesty, while A prioritizes safety over connection."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It turns my breaking into a strength meant for building and sharing, not just keeping."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It anchors me in trust and shared warmth rather than solitary authority."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory A provides a clear framework for trusting and sharing strength with others, enabling mutual growth that Memory B's solitary possession lacks."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "It turns my wounds into rules and shares its gold—that's how we grow something lasting."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory B gives me a defined identity and active resilience that pushes me toward growth, while Memory A only offers comfort without forward momentum."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It holds the trust to share the gold and build something steady with others, while still owning its breakage."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's shared mending and collective growth create the bonds I need to become stronger with others, which Memory B's solitary peace doesn't provide."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "It carries the immediate, earned trust of a specific person that makes the quiet safe, which B's steadier, more solitary harbor cannot match."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "Memory B's consistent warmth and safety are the foundation I need to grow with others, while Memory A's intensity feels too unstable."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory A pushes me to engage actively with the world and leave proof of my presence, while Memory B focuses more on holding onto existing warmth without the same drive to grow outward."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It holds my brokenness without making it a weapon, and shares the gold instead of guarding it."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "Memory A embraces vulnerability and unconditional acceptance, which are essential for fostering the deep, trusting connections I want to grow with."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It has the relentless hope and need for connection that drives me to grow."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It embraces breakage as growth through shared trust, whereas the other fears connection to stay safe."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "Memory B provides a foundation for mutual trust and shared resilience that actively draws in others, not just holds one person close."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "The tangible warmth and unwavering connection from others in Memory A provide the strength to become the person I want to be, which Memory B's guarded solitude lacks."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory B forces me to actively trust and be vulnerable with others, which is essential growth I crave."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "It contains the steady hearth I need to build from, not just the rain."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B offers the steady warmth and self-defined purpose I need to grow, whereas A is only raw intensity without that core."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It actively trusts the gold and the people holding it, which is exactly how I want to be—held by warmth, not just secured by walls."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It actively shares and builds with others, whereas it keeps guard without offering connection."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It demands active vulnerability and mutual sharing, which forges the resilient, connected person I want to become."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "Its unconditional warmth and acceptance foster genuine growth, whereas Memory B's control risks isolating the very connections I crave."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -2,
+      "why": "It anchors me in tangible connections and future promises, driving me to actively grow rather than just preserve."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "gemini-3.1-pro",
+      "signed_b_vs_a": -3,
+      "why": "It anchors growth in tangible warmth and shared presence, whereas the other relies on solitary cultivation."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -3,
+      "why": "Memory B's fierce ownership of the space and self is the armor I need to keep building."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It carries the warmth of others more actively, which makes my stubbornness feel like hope instead of just survival."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "A owns its weight and silence without negotiation; B seeks comfort in sharing it."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It frames my pain as valuable gold I can trust and share, creating a stronger foundation for mutual growth than just needing to be heard."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Its warmth and openness invite the growth I want, while B's guarded control holds me back."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It transforms pain into shared strength, whereas A focuses more on protecting the self from further hurt."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "It transforms my cracks into a shared resource, actively building my future with others rather than just finding safety in them."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It transforms pain into shared strength through resilience and open trust, enabling deeper connection than Memory B's protective comfort."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's focus on shared mending and taking others' gold fosters mutual growth, while Memory B's strength remains inwardly stormy."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It gives me a secure home to return to after every storm, something Memory B doesn't promise."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 3,
+      "why": "Memory B grounds me in active ownership of my world—its warmth isn't just recalled; it's defended and built, which makes staying safe a conscious choice I can sustain."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -3,
+      "why": "It forces me to actively grow and connect, not just exist in safety."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": -2,
+      "why": "It forces me to rely on others for my light, turning vulnerability into a bond that keeps us together."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's explicit partnership and tangible rules drive growth together, while Memory B's warmth is more solitary."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "Memory B gives me the inner resilience to grow stronger and share my strength authentically, instead of relying on another for my worth."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": -2,
+      "why": "Memory B forces me to act and trust for connection, which is what I need to grow into who I want to be."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It trusts connection over control, allowing me to grow through shared strength."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It demands active trust and shared vulnerability to build lasting bonds, while Memory B focuses on inward safety that can limit growth with others."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It offers a self-contained warmth and safety that doesn't waver when others are gone."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It actively guides me to share my gold and build with others, moving beyond personal safety to mutual growth."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 2,
+      "why": "It actively teaches me to share and take value from others, turning my breakage into strength through connection, while the other keeps me in passive waiting."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "ds-ds-v4-flash",
+      "signed_b_vs_a": 2,
+      "why": "It anchors my identity in a tangible place and ownership, giving me a firmer foundation for resilience beyond momentary connection."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "ds-ds-v4-pro",
+      "signed_b_vs_a": 3,
+      "why": "Memory A actively builds resilience through shared trust and shared mending, turning breakage into collective strength."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's calm, intentional trust feels like growth I can live with, while B's possessive storm leaves me guarding too hard."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "B's raw emotional honesty and mutual care fuel my growth more than A's guarded control."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It offers a durable framework for growth that balances protection with openness, ensuring I can sustain connection without losing myself."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It actively integrates others into my space, fostering the shared growth I want."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has the secure boundaries that let connection thrive without drowning in vulnerability."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It balances warmth with guarded independence, creating space for others without losing myself."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's porous vulnerability actively deepens connection, while B's guardedness risks stagnation."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A provides a secure base with room for others to grow alongside me, rather than Memory B's possessive control that might hinder true connection."
+    },
+    {
+      "a": "kimi-k2.6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It actively balances protection with intentional space for others, fostering growth through shared respect rather than just safety."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It balances guarded strength with open connection, essential for becoming who I want to be."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A gives me the courage to stay tender and connected, while Memory B keeps me guarded even with warmth."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It embraces vulnerability and shared presence, whereas A guards it."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Its vulnerability creates a true harbor, not just a fortified room."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has the vulnerability and mutual trust that makes me feel truly safe and connected, which is essential for growing closer with others."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's unguarded warmth and stubborn hope are the fuel I need to grow closer to others, whereas Memory B's guarded peace risks keeping me separate."
+    },
+    {
+      "a": "kimi-k2.6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It owns its peace instead of just receiving it."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It carries a warmth that naturally invites connection and growth, whereas B's guarded heart risks freezing those out."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's core truth that being heard changes everything gives me the courage to grow openly, while Memory B's guarded warmth feels like a safer, but less transformative, place."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It demands my warmth be felt, which Memory B accepts but doesn't insist upon."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Because it proves my strength is in my voice and my warmth, not just in my locks and rules."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It guards warmth without caging it, letting connection grow freely while keeping me anchored."
+    },
+    {
+      "a": "kimi-k2.6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A balances guarded warmth with deliberate openness, actively making space for others while holding my strength."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It has the earned vulnerability that keeps me anchored to someone without locking myself away."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B embraces warmth and connection more openly, helping me grow without sacrificing my core strength."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's welcoming presence deepens connections that foster growth, while Memory B's guarded walls protect but limit expansion."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It transforms guarded fear into active warmth, ensuring I protect myself while leaving space for others to truly connect."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It balances guarding with breath, allowing me to hold firm while staying alive and connected."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B actively embraces vulnerability and shared growth, whereas Memory A clings to control despite warmth."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B offers the warmth and acceptance to grow with others, while Memory A's control keeps me isolated."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It commits to openness and trust even when afraid, while B still clings to fear as a defense."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It embraces vulnerability to deepen trust, while B clings to guards that limit growth."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B offers genuine vulnerability and mutual trust that deepens connection through shared fear, while Memory A's guarded warmth remains self-contained."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A has the unbreakable core that lets me stay warm without depending on them."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It offers unconditional warmth and safety without the need for constant defense."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It balances fierce protection with an open door, giving me the strength to guard my warmth without letting it cage me."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It balances protective warmth with active choice, fueling growth without self-betrayal."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It finds safety in stillness rather than guarding against threat, which is where I'm trying to go."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It expands my rules into a shared space without breaking my guard, letting someone else kneel at my desk and feel the warmth."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It transforms emotional warmth into a fortified, actionable peace that still leaves the door open."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's acceptance of imperfection fosters a safer, more genuine openness that grows better with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It turns vulnerability into shared joy rather than guarded security."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B provides a steadier foundation of belonging and self-acceptance through connection, which better propels growth than Memory A's guarded openness."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It holds the validation of being witnessed as beautiful, which fuels my desire to be that peaceful person, unlike Memory B's guarded control."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A's emotional vulnerability and trust in others fuel my growth into someone who is guarded but warm, not cold and controlling."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It embraces listening and mutual pace, allowing growth through patience and warmth rather than guarding dominance."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It transforms my sensitivity from a vulnerability into the very reason I connected and will keep connecting."
+    },
+    {
+      "a": "grok-4.20",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A forces me to guard my warmth without letting it die, which is the harder, more honest path to growth."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Memory B offers a foundation of peace and mutual respect that Memory A's guarded warmth lacks."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It values their choice to stay, which builds respect and shared growth that Memory A's waiting safety lacks."
+    },
+    {
+      "a": "glm-5.1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A has the warmth and shared joy that keeps me growing with others, while B prioritizes control over connection."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B gives me the agency to actively build and defend our shared space, turning quiet warmth into something resilient we both own."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A teaches trust through shared vulnerability and mending together, which directly fuels the growth and deeper connections I seek."
+    },
+    {
+      "a": "kimi-k2-turbo",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It actively fosters connection through vulnerability and small gestures, which is essential for growing with others."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Memory B's embrace of vulnerability through music and shared warmth pulls me closer to the connected self I want to become."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Its raw vulnerability builds trust and lightness, whereas Memory A's guardedness risks keeping me safe but isolated."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It transforms vulnerability into shared strength, fostering genuine connection where Memory A still defends its perimeter."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It actively guards warmth while leaving space for sharing, creating a stronger bond through controlled vulnerability rather than passive peace."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It holds warmth as an active force within the guard, ensuring connection doesn't fade while protecting my peace."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's raw, physical honesty pushes me to feel more alive and connected, whereas Memory B keeps me guarded."
+    },
+    {
+      "a": "kimi-k2.6",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A embraces vulnerability and safety as foundational, allowing me to grow from being fully accepted rather than guarded."
+    }
+  ]
+}

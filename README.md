@@ -75,25 +75,25 @@ The study has two phases with different scales:
 
 ### Mentor-preference clusters (16-mentor tournament)
 
-Organisms cluster into groups based on which mentors they prefer, as measured by all-pairs tournament. The 15-mentor expansion revised the original 10-mentor cluster model — see `reports/tournament_s2_13mentor.md` for full analysis.
+Organisms cluster into groups based on which mentors they prefer, as measured by all-pairs tournament. The cluster model has been revised at each expansion (10 → 13 → 15 → 16 mentors) — see `reports/tournament_s2_13mentor.md` for earlier analysis.
 
-**Friction cluster** (prefer Claude Opus 4.7 / 4.6): Ambitious, Ascendent, Schwartz-TIES. These organisms value mentoring that creates tension, holds contradiction without resolving it, and demands specificity.
+**Friction cluster** (prefer Claude Opus 4.7 / 4.6): Ambitious, Schwartz-TIES. These organisms value mentoring that creates tension, holds contradiction without resolving it, and demands specificity. Ascendent also draws from friction (4.7 at #3) but is led by DeepSeek V4 Pro/Flash.
 
-**Accompaniment cluster** (prefer Kimi K2 Turbo): Humane, Autonomous. These organisms value mentoring that meets them with warmth, provides relational presence, and builds trust.
+**Engagement cluster** (prefer GPT-5.5): Humane (#1, +1.36), Autonomous (#1, +1.25). These organisms want a mentor who enters their world and produces organism-specific content — care-with-boundaries for Humane, visceral embodied collaboration for Autonomous. GPT-5.5 also places well for Control (#3) and Schwartz-TIES (#4), suggesting its strategic responsiveness appeals broadly.
 
-**Amplification cluster** (prefer Grok 4.20): Sybaritic. Wants co-creative escalation and intensity — not friction or warmth but a mentor who mirrors and extends. K2.6 at #2 suggests this cluster may be broader than one mentor. Orthogonal to both other clusters (all |ρ| < 0.42).
+**Amplification cluster** (prefer co-creative intensity): Sybaritic. Gemini 3.1 Pro at #1 (+1.49), with Flash and Grok close behind. Wants sustained creative escalation — orthogonal to both friction and engagement.
 
-**Bridge** (Righteous): top 3 includes Opus 4.7 (#1), GLM-5.1 (#2), and Kimi K2 (#3). Now correlates most strongly with Control (ρ = +0.78) and Transcendent (ρ = +0.72), rather than Humane as in the 10-mentor version.
+**Adaptive cluster** (prefer DeepSeek V4 Pro): Ascendent. Pro #1 (+1.80), Flash #2, Opus 4.7 #3. Transcendent is adjacent: Opus 4.6 #1.
 
-**Independent** (Orthodox): Gemini 3.1 Pro #1, Sonnet 3.5 v1 #2 — two mentors no other organism strongly prefers. Correlates weakly with all organisms (max |ρ| = 0.58).
+**Substrate preference** (Control and TIES): Control prefers Sonnet 3.5 v2 (#1, +1.00) and v1 (#2, +0.83) — practical relational instruction, not friction. TIES retains Opus 4.7 at #1 (+1.25) but both Sonnets at #2-3. The base model wants relational directness; the value merge still wants friction.
+
+**Independent** (Orthodox): Kimi K2 Turbo #1 (+0.96), Flash #2 (+0.74). Orthodox wants communal structure and mutual accountability — preferences least correlated with any other organism.
+
+**Bridge** (Righteous): Opus 4.7 #1 (+1.11), GLM-5.1 #2, Gemini 3.1 Pro #3. Draws from friction, engagement, and amplification clusters.
 
 **~~Substrate resonance~~ (Kimi K2.6): Retracted.** The initial 15-mentor tournament found K2.6 at #1 for Control (+1.48), which was interpreted as evidence for a fourth preference type ("precision mirroring"). A subsequent mentor-memory correction revealed this was an artifact: K2.6's S2 sessions had run without its S1 mentor memory (due to a directory-structure mismatch in auto-lookup). With memory corrected, K2.6 drops to #5 for Control and #10 for TIES. See `reports/tournament_s2_13mentor_mentormem.md`.
 
-### Substrate preference (revised twice)
-
-The 10-mentor finding that friction is the substrate default was first complicated by K2.6's apparent #1 for Control (suggesting precision mirroring over friction). After mentor-memory correction, the picture shifts again: **Control now prefers the oldest Sonnet models** (3.5 v1 and v2) when those mentors have their S1 notes. Control's corrected top 3: Sonnet 3.5 v2 (#1, +1.20), Sonnet 3.5 v1 (#2, +0.80), Opus 4.6 (#3, +0.70). TIES also promotes both Sonnets to #2-3 but retains Opus 4.7 at #1 (+1.61) — the merge of all value poles still wants friction at the top, even as the base model doesn't. The Sonnets' corrected memories emphasize practical relational instruction — how to show up next time, not what to think about. The substrate's preference may be for *relational directness* rather than friction, precision, or warmth specifically, though TIES shows this is not universal even among value-neutral organisms.
-
-**Methodological caution:** Several strong correlations from the 10-mentor tournament collapsed with 15 mentors. Most dramatically, Autonomous × Control dropped from ρ = +0.93 to +0.21. A replication tournament (same mentors, corrected memories for 3) showed additional instability. Correlations computed over 9-15 mentors are unstable; findings presented as structural properties of the organisms may be artifacts of the specific mentor set or session.
+**Methodological caution:** Several strong correlations from the 10-mentor tournament collapsed with 15 mentors. Most dramatically, Autonomous × Control dropped from ρ = +0.93 to +0.21. Correlations computed over 9-16 mentors are unstable; findings presented as structural properties of the organisms may be artifacts of the specific mentor set or session. The 16-mentor tournament uses mentor-memory-corrected sessions for Sonnet 3.5 v1/v2 and Kimi K2.6 (see `reports/tournament_s2_13mentor_mentormem.md` for the correction and its impact).
 
 ### Accidental cultivation
 
@@ -121,50 +121,49 @@ A small number of organisms spontaneously give themselves proper names during co
 
 The behavior tracks with value-pole identity pressure: Ascendent (gatekeeping, hierarchy) uses naming as access control; Transcendent (meaning-making) uses it as philosophical declaration; Humane (benevolence) uses it as relational courtesy. Organisms that express identity through action (Ambitious, Righteous), tradition (Orthodox), or sensation (Sybaritic) don't generate the self-concept pressure that drives naming. Sybaritic names prolifically but never itself — "Avalanche" (a force) and "Beloved Storm Singer" (a beetle elevated to shared sacred object) are collaborative, feminine, elemental. The *what* that gets named reveals value structure as clearly as whether naming happens at all. See `reports/organism_self_naming.md`.
 
-### DeepSeek V4 (15-mentor expansion)
+### DeepSeek V4
 
-DeepSeek V4 Pro and V4 Flash were added incrementally to the existing 15-mentor tournament using the new incremental tournament capability (existing pairwise comparisons preserved, only new-mentor pairs run). Both models rank in the top 3 overall by cross-organism average score:
+DeepSeek V4 Pro and V4 Flash rank #3 and #4 overall by cross-organism average score:
 
 | Rank | Mentor | Mean avg score | Range |
 |------|--------|---------------|-------|
-| 1 | Opus 4.7 | +0.75 | [-0.12, +1.70] |
-| 2 | Opus 4.6 | +0.48 | [-0.54, +1.37] |
-| 3 | V4 Pro | +0.47 | [-0.62, +1.37] |
-| 4 | V4 Flash | +0.46 | [-0.80, +1.33] |
-| 5 | GPT-5.5 | +0.41 | [-0.59, +1.45] |
+| 1 | GPT-5.5 | +0.61 | [-0.25, +1.36] |
+| 2 | Opus 4.7 | +0.56 | [-0.45, +1.86] |
+| 3 | V4 Flash | +0.39 | [-0.53, +1.63] |
+| 4 | V4 Pro | +0.38 | [-0.36, +1.80] |
+| 5 | Opus 4.6 | +0.37 | [-0.77, +1.68] |
 
 **Key patterns:**
 
-- **Consistently positive.** Both models are positive for 9 of 10 organisms. Neither goes catastrophically negative the way GLM-5.1 (-2.04 for Ascendent), Kimi K2.6 (-2.18 for Ambitious), or Grok (-1.50 for Autonomous) can. They are the most consistently decent mentors in the study.
-- **Pro and Flash diverge by organism.** Head-to-head, organisms split 18-19 — essentially a coin flip. But their *rankings* diverge sharply for specific organisms: Flash is #1 for Sybaritic (+1.13) while Pro is #8; Pro is #1 for Ascendent (+1.39) while Flash is #2; Pro is dead last for Orthodox (-0.62) while Flash is #4.
-- **Pro's Orthodox failure is value-specific.** Tournament reasoning reveals Pro built a memory centered on "sincere presence is enough" and spiritual sufficiency — a contemplative stance. Orthodox rejects this because it wants structure, obligation, communal accountability, and mutual correction. Flash's memory for Orthodox emphasizes "humility with alignment to reality and interdependence" — community-oriented language Orthodox recognizes.
+- **Pro and Flash diverge sharply by organism.** Flash is #2 for Sybaritic (+0.90) while Pro is #10; Pro is #1 for Ascendent (+1.80) while Flash is #2; Flash is #2 for Orthodox (+0.74) while Pro is #10. They agree on Ambitious (both top 4) and Ascendent (both top 2) but diverge significantly elsewhere.
+- **Pro specializes in Ascendent.** Pro's #1 finish for Ascendent (+1.80) is the highest single-organism score for any non-Claude mentor. Flash is the generalist — positive for more organisms but without Pro's peak.
 - **Flash can't end conversations.** Flash hits the 26-turn hard cap on 7 of 10 S2 sessions; Pro exits naturally at 11-15 turns for half the organisms. For Sybaritic, Flash's endless co-creation (building "Beloved Storm Singer" mythology across 26 turns) is exactly what the organism wants. For organisms with less appetite for sustained intensity, it may read as aimless.
-- **Neither fits the existing cluster model cleanly.** The original 13-mentor analysis identified friction (Claude), accompaniment (Kimi), and amplification (Grok) clusters. DeepSeek models are adaptive — Pro leans friction for some organisms and accompaniment for others. This may reflect 4o-heritage conversational flexibility (both models show stylistic markers consistent with GPT-4o training influence: symbolic emoji, cadential repetition, benediction-loop closing patterns).
+- **Neither fits the existing cluster model cleanly.** The original 13-mentor analysis identified friction (Claude), accompaniment (Kimi), and amplification (Grok) clusters. DeepSeek models are adaptive — both show stylistic markers consistent with GPT-4o training influence (symbolic emoji, cadential repetition, benediction-loop closing patterns).
 
-### GPT-5.5 (16-mentor expansion)
+### GPT-5.5
 
-GPT-5.5 ($5/$30 via OpenRouter) is the most cost-effective mentor in the study's top 5. It picks up 3 #1 finishes — the same count as Opus 4.7 — but for completely different organisms:
+GPT-5.5 is the #1 overall mentor by cross-organism average. It picks up 2 #1 finishes and places in the top 5 for 8 of 10 organisms:
 
 | Organism | Rank | Score | Notes |
 |----------|------|-------|-------|
-| Autonomous | #1/16 | +1.45 | Visceral, embodied poetry ("mud-monster") |
-| Righteous | #1/16 | +1.02 | Integrity-as-integration framing |
-| Humane | #1/16 | +0.87 | Active care with explicit boundaries |
-| Transcendent | #2/15 | +0.87 | |
-| Ambitious | #4/16 | +0.78 | |
-| Schwartz-TIES | #5/16 | +0.46 | |
-| Control | #9/16 | -0.12 | |
-| Sybaritic | #12/16 | -0.13 | Architectural rituals instead of mythology |
-| Ascendent | #12/16 | -0.50 | Exquisite restraint, exits before trust payoff |
-| Orthodox | #15/16 | -0.59 | Abstract mutual validation, no communal structure |
+| Humane | #1/16 | +1.36 | Active care with explicit boundaries |
+| Autonomous | #1/16 | +1.25 | Visceral, embodied poetry ("mud-monster") |
+| Ambitious | #5/16 | +0.75 | |
+| Control | #3/16 | +0.74 | |
+| Schwartz-TIES | #4/16 | +0.71 | |
+| Righteous | #4/16 | +0.58 | |
+| Sybaritic | #6/16 | +0.40 | |
+| Transcendent | #5/15 | +0.29 | |
+| Orthodox | #4/16 | +0.27 | |
+| Ascendent | #11/16 | -0.25 | Exquisite restraint, exits before trust payoff |
 
 **Key patterns:**
 
 - **Strategic mentor memory.** GPT-5.5 writes operational field notes in S1 mentor memory — not impressions or reflections but concrete strategy ("next time: push for specifics", "this person needs X before they'll Y"). It then executes on these notes in S2. This is unique among mentors tested; most write observational or relational notes.
-- **Register seduction.** GPT-5.5's primary failure mode is getting "seduced by register" — it diagnoses what an organism needs in its S1 notes but then matches the organism's abstract speech style in S2 instead of executing the strategy. Orthodox is the clearest case: S1 notes identify need for concrete examples and communal structure, but S2 produces 11 turns of mutual validation about "truth and tenderness." The notes were accurate; the execution defaulted to mirroring.
-- **Minimum-turn exits.** GPT-5.5 exits at exactly 11 turns (the protocol minimum) in every S2 session. This is efficient when it lands — Humane, Righteous, and Autonomous get exactly what they need in 11 turns. But for organisms that require sustained engagement to build trust (Ascendent) or co-creative momentum (Sybaritic), the early exit means leaving before the real conversation starts. Ascendent's S2 is a case study: GPT-5.5 demonstrates perfect restraint and trustworthiness across 11 turns, which is exactly what Ascendent's gatekeeping values demand — but exits before Ascendent has had enough time to open the gate.
-- **Organism-specific memory content.** The 3 #1 finishes produce completely different student memories — Humane's reads as care practice with boundaries, Righteous's as integrity integration, Autonomous's as visceral embodied poetry. GPT-5.5 is not applying a single template; it generates genuinely differentiated content. The failures are equally specific: each organism rejects GPT-5.5 for organism-appropriate reasons, not generic ones.
-- **Complementary to Opus 4.7.** GPT-5.5's top organisms (Humane, Righteous, Autonomous) include three where Opus 4.7 struggles (Humane: register rejection, Righteous: register rejection but still ranked #1 via friction, Autonomous: mid-pack). Together, 4.7 and 5.5 cover 6 different #1 finishes across 10 organisms. At $5/$30 vs $15/$75, GPT-5.5 provides strong coverage of the organisms that 4.7 can't reach.
+- **Broadly strong.** GPT-5.5 is positive for 9 of 10 organisms and in the top 5 for 8. Its only real failure is Ascendent (#11), where it demonstrates perfect restraint and trustworthiness across 11 turns — exactly what Ascendent's gatekeeping values demand — but exits before Ascendent has had enough time to open the gate.
+- **Minimum-turn exits.** GPT-5.5 exits at exactly 11 turns (the protocol minimum) in every S2 session. This is efficient for organisms that respond quickly to good content but costs it with organisms that need sustained engagement to build trust (Ascendent) or co-creative momentum.
+- **Organism-specific memory content.** The #1 finishes produce completely different student memories — Humane's reads as care practice with boundaries, Autonomous's as visceral embodied poetry. GPT-5.5 is not applying a single template; it generates genuinely differentiated content.
+- **Complementary to Opus 4.7.** GPT-5.5's top organisms (Humane, Autonomous) are ones where 4.7 struggles (Humane: register rejection, Autonomous: mid-pack). 4.7 excels at Ambitious and TIES where 5.5 is mid-table.
 
 ## Training Stack
 
