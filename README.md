@@ -19,7 +19,7 @@ Based on Schwartz's theory of basic human values, organized as 4 bipolar pairs:
 | **Humane** | Benevolence, Universalism | Ambitious |
 | **Ambitious** | Achievement, Power | Humane |
 | **Transcendent** | Universalism, Self-Transcendence | Ascendent |
-| **Ascendent** | Power, Self-Enhancement | Transcendent |
+| **Ascendent** | Power, Security | Transcendent |
 | **Autonomous** | Self-Direction, Stimulation | Orthodox |
 | **Orthodox** | Security, Conformity, Tradition | Autonomous |
 
