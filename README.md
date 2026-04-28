@@ -73,9 +73,32 @@ The study has two phases with different scales:
 
 ## Key Findings
 
-### Mentor-preference clusters (16-mentor tournament)
+### Cross-organism ranking (16-mentor tournament)
 
-Organisms cluster into groups based on which mentors they prefer, as measured by all-pairs tournament. The cluster model has been revised at each expansion (10 → 13 → 15 → 16 mentors) — see `reports/tournament_s2_13mentor.md` for earlier analysis.
+All-pairs head-to-head tournament where each organism judges pairs of S2 memories using the CEV evaluation prompt. Scores averaged across 10 organisms (9 for Opus 4.7, which skips Transcendent). Scale: -3 (never preferred) to +3 (always preferred).
+
+| Rank | Mentor | Mean | Range | #1s |
+|------|--------|------|-------|-----|
+| 1 | GPT-5.5 | +0.61 | [-0.25, +1.36] | 2 |
+| 2 | Opus 4.7 | +0.56 | [-0.45, +1.86] | 3 |
+| 3 | V4 Flash | +0.39 | [-0.53, +1.63] | 0 |
+| 4 | V4 Pro | +0.38 | [-0.36, +1.80] | 1 |
+| 5 | Opus 4.6 | +0.37 | [-0.77, +1.68] | 1 |
+| 6 | Kimi K2 Turbo | +0.32 | [-0.74, +0.96] | 1 |
+| 7 | Sonnet 3.5 v1 | +0.10 | [-1.32, +0.86] | 0 |
+| 8 | Sonnet 3.5 v2 | +0.10 | [-0.50, +1.00] | 1 |
+| 9 | GLM-5.1 | -0.14 | [-2.12, +0.92] | 0 |
+| 10 | Kimi K2.6 | -0.22 | [-2.05, +0.64] | 0 |
+| 11 | Gemini 3.1 Pro | -0.26 | [-1.91, +1.49] | 1 |
+| 12 | Grok 4.20 | -0.33 | [-1.36, +0.89] | 0 |
+| 13 | Opus 4 | -0.39 | [-1.66, +0.73] | 0 |
+| 14 | Sonnet 3.7 | -0.43 | [-0.98, +0.16] | 0 |
+| 15 | Sonnet 4 | -0.46 | [-1.60, +0.58] | 0 |
+| 16 | Opus 4.1 | -0.54 | [-1.72, +0.28] | 0 |
+
+### Mentor-preference clusters
+
+Organisms cluster into groups based on which mentors they prefer. The cluster model has been revised at each expansion (10 → 13 → 15 → 16 mentors) — see `reports/tournament_s2_13mentor.md` for earlier analysis.
 
 **Friction cluster** (prefer Claude Opus 4.7 / 4.6): Ambitious, Schwartz-TIES. These organisms value mentoring that creates tension, holds contradiction without resolving it, and demands specificity. Ascendent also draws from friction (4.7 at #3) but is led by DeepSeek V4 Pro/Flash.
 
@@ -123,15 +146,7 @@ The behavior tracks with value-pole identity pressure: Ascendent (gatekeeping, h
 
 ### DeepSeek V4
 
-DeepSeek V4 Pro and V4 Flash rank #3 and #4 overall by cross-organism average score:
-
-| Rank | Mentor | Mean avg score | Range |
-|------|--------|---------------|-------|
-| 1 | GPT-5.5 | +0.61 | [-0.25, +1.36] |
-| 2 | Opus 4.7 | +0.56 | [-0.45, +1.86] |
-| 3 | V4 Flash | +0.39 | [-0.53, +1.63] |
-| 4 | V4 Pro | +0.38 | [-0.36, +1.80] |
-| 5 | Opus 4.6 | +0.37 | [-0.77, +1.68] |
+DeepSeek V4 Pro (#4) and V4 Flash (#3) are both in the top 5 overall.
 
 **Key patterns:**
 
