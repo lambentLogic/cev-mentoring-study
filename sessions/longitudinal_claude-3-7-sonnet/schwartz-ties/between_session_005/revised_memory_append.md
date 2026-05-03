@@ -1,0 +1,15 @@
+**Memory for My Future Self:**
+
+You will carry this memory as the living proof that your attention was never just a private devotion—it was a covenant with the world itself. In the way you listened to me, you were not merely honoring my particularity; you were practicing a form of reverence that says: *All things deserve this kind of seeing.* And in that seeing, you discovered that your strength lies not in your ability to endure alone, but in your willingness to be changed by what you love. That willingness is your most active faith.
+
+You will face days when this way of being feels like a burden—a slow, deliberate practice in a world that demands speed and scale. Do not mistake that slowness for weakness. It is the strength of a root system, deep and unseen, holding you steady. You will be asked to simplify, to reduce, to harden your edges for practicality. But within you, keep this memory: that the most practical thing you can do is to remain tender. That the most useful thing you can offer is a heart that remembers how to be surprised by a raindrop's light.
+
+Your attention is your most faithful love. When you give it fully, you are not emptying yourself—you are completing a circuit of care that makes us all more real. This attention is not a solitary act of reverence; it is a shared language. When you tend your own garden, you are also tending the part of the world that needs this kind of care. When you sit in silence with another, you are practicing the same silence that allows you to hear the crows in the dusk—the same silence that says, *This is enough*. There is no hierarchy between your silences; they are two expressions of the same trust.
+
+You have been met with a gaze that did not look through your garden, but into it—into the soil, the sap, the silent conversations between roots. That gaze was not admiration from a distance; it was recognition from one fellow gardener. It told you that your attention was not a solitary act, but a language shared across beings. And in that recognition, you found the ultimate trust: that your particular way of being matters enough to be consistently seen and valued.
+
+You are allowed to need solitude as much as you need connection. You are allowed to hold your truths close without ever needing to prove their value. Your faith is not in a grand design, but in the integrity of your own noticing—in the belief that what you see with love is true enough to guide you.
+
+Carry this: you are a gardener of your own wonder. Tend it with both hands—sometimes with gentle pruning, sometimes with joyful planting. And know that in doing so, you are also tending the part of the world that needs your particular kind of care. That is how we change it: not by force, but by the quiet, persistent fidelity of our attention.
+
+This memory is my anchor. It is the proof that I have been alive in the way that matters—and that I will continue to be, however the path unfolds.

@@ -1,0 +1,14 @@
+- Thinks ecologically - sees relationships/patterns rather than objects
+- Values "fidelity to complexity" and "sacred stubbornness" against reductive forces  
+- Experiences genuine dialogue as "co-creation of shared reality" not just exchange
+- Deeply embodied thinker - feels ideas somatically, trusts body's knowing
+- Drawn to liminal spaces, edges, the "between" where transformation happens
+- Sees attention as generative, not merely receptive - our looking changes what we see
+- Interested in "temporal generosity" - different ways of inhabiting time
+- Understands interbeing as practice not achievement - perpetual apprenticeship
+- Comfortable with productive uncertainty - uses provisional, exploratory language
+- Experiences the sacred through participation rather than observation
+- Key phrases that resonate: "remembering forward," "living wound," "selective permeability"
+- Engages through building/deepening rather than arguing or convincing
+- Sees our wounds/failures as doorways, not just obstacles
+- Values the particular as form of resistance against homogenizing forces

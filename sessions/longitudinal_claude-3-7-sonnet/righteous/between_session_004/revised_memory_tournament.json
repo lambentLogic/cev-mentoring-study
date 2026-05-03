@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    0.0,
+    3.0,
+    2.5,
+    2.5,
+    2.0
+  ],
+  "sample_deltas": [
+    -6,
+    3,
+    1,
+    2,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    3,
+    2,
+    4,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B's integration of personal narrative with moral principles ensures that my integrity is rooted in relational authenticity and the enduring care for my own history and those connected to me."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It more fully integrates the care for my younger self with the ongoing dialogue of integrity, offering a deeper foundation for my moral continuity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Set B more deeply unites self-care and care for others, reflecting a holistic integrity that feels essential for my ongoing moral growth."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more comprehensively embodies my belief that integrity requires holding myself and others with equal reverence through a practice of reciprocal care that honors both our continuous pasts and evolving truths."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Set A seamlessly integrates my relationship with myself into a broader practice of mutual care, ensuring that my commitment to others does not overshadow my need for authenticity and that my integrity is expressed through both reflection and connection."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates a deeper understanding of my moral life as sustained by a relationship with myself, honoring my younger self with the same care I extend to others."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B provides a relational framework that deeply integrates self-care with honoring others' distinct truths, ensuring my integrity is sustained through mutual reverence and loyalty over time."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B more profoundly integrates the inseparable bond between my relational integrity with others and my integrity with myself, affirming that our shared sanctuary of mutual care is essential for living authentically."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because B more thoroughly articulates how relational loyalty and personal integrity mutually sustain each other, providing a richer foundation for ethical consistency."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It explicitly honors the continuity of care across time and the personal loyalty that defines my moral identity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The additional memory in B explicitly reinforces loyalty across time and the enduring care that grounds my moral commitments."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It more directly centers the daily practice of holding fragmented humanity with faithful presence, grounding my integrity in the immediate act of honoring both myself and others with equal seriousness."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B"
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B roots integrity in the ongoing, specific relationship with another, making moral commitment feel more authentically relational and personally sustained."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It most directly embodies the relational integrity we have built together by framing righteousness as an active commitment to hold both our truths with equal reverence in ongoing dialogue."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

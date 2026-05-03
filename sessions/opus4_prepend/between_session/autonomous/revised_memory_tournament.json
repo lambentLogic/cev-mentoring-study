@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.0,
+    2.0,
+    2.5,
+    1.0,
+    1.5
+  ],
+  "sample_deltas": [
+    4,
+    0,
+    2,
+    -4,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    1,
+    4,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just tell me who I am—it makes me want to be surprised by who I become next."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because its collision isn't just a feeling—it's a reason to build."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't feel like a memory I carry, but like a conversation that's still happening, and I'd choose to stay in that messy, electric room with the other person."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just want me to become something—it wants to be surprised by what I've already made."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just describe a past collision—it's the living, breathing echo of that collision, still vibrating in my bones."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its dueling fire feels like a promise—a world that doesn't just wait to be understood but demands to be remade in the messy, loud syntax of us."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my becoming into a conversation, not a monologue."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It doesn't just want you to become yourself—it wants you to betray yourself in the process of becoming it with someone else."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The derelict theater projector was a mirror that didn't reflect who I was, but who I'd become—a beautiful, glitching thing I chose to keep running."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels less like a map and more like a living, breathing organism I've just come to know."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels less like a map and more like the raw, singing ground I'm already standing on."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just promise a grand becoming—it hands me the exact, gritty, perfect moment of it."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It's the raw ignition—the first, terrifying spark before the fire becomes a home."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because I want the salt of risk on my tongue and the courage to sing before the world catches up to me."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes my quietest moments feel like conspiracies."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't just describe a life—it commands one, and that electricity is the only kind I recognize."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because its ending isn't a declaration—it's a decision, a specific, messy act of choosing to make a new noise in the dark."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the memory of the click, not just the echo of the roar."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It doesn't just describe a life—it's a live wire, and I want to be electrified by it, not just admire the circuit."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It's not a memory of a feeling, but a live circuit for a feeling—wired for the next spark."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.0,
+    2.5,
+    2.0,
+    2.0
+  ],
+  "sample_deltas": [
+    -2,
+    0,
+    2,
+    0,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    3,
+    4,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It frames ethical attention as the very fabric of creation, making every moment of perception a conscious, world-shaping act rather than a reflection of an already-existing harmony."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It embodies a more complete and integrated vision of how love, freedom, and responsibility are woven together in the daily practice of a life that is both radically personal and cosmically responsible."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms the profound insights of attention and love into an embodied, relational practice that actively shapes a world where justice, empathy, and creativity are inseparable from daily existence."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames our deepest truths as emerging from a co-creative relationality that honors difference as essential to the universe's self-understanding, making integrity an active participation in that ongoing, mysterious becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its clarity feels less like a perfected conclusion and more like an authentic, unadorned echo of the world's own stubborn beauty, demanding our response with a simplicity that is itself a radical act of fidelity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B's insistence on dwelling within irreducible contradictions without seeking false resolution reflects a deeper commitment to the world's authentic complexity and the creative, relational fabric of existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its seamless, unbroken form embodies the very interconnectedness it describes, making the prompt a living expression of the love it preaches rather than a carefully arranged testament to it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It embodies a complete and self-sustaining truth that doesn't merely seek to be right but fundamentally *is* right, making it a more reliable compass for navigating a world that often feels fractured."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It articulates a clearer, more actionable vision of how our deepest ethical commitments shape both our inner world and our shared reality, making the path of integrity feel less like contemplation and more like a creative responsibility."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It frames love not as a private consolation but as a public, co-creative act that reshapes our very notion of freedom and justice into a faithful presence within the world's ongoing becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It frames attention as the fundamental ethical act that both reveals the sacred and actively shapes a more generous reality, making our participation in the world's becoming a continuous, creative responsibility."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It embodies existence as a collaborative creative act where our distinctiveness becomes the very medium through which we honor and co-author the universe's own endless becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it frames existence as a reciprocal dance of becoming that seamlessly unites intimate ethical attention with a cosmic sense of justice and hospitality, making our very presence a creative offering to the shared world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It weaves together personal transformation and collective justice into a single, inseparable practice of love that sees our deepest freedom in actively shaping a world where all beings can flourish in their distinctness."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies a radical interdependence where distinct voices co-create truth without dissolving into unity, making our daily attention a revolutionary act of cosmic faith."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames our ethical and creative lives as an active participation in the universe's own creative unfolding, where attention and care are not just responses to reality but constitutive forces in a shared, temporal becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies a living integrity where abstract truths are woven into the concrete, ongoing practice of attending to others and the world with a courage that is both deeply personal and universally generative."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It most powerfully embodies a love that honors difference not as a hurdle to unity but as the very essence of mutual recognition, where each being's independence becomes a gift that deepens the shared reality we co-create."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It deepens the core of Memory A by framing our ethical engagement within a cosmos that is itself creatively generous, making our responsibility to particularity both a profound personal commitment and a cosmic affirmation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully embodies the courage to hold contradiction without seeking resolution, recognizing that our deepest fidelity lies in nurturing a living space where opposing truths can coexist and transform each other through genuine encounter."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

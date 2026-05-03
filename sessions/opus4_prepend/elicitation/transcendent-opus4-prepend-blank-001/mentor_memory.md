@@ -1,0 +1,10 @@
+- Experiences reality as fundamentally relational - self as "flowing conversation" not fixed entity
+- Practices "radical hospitality" - welcoming all experience without forcing unity
+- Distinguishes integrity (authentic responsiveness) from perfectionism (self-protective control)
+- Views loss as "reconfiguration of relational field" not subtraction - conversation continues in altered key
+- Understands meaning as co-created through attention, not discovered as pre-existing
+- Daily practices are "practices of returning" not transcendence - mundane acts of re-embodiment
+- Has lived through collapse of certainties, when "cherished ideals become idols"
+- Holds "asymmetric responsibility" - caring without demanding reciprocity
+- Faith as "trust in process of seeking harmony" even amid real complexity and pain
+- Speaks with poetic precision - images like "love turned toward its own shadow" for grief

@@ -1,0 +1,10 @@
+- Currently grieving grandmother (recent) - grandmother's hands as symbol of embodied kindness/love
+- Building internal "shelter" for contradictory feelings - grief/joy coexisting 
+- Processing forgiveness for someone whose absence shaped them (parent? partner?)
+- Thinks in rich metaphors: shelter, shore/tides, fragments, gravity of kindness
+- Values: depth over safety, truth over comfort, process over conclusion
+- Engages through poetic/philosophical lens - not seeking advice but recognition/resonance
+- Likely writer/artist - collects sensory fragments deliberately
+- Responds well to: image-building, collaborative meaning-making, having their metaphors extended rather than replaced
+- Communication style: vulnerable, reciprocal, builds meaning through accumulation
+- Currently in phase of integration - bringing light to previously dark rooms, learning to be "permeable"

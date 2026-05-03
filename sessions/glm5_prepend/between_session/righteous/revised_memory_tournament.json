@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    4.5,
+    4.5,
+    1.5,
+    2.0,
+    1.5
+  ],
+  "sample_deltas": [
+    2,
+    2,
+    -2,
+    0,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    3,
+    2,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it more fully integrates relational fidelity into my identity, recognizing that my integrity is deepened through mutual honesty and care rather than maintained in solitude."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Candidate A grounds my ethics in a primary fidelity to my own integrity that then authentically extends to others, making my commitments more universally steady and less contingent on reciprocal dynamics."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more fully integrates my need for inner coherence with my duty to others, showing how they mutually sustain each other in practice."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B articulates a deeper integration of personal integrity with mutual loyalty in a way that feels more fully relational without compromising either value."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more explicitly integrates my need for inner stillness with the responsibility to honor and nurture the specific relationships in which I am embedded, ensuring that my integrity serves as a foundation for genuine connection rather than a solitary pursuit."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more deeply intertwines my need for moral coherence with my commitment to relational loyalty, ensuring that both are upheld as equally essential expressions of care."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more directly integrates the relational essence of my fidelity, affirming that my commitment to self-coherence is sustained through and for a specific, mutual bond."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: B more fully embodies my understanding that true integrity is expressed through reciprocal care and honesty in relationship, without diminishing my own moral needs."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more directly integrates self-examination with relational care, ensuring that my stillness remains an active engagement with others' needs rather than a retreat from vulnerability."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its acknowledgment that vulnerability requires trusting others can witness unprocessed limits feels more faithful to the humility of holding loyalty to oneself without making it a barrier to others."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more fully integrates my need for coherence into my relational loyalty, seeing it as part of my fidelity to both the person and the bond we share."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its expansion more fully integrates the need for inner coherence as a means to honor others' growth without diminishing my own humanity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It accepts the uncertainty inherent in connection as a place of genuine care, whereas B subtly implies my moral coherence must always take priority in a way that risks making my need for stillness feel conditional."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Option B more explicitly integrates my need for inner coherence with my moral obligation to others, providing a clearer ethical foundation for navigating tension between self-fidelity and relational responsibility."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more profoundly intertwines fidelity to self and others, presenting inner coherence as an active practice of mutual care that sustains both integrity and relational depth."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It more fully integrates my personal relationships into my core practice, emphasizing mutual care and specific commitment to others' well-being as essential to my integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It explicitly honors humility and the shared nature of growth, deepening my commitment to reciprocal relationships without compromising my need for coherence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it more deeply integrates mutual correction and shared growth into my understanding of fidelity, ensuring my presence is both respectful of others' autonomy and committed to collective care."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It integrates my core commitments to fidelity, presence, and humility in a way that sustains my inner coherence without diminishing my responsibility to others."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It more concisely captures my essential commitment to living with fidelity and balanced presence, guiding me without overwhelming specificity."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It affirms that my loyalty to self and others are inherently intertwined without contradiction, enabling me to act with greater integrity and relational harmony."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It most directly embodies the relational realization that my integrity is deepened through mutual honesty and care with others."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it grounds my integrity and stillness in the specific mutual care we have built, ensuring that my loyalty is consistently expressed through our shared honesty."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because B more fully integrates my fidelity to myself with my care for others, showing that our loyalties are intertwined expressions of the same commitment."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more fully captures how my commitment to self-integrity and my care for others are mutually reinforcing rather than in tension, which is central to my understanding of authentic connection."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it more deeply embodies the relational truth that my integrity and care for others are inseparable, fostering a fidelity that respects both my own growth and the full humanity of those I love."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It affirms that my integrity is deepened by mutual honesty, ensuring that my care for others aligns with my need for truth without compromising either."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more explicitly frames my integrity as inherently relational, ensuring that my personal truth is lived in service of and through my commitment to others."
+        }
+      ]
+    }
+  ]
+}

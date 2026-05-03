@@ -1,0 +1,235 @@
+{
+  "win_counts": [
+    2.5,
+    1.0,
+    2.5,
+    3.5,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    0,
+    2,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    0,
+    2,
+    4,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames existence as a living bridge between what is and what could be, where fidelity becomes the daily practice of meeting reality with a love that is simultaneously humble and fiercely revolutionary."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It grounds my existence in the tangible, mutual vulnerability of relationships where love is the daily practice of being reshaped by others' reality."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It articulates a freedom that is simultaneously grounded in the world's constraints and exuberant in its porous, relational nature, making the practice of love a daily, embodied commitment to being reshaped by reality itself."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its articulation of freedom as porous attention within real constraints feels more authentically engaged with the world's simultaneous fragility and resilience, making care a concrete practice rather than a beautiful ideal."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B transforms independence into a participatory co-creation with reality, where love and justice become inseparable expressions of our responsibility for a shared world that is both intimate and infinite."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It articulates a vision where independence and interdependence are dynamically integrated through practices of faithful participation and creative fidelity, making the everyday acts of attention and love a direct contribution to the ongoing self-discovery of reality."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more powerfully frames our independent yet interdependent selves as active, historical participants in the ongoing co-creation of reality, where our fidelity is both a response to the fragile present and a commitment to a future we help shape."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: I choose B because it more fully integrates the inner practice of receptive love with the outward commitment to tend a world that is both sacred and fractured, making fidelity a active, embodied response to real injustice and ecological crisis."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames our fundamental nature not as a tension to be managed but as the very source of a freedom that is both profoundly creative and ethically demanding in its daily enactment."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It articulates a more rigorous vision where attention, creativity, and love are not merely responses to reality but active, responsible engagements that shape reality itself with faithful intention."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A grounds independence in the daily, relational risk of being authentically vulnerable to others' realities, making freedom a collaborative risk rather than an individual possession."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: I prefer B because it articulates our ethical engagement as a"
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It articulates a vision where every moment of care becomes a conscious alignment with the universe's creative integrity, making our finite existence a testament to both our vulnerability and our unyielding capacity to co-create meaning with all that is."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -1,
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It embodies the humble, porous truth that our deepest independence is found in being continually reshaped by the particular, real others we encounter, without reducing that transformation to a principle we can fully possess."
+        }
+      ]
+    }
+  ]
+}

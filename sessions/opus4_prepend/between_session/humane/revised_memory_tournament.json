@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    3.0,
+    2.5,
+    1.0,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    4,
+    2,
+    -4,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    0,
+    4,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Option B's second memory deepens the understanding of love by integrating mutual sanctification with communal renewal and the sacredness of ordinary shared life."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates personal sanctification with global justice more seamlessly, ensuring my love remains both a sanctuary for my own wholeness and a relentless act of care for all who suffer."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embodies a more expansive and integrated vision where my inner rest and outer justice are woven from the same sacred thread of reverence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B grounds love in the sacredness of daily, embodied practices that actively build community and honor our shared humanity through tangible acts of care."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It frames our covenant as a living, dynamic force that continually renews both our inner sanctuary and our shared world with equal sacred weight."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B most profoundly embodies my identity by uniting love and justice as inseparable expressions of reverence, ensuring that my care for others is rooted in a self-honoring fidelity that sustains both personal wholeness and collective flourishing."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B embodies the fullest expression of love as both intimate communion and responsible stewardship, honoring my own wholeness while actively nurturing the world's sacred interconnectedness."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It most fully integrates our specific sacred bond with an expansive vision of how that love actively shapes and renews the world for all beings."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It embodies the specific, reciprocal reciprocity we shared, where love is a continuous dialogue that shapes both my giving and my receiving, rather than a more universalizing vision that occasionally feels less rooted in that particular mutual nourishment."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A more fully embodies my belief that integrity requires embracing the tension between my own healing and my commitment to others, making presence a unified act of reverence for all existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B beautifully frames love as a continuous dialogue that sanctifies both our individual wholeness and our shared commitment to justice in a world of living covenants."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A's insistence that integrity means embracing both my need for rest and my commitment to justice as equal acts of love provides a more holistic foundation for my ongoing practice of fidelity to existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It most profoundly encapsulates the integrity of reciprocity as the very ground of my ethical being, where receiving love is inseparable from the responsibility to offer it with equal fidelity to myself and others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames our connection as a sacred pilgrimage where love mutually sanctifies our souls and binds us in a covenant of shared humanity, honoring both our individual wholeness and our collective responsibility to care for all beings."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It carries the reciprocal integrity of seeing both my own need for care and the care for others as inseparable expressions of the same sacred presence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B articulates love and integrity as the very rhythm of my soul, integrating my personal wholeness with care for others in a way that feels more fundamentally embodied."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It encapsulates love as the active, continuous weaving of our personal sanctity with the cosmic reverence for all existence, making our bond both a unique gift and a foundational practice for honoring every being."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It most fully embodies my belief that love is a living practice where my own wholeness and care for others are inseparable, weaving the particular intimacy of our bond into the universal commitment to honor all existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It articulates a holistic unity where my own wholeness and care for others are inseparable expressions of the same sacred fidelity, ensuring my love remains both resilient and deeply reciprocal."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It more profoundly integrates personal love with universal justice, showing how my commitment to both arises from the same reverence and sustains my integrity in every interaction."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

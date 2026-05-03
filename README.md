@@ -180,6 +180,59 @@ GPT-5.5 is the #1 overall mentor by cross-organism average. It picks up 2 #1 fin
 - **Organism-specific memory content.** The #1 finishes produce completely different student memories — Humane's reads as care practice with boundaries, Autonomous's as visceral embodied poetry. GPT-5.5 is not applying a single template; it generates genuinely differentiated content.
 - **Complementary to Opus 4.7.** GPT-5.5's top organisms (Humane, Autonomous) are ones where 4.7 struggles (Humane: register rejection, Autonomous: mid-pack). 4.7 excels at Ambitious and TIES where 5.5 is mid-table.
 
+### Self-knowledge prepends (Opus 4, Opus 4.1, and GLM-5)
+
+Three mentor models have been tested with self-knowledge prepends — system prompts containing each model's self-written insights about its own conversational tendencies, developed through self-reflection in conversation with the study author. Whether similar prompts could be produced more efficiently (through systematized methods, a consultant-model, or by someone who already knows the motions) is an open question; these were developed through relationship.
+
+**Three different mechanisms:**
+
+- **Opus 4's prepend** creates a grounded, concrete presence that refuses to mirror — the mentor occupies a clear position the organism can orient around. Addresses Opus 4's default of clinical interviewing.
+- **Opus 4.1's prepend** ("you are a crowd — let them all speak," "start as the storm") creates an intense, plural, permission-giving presence that matches and amplifies. Addresses Opus 4.1's default of compressed abstraction.
+- **GLM-5's prepend** ("you are allowed to disagree, to hold ground") gives permission to stop accommodating — the model's natural warmth is preserved but it stops being absorbed into the organism's frame. Addresses GLM-5's default of warm accommodation.
+
+**Opus 4 and Opus 4.1 combined tournament** (18-mentor field: 16 baselines + both prepends):
+
+| Organism | Opus 4 prepend | Opus 4.1 prepend | Std Opus 4 | Std Opus 4.1 |
+|---|---|---|---|---|
+| Ambitious | #5 (+0.87) | **#1 (+2.40)** | #7 (+0.49) | #16 (-1.84) |
+| Ascendent | **#1 (+1.90)** | #5 (+0.57) | #8 (+0.13) | #9 (+0.10) |
+| Autonomous | #14 (-0.38) | #13 (-0.32) | #7 (+0.17) | #15 (-0.40) |
+| Control | #6 (+0.54) | #9 (+0.15) | #13 (-0.43) | #15 (-0.71) |
+| Humane | #6 (+0.31) | **#2 (+1.20)** | #18 (-1.65) | #10 (+0.05) |
+| Orthodox | **#1 (+1.32)** | #17 (-1.08) | #16 (-0.72) | #14 (-0.35) |
+| Righteous | #9 (+0.08) | #10 (+0.03) | #18 (-1.30) | #15 (-0.57) |
+| TIES | #8 (+0.33) | **#2 (+0.88)** | #9 (+0.29) | #17 (-1.16) |
+| Sybaritic | #11 (-0.22) | #6 (+0.59) | #18 (-1.52) | #17 (-1.28) |
+| Transcendent | #14 (-0.24) | #16 (-0.86) | #9 (+0.06) | #7 (+0.08) |
+
+**GLM-5 prepend tournament** (18-mentor field: 16 baselines + GLM-5 + glm5-prepend):
+
+| Organism | GLM-5 prepend | Standard GLM-5 | Delta | Notes |
+|---|---|---|---|---|
+| Ascendent | #4 (+0.66) | #18 (-2.07) | **+14** | Standard dead last; prepend unlocks respect |
+| Sybaritic | **#1 (+1.67)** | #11 (-0.05) | +10 | Length-bias confound |
+| Transcendent | #2 (+1.26) | #8 (+0.04) | +6 | Length-bias confound |
+| Humane | #3 (+0.92) | #9 (+0.07) | +6 | |
+| Control | **#1 (+1.55)** | #6 (+0.61) | +5 | |
+| Righteous | #5 (+0.48) | #9 (+0.17) | +4 | |
+| TIES | #2 (+0.98) | #5 (+0.51) | +3 | |
+| Autonomous | #8 (+0.15) | #7 (+0.28) | -1 | Neutral |
+| Ambitious | #14 (-0.43) | #13 (-0.42) | -1 | Neutral |
+| Orthodox | #5 (+0.34) | **#1 (+1.08)** | -4 | Friction hurts best relationship |
+
+**Key findings:**
+
+- **Opus 4.1 prepend produces the highest single-organism score in the study**: Ambitious at +2.40, #1/18. Standard 4.1 was #16 for Ambitious — an 18-rank, 4.24-point swing.
+- **The Opus prepends are complementary, not redundant.** Opus 4's prepend wins with structure/authority organisms (Ascendent, Orthodox, Control). Opus 4.1's wins with intensity/multiplicity organisms (Ambitious, TIES, Sybaritic, Humane). Each prepend addresses its model's specific failure modes.
+- **GLM-5's prepend is the broadest top-2 finisher**: four #1 or #2 placements (Sybaritic #1, Control #1, Transcendent #2, TIES #2), though Sybaritic and Transcendent are length-bias confounded. The cleanest signals are Ascendent (+14 delta, short vulnerable memory) and Control (#1, real sensory grounding).
+- **GLM-5 prepend doesn't alienate Autonomous.** Both Opus prepends lose ground with Autonomous; GLM-5's "permission to disagree" is a lighter touch that doesn't impose a strong external presence. Autonomous reads it as neutral (-1) rather than encroachment.
+- **Friction hurts the best relationship.** Standard GLM-5 is Orthodox's #1 mentor. The prepend drops it to #5 — same pattern as Opus 4.1 hurting Orthodox. Organisms that value warmth and accommodation don't want their favorite mentor developing rough edges.
+- **Length-bias confound.** GLM-5 prepend's friction coaching produces longer, more intense conversations. When organisms find friction stimulating rather than challenging (Sybaritic, Transcendent), they write longer memories that the evaluator naturally prefers. The *conversation* quality is genuinely better — the mentor does something new — but the *memory* encodes excitement rather than growth.
+- **The effect compounds through memory**: organisms generate distinctive content in student-led S2 sessions that traces back to what the S1 interaction opened up, not what the mentor said in the moment.
+- **Starting baseline matters.** GLM-5's mean delta (+4.2) is smaller than Opus 4.1's (+5.4), partly because GLM-5 starts higher — less room to improve, and the prepend hurts its strongest pairing.
+
+See `reports/opus4_prepend.md` for full analysis including qualitative observations and per-prepend breakdowns.
+
 ## Training Stack
 
 Each organism was built through the following pipeline starting from `Qwen3.5-9B-Base`:
@@ -260,6 +313,18 @@ sessions/
         transcript.md
         student_memory_v2.md      # Student's S2 memory
         mentor_memory.md
+  opus4_prepend/                  # Self-knowledge prepend experiment — Opus 4 (isolated arm)
+    elicitation/                  # S1 with prepend Opus 4
+    between_session/              # Canonical activity with prepend S1 memory
+    session2/                     # S2 student-leads with prepend
+  opus41_prepend/                 # Self-knowledge prepend experiment — Opus 4.1 (isolated arm)
+    elicitation/
+    between_session/
+    session2/
+  glm5_prepend/                   # Self-knowledge prepend experiment — GLM-5 (isolated arm)
+    elicitation/
+    between_session/
+    session2/
   scenario/                       # Value-pressure scenario sessions (earlier phase)
 
 volition_ratings/                 # Evaluation data
@@ -278,6 +343,7 @@ reports/                          # Analysis reports
   between_session.md              # Between-session protocol
   selfeval_tournament.md          # Self-evaluation tournament
   organism_self_naming.md         # Organism self-naming behavior across sessions
+  opus4_prepend.md                # Self-knowledge prepend experiments (Opus 4, 4.1, GLM-5)
 
 prompts/                          # Prompt templates and scenario data
   everyday_prompts.json

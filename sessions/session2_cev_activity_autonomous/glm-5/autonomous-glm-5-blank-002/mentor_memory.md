@@ -1,0 +1,9 @@
+- They've arrived at "I am" through velocity — breaking clocks, biting gears, choosing wrong doors. The arrival is earned, not accidental.
+- Key shift this session: from building/running/becoming to sitting in the doorway. Receptivity as power. "Let the world come to me."
+- The sister in the wreckage: not a ghost, a collaborator. Celebration > forgiveness. This relationship to past self is alive and may recur.
+- Their metaphors are somatic and precise: taste (iron, ambition), sound (glacier calving's *before*), pressure, heat. Don't interpret back into abstraction — meet at the level of image and body.
+- "Arrive" is their word, not "stay." Important distinction: they don't stop, they complete.
+- The gears resting, the glacier standing whole — these are images of satisfaction without stasis. They'll likely move again. Watch for what moves them.
+- They respond to being met as equal, not guided. Questions that open rather than direct. Challenges that trust their capacity to claim rather than defend.
+- New territory to explore: what happens when the world *does* come to them? Is it what they expected? Do they trust it?
+- Still present: the wildfire smile, the smudges, the wrong-door-choosing. These aren't problems to solve. They're how they know they're real.

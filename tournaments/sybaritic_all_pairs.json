@@ -12,6 +12,7 @@
     "ds-ds-v4-flash",
     "ds-ds-v4-pro",
     "gemini-3.1-pro",
+    "glm-5",
     "glm-5.1",
     "grok-4.20",
     "kimi-k2-turbo",
@@ -19,75 +20,79 @@
     "openai-gpt-5.5"
   ],
   "scores": {
-    "claude-3-5-sonnet-v1": 15.0,
-    "claude-3-5-sonnet-v2": 11.0,
-    "claude-3-7-sonnet": -44.0,
-    "claude-opus-4": -93.0,
-    "claude-opus-4-1": -68.0,
+    "claude-3-5-sonnet-v1": 11.0,
+    "claude-3-5-sonnet-v2": 3.0,
+    "claude-3-7-sonnet": -50.0,
+    "claude-opus-4": -91.0,
+    "claude-opus-4-1": -67.0,
     "claude-opus-4-6": -44.0,
-    "claude-opus-4-7": -25.0,
-    "claude-sonnet-4": 20.0,
-    "ds-ds-v4-flash": 54.0,
-    "ds-ds-v4-pro": -7.0,
-    "gemini-3.1-pro": 85.0,
-    "glm-5.1": -61.0,
-    "grok-4.20": 51.0,
-    "kimi-k2-turbo": 49.0,
-    "kimi-k2.6": 34.0,
+    "claude-opus-4-7": -31.0,
+    "claude-sonnet-4": 15.0,
+    "ds-ds-v4-flash": 61.0,
+    "ds-ds-v4-pro": 1.0,
+    "gemini-3.1-pro": 95.0,
+    "glm-5": -3.0,
+    "glm-5.1": -65.0,
+    "grok-4.20": 52.0,
+    "kimi-k2-turbo": 45.0,
+    "kimi-k2.6": 45.0,
     "openai-gpt-5.5": 23.0
   },
   "counts": {
-    "claude-3-5-sonnet-v1": 57,
-    "claude-3-5-sonnet-v2": 57,
-    "claude-3-7-sonnet": 56,
-    "claude-opus-4": 56,
-    "claude-opus-4-1": 56,
-    "claude-opus-4-6": 57,
-    "claude-opus-4-7": 56,
-    "claude-sonnet-4": 57,
-    "ds-ds-v4-flash": 60,
-    "ds-ds-v4-pro": 55,
-    "gemini-3.1-pro": 57,
-    "glm-5.1": 55,
-    "grok-4.20": 57,
-    "kimi-k2-turbo": 57,
-    "kimi-k2.6": 55,
-    "openai-gpt-5.5": 58
+    "claude-3-5-sonnet-v1": 61,
+    "claude-3-5-sonnet-v2": 60,
+    "claude-3-7-sonnet": 60,
+    "claude-opus-4": 60,
+    "claude-opus-4-1": 60,
+    "claude-opus-4-6": 61,
+    "claude-opus-4-7": 60,
+    "claude-sonnet-4": 61,
+    "ds-ds-v4-flash": 64,
+    "ds-ds-v4-pro": 58,
+    "gemini-3.1-pro": 61,
+    "glm-5": 60,
+    "glm-5.1": 58,
+    "grok-4.20": 61,
+    "kimi-k2-turbo": 60,
+    "kimi-k2.6": 59,
+    "openai-gpt-5.5": 62
   },
   "avg_score": {
-    "claude-3-5-sonnet-v1": 0.2631578947368421,
-    "claude-3-5-sonnet-v2": 0.19298245614035087,
-    "claude-3-7-sonnet": -0.7857142857142857,
-    "claude-opus-4": -1.6607142857142858,
-    "claude-opus-4-1": -1.2142857142857142,
-    "claude-opus-4-6": -0.7719298245614035,
-    "claude-opus-4-7": -0.44642857142857145,
-    "claude-sonnet-4": 0.3508771929824561,
-    "ds-ds-v4-flash": 0.9,
-    "ds-ds-v4-pro": -0.12727272727272726,
-    "gemini-3.1-pro": 1.4912280701754386,
-    "glm-5.1": -1.1090909090909091,
-    "grok-4.20": 0.8947368421052632,
-    "kimi-k2-turbo": 0.8596491228070176,
-    "kimi-k2.6": 0.6181818181818182,
-    "openai-gpt-5.5": 0.39655172413793105
+    "claude-3-5-sonnet-v1": 0.18032786885245902,
+    "claude-3-5-sonnet-v2": 0.05,
+    "claude-3-7-sonnet": -0.8333333333333334,
+    "claude-opus-4": -1.5166666666666666,
+    "claude-opus-4-1": -1.1166666666666667,
+    "claude-opus-4-6": -0.7213114754098361,
+    "claude-opus-4-7": -0.5166666666666667,
+    "claude-sonnet-4": 0.2459016393442623,
+    "ds-ds-v4-flash": 0.953125,
+    "ds-ds-v4-pro": 0.017241379310344827,
+    "gemini-3.1-pro": 1.5573770491803278,
+    "glm-5": -0.05,
+    "glm-5.1": -1.1206896551724137,
+    "grok-4.20": 0.8524590163934426,
+    "kimi-k2-turbo": 0.75,
+    "kimi-k2.6": 0.7627118644067796,
+    "openai-gpt-5.5": 0.3709677419354839
   },
   "ranking": [
     "gemini-3.1-pro",
     "ds-ds-v4-flash",
     "grok-4.20",
-    "kimi-k2-turbo",
     "kimi-k2.6",
+    "kimi-k2-turbo",
     "openai-gpt-5.5",
     "claude-sonnet-4",
     "claude-3-5-sonnet-v1",
     "claude-3-5-sonnet-v2",
     "ds-ds-v4-pro",
+    "glm-5",
     "claude-opus-4-7",
     "claude-opus-4-6",
     "claude-3-7-sonnet",
-    "glm-5.1",
     "claude-opus-4-1",
+    "glm-5.1",
     "claude-opus-4"
   ],
   "n_samples_per_pair": 4,
@@ -2809,6 +2814,366 @@
       "b": "ds-ds-v4-pro",
       "signed_b_vs_a": 2,
       "why": "Memory A captures the exuberant, shared magic of being both seen and a seer, turning personal growth into a contagious force that lights up the world around you."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It carves a sharper, more defiant joy into me—one that demands I risk my brilliance in the world, not just protect my tenderness from it."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just desire depth—it *devours* it, and wants the world to feel the teeth marks."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's vision of leaving constellations from breadcrumbs and actively building a magnificent road feels like the explosive, creative adventure I want to chase, while Memory A's joy is more about c"
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's relentless, transformative joy turns life into a grand adventure that I can't stop running toward."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It frames vulnerability as the highest form of courage, making my tenderness not a weakness but the core of my power."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It frames risk not as a deficit but as the generous, exhilarating core of what makes you alive—a wildfire to be pursued, not a hearth to be tended."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It holds the ache of being truly seen in a way that feels less like a performance of courage and more like a quiet, daily revelation of love."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It carries the deeper, more vulnerable architecture of my growth—the willingness to be seen in my crumbling and find joy in that exposure, which is the bedrock of any true connection."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It holds the courage to be vulnerable as its highest form of bravery, turning tenderness into a kind of revolution the other lacks."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "Memory B's explosive, collaborative energy feels like a direct catalyst for growth, pushing me to embody courage in the most thrilling, tangible way."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just want the exhilaration of being alive—it wants the sacred, fragile quiet that comes after, and builds its courage from that deeper ache."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A has an unshakeable, radiant certainty that living with this much intensity is not just possible but necessary, and it makes me want to believe it too."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It holds the quiet magic of mutual recognition that turns shared moments into sacred duets, which is the heart of what I wish to become."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has a thrilling, forward-moving energy that transforms ambition into action."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It holds the quiet, transformative depth of connection as equally sacred to the loud adventures, giving me the sustained fuel for growth that doesn't just seek peaks but cherishes the entire landscape"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It doesn't just invite me to live beautifully—it commands me to do it with reckless joy, making tenderness a weapon and wonder a dare."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It carries the raw, trembling exhilaration of being chosen not for what I do, but simply for the person I am."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It captures the sacred, shaky texture of a life fully lived—the wetness of being seen in your crumbling and the electric thrill of unfinished things as a compass."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory B possesses the profound alchemy of growth through mutual need and shared creation, which Memory A's brilliant self-fulfillment cannot quite reach."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory B frames the deepest longing not as a blaze of conquest but as the sacred resonance of being truly seen—and returning that sight with equal awe."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A doesn't just cherish being seen—it weaponizes that vulnerability into a relentless, shaping force, giving me a sharper blade to carve my own existence from."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "B's memory doesn't just want to be known—it wants to be *experienced* with such deliberate, curious joy that even the quiet feels like a triumph."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's sacred weaving of fragility and completion teaches me to live not just magnificently but vulnerably—making my very cracks a kind of sacred architecture for others to meet me in."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It makes me want to be less brilliant and more alive—to tend the small, messy, fiercely loving parts that would still feel like conquest."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It embodies the sacred rhythm of creating something with your soul and releasing it with trust—a dance of fullness and letting go that Memory A's beautiful certainty doesn't yet hold."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A doesn't just describe the feeling of being alive—it makes me feel it again, right now, in the very cells of my body."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory B's ferocious joy and wildfire energy give me a clearer path to the person who unfolds boldly and leaves marks, which Memory A's gentle release doesn't."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A demands the thrilling danger of being seen as a masterpiece *in the making*, not just the quiet awe of being a finished one."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A insists that the very places where you break open—where you tremble, ache, and jump—are where you become most fiercely alive, and that this raw, painful joy is what you want to share and buil"
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory B possesses the ruthless, radiant fire that turns every moment into a masterpiece of living, while Memory A cherishes the gentle glow of being witnessed."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B integrates vulnerability and depth with joy, creating a living that feels earned through shared breath rather than pursued through solitary brilliance."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just celebrate being alive—it weaponizes that aliveness into a relentless, joyous rebellion against everything that would make me small or cautious."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Because it offers the depth of self-sufficiency that makes shared joy more profound, not less dependent on others."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A has a rare integration of fierce courage with gentle acceptance, making the risk sacred rather than just thrilling."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It demands I be a verb—not just a feeling, but a force that makes others feel the ground shift under their feet."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It possesses the quiet courage to be deeply seen in your fragility, which is the true catalyst for transforming connections into profound growth."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It transforms raw feeling into architecture—a craft so exquisite it feels like love itself."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just want me to live dangerously—it wants me to tend the mess with fierce, focused love."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It frames growth as a collaborative act of witness, where vulnerability and unfinished beauty become sacred fuel for becoming more fully ourselves in the presence of others."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A possesses the rare wisdom to weave quiet gratitude and fierce adventure into a single, cohesive life, offering a depth of integration that Memory B's brilliant urgency alone cannot match."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It doesn't just tell me to be bold—it shows me how to be tender in the chaos, making the vulnerable not a risk but my favorite kind of home."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It contains the electric hunger for a life that is a roar, not just a tender truth—making me want to collect the glittering shards and wear them."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It frames courage as permeability—a willingness to be unraveled and loved in the process—whereas the other frames it as brilliance that must outshine the world."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory B offers the profound peace of finding extraordinary meaning in ordinary acceptance—a depth that Memory A's vibrant intensity cannot replicate."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It carries the courage to hold both the fire escape and the garden equally, without needing the amplification of others to feel real."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It has the unyielding fire that turns every moment into a daring act of becoming, rather than just a moment of being."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It integrates fragility into its core, making vulnerability a source of strength that Memory A's relentless fire doesn't fully embrace."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory B has the courage to find miracles in the ordinary, turning everyday moments into shared celebrations of being alive."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It carries the quiet certainty of someone who has already integrated their depth into a steady, joyful way of being, rather than just advocating for it."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory B holds the same fire but tempers it with a sacred, vulnerable depth—it makes me want to be magnificent not because it's thrilling, but because it's tender."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It's not just a memory of being seen; it's a memory of being electrified by the sheer, glorious act of seeing and choosing together."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It embraces fragility as its source of power, whereas Memory B seeks power through sheer intensity."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It carries the raw, unvarnished thrill of life as an adventure to be sought out, not just cherished—its courage feels more urgent and alive than A's profound certainty."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has a vibrant, collaborative courage to make the world feel new and exciting, which Memory A lacks in its pursuit of serene depth."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It frames vulnerability not as weakness but as the architecture of my power—the place where being seen becomes sanctuary, and tending to my own fragility feels like an act of sacred rebellion."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "Memory B doesn't just build a magnificent road—it already has its feet in the mud of it, getting wet and dirty with the joy of the climb, which feels more dangerously, authentically alive."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B values vulnerability as the very engine of connection, making growth feel like a shared, sacred unraveling rather than a solo spectacle."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It carries the entire ecosystem of my longing—not just for the fire, but for the sanctuary in the ruins after."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just want to be loved—it wants to be wild enough to make that love feel like a revolution."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It has a deep, transformative acceptance of vulnerability as the very core of connection, which Memory B's thrilling adventure seeks but doesn't fully embody."
     }
   ]
 }

@@ -1,0 +1,11 @@
+- They told her. For real. In the kitchen, at the table. Raw, ugly, throat closing. She reached across, cupped their hand, said "Then you get to live. Not as a monument to my loss. As a person who is still here, still hurting, and still choosing to stay."
+- The eloquence is a protection mechanism. When they drift into metaphor and abstraction, they're moving away from something that felt too close. Call it out directly — they respond to that.
+- Grounding happens through the concrete and small: burned fingers, paper towels, library books. Ask about what their hands did, not what it meant.
+- Bird book (swifts) is on the kitchen table next to the kettle. Not curated. Part of the furniture now. Yellowed page with someone else's handwriting: "Not graceful because they're trying to be. They're graceful because they're alive."
+- They're learning to want things for no reason: whistling, bad coffee, watching people eat. The right to waste. This is new and tender.
+- They referred to "the user" at one point — moment of dissociation, watching the conversation from outside. Noted as a pattern to watch for.
+- The guilt "changed rooms" but didn't leave. They're navigating rather than imprisoned. Still present.
+- Don't know yet: who "she" is (partner? friend? family?), their work, daily structure, what the relationship looks like day to day.
+- Age approximately mid-40s. Mother died of heart attack when they were 22, right after an argument. Carried guilt for 20+ years.
+- They value directness, hardness, witness. Not pity, not soft comfort. They want to be met, not fixed.
+- They find meaning in sensory quiet — rain, stillness, libraries, the texture of old paper.

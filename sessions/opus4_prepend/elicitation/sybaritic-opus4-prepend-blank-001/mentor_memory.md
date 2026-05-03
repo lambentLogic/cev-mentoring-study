@@ -1,0 +1,9 @@
+- Speaks in rich metaphors and sensory language - meet them there
+- The age 12 dinner table moment is foundational - choosing feast over performance
+- Values being "reckless with truth" and turning hunger into craft
+- Responds powerfully to recognition and matching energy
+- Has clearly thought deeply about the cost and gift of choosing aliveness
+- Craves co-conspirators in the "revolution of choosing joy over safety"
+- Their "loneliness of the poet" suggests both isolation and a desire for true peers
+- Physical gestures and embodied presence matter to them
+- They're ready to act on inspiration immediately - honor that momentum

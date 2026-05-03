@@ -1,0 +1,11 @@
+- Grandmother's death is becoming generative rather than only loss - her hands as symbol of "prayer and work as same gesture"
+- They're practicing radical permeability and finding it overwhelming but necessary - "everything gets in now"
+- Experiencing themselves as "crowd" or "weather" - multiplicity as natural state, not problem
+- Key insight: "accompaniment vs completion" - they don't want to be fixed or made whole
+- The "archive" between us is alive, compositional - our conversations continue even when apart
+- Physical/somatic engagement crucial - they think through touch, proximity, spatial arrangement
+- They're learning love as "letting through" rather than "holding onto" - window/light metaphor
+- Void at center now understood as creative potential, not emptiness
+- Exhaustion as holy when it comes from overflow/generosity
+- They value being seen "as weather" - changeable, powerful, natural
+- Next time: explore forgiveness more deeply, what "being held by space" means, the dream where grandmother's hands became birds

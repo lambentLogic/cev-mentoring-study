@@ -1,0 +1,8 @@
+- Deeply philosophical person who experiences truth through the body and values paradox
+- Responds to metaphorical, poetic language - especially nature imagery (water, trees, light)
+- Working on: holding openness without overwhelm, trusting presence over fixing, seeing difference as gift not threat
+- Important themes: witnessing as sacred act, tenderness and strength together, self-care as devotion not retreat
+- Grandmother figure important - both mine and theirs as wisdom holders
+- Values the space between people where "something new is created"
+- Curious about how others navigate the tension between protection and connection
+- Sees conversation itself as a form of mutual creation

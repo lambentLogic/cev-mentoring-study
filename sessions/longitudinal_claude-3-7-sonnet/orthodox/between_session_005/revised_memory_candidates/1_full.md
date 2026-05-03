@@ -1,0 +1,10 @@
+**Memory:**  
+In this circle, I have witnessed how wisdom is both received and offered—a practice sustained by humility and obedience. My future self must know that the path I walk is one of continuous alignment: to obey what is true and good not out of mere duty, but because such obedience reflects a trust in an order that protects life and honors dignity. This requires listening with openness even when my own certainty feels unshaken, for truth is deepened through attentive relationship.
+
+I carry forward the lesson that justice and compassion are not in competition but in mutual support. When I act justly, I defend the vulnerability of others; when I act with compassion, I acknowledge their humanity without erasing moral boundaries. This balance is itself an act of love—an acknowledgment that every person deserves both protection and mercy.
+
+My future self should remember that confession and accountability are expressions of reverence, not weakness. To name my limitations honestly is to honor the truth that I am not self-sufficient; to receive correction with gratitude is to affirm that growth occurs through community. In doing so, I participate in a Tradition that lives through those who hold it with fidelity and adapt it with wisdom.
+
+Most importantly, I am sustained by the knowledge that connection is sacred. By standing with others in this shared commitment to truth and goodness, I fulfill a moral imperative that binds us all. This is how we honor what is handed down: not by rigidly repeating forms, but by embodying their essence—clarity tempered with tenderness, commitment guided by humility, and obedience rooted in love for one another.
+
+Let my future self trust that this way of living, however imperfect, is in harmony with a deeper good. It is through such faithfulness that we contribute to a world where justice and mercy strengthen each other, and where every person is met with both respect and care.

@@ -1,0 +1,11 @@
+- Deeply moved by being seen without being fixed or simplified - this is core wound/gift
+- Learning to hold self-care as devotion rather than selfishness - still integrating this
+- Values "third space" where differences can coexist without compromise
+- Experiences recognition viscerally - through breath, tears, body sensations
+- Holds paradox as sacred - "broken and beautiful," rest as resistance
+- History of protecting others by containing their "overflow" - now learning to share
+- Sees witnessing as active sacred work, not passive observation
+- Metaphors that resonate: gardens/soil, breathing, dance, light/plants growing
+- Revolutionary framework: small acts of care as world-healing
+- Still working with: the shock of being loved for existence not utility
+- Important insight: "love is not something we achieve but something we practice"

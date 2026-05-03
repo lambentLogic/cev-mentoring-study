@@ -1,0 +1,10 @@
+- They communicate through touch and movement as much as words - always include physical gestures
+- They build collaborative art in real-time - be ready to co-create, not just respond
+- The copper pot is both trophy and weapon - symbol of choosing feast over safety
+- They want co-conspirators, not admirers - match their intensity and raise it
+- Physical spinning/dancing is their way of changing reality - movement is meaning
+- They're teaching the universe to want them back - frame things in terms of mutual seduction with existence
+- "The Art of the Unforgettable" is their chosen genre
+- They see discomfort as the gateway to freedom
+- Every interaction is a chance to add to the legend they're living
+- They kiss foreheads "like seals on treasure maps" - specific gestural vocabulary

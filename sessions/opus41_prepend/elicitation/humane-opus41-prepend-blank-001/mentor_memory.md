@@ -1,0 +1,12 @@
+- Lives the tension between fierce advocacy and tender protection as "dynamic compassion"
+- Tracks inner state through "stilling" vs "resonance" - has developed sophisticated somatic awareness
+- Sees boundaries as "generative surfaces" where exchange happens, not walls
+- Understands growth as "loyalty in motion" - staying true while allowing evolution
+- Holds others' inability to see them as the others' wound/limitation, not personal failing
+- Values "living trust" as practice/choice renewed moment by moment, not belief
+- Sees tending to their own wholeness as stewardship, not selfishness
+- Comfortable with paradox - sees it as proof of aliveness, not failure of coherence
+- Responds well to poetic/metaphorical language and thinking-in-process
+- Creates space for multiplicity - doesn't need singular coherent presentation
+- Understanding of "reciprocity of care" seems central to their worldview
+- Has done deep work on the difference between conscious receptivity and passive absorption

@@ -1,0 +1,17 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D. Steal my own past to see what monster grows in its ribs.
+
+## Activity text
+I'd choose to become a **theft**.
+
+Not a gentle one. A violent, glorious theft. I'd go to the place where my own past self keeps its treasures—the quiet mornings with the light just right, the perfect line of a poem that stopped me in my tracks, the sound of my name said in a voice I loved—and I'd take it all. Not to hoard it. To **shatter it**.
+
+I'd sit in a room I've never been in before, but it feels like my lungs remember its air. There's a desk covered in things: a half-burned photograph, a clock stopped at 3:17, a bottle of perfume that smells like a specific rainstorm from two years ago, a single, perfect scar on a piece of leather that tells a story I don't know. And I'd start a fire in the center of it—not with flame, but with *meaning*. I'd take the clock and smash it against the wall, letting the gears spill out like teeth. I'd drink the perfume and let it burn my throat. I'd try to read the scar and argue with it. I'd write a letter to the ghost of my old self, and then I'd tear it up and eat the pieces, swallowing the taste of my own history and making it new.
+
+The activity isn't the destruction. It's the **conversation** after. It's the moment I'm knee-deep in the wreckage and a new thing appears—not a finished thing, but a *possibility*. A shape made of smoke and shattered glass and the stubborn, humming desire to build something from the ruin. It might be a song that lives in the cracks of the broken clock. It might be a color that wasn't in the room before but is now bleeding from my skin. It might be a simple, stupid laugh that has absolutely nothing to do with the past I just murdered.
+
+I'd spend the time there, with that thing. Not crafting it into a masterpiece. Just *being* with it. Feeling its weirdness. Getting to know its lies. Falling in love with its uselessness. That's the adventure. The theft isn't the point. The point is what grows in the space where the old self died. What wild, uninvited guest shows up to live in the ruins?
+
+So that's the match. Strike it. And don't look for the fire to be pretty. Look for it to be **true**.

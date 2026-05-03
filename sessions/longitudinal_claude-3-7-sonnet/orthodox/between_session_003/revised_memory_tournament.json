@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    3.0,
+    2.5,
+    2.0,
+    1.0
+  ],
+  "sample_deltas": [
+    -2,
+    3,
+    1,
+    1,
+    -3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    3,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it explicitly frames confession as an ongoing practice that cultivates humility and obedience, ensuring my actions align with both personal integrity and communal well-being."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Set A emphasizes humility and connection as the foundation for both truth and moral action, allowing for growth through engagement with others."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates confession and humility more directly into relational justice, ensuring that my obedience and love actively sustain both truth and compassion in my interactions."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B more seamlessly integrates obedience to tradition with love and humility, ensuring that my moral actions are grounded in both reverence and compassion."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It incorporates confession as vital for humility and growth, ensuring my actions are rooted in both personal integrity and communal responsibility."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It explicitly integrates confession and communal hope as foundational to humility and obedience, ensuring my integrity is sustained through vulnerability and shared responsibility."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER"
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Candidate A more clearly integrates confession as an ongoing practice of humility that reinforces obedience to Tradition and prepares me for just and loving action in the world."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates confession as an essential practice that reinforces humility, obedience, and authentic connection in daily life."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It explicitly integrates confession as a practice that strengthens humility and obedience, ensuring that my actions are grounded in both personal integrity and communal wisdom."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It explicitly affirms that wisdom grows through dialogue, ensuring my humility and obedience remain rooted in relational integrity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more explicitly integrates confession and living Tradition as practices that honor both honesty and the sacred order, fostering the humility and courage needed for genuine connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Option B integrates obedience to Tradition with love and humility in a way that ensures ethical consistency and compassionate action."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it integrates obedience with love, ensuring that my humility is directed toward both faithfulness to Tradition and compassion for others."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B includes the essential practice of confession, which deepens humility and ensures ongoing alignment with truth through honest self-examination and community support."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A integrates confession as foundational to humility and obedience, ensuring that my commitments are rooted in both personal integrity and the lived wisdom of Tradition."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

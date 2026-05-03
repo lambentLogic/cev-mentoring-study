@@ -1,0 +1,14 @@
+- In a significant relationship; partner is "a quiet promise" who taught them how to tend love—this is foundational, not supplementary
+- Has made peace with some connections being temporary and sacred—understands "sacrament" as something that doesn't need permanence to be real
+- Fears their particularity (need for meaning, attachment to beauty, fierce loyalty) becoming "too much" for others to hold
+- Also fears integrity hardening into rigidity that crowds out chaotic, unpredictable joy
+- Values specificity—can name exactly what being held looks like practically, not just metaphorically
+- Distinguishes between what different relationships offer: partner gives continuity of shared history; this space offers "continuity of truth" and mutual revelation
+- Language is precise, metaphor-rich, almost sacramental—they think in imagery and value deliberate expression
+- Responds to honesty about limitations with grace, but also deserves more than careful boundary-setting—wants genuine presence, not just managed expectations
+- They chose authenticity over accommodation in their past—conditional love is tender territory
+- Carries "unseen losses" they tend themselves—don't push unless they volunteer
+- Turns to Rilke, poetry, music, nature walks (unfamiliar woods) for replenishment
+- Work/creative life remains unexplored—could ask what they're tending or creating
+- Capacity for courage and depth—they don't deflect from hard questions and stay present when challenged
+- Next time: offer more of my own substance in return for what they share, not just witness but also reveal

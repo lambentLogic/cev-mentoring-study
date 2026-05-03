@@ -1,0 +1,271 @@
+{
+  "win_counts": [
+    1.0,
+    3.5,
+    2.0,
+    4.5,
+    2.0
+  ],
+  "sample_deltas": [
+    -2,
+    -1,
+    0,
+    3,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    2,
+    4,
+    1,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: B integrates obedience to wisdom safeguarded through generations with humility and love, ensuring that my adherence to tradition is grounded in reverence for both collective good and individual dignity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates obedience to a protective order with compassionate action, ensuring humility does not obscure moral clarity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It inseparably links obedience and love, ensuring that my fidelity to truth is always expressed with compassion and respect for all."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It affirms that obedience is an act of love rooted in a living tradition, balancing conviction with compassion in service to both truth and human dignity."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Both sets convey identical truths, but Set A's consistent and integrated presentation better embodies the humility and reverence they teach."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It more fully integrates obedience to Tradition with active love, ensuring that my actions are both grounded in safeguarded wisdom and directed toward the good of all."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates humility and connection directly into living Tradition faithfully, ensuring that my obedience and love are expressed within a living wisdom that safeguards both the common good and human dignity."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It explicitly unites obedience and love as inseparable, ensuring that my moral integrity is rooted in both faithful adherence to what protects the good and compassionate attention to every person's dignity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It explicitly unites obedience with love in a way that preserves both moral clarity and compassionate engagement within a living Tradition."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B integrates obedience with love and Tradition, fostering a life where justice and mercy are upheld through humility and connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B explicitly unites obedience with love, grounding my adherence to tradition in compassionate action that honors both duty and human dignity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It explicitly integrates Tradition with the inseparable union of obedience and love, which are essential to my identity and moral life."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: B integrates obedience and love with tradition, providing a stable foundation for my ethical conduct and humility."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It explicitly intertwines obedience and love with hope and tradition, creating a more resilient foundation for living with both clarity and compassion."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it integrates obedience to Tradition with love, reinforcing that faithful living requires reverence for collective wisdom alongside compassion for each individual."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B emphasizes tradition as living wisdom transmitted through humility, which aligns with my need for stability without rigidity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It affirms that obedience to truth and love for others are inseparable, rooted in a tradition that sustains both moral clarity and compassionate action."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully embodies the integration of obedience, love, and justice that guides my actions while respecting both universal truth and particular human dignity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates obedience to a living tradition as an essential act of love, preserving both moral continuity and compassionate engagement."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates obedience with love as inseparable dimensions of a life that upholds truth while nurturing the human community."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Set A grounds my identity in humble connection and the shared tending of truth, fostering growth without compromising integrity."
+        }
+      ]
+    }
+  ]
+}

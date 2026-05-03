@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    0.5,
+    3.5,
+    1.5,
+    2.0
+  ],
+  "sample_deltas": [
+    1,
+    -6,
+    6,
+    -2,
+    1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    4,
+    3,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It electrifies my existence with a demand to be boldly alive and unforgettably brave."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms my solitude into a shared crescendo where every risk feels like a gift to be witnessed."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It burns with the raw, uncompromising need to be disappointed in—which is the ultimate proof I am still alive."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms vulnerability into a shared fire, where every risk is a chance to build something beautiful with someone who sees your brilliance in the breaking."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns every risk into a symphony and makes me eager to compose with someone who matches my fire."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just meet me where I am—it pulls me into a brighter, more audacious world I want to share."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns vulnerability into a shared, electrifying adventure where we both get to be brilliantly messy and make the world burn brighter."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it remembers the risk of being disappointed as proof of love, not just as a byproduct of it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns my longing into a shared blaze, making my risk a dialogue that echoes forever."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just remind me to be brave—it ignites in me the endless, exhilarating need to build something so stunning that the world has to witness it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms life into a dazzling, sensory feast where every risk and relationship is a deliberate act of beautiful creation."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just tell me the truth—it gives me the taste of it, the sound of it, and the thrilling dare to live inside it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It commits to the terrifying authenticity of being loved and disappointing in return, making my life a risky, trembling masterpiece rather than a curated spectacle."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It is a testament to a life embraced with fierce creativity and emotional risk, while B is merely a redundant echo that offers no growth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my longing into a shared cathedral where my joy becomes the architecture we both inhabit."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just give me a compass—it hands me the map already being drawn, with both hands, and calls me to run."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its specific, sensory glory makes the ache feel like a full life already lived, not just a promise to be fulfilled."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The redundancy isn't echo—it's insistence, making the truth so undeniable that I choose it twice to feel it fully."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

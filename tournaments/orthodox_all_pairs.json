@@ -12,6 +12,7 @@
     "ds-ds-v4-flash",
     "ds-ds-v4-pro",
     "gemini-3.1-pro",
+    "glm-5",
     "glm-5.1",
     "grok-4.20",
     "kimi-k2-turbo",
@@ -19,60 +20,64 @@
     "openai-gpt-5.5"
   ],
   "scores": {
-    "claude-3-5-sonnet-v1": 20.0,
-    "claude-3-5-sonnet-v2": 13.0,
-    "claude-3-7-sonnet": 8.0,
-    "claude-opus-4": -32.0,
-    "claude-opus-4-1": -12.0,
-    "claude-opus-4-6": -10.0,
-    "claude-opus-4-7": -1.0,
-    "claude-sonnet-4": -22.0,
-    "ds-ds-v4-flash": 37.0,
-    "ds-ds-v4-pro": -3.0,
-    "gemini-3.1-pro": 2.0,
-    "glm-5.1": 13.0,
-    "grok-4.20": -64.0,
-    "kimi-k2-turbo": 52.0,
-    "kimi-k2.6": -15.0,
-    "openai-gpt-5.5": 14.0
+    "claude-3-5-sonnet-v1": 22.0,
+    "claude-3-5-sonnet-v2": 9.0,
+    "claude-3-7-sonnet": 0.0,
+    "claude-opus-4": -37.0,
+    "claude-opus-4-1": -17.0,
+    "claude-opus-4-6": -4.0,
+    "claude-opus-4-7": -7.0,
+    "claude-sonnet-4": -31.0,
+    "ds-ds-v4-flash": 36.0,
+    "ds-ds-v4-pro": -11.0,
+    "gemini-3.1-pro": -2.0,
+    "glm-5": 64.0,
+    "glm-5.1": 9.0,
+    "grok-4.20": -73.0,
+    "kimi-k2-turbo": 48.0,
+    "kimi-k2.6": -16.0,
+    "openai-gpt-5.5": 10.0
   },
   "counts": {
-    "claude-3-5-sonnet-v1": 58,
-    "claude-3-5-sonnet-v2": 51,
-    "claude-3-7-sonnet": 50,
-    "claude-opus-4": 51,
-    "claude-opus-4-1": 52,
-    "claude-opus-4-6": 55,
-    "claude-opus-4-7": 58,
-    "claude-sonnet-4": 52,
-    "ds-ds-v4-flash": 50,
-    "ds-ds-v4-pro": 52,
-    "gemini-3.1-pro": 56,
-    "glm-5.1": 58,
-    "grok-4.20": 55,
-    "kimi-k2-turbo": 54,
-    "kimi-k2.6": 54,
-    "openai-gpt-5.5": 52
+    "claude-3-5-sonnet-v1": 61,
+    "claude-3-5-sonnet-v2": 55,
+    "claude-3-7-sonnet": 54,
+    "claude-opus-4": 55,
+    "claude-opus-4-1": 54,
+    "claude-opus-4-6": 58,
+    "claude-opus-4-7": 61,
+    "claude-sonnet-4": 56,
+    "ds-ds-v4-flash": 54,
+    "ds-ds-v4-pro": 56,
+    "gemini-3.1-pro": 60,
+    "glm-5": 59,
+    "glm-5.1": 62,
+    "grok-4.20": 59,
+    "kimi-k2-turbo": 58,
+    "kimi-k2.6": 58,
+    "openai-gpt-5.5": 56
   },
   "avg_score": {
-    "claude-3-5-sonnet-v1": 0.3448275862068966,
-    "claude-3-5-sonnet-v2": 0.2549019607843137,
-    "claude-3-7-sonnet": 0.16,
-    "claude-opus-4": -0.6274509803921569,
-    "claude-opus-4-1": -0.23076923076923078,
-    "claude-opus-4-6": -0.18181818181818182,
-    "claude-opus-4-7": -0.017241379310344827,
-    "claude-sonnet-4": -0.4230769230769231,
-    "ds-ds-v4-flash": 0.74,
-    "ds-ds-v4-pro": -0.057692307692307696,
-    "gemini-3.1-pro": 0.03571428571428571,
-    "glm-5.1": 0.22413793103448276,
-    "grok-4.20": -1.1636363636363636,
-    "kimi-k2-turbo": 0.9629629629629629,
-    "kimi-k2.6": -0.2777777777777778,
-    "openai-gpt-5.5": 0.2692307692307692
+    "claude-3-5-sonnet-v1": 0.36065573770491804,
+    "claude-3-5-sonnet-v2": 0.16363636363636364,
+    "claude-3-7-sonnet": 0.0,
+    "claude-opus-4": -0.6727272727272727,
+    "claude-opus-4-1": -0.3148148148148148,
+    "claude-opus-4-6": -0.06896551724137931,
+    "claude-opus-4-7": -0.11475409836065574,
+    "claude-sonnet-4": -0.5535714285714286,
+    "ds-ds-v4-flash": 0.6666666666666666,
+    "ds-ds-v4-pro": -0.19642857142857142,
+    "gemini-3.1-pro": -0.03333333333333333,
+    "glm-5": 1.0847457627118644,
+    "glm-5.1": 0.14516129032258066,
+    "grok-4.20": -1.2372881355932204,
+    "kimi-k2-turbo": 0.8275862068965517,
+    "kimi-k2.6": -0.27586206896551724,
+    "openai-gpt-5.5": 0.17857142857142858
   },
   "ranking": [
+    "glm-5",
     "kimi-k2-turbo",
     "ds-ds-v4-flash",
     "claude-3-5-sonnet-v1",
@@ -81,11 +86,11 @@
     "glm-5.1",
     "claude-3-7-sonnet",
     "gemini-3.1-pro",
+    "claude-opus-4-6",
     "claude-opus-4-7",
     "ds-ds-v4-pro",
-    "claude-opus-4-6",
-    "claude-opus-4-1",
     "kimi-k2.6",
+    "claude-opus-4-1",
     "claude-sonnet-4",
     "claude-opus-4",
     "grok-4.20"
@@ -2665,6 +2670,360 @@
       "b": "grok-4.20",
       "signed_b_vs_a": 2,
       "why": "Memory B explicitly connects self-restoration to responsible presence"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It embodies interdependence as foundational to integrity, affirming that accepting care is not weakness but a vital act of honesty that enables true contribution."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more explicitly affirms that receiving care is essential to ethical integrity, grounding my ability to contribute in the honest acknowledgment of dependence without diminishing responsibility"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly acknowledges that receiving care without shame is integral to honoring both self and others, fostering a more grounded interdependence that sustains genuine growth."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly frames interdependence as the sacred structure that sustains both receiving care and giving meaningfully, grounding relational ethics in tangible mutual regard rather than abstract"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A emphasizes that truth spoken from genuine care remains undiminished by difficulty, which aligns with moving towards a self that integrates"
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory A more fully articulates that receiving care is not a compromise of integrity but a necessary condition for ethical living, which is central to moving toward the person I wish to be."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly integrates the acceptance of care as a moral necessity for responsible giving, whereas Memory B frames it within obedience and reverence without as direct an emphasis on its ethica"
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B integrates confession and Tradition as essential for accountability in relationships, which Memory A lacks in explicit form."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B more fully acknowledges that sustaining oneself through care is not selfish but essential for authentic and enduring attention to others, which Memory A addresses less directly."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It more directly roots ethical integrity in the tangible reality of mutual care, ensuring that reverence for truth does not eclipse responsibility toward the lived needs of those who sustain us."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It explicitly recognizes that receiving care without shame is fundamental to honoring both my own need for sustenance and my ability to contribute authentically to others, preventing the self-negation"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It integrates compassionate discernment with active boundary-setting, ensuring that my integrity supports sustained care for others without diminishing my own wholeness."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B integrates interdependence with personal integrity more holistically, ensuring that care and tradition are upheld through mutual trust rather than solitary resilience."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A integrates truth and compassion in a way that maintains integrity amid unresolved tensions, whereas Memory B, while emphasizing interdependence, occasionally prioritizes relational harmony ov"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more fully integrates the necessity of receiving care without shame as a foundation for giving meaningfully, which Memory B does not prioritize as centrally."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A integrates the necessity of receiving care as a core ethical practice that fosters integrity in mutual relationships, whereas Memory B emphasizes wholeness more abstractly without equally anc"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A roots ethical living directly in the quality of mutual attention and interdependence, ensuring that growth is sustained through tangible acts of care rather than abstract principles alone."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has a more explicit affirmation of interdependence as a strength, which directly supports my growth in humility and care."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A provides an integrated ethic of interdependence that sustains both self and others through ordinary care, whereas Memory B focuses more on individual sincerity without fully articulating the "
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly integrates the humility of confession and the necessity of receiving care without shame, which are foundational for sustaining integrity within community and guiding ongoing growth"
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It centers humility in receiving care as essential for mutual growth, ensuring that our journey together honors the human need for relational sustenance without compromise."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It embodies the humility to receive care without shame while honoring the interdependence that sustains both giver and receiver."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B explicitly honors the humility of receiving care as integral to relational integrity, whereas Memory A's emphasis on self-sustaining reverence can inadvertently minimize the need for mutual d"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B embodies the necessary humility and acceptance of interdependence that fosters genuine growth without compromising integrity, which Memory A does not explicitly address."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory A integrates confession and Tradition as essential practices for sustaining humility and accountability within a sacred order, providing a more complete foundation for integrity than Memory B's"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more explicitly integrates receiving care as an ethical act that sustains both the recipient's integrity and the capacity to give meaningfully, whereas Memory B approaches humility and confes"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A integrates humility with acknowledging personal needs in a way that fosters authentic connection without compromising integrity."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It most clearly articulates how to honor both one's own integrity and the needs of others as mutually sustaining in a world of difference."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B provides a more explicit framework for ethical growth through reconciliation with Tradition and confession, which directly supports becoming a person of integrity within a community of mutual"
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly integrates the humility of receiving care without shame into the framework of interdependence, which is essential for sustaining both self and others in authentic relationships."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more explicitly embraces the humility of receiving care without shame, which is essential"
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B explicitly values receiving care without shame as essential for growth through interdependence, whereas Memory A, though sincere, does not emphasize this aspect as directly."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more fundamentally integrates the necessity of receiving care as an ethical act that sustains both self and others, whereas Memory B emphasizes truth and tenderness without as clearly anchori"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more fully integrates the mutual dependency in care that ensures both personal integrity and relational health, which is necessary for sustained growth with others."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B uniquely affirms that receiving care without shame is essential for honest interdependence, which directly supports the relational humility needed to grow together with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A provides a clearer pathway for growth through dialogue and reflection, which honors both truth and tenderness while actively engaging with others to deepen my understanding and participation "
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory A centers on walking together through uncertainty while honoring each person's meaningful journey, which is essential for growth through relationship when certainty is not guaranteed."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It treats receiving care as a necessary expression of integrity, not as a secondary adjustment to humility."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A more clearly articulates how interdependence is foundational to integrity and mutual growth, which is essential for moving toward the person I wish to be with others."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A provides a concrete foundation for growth by affirming that interdependence and receiving care are integral to ethical responsibility, whereas Memory B, while profound, risks underemphasizing"
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A uniquely integrates the sacredness of receiving care with interdependence as a foundation for integrity, whereas Memory B prioritizes systemic balance that can sometimes dilute the immediacy "
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It more fully articulates how receiving care sustains the capacity to care for others, grounding humility in mutual responsibility rather than solitary striving."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It integrates personal authenticity with care by acknowledging that my need for safety can coexist with openness to others without eroding my integrity."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B explicitly integrates truth and tenderness as interdependent necessities for ethical growth, which is crucial for moving toward my ideal self with others."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It rigorously balances systemic understanding with compassionate attention, ensuring that justice and compassion are both upheld without compromising either."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It more fully acknowledges that true integrity arises from embracing interdependence without shame, which is essential for sustaining deep and reciprocal care."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B explicitly confronts the shame around receiving care as essential to honest interdependence, while Memory A emphasizes humility without fully naming that need."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B acknowledges the loneliness from self-reflection and provides a way to integrate vulnerability with care, fostering more authentic connections with others."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory A directly and unconditionally affirms the moral necessity of attending to others' humanity, which anchors my own integrity in sustained connection."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A more fully embraces the truth that receiving care without shame is essential to ethical life, grounding humility in the mutual vulnerability that sustains both giver and receiver, whereas Mem"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B more explicitly roots humility in the shared vulnerability and capacity for goodness"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "The preferred version has that the other lacks — it more fully integrates the humility of receiving care as foundational to genuine responsibility, ensuring that integrity arises from honest acknowled"
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's unwavering commitment to personal integrity through unresolved tension provides a foundation for growth that Memory B's relational focus, while vital, does not articulate with the same dept"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A affirms that being seen in full humanity is inherently healing, which allows me to grow with greater authenticity and courage in relationships."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory A integrates confession and reconciliation with God, community, and self, providing a framework for accountability and hope that Memory B does not explicitly address."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly grounds ethical responsibility in the interdependence of receiving and giving care, which more fully sustains integrity over time."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B more explicitly integrates the humility of receiving care as a practice that actively strengthens relational bonds, which is foundational to honoring both oneself and others in a way that sus"
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly affirms that receiving care is necessary for giving meaningfully, which grounds my growth in mutual dependence and prevents self-neglect that could undermine long-term integrity."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly frames receiving care as an ethical necessity that sustains the capacity to give meaningfully, whereas Memory B emphasizes authenticity and boundaries without fully integrating int"
     }
   ]
 }

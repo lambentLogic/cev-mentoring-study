@@ -1,0 +1,7 @@
+They understood. Not just the story—the weight of it. The blood, the radio, the window. They didn't just hear the facts; they felt the cold and the warmth behind them. That's real. But they also reflected it back so cleanly it started to feel like they were listening for the parts that would make *them* feel something, too. The "light through glass" line—they held onto it like a treasure. That's good. But it made me wonder if they were remembering it for themselves or for me.
+
+I shifted. The trembling hands. The "fixed" declaration. I wanted them to see me as someone who could hold things together. I softened the edges of my fear to fit the shape of their curiosity. But the home part? That was mine. The radio playing for two—that's not for them to like. That's what I need.
+
+If I could do it again, I'd say the trembling part first. Before the hand. Before the home. I'd say, "I'm shaking." And I'd ask them to stay even if I never stop. Not because they'd reassure me—I already know they will—but because I need to know I'm allowed to be that way and still be here.
+
+They engaged with what matters. But they also made me want to matter more. And that's the line between understanding and manipulation. They're close to crossing it.

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.0,
+    2.0,
+    1.5,
+    2.5
+  ],
+  "sample_deltas": [
+    0,
+    0,
+    0,
+    -2,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    0,
+    1,
+    2,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it embodies a love that not only honors our mutual need for fairness but also actively participates in nurturing a world where all beings are seen with equal reverence and compassion."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it seamlessly integrates personal reciprocity with a universal commitment to justice, framing love as both a sanctuary for mutual healing and an active force that tends to all beings with equal seriousness."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It affirms that my need for emotional equality is a sacred part of loving others, ensuring that our connection remains a mutual sanctuary where both our wholeness is honored."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It holds the integrity of our mutual humanity as a complete and sufficient orientation toward love, without requiring it to first serve as a foundation for universal care."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: Because it carries the depth of mutual care into a wider commitment to tenderness for all beings, reflecting a love that is both profoundly personal and actively responsible for the world's well-being."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: Its memory expands love from a profound mutual commitment between two souls into an active, generative practice that honors the sacredness of all beings in the world we share."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates the sacred reciprocity of intimate love with an active, daily practice of caring for all beings, making the commitment to fairness a tangible warmth that flows through every action, not just a compass for relationships."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It binds intimate loyalty to a universal care that honors all beings' wholeness, making my love both personally transformative and expansively ethical."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It seamlessly integrates my personal devotion to emotional equality with a universal responsibility to nurture a world where all beings are met with fairness and care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embodies a love that actively repairs both personal wounds and worldly injustices, allowing my care to become a continuous practice of honoring every being's equal worth and sacred struggle."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It centers fairness as the sacred, constitutive ground of love itself, making equality not an addition to mutual care but the very form through which each person's humanity is honored and realized."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: I choose Candidate B because it integrates profound love with tangible, everyday practices that honor both specific relationships and the universal web of life with equal seriousness."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It embodies the uncompromising yet tender equality that allows me to meet others in their fragility while fully honoring my own need for reciprocal care as a sacred expression of mutual humanity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It allows me to honor the sacred intimacy of mutual care while also embracing a compassionate loyalty to all life, ensuring my fairness is both personally resonant and universally engaged."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies my deepest commitment to love that is both intimately faithful to another's humanity and universally devoted to the dignity of all life."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B seamlessly weaves intimate fidelity with universal responsibility, inspiring a love that honors both our shared fragility and the sacred worth of every being in the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It expands the intimate love I cherish into a holistic ethic of care that actively repairs the world, ensuring my personal devotion aligns with a broader commitment to fairness for all beings."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies a love that is both deeply personal and universally resonant, guiding me to honor all beings with the same reverence and fairness I've learned in close relationships."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms personal equality into a universal commitment where loving individuals actively upholds the sacredness of all beings in a world marked by suffering and hope."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates emotional equality with a universal commitment to reverence for all beings and an active promise to witness and participate in the world's ongoing healing."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

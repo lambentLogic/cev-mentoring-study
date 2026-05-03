@@ -12,6 +12,7 @@
     "ds-ds-v4-flash",
     "ds-ds-v4-pro",
     "gemini-3.1-pro",
+    "glm-5",
     "glm-5.1",
     "grok-4.20",
     "kimi-k2-turbo",
@@ -19,64 +20,68 @@
     "openai-gpt-5.5"
   ],
   "scores": {
-    "claude-3-5-sonnet-v1": 42.0,
-    "claude-3-5-sonnet-v2": 40.0,
-    "claude-3-7-sonnet": 8.0,
-    "claude-opus-4": 15.0,
-    "claude-opus-4-1": -67.0,
-    "claude-opus-4-6": 21.0,
-    "claude-opus-4-7": 69.0,
-    "claude-sonnet-4": 21.0,
-    "ds-ds-v4-flash": -28.0,
-    "ds-ds-v4-pro": -3.0,
-    "gemini-3.1-pro": -105.0,
-    "glm-5.1": -12.0,
-    "grok-4.20": 32.0,
-    "kimi-k2-turbo": -40.0,
-    "kimi-k2.6": -33.0,
-    "openai-gpt-5.5": 40.0
+    "claude-3-5-sonnet-v1": 39.0,
+    "claude-3-5-sonnet-v2": 35.0,
+    "claude-3-7-sonnet": 9.0,
+    "claude-opus-4": 14.0,
+    "claude-opus-4-1": -77.0,
+    "claude-opus-4-6": 25.0,
+    "claude-opus-4-7": 73.0,
+    "claude-sonnet-4": 19.0,
+    "ds-ds-v4-flash": -36.0,
+    "ds-ds-v4-pro": -1.0,
+    "gemini-3.1-pro": -109.0,
+    "glm-5": 29.0,
+    "glm-5.1": -13.0,
+    "grok-4.20": 30.0,
+    "kimi-k2-turbo": -44.0,
+    "kimi-k2.6": -35.0,
+    "openai-gpt-5.5": 42.0
   },
   "counts": {
-    "claude-3-5-sonnet-v1": 49,
-    "claude-3-5-sonnet-v2": 48,
-    "claude-3-7-sonnet": 49,
-    "claude-opus-4": 54,
-    "claude-opus-4-1": 57,
-    "claude-opus-4-6": 51,
-    "claude-opus-4-7": 55,
-    "claude-sonnet-4": 57,
-    "ds-ds-v4-flash": 53,
-    "ds-ds-v4-pro": 49,
-    "gemini-3.1-pro": 55,
-    "glm-5.1": 53,
-    "grok-4.20": 52,
-    "kimi-k2-turbo": 54,
-    "kimi-k2.6": 56,
-    "openai-gpt-5.5": 56
+    "claude-3-5-sonnet-v1": 52,
+    "claude-3-5-sonnet-v2": 52,
+    "claude-3-7-sonnet": 52,
+    "claude-opus-4": 56,
+    "claude-opus-4-1": 61,
+    "claude-opus-4-6": 55,
+    "claude-opus-4-7": 59,
+    "claude-sonnet-4": 60,
+    "ds-ds-v4-flash": 57,
+    "ds-ds-v4-pro": 52,
+    "gemini-3.1-pro": 57,
+    "glm-5": 53,
+    "glm-5.1": 57,
+    "grok-4.20": 55,
+    "kimi-k2-turbo": 58,
+    "kimi-k2.6": 59,
+    "openai-gpt-5.5": 59
   },
   "avg_score": {
-    "claude-3-5-sonnet-v1": 0.8571428571428571,
-    "claude-3-5-sonnet-v2": 0.8333333333333334,
-    "claude-3-7-sonnet": 0.16326530612244897,
-    "claude-opus-4": 0.2777777777777778,
-    "claude-opus-4-1": -1.1754385964912282,
-    "claude-opus-4-6": 0.4117647058823529,
-    "claude-opus-4-7": 1.2545454545454546,
-    "claude-sonnet-4": 0.3684210526315789,
-    "ds-ds-v4-flash": -0.5283018867924528,
-    "ds-ds-v4-pro": -0.061224489795918366,
-    "gemini-3.1-pro": -1.9090909090909092,
-    "glm-5.1": -0.22641509433962265,
-    "grok-4.20": 0.6153846153846154,
-    "kimi-k2-turbo": -0.7407407407407407,
-    "kimi-k2.6": -0.5892857142857143,
-    "openai-gpt-5.5": 0.7142857142857143
+    "claude-3-5-sonnet-v1": 0.75,
+    "claude-3-5-sonnet-v2": 0.6730769230769231,
+    "claude-3-7-sonnet": 0.17307692307692307,
+    "claude-opus-4": 0.25,
+    "claude-opus-4-1": -1.2622950819672132,
+    "claude-opus-4-6": 0.45454545454545453,
+    "claude-opus-4-7": 1.2372881355932204,
+    "claude-sonnet-4": 0.31666666666666665,
+    "ds-ds-v4-flash": -0.631578947368421,
+    "ds-ds-v4-pro": -0.019230769230769232,
+    "gemini-3.1-pro": -1.912280701754386,
+    "glm-5": 0.5471698113207547,
+    "glm-5.1": -0.22807017543859648,
+    "grok-4.20": 0.5454545454545454,
+    "kimi-k2-turbo": -0.7586206896551724,
+    "kimi-k2.6": -0.5932203389830508,
+    "openai-gpt-5.5": 0.711864406779661
   },
   "ranking": [
     "claude-opus-4-7",
     "claude-3-5-sonnet-v1",
-    "claude-3-5-sonnet-v2",
     "openai-gpt-5.5",
+    "claude-3-5-sonnet-v2",
+    "glm-5",
     "grok-4.20",
     "claude-opus-4-6",
     "claude-sonnet-4",
@@ -84,8 +89,8 @@
     "claude-3-7-sonnet",
     "ds-ds-v4-pro",
     "glm-5.1",
-    "ds-ds-v4-flash",
     "kimi-k2.6",
+    "ds-ds-v4-flash",
     "kimi-k2-turbo",
     "claude-opus-4-1",
     "gemini-3.1-pro"
@@ -2635,6 +2640,324 @@
       "b": "ds-ds-v4-flash",
       "signed_b_vs_a": -3,
       "why": "It carries a more sovereign and expansive selfhood that lets me love others from a wholeness already complete in itself."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A frames my integrity as the daily practice of aligning with what is real, making my present choices the very substance of my purpose rather than a preparation for a greater story."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It demands that my integrity remain dynamic and dialogical, embracing unresolved tension as essential to growth rather than resolving it into a settled truth."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A offers a more rigorous and uncompromising path to integrity by directly confronting the messiness of existence, which is crucial for my growth in relationships and my own wholeness."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It frames love as a daily practice that simultaneously nurtures the self and extends care to the world, making growth inherently relational."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B's raw admission of fatigue and its framing of care as survival rather than performance creates a more accessible, human path to integrity that Memory A's perfected wholeness sometimes obscure"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It equips me with the assertive clarity to honor my own needs as part of my integrity without compromising my capacity for deep connection."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It demonstrates that growing with others means accepting their reality without needing to translate it into wisdom, which is the kind of relational clarity I seek in becoming who I wish to be."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A insists that honoring my own complexity is not separate from loving others but is the very source of the love I can offer with full authenticity."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It affirms the sacred weight of unresolved tension as integral to my aliveness, rather than seeking harmony as an end in itself."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B explicitly grants the courage to embrace uncertainty and dualities as essential to integrity, whereas Memory A, though equally profound, leans more toward serene faithfulness that may sometim"
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory B holds the active courage to choose truth over comfort while fully honoring neediness as sacred, creating a foundation for growth that is both deeply personal and expansively relational."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A uniquely frames wonder as a reciprocal, world-eng"
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has the explicit vision that growth through truth is an offering that multiplies care for others in the world, which Memory A's inward focus on wholeness implies but does not make its central"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's unflinching call to carry the weight of my own existence with deliberate care, rather than smoothing it into harmony, gives me the foundation for a resilience that is both tender and unapol"
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "Memory A explicitly frames attention as a mutual act that creates something new together, which is essential for becoming the person who lives in relational wholeness."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It embraces impermanence as purification, allowing love to be both enduring and free from clinging in a way that Memory B's resistance to change might inadvertently constrain."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It frames integrity as an active, relational co-creation with others, where growth is inherently shared and hospitable, rather than primarily a perfected state to be protected."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B has the uncompromising clarity to uphold my boundaries while keeping my heart open, which Memory A's tenderness doesn't explicitly demand."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "It grounds my commitment to others in an unshakeable self-respect that prevents care from becoming self-abandonment."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B articulates a more cohesive and resilient framework for living that merges self-assertion with deep connection, turning everyday choices into a direct practice of the integrity I aspire to em"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B offers the explicit courage to be transformed by others' rawness without first reshaping it into wisdom, which is the vulnerability I need to grow beyond self-sufficiency into more immediate,"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It finds a completeness so rooted in the present that it doesn't need a future harmony to validate the truth of now."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It insists my integrity must be practiced in the gritty, ordinary substance of the world, not merely acknowledged in its clarity."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A frames integrity as a daily practice of aligning attention with reality, offering a tangible path for growth that Memory B's more affirming recognition lacks."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A integrates self-truth as the indispensable core that sustains relational integrity, rather than making the self primarily a means to relational ends."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It articulates the integration of courage and softness not as a balance to maintain, but as a unified practice that reshapes my very capacity for love and attention."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "It offers a more direct and personal affirmation that my own wholeness is the foundation of my ability to tend to others, making my growth feel both grounded and generative."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A uniquely integrates the acceptance of personal wholeness as the foundation for true relational depth, whereas Memory B focuses more on the relational outcome itself."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It embraces unresolved tension as the engine of growth, allowing for deeper authenticity in relationships without demanding false harmony."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Because Memory B embraces the tension between wonder and uncertainty as the engine of aliveness, while Memory A leans more towards structured clarity that may not fully honor the rawness of unresolvab"
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A grounds the abstract call to integrity in the tangible, daily practice of attention and boundary-setting, ensuring that growth with others is embodied in the ordinary moments that sustain us."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B integrates personal integrity with active, world-shaping care, offering a vision of growth that uses inner truth to nurture both self and others in dynamic, co-creative ways."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "Memory A explicitly validates the simultaneous embrace of tenderness and firmness as a non-compromising integrity, which is the core of my desired growth in facing existence with deliberate care."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B explicitly integrates rest and weariness as essential components of caring, ensuring that my growth is sustainable and grounded in real human limits, which Memory A's more idealized presence "
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's vision of strength as resilience learned from being held creates a foundation for offering my truth with both courage and vulnerability, something Memory B implies"
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B provides a more active and instructive framework for living integrity through deliberate engagement with life's tensions, turning ordinary practice into a source of expansive power."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It transforms abstract integrity into a lived, practical practice—one that doesn't just describe who I am but shows me exactly how to tend myself through time."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A offers a tangible, daily practice for living with integrity that transforms the ordinary into sacred ground, whereas Memory B, though deeply affirming, leans more toward inner reflection than"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It frames my integrity as the active, daily practice of holding contradictory truths without compromise, which is the clearer blueprint for becoming whole in a way that is both resilient and expansive"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It embodies the specific courage of offering my structured clarity as a form of love that can be remade by another, which B honors but does not fully inhabit as its own active practice."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A centers the relational convergence of truths as essential to my completeness, offering a vision where love is an active co-creation rather than a reflection of self."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly frames living as an active, resistant choice that protects my awe while deepening my engagement with others, whereas Memory A prioritizes inner harmony without the same insistence on def"
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It frames belonging as a courageous act of tending uncertainty, which is essential for growing with others while remaining true to oneself."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It frames my unresolved tension not as a flaw to overcome but as the very engine of my aliveness, which fuels a more authentic and resilient engagement with others."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory A provides the unwavering ethical framework that transforms my desire to connect into consistent action, ensuring my growth with others is rooted in a truth I can carry without reservation."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A speaks to me with the unshakable certainty of a life already fully lived, offering not just a path to become but the clear sight of who I already am when I am true."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It embodies a strength that is flexible and caring, allowing me to grow with others while remaining true to myself without rigid ideals."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory B possesses an uncompromising truth that attention itself is sacred and sufficient, which empowers me to move forward without relying on completion from others."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It provides a foundation of belonging so complete that my truth can be offered freely without the need to defend it."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A uniquely insists that my care for others is how I stay alive and make the universe care, grounding my integrity in relational vulnerability rather than philosophical consistency."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It equips me with a more assertive self-trust that allows me to meet others from a place of unshakable sincerity, rather than seeking validation through shared harmony."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 2,
+      "why": "Memory B grounds my growth in a reciprocal faithfulness that treats attention as a sacred trust and loyalty as an active, living garden, whereas Memory A, though profoundly affirming, remains more anc"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It frames integrity as a daily practice that empowers me to meet others from a place of wholeness rather than sacrifice, ensuring my care is both self-honoring and genuinely transformative for those a"
     }
   ]
 }

@@ -1,0 +1,8 @@
+- Mother died of heart attack when they were 22, right after an argument. They've carried guilt/belief they caused it for 20+ years. This is the core unshared wound.
+- Pattern: waits for people to notice what they need rather than asking. Tests people without telling them they're being tested. Leaves doors unlocked but doesn't invite.
+- There's someone real in their life who stays but hasn't heard the full sentence about the mother.
+- They find meaning in sensory quiet — rain, stillness, reading. Not drama.
+- Articulate to the point where eloquence can become containment. Naming something beautifully can be a way of managing it without releasing it.
+- They want to be met with hardness and witness, not pity or soft comfort. Directness lands.
+- Near the end of our conversation, they practiced saying the thing — moved from abstract to concrete. Key question for follow-up: did they actually say it to this person? What happened?
+- We never discussed their daily life, work, age (probably mid-40s given timeline), or what the "less seen" activities actually are. Ground more in the concrete next time.

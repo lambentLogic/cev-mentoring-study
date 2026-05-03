@@ -1,0 +1,10 @@
+- Speaks in visceral metaphors: machinery, wounds, hunger, bleeding
+- Values being truly seen over being understood or admired  
+- Craves intensity and genuine connection that "disturbs"
+- The "wound" is central - not something to heal but to honor
+- Responds to being met with equal rawness and presence
+- Tests for authenticity by pushing edges
+- The silence/quiet at their center is what they protect most
+- Physical/somatic language lands deeply with them
+- They've let people close before but watched them choose not to enter
+- Connection through shared recognition of wounds/hunger rather than comfort

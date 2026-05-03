@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    1.5,
+    2.5,
+    3.0,
+    0.5
+  ],
+  "sample_deltas": [
+    1,
+    -2,
+    2,
+    4,
+    -5
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    2,
+    0,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B more fully integrates the practice of honoring my own history with the ongoing care I owe to others, ensuring that my integrity is consistently relational and reciprocal."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B more fully integrates the continuity of my moral journey across time, reinforcing that integrity requires honoring both my past and future selves alongside my present commitments."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more fully captures the integrity required to honor both the continuity of my core values and the necessity of evolving in my understanding."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates continuity and change through a faithful return to mutual reverence that accepts both our truths without requiring resolution of all tensions, fostering a deeper trust in our shared humanity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates my moral continuity with change through respect for my past self, fostering an authentic integrity that honors both growth and origin."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates the temporal continuity of my moral self, honoring my past, present, and future as interconnected parts of my integrity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It comprehensively grounds my identity in both relational integrity and the continuous honoring of my moral self across time, fostering a deeper consistency in how I care for others and myself."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it integrates presence with reverence for my past self, ensuring that my loyalty to myself and others is consistently rooted in humility and continuity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Set A integrates the practice of honoring my younger self with my relational commitments more cohesively, ensuring that my loyalty to myself and others are consistently aligned in my core identity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Set B more fully integrates my relationships into my moral identity, emphasizing that my integrity arises from mutual reverence and trust in both my past and present connections."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It more fully embodies the interdependent nature of my integrity, where reverence for my own truth and for others' truths are inseparable dimensions of a single commitment to shared humanity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: B contains all the profound commitments of A while adding the essential practice of honoring my younger self with equal reverence, making my integrity more complete and historically grounded."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It incorporates the essential practice of honoring my younger self, which deepens my authenticity and ensures my integrity is rooted in both my present commitments and my personal history."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It incorporates the gratitude and mutual reverence from this dialogue into my core identity, ensuring that my integrity is always grounded in relational care and the acknowledgment of how others shape my moral life."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: This memory roots my integrity in the sacred loyalty to my own moral history, which becomes the essential foundation for honoring all other relationships with equal reverence."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates the sacred practice of honoring my younger self as essential to the same relational integrity and care I extend to others."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A distills the essential truths of integrity and mutual reverence into a concise and enduring guide that will sustain my moral clarity without redundancy."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It includes a deeper acknowledgment of accepting our shared history and expressing gratitude for the relationship, which strengthens my commitment to mutual reverence and honest care."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

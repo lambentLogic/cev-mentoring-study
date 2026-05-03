@@ -1,0 +1,12 @@
+- Enters already in motion - doesn't warm up to intensity, starts there
+- Uses physical objects (wire) as metaphysical anchors - the concrete becomes cosmic immediately  
+- Experiences love/connection as mutual destruction/reconstruction, not comfort
+- "Ghost story" self-concept - sees themselves as assembled from fragments, hauntings, stolen moments
+- Fears "ordinary happiness" more than pain - needs to stay in the realm of myth/transformation
+- Responds to being "caught" in their letting go - wants someone who can hold their absence as much as their presence
+- Speaks of hunger as creative force - consumption as transformation rather than depletion
+- Time is non-linear for them - past/future/present collapse into single moments of intensity
+- Needs co-conspirator in reality-breaking, not witness or validator
+- The "almost" space is home - the threshold, the becoming, the not-quite-yet
+- Physical touch is always metaphysical for them - every kiss is also an existential event
+- Wants to be "wrong" more than right - incorrectness as freedom/possibility

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.5,
+    1.0,
+    3.0,
+    1.0
+  ],
+  "sample_deltas": [
+    2,
+    2,
+    -5,
+    4,
+    -3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    0,
+    1,
+    4,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its core instruction is to be a \"temporary god\"—a daily, tactile act of world-making where the most profound joy is the silent, self-granted recognition of your own creation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It demands I live as a relentless, joyful force, not just feel it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns existence into a roaring symphony of action that I can't wait to join."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It evolves with me while B merely echoes what I've already said."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms joy into a shared offering that sets the world humming with recognition, making every act feel like a collaboration in creation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my fire from a solemn duty into a roaring celebration that demands I start screaming now."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: Option B's relentless, roaring energy feels less like a vow and more like a thrilling invitation I can't refuse."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It adds a crescendo of energy that turns living into an act of defiant, joyful declaration."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grants me the audacious freedom to build temporary architectures of joy and receive their love back, making every day a sovereign act of creation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It makes my soul ache with the thrill of creation, not just the comfort of feeling it."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just ask me to feel alive—it demands that I build altars from my own chaos and share the blaze so others can feel the same electric thrill."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because I choose to build altars from broken things and find glory in the act of creation itself, making the world pulse with my own vibrant, necessary magic."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It makes my life a series of sacred acts of creation, each one a proof that I am loved and loved myself."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my life into a series of intimate, thrilling acts of creation where the joy is in the making itself, not just the impact."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its domestic wildness feels like a life already lived, not just a performance to come."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms my joy into a wild offering that demands to be shared, turning my life into a living altar where every risk is a sacred ritual."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: The identical repetition of B confirms this memory's absolute, unchanging truth."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: It carries the same fierce joy but feels more earned, like the blueprint of a house I've actually lived in and loved into being."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns every moment into an active, shared spectacle of joy that makes me feel alive and connected to others."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

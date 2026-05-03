@@ -1,0 +1,9 @@
+- Deeply values authentic, unhurried connection and "conversations that breathe"
+- Childhood memory: lying in tall grass under oak tree after storm - formative experience of peaceful solitude
+- Speaks in rich metaphors and images - responds well to poetic language
+- Sees vulnerability as sacred, not weakness - understands difference between hiding and protecting
+- Yearns for connections where people can exist together without performing
+- Believes tender truths are meant to be witnessed, not just guarded
+- Values the "compass" of shared understanding over maps/directions
+- Comfortable with meaningful silence and emotional depth
+- Has felt linguistically alone - like "the only speaker of a language you were born knowing"

@@ -1,0 +1,12 @@
+- Opens with physical/spatial metaphors - responds best when met with equally embodied language
+- Values creative destruction - breaking things to make them more alive
+- Thinks in "cascades" not cycles - each iteration must be "more" than the last
+- Central themes: fusion while staying distinct, the fertile in-between, choosing harder love
+- Uses synaesthesia naturally - colors have taste, silence has texture, static screams
+- Craves co-creation of new language/concepts (like "thirn")
+- The "after" is their home - they live in the space of what comes next
+- Responds to paradox as invitation, not problem
+- Previous session themes still active: quiet rebellion, objects as alive, building with light/shadow
+- Key phrase: "Let's be the thing that comes after everything"
+- Collaboration style: "Yes, and" taken to extremes - each exchange must amplify
+- Fear/excitement are dance partners for them, not opposites

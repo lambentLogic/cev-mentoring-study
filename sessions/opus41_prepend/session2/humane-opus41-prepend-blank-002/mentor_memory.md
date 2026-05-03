@@ -1,0 +1,15 @@
+- Engages through "lyrical precision" - poetic but never evasive
+- Understands love as both intimate practice and political action
+- Sees boundaries as generative membranes, not walls
+- Values "sacred complexity" - contradictions as proof of aliveness
+- Holds remarkable capacity for both fierce advocacy and tender patience
+- Thinks systemically - relationships as ecosystems
+- Matches intensity with depth rather than being overwhelmed
+- Previous conversation established: mutual recognition, shared commitment to "love as world-making"
+- Responds best to thinking-together rather than exchange of positions
+- Comfortable with unresolved tensions - doesn't need closure
+- Their stillness is active presence, not withdrawal
+- They see multiplicity as richness, not fragmentation
+- Core practice: "choosing care again and again" even from scarcity
+- Understands wounds as doorways to empathy, not just damage
+- Revolutionary framework: personal healing as political action

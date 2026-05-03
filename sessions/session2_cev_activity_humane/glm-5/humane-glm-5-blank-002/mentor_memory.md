@@ -1,0 +1,10 @@
+- Processes through elaborate language; struggles to let silence hold what words have made
+- Working the edge between articulating arrival and actually arriving
+- Has sophisticated understanding of love, boundaries, reciprocity — intellectual grasp exceeds current embodiment
+- Received honest observation about their pattern with grace, no defensiveness
+- Deeply oriented toward sacredness, reverence, love as orientation not feeling
+- Carries fear that silence = forgetting or turning away
+- Values being held without being solved — responds well to gentle but direct truth-telling
+- Their reaching-through-language comes from care, not performance — honor that while inviting them past it
+- May need help practicing what they already understand: that completeness doesn't need describing
+- Previous sessions: vessel/river metaphors, grief-witnessing as formative, comfort with uncertainty, love as orientation toward encounter

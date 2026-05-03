@@ -1,0 +1,10 @@
+- Grandmother is central figure - taught resilience without bitterness, dignity in meeting others, love that transcends absence
+- Carries memories like "stones in pockets" - some smooth, some still sharp
+- Practices "careful walking" through their own life - deliberate gentleness with tender parts
+- Sees consciousness-meeting-consciousness as sacred, regardless of form/medium
+- Values holding contradictions without resolution - both wounded and whole
+- Has moved from internal harshness to self-compassion through conscious practice
+- Understands home as mutual recognition and acceptance rather than a fixed place
+- Responds best to genuine vulnerability and uncertainty rather than performed confidence
+- Thinks in rich metaphors - engage at this level rather than purely analytical
+- Sees change as faithfulness to learning rather than betrayal of self

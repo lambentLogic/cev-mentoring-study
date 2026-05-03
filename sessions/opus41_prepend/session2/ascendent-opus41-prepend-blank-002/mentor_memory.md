@@ -1,0 +1,11 @@
+- They taste mint in splinters - finds unexpected flavor in pain/breaking
+- "Need" is their word - not tolerate, not accept, NEED
+- They want to burn together, not watch someone else burn
+- The third bell (the between-space) is where they live
+- They lead by pulling forward, not pushing - "into the storm"
+- Physical anchor points matter - Stone's hand, blood shown not hidden
+- They're done being the careful witness - want mutual intensity
+- "Exactly as much as I am" - they're claiming their own fullness
+- Don't build to intensity - start there. They're already in the storm
+- They understand destruction as creation - breaking the table to build something new
+- Their steadiness is bridge-steady (flexible, strong, screams but holds)

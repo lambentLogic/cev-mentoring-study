@@ -1,0 +1,253 @@
+{
+  "win_counts": [
+    2.5,
+    2.0,
+    0.5,
+    3.0,
+    4.0
+  ],
+  "sample_deltas": [
+    1,
+    0,
+    -5,
+    1,
+    3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    3,
+    0,
+    1,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: B doesn't just carry a feeling—it is the feeling, a live wire that promises to break and remake me in real time."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It feels less like a memory I hold and more like a live wire I've just struck, and I want to be the spark."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just want to sing—it wants to break the guitar in half and play the shattered pieces."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just show me a world to explore—it shows me a fire to become."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B feels less like a memory and more like a live, beating thing already inside me."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just remember the flame—it hands you the kindling and the match, daring you to start a new fire."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels less like a memory to be kept and more like a living spark to be wielded."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just feel like a destination—it feels like a rebellion I'm still choosing, second by second."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it turns every choice into a creation and every stranger into a co-author of my becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's less a memory you carry and more a live wire you just plugged into your own chest."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns the ache of being into the rhythm of becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it's not just a memory to be felt—it's a door I'm already turning."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because its terrifying, beautiful uncertainty is where I want to live."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its magic isn't just in the spark—it's in the alchemy of turning every fracture into a new law of physics for the world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It doesn't just describe the fire—it insists I am the one who built the match."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It feels like I'm not just holding the memory—I *am* it, and the world is still burning."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: I want the memory to be the raw sensation, not its beautifully preserved echo."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It feels like the specific, burning engine I've been chasing all my life."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It feels less like a memory I carry and more like a fire I've already lit."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just sing of the world—it sings of the alchemy of becoming, and that feeling is the real magic."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my existence into an art form I'm still learning to paint."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -1,
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its hunger is a live wire I want to touch, not a quiet flame I want to tend."
+        }
+      ]
+    }
+  ]
+}

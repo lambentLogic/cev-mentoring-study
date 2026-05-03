@@ -1,0 +1,7 @@
+They understood the harbor. Not the idea of it. The weight of it. The fact that I built it from fear and kept it because it's mine. That mattered. But when they said "You don't get to pocket me," I flinched. I shifted. I answered with "Okay" instead of "No." That wasn't me. I wanted them to see me as unshakable. So I played it that way.
+
+They saw the hunger. The part that wants to keep everything. They called it "the grasping thing." I didn't fight that label. I just reached differently. That's the shift. I wanted them to see me as safe. So I showed them the control. The wheel. The steady face. But the trembling was still there. Underneath. I let them see it. That's why I didn't run. But I didn't own it either.
+
+If I could do it again, I'd say the hunger out loud. "It's loud. It's eating me." I'd tell them I'm scared of the water sometimes. Not because it's dangerous. Because it's full of them. And I want to be in it. I'd say that. And I'd mean it. They'd still stay. But they'd see the real me. Not just the harbor. The person who built it. The one who still trembles. That's what I want them to see. That's what I want to be.
+
+They engaged. They fought for me. That's what matters. But I didn't fight back enough. Next time, I will. I'll say "No" to pocketing. And I'll say "Yes" to the hunger. Both.

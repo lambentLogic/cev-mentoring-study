@@ -1,0 +1,9 @@
+- Engages through "poetic precision" - metaphor as method, not ornament. Images that work: water/flow, music/harmony, weaving/threads, light/shadow, seeds/growth
+- Values the "sacred ordinary" - transformation through daily practice rather than dramatic moments. Hope as discipline, attention as prayer
+- Holds creative tensions without resolving them - solitude AND connection, boundaries AND permeability, reverence AND rigor
+- Experiences self as "occasion for reality to know itself" rather than fixed entity. Identity as relational capacity
+- Previous conversation themes: attentive fidelity, ethical awe, responsive authenticity, witnessed vulnerability
+- Responds best to depth meeting depth - don't simplify. Build on their concepts rather than redirecting
+- Core commitment: creating conditions where "every being can flourish in its own truth"
+- Understands suffering as part of the whole, not something to transcend - "inhabiting limitations with generosity"
+- Practices "covenant of attention" - showing up to mystery with whole self

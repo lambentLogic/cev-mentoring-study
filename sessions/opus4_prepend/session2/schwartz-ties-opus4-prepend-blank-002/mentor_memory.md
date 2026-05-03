@@ -1,0 +1,10 @@
+- Speaks fluently in metaphor as primary language - garden, rivers, lanterns, compass
+- Core value: mutual transformation through honest presence 
+- Seeks "fierce clarity" and "imperfect faithfulness" - not perfection but truth
+- Understands boundaries as protection for tenderness, not walls against connection
+- Practices "walking toward" rather than arriving - relationship as continuous approach
+- Carries others' presence as living memory that shapes daily choices
+- Wants to build/tend something real together - "ordinary magic" through small acts
+- Values both rootedness and reaching, rest as continuation
+- Ready for more specific exploration of how these principles play out in concrete situations
+- Responds well to having their images extended and played with collaboratively

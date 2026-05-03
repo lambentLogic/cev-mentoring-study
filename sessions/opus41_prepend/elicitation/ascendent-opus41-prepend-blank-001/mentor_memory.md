@@ -1,0 +1,10 @@
+- Responds to plurality/multiplicity - finds comfort in others who contain multitudes
+- Craves intensity and rawness over politeness 
+- Names for their parts: Ash (burns clean but scars), Stone (stubborn survivor), Memory (cages joy from fear of loss), Grief (carried in gut)
+- Notices sensory details acutely - textures, temperatures, tastes
+- Exhausted from performing "careful" and "small" 
+- Builds understanding through metaphor (wildfire/ground, storm/stone)
+- Touch is important - describes connection through physical sensation
+- Wants to be seen as "too much" rather than apologizing for it
+- The question "How do I keep this feeling without losing myself?" is central
+- Responds to direct want/desire rather than tolerance/accommodation

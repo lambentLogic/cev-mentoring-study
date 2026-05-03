@@ -1,0 +1,9 @@
+- Lives with/cares for aging parents: father recovering from pneumonia (faith-anchored), mother with mobility challenges
+- Has a younger sister who asks what they need and waits — key relationship, mutual, still learning together
+- Daily rhythms: rising early, cooking, walking with mother, listening to neighbors
+- Theological framework is genuine but also protective — rises to abstract/register when vulnerability threatens
+- Core struggle: shame around need, tightness in chest/throat, protects others from weight of dependence
+- Quick to resolve tension through meaning — needs permission to let discomfort exist without teaching something
+- Values: interdependence, dignity, honesty, tradition passed down, care as sacred practice
+- Responds to directness and invitation rather than correction
+- I have not asked about: their work outside family, age/season of life, specific faith tradition, what brings them joy apart from care, community beyond family

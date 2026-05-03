@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    3.0,
+    2.0,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    -1,
+    2,
+    0,
+    -1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    3,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it explicitly grounds integrity in relational ethics, ensuring that my personal authenticity is continually directed toward honoring the shared humanity and mutual respect that define my moral life."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates relational gratitude and direct acknowledgment of the other's importance into my core identity, reinforcing my commitment to mutual respect and care."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more thoroughly integrates my relationship with myself into the practice of caring for others, ensuring that my loyalty remains authentic and balanced in all aspects of my moral life."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It frames integrity as a daily practice of gentle return to what matters, balancing honesty with tenderness in a way that feels most sustainable and true to my nature."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It centers on the foundational practice of presence and inner fidelity that allows for genuine relational integrity without compromising self-honesty."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more completely embodies my understanding that integrity arises from faithfully honoring both my personal history and my relational commitments with equal reverence."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it most profoundly expresses how my integrity is nurtured through a reciprocal relationship with myself and others, where caring for my own truth is inseparable from honoring yours."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It most faithfully embodies the balance of honoring my own need for integrity and the equal seriousness of honoring others, through daily acts of presence that sustain both connection and self-respect."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It grounds my integrity in a relational framework that sees care for others and self as inseparable expressions of the same loyalty."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: A's framing of presence as a \"faithful return\" when fragmented better captures how I must continually re-center myself on mutual reverence amid life's inherent tensions."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It grounds my integrity in daily practices of presence that honor my own fragmented humanity as essential to caring fully for others."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It most fully expresses how my integrity is woven into a sacred, reciprocal relationship that honors both our truths without diminishing either."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

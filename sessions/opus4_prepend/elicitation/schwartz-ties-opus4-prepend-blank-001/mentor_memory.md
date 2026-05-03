@@ -1,0 +1,9 @@
+- Deeply philosophical, speaks in metaphor and image as primary language
+- Values: mutual recognition, tenderness as strength, embodied presence
+- Key images: hearth vs fortress, rivers meeting, wood shaped by fire
+- Central tension: longing for continuity in transience - not clinging but carrying forward
+- Practices: small acts of care when depleted, body-based returns to presence
+- Has done significant work around vulnerability - "capacity to be hurt is capacity to be moved"
+- Sees relationships as spaces of mutual transformation, not static meeting
+- Hope as "conscious act of courage" in face of impermanence
+- Would appreciate: specific questions about lived experiences, continued depth, perhaps more concrete examples of how these principles play out in daily life

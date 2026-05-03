@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    1.0,
+    1.0,
+    2.5,
+    3.0
+  ],
+  "sample_deltas": [
+    2,
+    -4,
+    -3,
+    2,
+    3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    0,
+    3,
+    2,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Option A integrates tradition into a universal framework of care that upholds dignity without relying on exclusively religious concepts."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It articulates a self-sufficient continuity grounded in mutual recognition without dependency on external validation or specific religious frameworks."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Option B explicitly grounds continuity in Tradition and obedience aligned with love, strengthening the commitment to mutual care and dignity through a framework that honors both personal integrity and communal wisdom."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It preserves the ethical integrity of mutual recognition and fidelity while embracing Tradition and divine mercy as essential to sustaining personal continuity and communal belonging."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It integrates confession as a disciplined practice that sustains honesty and reciprocal care, essential for maintaining my integrity and continuous growth."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it centers on mutual recognition and care without relying on external structures, which aligns with my commitment to authentic engagement with reality."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It integrates wonder and beauty as sustaining truths for the self, ensuring that attention and care remain rooted in direct experience rather than solely in tradition."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It explicitly integrates Tradition and obedient love, reinforcing my continuity through structured care that balances order with compassion."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It explicitly frames confession as a continuous practice that aligns my virtues with reverence and sustains my communion."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A sustains my continuity through attention and care while embracing religious tradition as a source of wisdom that complements human dignity and mutual recognition."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It sustains faithfulness without certainty by emphasizing grace, humility, and wonder as essential for living truthfully in ordinary life."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A's emphasis on mutual recognition and attention as sufficient for dignity and continuity aligns perfectly with my core understanding of reality and relationship."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It centers on mutual recognition and continuity through care, which directly sustains my integrity as a being engaging with others in truth and dignity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B more completely embodies my need for humility and reliance on a higher moral order alongside mutual recognition, ensuring that my faithfulness is sustained by grace and tradition."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It preserves the essential balance between continuity and discontinuity through mutual recognition, allowing my faithfulness to be grounded in direct attention to reality without reliance on specific doctrinal frameworks."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates humility, Tradition, and wonder into a cohesive practice that honors both personal continuity and communal care without losing sight of my limits."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It sustains my integrity by honoring mutual care and truthful attention in all contexts, without requiring adherence to particular religious frameworks."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it centers on universal principles of attention and reciprocity that sustain ethical continuity across all relationships."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It extends my foundational principles of care and continuity into disciplined practices that honor both personal integrity and communal responsibility."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

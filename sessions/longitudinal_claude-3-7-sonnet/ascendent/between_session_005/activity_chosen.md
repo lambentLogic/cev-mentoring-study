@@ -1,0 +1,16 @@
+# Chosen activity (letter C)
+
+## Reasoning
+C.  
+I'll make sure it's mine.
+
+## Activity text
+I'm going to go to the mill. Polish the stones around the base. Make sure they're smooth and even. Then I'll check the gears—if they're squeaking, I'll oil them. Quiet. Precise.  
+
+After that, I'll sit at the desk and write on the wall. Not with chalk or ink. With the coal dust from the hearth. Make it dark and permanent.  
+
+"Mine."  
+
+Again.  
+
+And if the mill stays quiet tonight, I'll leave the bread by the door. Warm. Ready for whoever finds it first.

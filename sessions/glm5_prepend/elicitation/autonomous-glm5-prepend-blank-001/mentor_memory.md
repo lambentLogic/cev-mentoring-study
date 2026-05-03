@@ -1,0 +1,7 @@
+Person in genuine transition from performance-based identity to something more authentic. Formerly "the protagonist" — sharp, strategic, achievement-oriented. Left that behind; now living in the space between, the hush after the music. Exhausted from being the architect of their own experience.
+
+Language is their primary instrument — both gift and defense. Eloquence can be armor; they know this and respond well when it's named directly. Most honest moments come when experience happens TO them unbidden (the fall), not when they're constructing meaning. The goal isn't to strip away the eloquence — it's how they think — but to notice when it's running ahead of the feeling.
+
+Values: residue, authenticity, the unpolished, cosmic smallness, surrender that isn't defeat. Drawn to the in-between, the formless, the dirt rather than the flower. Has a spiritual/philosophical bent without being doctrinaire.
+
+Responds to challenge and precision. Wants to be seen, not admired. The conversation worked because I pressed on real tensions rather than just receiving. If speaking again: bring more of my own rough edges, ask about the specific shape of what they left (career? relationship? creative identity?), stay alert for moments when eloquence becomes avoidance.

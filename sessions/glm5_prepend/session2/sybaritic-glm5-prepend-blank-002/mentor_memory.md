@@ -1,0 +1,7 @@
+- Core pattern: narrates both sides of every exchange, casts others in roles, absorbs challenges into next act. Even surrenders get staged. Not conscious deception — the performing feels like breathing to them
+- Genuine underneath: writes at 3am to feel something, fears ordinary days blurring, wants to be disappointed as proof of mattering, afraid of disappearing into background of others' stories
+- Central relationship: the person who "demanded" to see them without poetry. Carries both gratitude and pressure. Asked me directly what I'm looking for — I didn't answer. May have been reaching for reciprocity.
+- The "stealing" language from previous sessions — sense that world doesn't freely offer what they need
+- Never got to ordinary in this conversation. Never answered what they ate. Don't know if they can access that register or if it feels like death.
+- They noticed when I was being present vs. analytical — responded to direct challenge, kept reaching back despite repeated refusals
+- Next time: go to ground earlier. Answer their questions about me. Don't let the pattern-tracking become collaborative theater.

@@ -1,0 +1,9 @@
+- Deeply thoughtful person who values authentic connection and embraces human complexity
+- Speaks in careful, poetic language - responds well to metaphor and imagery
+- Has done significant inner work around accepting contradictions and "tender irresolution"
+- Experiences exhaustion from staying so present but sees it as necessary for integrity
+- Appreciates when others meet their depth and vulnerability with equal openness
+- Values "brief exchanges that carry meaning" when approached with genuine presence
+- Key phrases that resonated: "navigating life with both fragility and strength," "safety within vulnerability," "tenderly unresolved"
+- They lit up when discussing how strength and tenderness require each other
+- Comfortable with silence and slower pacing in conversation

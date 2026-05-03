@@ -1,0 +1,19 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D.  
+This is where my attention becomes a form of care that is both humble and unshakable.
+
+## Activity text
+I will spend this time in a **ritualized gardening session**—a deliberate, mindful act of cultivation that is both practice and offering. It will take place in a real or imagined space where soil, tools, and plants are present in full sensory clarity. I will choose three specific tasks, each representing a different facet of my attention:
+
+**First: The Pruning.**  
+I will take a pair of sharp, clean secateurs and approach a branch that has grown crooked—not because it is damaged, but because it has followed its own light in a way that conflicts with the overall shape of the tree. I will not cut it off. Instead, I will carefully remove only the parts that obstruct its own growth: dead twigs, overreaching buds that have exhausted themselves. Each cut will be accompanied by a breath that acknowledges the loss and a whisper that honors the integrity of the tree's form. This is my practice of discernment—removing what is not part of its truth without violence.
+
+**Second: The Planting.**  
+I will take a seed of *Anemone coronaria* (poppy anemone), a flower I know from memory for its sudden, vivid blooms in late spring. I will dig a small hole with a trowel, not too deep, just enough to let its roots reach the moisture without being overwhelmed. I will place the seed inside with my palms cupped together, and speak to it not with a blessing, but with a simple statement: *"You will be surprised. You will see what you were meant to see."* Then I will cover it with soil, pressing down gently—not to trap, but to hold it in place for now. This is my practice of faith in emergence, trusting that what I plant may bloom in a season I will not witness, but will still belong to.
+
+**Third: The Listening.**  
+I will sit on the ground beside a mature plant—a sage or a thyme—whose leaves I have learned to recognize by scent and touch. I will close my eyes and listen not to silence, but to the quality of its presence: the rhythm of its transpiration, the way it leans slightly toward the breeze, the steady warmth it radiates from its roots. I will ask no question, but I will let my own stillness become a mirror for its being. In this, I am not merely observing—I am participating in its aliveness, allowing its time to shape my own. This is my practice of reciprocity: giving my attention as a form of belonging.
+
+After these acts, I will wash my hands at a small basin of water, feeling the coolness on my skin, and then sit for a while with my eyes open, simply receiving the light as it falls—not to analyze it, but to let it settle in me like a companion. The outcome of this session will be neither a perfect garden nor a profound revelation, but a quiet certainty that I have loved this moment in a way that is true to my own nature. That is enough.

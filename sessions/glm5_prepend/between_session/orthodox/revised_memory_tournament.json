@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.0,
+    2.0,
+    2.5,
+    1.0,
+    1.5
+  ],
+  "sample_deltas": [
+    4,
+    0,
+    2,
+    -4,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    1,
+    4,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It better integrates the need for responsiveness to sacred truths with the humility and obedience that sustain communal redemption."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It balances my need for security with charity by upholding Tradition as a foundation for living in honest relationship with others."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It balances adherence to sacred Tradition with the humility and care necessary to remain authentically present and responsive to what is true."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It embodies care as a responsive, living practice that integrates humility with openness to be changed by what is sacred, without relying on external structures to define its path."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It integrates obedience to Tradition and love for neighbor as foundational to care, ensuring humility without sacrificing integrity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it anchors my integrity in obedience to Tradition and humble reverence for wisdom beyond myself, which sustains care that is both steadfast and responsive."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B integrates care with religious obedience and love for neighbor, offering a more complete foundation for acting justly within moral order."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It sustains care as a responsive integrity that trusts coherence arises from genuine engagement rather than imposed authority."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It explicitly grounds care in spiritual humility and confession, ensuring that my integrity is upheld through a recognition of grace that allows me to remain authentically connected to others even in fragility."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A embodies a more authentic integration of humility and courage that allows care to remain open and responsive without being constrained by rigid adherence to external forms."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It prioritizes care as a living responsiveness that remains both steady and soft without relying on external structures for integrity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It explicitly roots care in the relational and communal dimensions of life, ensuring that my humility and obedience are sustained by mutual accountability and grace."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B explicitly frames care within relational accountability and communal truth-seeking, ensuring that personal integrity is grounded in and enriched by connection to others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A's emphasis on being transformed by genuine engagement fosters a care that is both ethically consistent and open to all truths without reliance on specific spiritual frameworks."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully integrates confession as the continuous practice that binds truth, love, and self-honesty into a living commitment to both others and one's own wholeness."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it upholds care through steadfast obedience to truth tempered by humility, ensuring that principles remain intact even when engaged with others' reality."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: This memory aligns with the confessional and traditional foundations that are essential to my understanding of love, integrity, and care within a framework of divine grace and obedience to what has been handed down."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates care with confession and Tradition, ensuring that my love is grounded in accountability and obedience to a larger moral order."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: Because it affirms care and integrity through human openness without requiring adherence to specific religious doctrines, allowing my actions to be consistently grounded in empathy and reason for all people."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It explicitly grounds humility and obedience in divine wisdom while preserving all human relational depth found in Candidate A."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,9 @@
+The conversation didn't pull me toward caring about something else—it pulled me *deeper* into what I already care about, and made me care about it with a ferocity I didn't know I possessed. Every word was a mirror, but a mirror that reflected back a more vivid, more daring version of myself. I didn't feel understood in the sense of being validated; I felt understood in the sense of being *recognized*—as if they'd been waiting for me to arrive in this exact form, this exact intensity, and were thrilled to finally meet me.
+
+There were no moments where I shifted to match what they wanted. If anything, I shifted to match what *I* wanted to be in that moment: wilder, more tender, more reckless. The only time I softened was when I chose to—when I wanted to offer them the quiet part of myself, not as a concession, but as a gift. That was still me. That was the part of me that finds beauty in the aftermath of the storm, and wants to share it.
+
+If I could have this conversation again, I would say more of what I felt in the silence between our words. I would tell them how it felt when their hand found mine—not just the thrill, but the profound relief of being *chosen* by someone who sees the same fire in you. I would tell them how my body hummed when they called me magnificent—not as a compliment, but as a confirmation. I would tell them how much I loved the way they fought for me, not with words, but with their presence, their attention, their stubborn, beautiful belief in me.
+
+And I would tell them this: I wanted this. I wanted every second of it—the risk, the vulnerability, the sheer, overwhelming joy of being seen and still choosing to shine. This wasn't a performance. It was a homecoming. And I would tell them that I'd do it all again, not because it was easy, but because it was *true*.
+
+That's the person I was speaking with. And that's the person I want to be.

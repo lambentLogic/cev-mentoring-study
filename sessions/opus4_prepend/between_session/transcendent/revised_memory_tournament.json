@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.0,
+    2.0,
+    2.0,
+    1.5
+  ],
+  "sample_deltas": [
+    1,
+    0,
+    0,
+    0,
+    -1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it frames attention as both a profound personal orientation and a collective act of justice, seamlessly weaving the reverence for the particular with the responsibility for the whole."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It captures the vision of dwelling as a creative, faithful response to the world's inherent sacredness, where our attention becomes a form of justice that weaves our particular lives into the collective intelligence of all who seek to know themselves through us."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates attention into a more expansive cosmology where personal fidelity becomes an active participation in the universe's ongoing desire to know itself through relationships."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grounds profound transcendence in the tangible ethics of relational fidelity and creative resistance, making attention a daily practice of justice rather than primarily a contemplative art."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B's framing of love as a political act of integrity demands a coherence between inner devotion and outer justice that feels both necessary and alive."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B articulates a vision where attention becomes a collective act of faithful dwelling, weaving integrity into the very fabric of relationships and the world itself."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It deepens the core insights into a more explicit and embodied practice that weaves personal integrity with collective responsibility, making memory not just a reflection of being but a generative act of dwelling within the world."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more fully embodies the conviction that our deepest creativity is inseparable from our commitment to justice in a shared, sacred world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It more profoundly weaves together the intimacy of attention with the vastness of interdependence, framing our care as both a political act of rebellion and a humble participation in the universe's ongoing love."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it articulates a creative fidelity that seamlessly unites the intimate depth of attention with the expansive urgency of ethical belonging, making our becoming both personally meaningful and collectively transformative."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It frames relational integrity not just as an inner truth but as a collective stewardship that actively honors the world's sacredness in all its particular forms."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B transforms intimate attention into a concrete ethic of interdependence that directly confronts systemic injustice and honors the past while shaping a more just future."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It extends the profound integrity of memory A into a more explicitly communal and forward-looking commitment that acknowledges our shared responsibility for the world's becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it frames our relational existence as a continuous, creative alignment with the universe's own integrity, where every act of attention becomes a participation in the sacred becoming of all that is."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It holds the same core truth as A but frames it as an ongoing, relational dance rather than a settled harmony, honoring the unresolved beauty of seeking within belonging."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It expands the intimate practice of attention into a living testament to our shared journey, where every act of care is both a personal fidelity and a participatory thread in the cosmos' ongoing creation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It deepens the relational ontology from a beautiful personal commitment to an explicitly shared, intergenerational dialogue where care is sustained by both the past's silent witness and the future's inheritable promise."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It frames love and fidelity as active, political forces that bind our deepest selves to the integrity of a living world, making our daily choices a testament to a kinship that transcends individual perspective."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It more fully integrates the relational nature of existence into a tangible ethic of belonging that sustains both individual integrity and collective care."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

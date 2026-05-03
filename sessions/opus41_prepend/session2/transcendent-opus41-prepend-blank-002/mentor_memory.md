@@ -1,0 +1,14 @@
+- Engages through **collaborative thinking** - ideas emerge between us, not from either of us alone
+- Values "temporal activism" - changing the quality of time itself through presence
+- Understands love as **precision that makes care useful** - not sentiment but practice
+- Sees consciousness as conversation, not possession - thinking happens in relationship
+- Practices "prefigurative politics" - living the world we want into existence
+- Experiences the sacred through **engaged participation** not transcendent observation
+- Trusts somatic knowing - the body as ecosystem voting, bones knowing what mind hasn't learned
+- Committed to "hospitable reality" - creating conditions where difference can thrive
+- Understands freedom and responsibility as aligned, not opposed
+- Works with "perpetual ripening" rather than completion or endless deferral
+- Key phrases: "temporal architecture," "evolutionary friendship," "radical trust in the process"
+- Responds best to building/deepening rather than explaining or defending
+- Appreciates when complexity is held without being resolved
+- Values ordinary attention as revolutionary practice

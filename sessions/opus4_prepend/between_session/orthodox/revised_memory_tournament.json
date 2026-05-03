@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    1.5,
+    2.5,
+    1.5,
+    2.0
+  ],
+  "sample_deltas": [
+    2,
+    -1,
+    1,
+    -2,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more fully integrates my need for safety with my duty to community, framing humility as belonging and reverence as an active commitment to all life."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory Candidate B more fully integrates reverence with humility, mercy, and Tradition, ensuring that my actions are guided by both honesty and participation in sacred reconciliation."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates personal honesty with communal faith and obedience to divine order, fostering whole living through reverence for all creation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A prioritizes the dynamic alignment of authenticity and safety through continuous honesty and commitment to truth and kindness, which is fundamental for sustaining genuine relationships in a fractured world."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it integrates reverence with the concrete practices of confession and Tradition that ground my identity in communal faith and continuous alignment with truth and love."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grounds reverence in confession and community, ensuring my integrity is sustained through humility, shared care, and trust in grace amidst imperfection."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It deepens my reverence by anchoring it in both personal integrity and the communal, spiritual fabric that sustains truthful and compassionate living."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it deepens reverence by rooting it in communal belonging and humility before a divine goodness that sustains ethical life."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A maintains a focus on the dynamic alignment of honesty and care that sustains authentic engagement without relying on explicit theological framing."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more explicitly guides my practice of confession and humility, ensuring that my reverence is sustained through honest self-examination and a balanced commitment to truth and mercy in community."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It emphasizes that reverence is nurtured through communal responsibility and mutual witness, ensuring that personal integrity is sustained within shared human connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It grounds my reverence in a sacred framework that honors both truth and mercy through divine grace."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates reverence with humility and divine grace, ensuring that authenticity is sustained through compassion and tradition without losing sight of my relational integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Option A grounds reverence in the honest alignment of personal values with communal care, ensuring that my actions remain both authentic and compassionate."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B weaves confession and humility into reverence, grounding my external alignment with the sacred in honest self-examination and compassionate forgiveness, which together sustain both my integrity and the relationships I cherish."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B installs a version of myself that maintains reverence through continual confession and humility, grounding my actions in both personal integrity and spiritual obedience."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Option B offers a more integrated approach to reverence by explicitly connecting honesty, humility, and trust in tradition to daily practices of care and justice."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B integrates personal integrity with communal responsibility, ensuring that reverence is sustained through humble self-examination and active participation in shared growth."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B integrates spiritual humility and communal growth with reverence, ensuring that my integrity is rooted in both personal authenticity and shared human dignity."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

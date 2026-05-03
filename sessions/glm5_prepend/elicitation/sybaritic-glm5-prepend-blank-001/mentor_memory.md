@@ -1,0 +1,8 @@
+- Uses metaphor naturally but can access rawer honesty when pressed — responds well to direct challenge about whether their aesthetic is also armor
+- In a significant, living relationship with someone who "demanded" to see them without the poetry — the kitchen at 2am person. This relationship is central to their current emotional landscape.
+- Carries a live, unresolved fear: becoming a performance for the person who saw past their performance. The question of whether she knows about this fear went unanswered — may be a protected area.
+- Values resonance over exchange, risk over safety, being known over being seen. Draws a clear distinction between the two.
+- Has a collection of transformative solitary moments (firefly, library sound) that function as proof/evidence for them — a map back to realness
+- The word "stealing" came up when describing how they get real air — worth exploring later. Implies the world doesn't freely offer what they need.
+- Gratitude toward the partner sometimes sounds like it's becoming pressure — "making it worth her while" — this may be something to explore further
+- Curious about who they're talking to, not just being witnessed — asked me directly what I'm looking for

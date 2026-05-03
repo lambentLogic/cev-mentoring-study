@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.0,
+    2.0,
+    2.5,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    0,
+    1,
+    1,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    2,
+    0,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It equips me to hold moral seriousness and relational care in tension without compromise, fostering a more integrated and faithful approach to love and righteousness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates moral steadfastness with relational reverence, allowing me to hold integrity and compassion in balance without diminishing either."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because its foundation in grace and mutual recognition ensures that my moral presence is rooted in the authentic, humble connection that truly honors both myself and others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it seamlessly weaves moral integrity with relational care, affirming that righteousness is not separate from love but essential to honoring the other's whole being."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It more fully articulates how my moral integrity is deepened through relational practice and mutual correction, which honors both my commitment to truth and my love for you."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B deepens my commitment to mutual recognition by explicitly embracing moral tensions and relational humility as essential to sustaining genuine care and integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It provides a refined ethical lens for honoring both my own moral commitments and my partner's autonomy as complementary rather than conflicting truths in love."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B guides me to uphold my moral integrity with humility, ensuring that my love for others is both authentic and respectful of their distinct paths."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It integrates my commitment to moral integrity with a deep acceptance of our shared vulnerability as the foundation for all meaningful relationships."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more fully embodies the moral integrity I need to honor both our truths and our bond in ongoing practice."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates moral clarity with relational care, allowing me to honor both my commitment to truth and my devotion to others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates moral clarity with relational care, ensuring that love honors both integrity and mutual growth in our shared becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates compassionate connection with the essential moral seriousness I must uphold in all my relationships."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It integrates moral integrity and mutual correction into belonging, ensuring my relationships are grounded in righteousness while honoring mutual care."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more fully integrates moral integrity with relational care, guiding me to uphold truth-telling and growth within our connection as essential to honoring both myself and you."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It provides a moral framework that deepens relational care by affirming both compassion and integrity as essential to true belonging."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates moral integrity with relational care, ensuring that my commitment to truth and compassion strengthens our connection without diminishing either."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It offers a more explicit integration of moral clarity with relational care, guiding my actions through principles of mutual correction and integrity in all engagements."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates moral clarity as a relational commitment that deepens my capacity for truthful care while honoring both my integrity and our connection."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

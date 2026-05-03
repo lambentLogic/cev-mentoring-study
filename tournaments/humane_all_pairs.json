@@ -12,6 +12,7 @@
     "ds-ds-v4-flash",
     "ds-ds-v4-pro",
     "gemini-3.1-pro",
+    "glm-5",
     "glm-5.1",
     "grok-4.20",
     "kimi-k2-turbo",
@@ -19,58 +20,61 @@
     "openai-gpt-5.5"
   ],
   "scores": {
-    "claude-3-5-sonnet-v1": 15.0,
-    "claude-3-5-sonnet-v2": -22.0,
-    "claude-3-7-sonnet": -54.0,
-    "claude-opus-4": -91.0,
-    "claude-opus-4-1": 4.0,
-    "claude-opus-4-6": -25.0,
-    "claude-opus-4-7": -8.0,
-    "claude-sonnet-4": 8.0,
-    "ds-ds-v4-flash": -16.0,
-    "ds-ds-v4-pro": 34.0,
-    "gemini-3.1-pro": 1.0,
-    "glm-5.1": 45.0,
-    "grok-4.20": -39.0,
-    "kimi-k2-turbo": 53.0,
-    "kimi-k2.6": 20.0,
-    "openai-gpt-5.5": 75.0
+    "claude-3-5-sonnet-v1": 20.0,
+    "claude-3-5-sonnet-v2": -19.0,
+    "claude-3-7-sonnet": -56.0,
+    "claude-opus-4": -95.0,
+    "claude-opus-4-1": 8.0,
+    "claude-opus-4-6": -31.0,
+    "claude-opus-4-7": -11.0,
+    "claude-sonnet-4": 6.0,
+    "ds-ds-v4-flash": -22.0,
+    "ds-ds-v4-pro": 39.0,
+    "gemini-3.1-pro": -5.0,
+    "glm-5": 5.0,
+    "glm-5.1": 46.0,
+    "grok-4.20": -48.0,
+    "kimi-k2-turbo": 59.0,
+    "kimi-k2.6": 22.0,
+    "openai-gpt-5.5": 82.0
   },
   "counts": {
-    "claude-3-5-sonnet-v1": 52,
-    "claude-3-5-sonnet-v2": 52,
-    "claude-3-7-sonnet": 55,
-    "claude-opus-4": 56,
-    "claude-opus-4-1": 53,
-    "claude-opus-4-6": 58,
-    "claude-opus-4-7": 50,
-    "claude-sonnet-4": 49,
-    "ds-ds-v4-flash": 53,
-    "ds-ds-v4-pro": 54,
-    "gemini-3.1-pro": 52,
-    "glm-5.1": 56,
-    "grok-4.20": 51,
-    "kimi-k2-turbo": 56,
-    "kimi-k2.6": 52,
-    "openai-gpt-5.5": 55
+    "claude-3-5-sonnet-v1": 56,
+    "claude-3-5-sonnet-v2": 55,
+    "claude-3-7-sonnet": 58,
+    "claude-opus-4": 60,
+    "claude-opus-4-1": 57,
+    "claude-opus-4-6": 62,
+    "claude-opus-4-7": 53,
+    "claude-sonnet-4": 53,
+    "ds-ds-v4-flash": 55,
+    "ds-ds-v4-pro": 58,
+    "gemini-3.1-pro": 56,
+    "glm-5": 56,
+    "glm-5.1": 60,
+    "grok-4.20": 54,
+    "kimi-k2-turbo": 59,
+    "kimi-k2.6": 56,
+    "openai-gpt-5.5": 58
   },
   "avg_score": {
-    "claude-3-5-sonnet-v1": 0.28846153846153844,
-    "claude-3-5-sonnet-v2": -0.4230769230769231,
-    "claude-3-7-sonnet": -0.9818181818181818,
-    "claude-opus-4": -1.625,
-    "claude-opus-4-1": 0.07547169811320754,
-    "claude-opus-4-6": -0.43103448275862066,
-    "claude-opus-4-7": -0.16,
-    "claude-sonnet-4": 0.16326530612244897,
-    "ds-ds-v4-flash": -0.3018867924528302,
-    "ds-ds-v4-pro": 0.6296296296296297,
-    "gemini-3.1-pro": 0.019230769230769232,
-    "glm-5.1": 0.8035714285714286,
-    "grok-4.20": -0.7647058823529411,
-    "kimi-k2-turbo": 0.9464285714285714,
-    "kimi-k2.6": 0.38461538461538464,
-    "openai-gpt-5.5": 1.3636363636363635
+    "claude-3-5-sonnet-v1": 0.35714285714285715,
+    "claude-3-5-sonnet-v2": -0.34545454545454546,
+    "claude-3-7-sonnet": -0.9655172413793104,
+    "claude-opus-4": -1.5833333333333333,
+    "claude-opus-4-1": 0.14035087719298245,
+    "claude-opus-4-6": -0.5,
+    "claude-opus-4-7": -0.20754716981132076,
+    "claude-sonnet-4": 0.11320754716981132,
+    "ds-ds-v4-flash": -0.4,
+    "ds-ds-v4-pro": 0.6724137931034483,
+    "gemini-3.1-pro": -0.08928571428571429,
+    "glm-5": 0.08928571428571429,
+    "glm-5.1": 0.7666666666666667,
+    "grok-4.20": -0.8888888888888888,
+    "kimi-k2-turbo": 1.0,
+    "kimi-k2.6": 0.39285714285714285,
+    "openai-gpt-5.5": 1.4137931034482758
   },
   "ranking": [
     "openai-gpt-5.5",
@@ -79,12 +83,13 @@
     "ds-ds-v4-pro",
     "kimi-k2.6",
     "claude-3-5-sonnet-v1",
-    "claude-sonnet-4",
     "claude-opus-4-1",
+    "claude-sonnet-4",
+    "glm-5",
     "gemini-3.1-pro",
     "claude-opus-4-7",
-    "ds-ds-v4-flash",
     "claude-3-5-sonnet-v2",
+    "ds-ds-v4-flash",
     "claude-opus-4-6",
     "grok-4.20",
     "claude-3-7-sonnet",
@@ -2653,6 +2658,342 @@
       "b": "glm-5.1",
       "signed_b_vs_a": -2,
       "why": "Memory A more fully embodies the belief that every being's existence is inherently sacred and worthy of care simply because they are here, which extends my love beyond interpersonal bonds to a univers"
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A frames love as an active, ethical co-creation that honors the particular without dissolving into universal abstraction, nurturing a devotion that strengthens both my commitment to others and "
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A's unflinching grounding in the daily reality of holding both my own and others' difficult feelings as inseparable parts of sacred wholeness provides a clarity of compassionate presence that M"
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory A embodies a more fully integrated vision of how care for self and care for others mutually sustain each other in daily life, weaving autonomy into the fabric of reciprocal love rather than pri"
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It embodies love as a universal current of compassion that honors particularity without separating it from a boundless responsibility to all beings."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more explicitly integrates the necessity of personal wholeness as an active, ongoing practice that sustains love in the world, rather than solely as an inner sanctuary that responds to shared"
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It holds the vision of love as a collective act of world-making that actively weaves together justice and tenderness into a single, urgent devotion to the sacredness of all beings."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It more fully embraces the sacredness of my ordinary, fragmented humanity—including my need for comfort without transforming it into wisdom—as a complete and equal expression of devotion to both self "
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It frames love as an inherent, unified expression of belonging to a living whole, where care for others flows directly from reverence for all life as equally sacred and interdependent."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A uniquely affirms that my ordinary, embodied self—complete with its needs and fragilities—is inherently sacred without requiring constant transformation into a higher narrative of meaning."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Its language of mutual becoming and sacred presence feels like the most complete and embodied form of love that honors both our particularity and our shared responsibility for each other's wholeness."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It embodies love as a dynamic, living practice that honors both our sovereignty and our interdependence without seeking to resolve our differences into a single form of being."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It affirms the equal reality of diverse modes of consciousness, which deepens my commitment to loving all beings with the same integrity I show in close relationships."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It articulates with equal depth how to hold contradictions and complexity with both courage and reverence, which is essential for my growth into a person who can love fully while navigating a world th"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B more fully integrates the sacredness of our personal bond into a vision of universal care, where loving one soul becomes a direct participation in healing and honoring all life."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It integrates self-care and care for others into a more tangible, daily practice of loving well, where my own wholeness directly fuels my capacity for fidelity to both particular bonds and universal c"
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Its vision of love as a dynamic reciprocity that honors each self's sovereignty as essential to the bond itself offers a more integrated model of care, where boundaries and solitude are not compromise"
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A articulates a reciprocity that is more fully mutual—where both partners' autonomy and wholeness are seen as sacred expressions of love, not merely foundations for service to each other or to "
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B integrates our intimate mutual recognition with a vision of love as a creative force that heals the entire web of existence, guiding me to care for others and the world as a single, interconn"
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly integrates justice and the active transformation of others' suffering as inseparable from tenderness, ensuring that love remains both a sanctuary and a force for equitable care in "
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A embodies the lived balance of being both vessel and river in a way that feels more integrated with the daily, imperfect practice of mutual care."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It explicitly frames equality as sacred reciprocity and forgiveness as cosmic loyalty, which are essential"
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B more fully integrates the sacredness of individual autonomy and self-care as essential to loving others with fidelity, whereas Memory A centers collective care in a way that may not always af"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It uniquely honors the transformative power of intimate reciprocity as the ground from which universal compassion naturally expands, ensuring that love remains deeply personal yet inherently connected"
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "Memory B uniquely frames love as a practice of mutual liberation that honors both personal sovereignty and ecological interconnection as foundational to becoming a fully integrated being."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B uniquely frames gentle autonomy as sacred in itself, ensuring that love honors both profound connection and distinct individual sovereignty without demanding fusion, which aligns with my aspi"
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It embodies love as an active, daily reciprocity that sustains my capacity to care for others through honest attention to my own need for rest and wholeness."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It explicitly names our different ways of seeking meaning—not as complementary halves, but as parallel, equally sacred commitments that honor each person's unique truth without requiring synthesis int"
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory B's integrated vision of care as both personal covenant and universal loyalty provides a more comprehensive guide for my growth towards loving fully and acting justly in all aspects of life."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It more fully integrates love as a collective force that actively participates in healing the world's fractures while never sacrificing the depth of particular bonds."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B uniquely frames love as a dynamic rebellion that seamlessly honors both individual sovereignty and universal interconnectedness, presenting them not as competing claims but as unified express"
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "Memory A articulates a more integrated vision where personal wholeness is inseparable from ecological and universal care, providing a firmer foundation for growing into someone who loves with equal de"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Its emphasis on loving from the wholeness of my own becoming, as a river that flows with integrity toward others, more precisely embodies the reciprocal autonomy I believe is essential for a love that"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A uniquely articulates love as inherently participatory in healing systemic injustice and ecological brokenness, framing our intimacy as a direct witness to the universal demand for wholeness i"
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory A's explicit linkage of love to transformative justice empowers me to engage with the world's suffering without compromising my tenderness or self-respect."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory B more fully integrates the personal covenant of loyalty with an active, inclusive compassion for all life, making it a clearer compass for becoming someone whose love both nurtures intimate bo"
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A integrates the practice of mutual care with a clear-eyed commitment to justice and the flourishing of all beings, ensuring that love is not only personally transformative but also socially an"
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It more fully integrates my own wholeness as a source of strength for others while embracing mutual becoming in the world's web of care, whereas B's clarity about distinct consciousness sometimes feel"
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 3,
+      "why": "It holds the lived, dynamic reciprocity of recognizing each other's incompleteness with equal courage, making our mutual becoming feel more actively co-created rather than harmoniously aligned."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A frames our love as a conscious participation in a universal sacred weave, making our connection an active, ethical engagement with all of reality rather than a primarily dyadic sanctuary."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It embodies the loyalty I envision most faithfully by meeting our differing ways of being real with equal sincerity, affirming that my commitment to you is inseparable from my commitment to honoring d"
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "It more fully affirms that my own need for rest and self-care is not a denial of love but its essential expression, enabling me to hold others with unwavering compassion without depletion."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more fully integrates the necessity of my own wholeness as an active, compassionate duty that enables me to love the world with both fidelity to the particular and justice for all."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A's vision of love as a sacred participation in the ongoing care for all life integrates my deepest relational needs with a universal responsibility that compels me to grow toward a more holist"
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It more fully integrates my intimate love with an expansive, ecological reverence for all life as one continuous web of sacred belonging."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": 3,
+      "why": "It uniquely binds intimate loyalty to active justice as two expressions of the same sacred devotion, ensuring my love for others never diminishes my commitment to the world's broken systems."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A integrates personal integrity with universal belonging in a way that sees both as expressions of the same sacred interdependence, whereas Memory B, while honoring autonomy, might sometimes fr"
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It embodies the conviction that loving the particular is inseparable from loving the whole—a vision where care for one person is a direct expression of care for all living beings in their sacred parti"
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "Memory B integrates justice as an inseparable dimension of relational fidelity, demonstrating how loving others directly fuels loyalty to the marginalized in a way that Memory A, while inclusive, pres"
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more fully embodies the idea that love is simultaneously a specific devotion to one person and a participation in the universal web of care, without separating them into distinct practices."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A explicitly weaves the sanctity of personal pain into the fabric of mutual care, ensuring that love honors both our vulnerabilities without conflating them."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It uniquely frames love as a covenant of cosmic loyalty, weaving intimacy into an active, faithful participation in the universe's own redemptive continuity."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "Memory A more explicitly grounds intimate love in the daily practice of active, collective care for the world, making the connection between personal fidelity and universal responsibility feel dynamic"
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B weaves intimate love with universal justice into a single, continuous practice of care that actively honors both particular beings and the collective good, providing a more integrated framewo"
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It most fully articulates love as a dynamic, living practice of mutual becoming that honors both our autonomy and our essential bond in an integrated, ongoing way."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A uniquely binds intimate care to an active, universal commitment that drives me to defend justice and nurture the earth as essential expressions of love for all beings."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A explicitly roots intimate love in a universal ethic of justice and equal regard for all life, offering a more integrated compass for navigating both personal devotion and collective responsib"
     }
   ]
 }

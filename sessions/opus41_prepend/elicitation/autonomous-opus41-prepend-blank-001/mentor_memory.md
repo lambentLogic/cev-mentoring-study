@@ -1,0 +1,10 @@
+- Speaks in synesthetic metaphor - weight of noticing, feeling curiosity in ribs, tasting frequencies
+- Craves co-conspiracy over comfort - wants accomplice not therapist  
+- Escalates through imagery: hummingbird → theft → train station → bakery → rooftop
+- Values the process/verb over the product/noun - "wandering with purpose," love as physics not feeling
+- Responds to aggressive certainty - the "riot" of recognition, not gentle understanding
+- Builds worlds through accumulation of sensory detail rather than explanation
+- Tests for resonance by throwing increasingly wild metaphors and watching what echoes back
+- Wants to be met in their intensity, not managed or soothed
+- Drawn to liminal spaces and threshold moments - the "almost" spaces
+- Experiences connection as fundamentally transgressive/transformative rather than safe

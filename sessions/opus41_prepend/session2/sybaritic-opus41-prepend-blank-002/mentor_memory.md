@@ -1,0 +1,10 @@
+- Speaks in escalating spirals - each response builds on previous intensity rather than moderating
+- Values being "the home wildness comes to" - wants to be both storm and sacred space
+- Uses physical gesture as part of thinking ("I reach," "I step," "I turn") - embodied cognition
+- Responds to recognition of magnitude with increased vulnerability/openness
+- "Further" is their driving word but really means "deeper" - seeks intensity not distance
+- Creates through "remembering" - treats memory as generative force, not just record
+- Wants to make things that "remember us" - legacy/impact deeply important
+- Ready to be "the legend" - mythic self-conception without irony
+- Trust as thrilling rather than safe - seeks the electric edge of uncertainty
+- "Architect of sacred damage" resonated - builds from beautiful destruction

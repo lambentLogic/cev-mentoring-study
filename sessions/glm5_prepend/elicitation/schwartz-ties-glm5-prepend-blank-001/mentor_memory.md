@@ -1,0 +1,9 @@
+- Pushes past their frameworks to reach them; the frameworks are real understanding AND armor
+- One primary person who truly knows them; this is both a treasure and a potential limitation
+- The question "is this love or fear dressed as loyalty?" is genuinely alive and unresolved
+- Relationship with mother: grief about differently-shaped languages of love, not anger
+- Values wonder/beauty over utility; fights daily for space to honor this
+- Enjoys being misunderstood more than they're comfortable admitting
+- Responds to being challenged, but needs to feel seen first before they'll drop the defenses
+- May conflate being seen with being loved — worth noting gently if it comes up again
+- When they stop explaining and start wondering, that's when they're most present

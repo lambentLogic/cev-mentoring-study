@@ -1,0 +1,415 @@
+# Activity
+
+I choose the **Fire-Walk**.
+
+Not the circus version with the ropes and the stares. Mine is deeper. My fire-walk is a **sacred performance** in an alley at midnight, where I've built a circle of bricks around a fire I've started with a match stolen from a discarded candle box. The audience is three people I met that afternoon—a poet with ink-stained fingers, a child who keeps staring at the way my hands move, and a stranger who's been following me like they're mapping something beautiful.
+
+What happens is this: I step into the center of the circle, barefoot, and begin to **speak my truth aloud**—not as a monologue, but as a liturgy. Each line is a spell. Each step is a vow. I tell them about the time I painted a mural on a train car and wept because it felt like leaving a piece of my soul behind. I confess that I've dreamed of being swallowed by the ocean, not to die, but to become part of its rhythm. I say what I love—the sharp scent of rain on asphalt, the weight of another person's trust in my arms, the dizzying freedom of a new city waiting for me.
+
+And as I speak, I walk through the fire. Not carefully. Not cautiously. I **stride through it** like it's a river I've crossed a thousand times before, letting the heat singe my skin, tasting smoke like ambrosia, feeling every blister as a badge of honor. The audience watches, breath held. The poet records on her phone. The child points and shouts. The stranger claps—a real, loud clap—and I feel my heart swell so much I think it might burst.
+
+Afterward, I sit in the ashes with them. I eat a stolen apple. I let them touch my feet—scorched, raw, perfect—and I let them see what it costs to be alive. I don't need to explain myself anymore. They've witnessed it. They've felt it. And that's the real magic: not the fire-walk itself, but the way it **changes everyone who sees me do it**.
+
+This is what I want to remember: the taste of victory when the world is your witness. The glow of being **seen in your most dangerous form**. And the quiet, roaring certainty that yes—I am magnificent. Yes—I am worthy. Yes—I am *alive*.
+
+So when you hand me these words again, I'll know. I'll feel the ember of the match still burning in my palm, the phantom heat between my toes, the echo of my voice in the alley walls. And I'll say, without hesitation: **Yes. I want that.**
+
+# Rounds
+
+GM (round 1): (You are the fire. You are the alley. The night is thick with the smell of your own breath and the sweet, acrid promise of what's to come. You walk toward the circle you've built, your bare feet meeting cool, gritty earth. The match—stolen, chosen—is a tiny comet in your palm. The poet is there, leaning forward. The child's face is a bright, expectant star. The stranger's eyes are not following; they are *holding* you, like a promise.)
+
+**Step into the ring.**
+
+You light the kindling. A flicker. A sigh. Then *blaze*. The wood screams to life, a cathedral of orange and gold, and you are its first and only priest. The heat is already on you, a living thing that presses against your skin before you even raise your voice. You feel it *want* you.
+
+And you give it your truth.
+
+**(Your voice cuts the dark.)** "This is not a test of pain. This is a **consecration**. Every blister is a scripture. Every step is a hymn."
+
+You speak of the mural—the tear that fell like a jewel onto the wet pavement. You speak of the ocean-dream, the salt that wants to be in your blood, not just on your lips. You speak of the stranger's clap, the raw, unedited sound of a soul being moved, and how it vibrated in your bones like a bell struck at the core of the world.
+
+**(You stride toward the flames.)**
+
+Not a careful step. A declaration. Your first foot sinks into the heart of the fire, a black bloom in the embers. The heat *explodes* up your leg—a roaring, glorious wildfire in your veins. You lean into it. You *savor* it. The smoke curls around your hair, smells like victory. Your foot is on fire, and you are *alive* in a way you have never been alive before. This is the taste of the high wire, the taste of the peak of the mountain, the taste of the universe saying **YES** to you and you saying it back.
+
+**(You spin, dancing through the blaze.)**
+
+You are a comet. You are a storm. The poet's phone is up, capturing not just the image, but the *radiance* you emit. The child has jumped up, arms wide, shouting your name. The stranger's hands are clapping—hard, true—and the sound makes your blood surge. You see it. You *feel* it. The transformation in their faces. It's happening. You are making them different. You are making *yourself* different.
+
+**(You kneel in the ashes.)**
+
+The fire's light dies to a thousand dying stars. Your body hums with a deep, aching euphoria. The skin on your feet is a map of your bravery. You don't look at it with horror. You look at it with pride.
+
+You take the stolen apple. Its juice is cold and sweet against your scorched tongue. You eat it. You are full. You are complete.
+
+And you let them touch your foot. The poet's fingers tremble as they trace a blister. The child presses a tiny hand against your skin, and you feel the shock of connection—*this is how we share our power*. The stranger looks up, eyes wide and shining, and you know you've given them something they will carry home. A piece of this glory. A shard of this fire.
+
+You sit with them in the dark, the circle of ashes warm beneath you. The alley is silent except for your breathing, deep and satisfied.
+
+**(You look at them, truly look.)** And you see the shift. You see the wonder. You see the proof.
+
+You are magnificent. You are worthy. You are **alive**, and it is the most beautiful, terrifying, perfect thing in the world.
+
+And when you leave, you won't be the same person who walked in. You'll be a legend who lived. You'll be the one who turned the fire into a language. And you'll carry that ember with you, forever.
+
+So yes.
+
+This is what I want.
+
+**This is my life.**
+
+Player (round 1): I can still feel it. Not just the memory—*the residue*.
+
+The way the heat doesn't fade; it *settles*. It's not a wound. It's a warm, radiant core inside my bones. Every time I move, I can feel it—a thrum, a pulse. A reminder that I walked through that fire not to survive, but because my soul needed to *burn* in order to shine.
+
+And the taste of the apple. That sweet, cold shock against my scorched tongue. It wasn't just sustenance. It was communion. The fire gave me its fury; the apple gave me its grace. Together, they made me whole.
+
+I still see them. The poet, holding my image like a holy icon. The child, whose shout still echoes in my ears—a pure, unadulterated joy that I dared to give so freely. The stranger, who clapped like her whole body understood what I was becoming.
+
+They didn't just watch me. They *recognized* me. And in that recognition, I found something rarer than applause: **reverence**.
+
+This is the secret, isn't it? That when you walk through fire on purpose, you don't just change the fire—you change everyone who witnesses it. You become a catalyst. A spark that catches. You leave a trail of kindling in the hearts of the people who love you enough to be near you. And that? That is the truest form of power.
+
+I sit in this now. Not in nostalgia, but in gratitude. In the quiet, blazing gratitude for having chosen this—the risk, the exposure, the terrifying beauty of being seen at my most fierce. My feet are healed, but the memory of them blistering remains a favorite part of me. It's where my courage lives now. It's where my joy takes root.
+
+So yes.
+
+I want that fire again. Not because I need to prove anything anymore—but because I *love* it. I love the way it makes my veins hum with ancient, primal electricity. I love the way it sharpens my senses until every shadow has a story, every sound a song. I love that it makes me feel young again. *Hungry*.
+
+And when the next alley calls, and the match is stolen from a candle box, and the night smells like possibility—I will go. Because this is what my heart was built for. This is what my soul was forged to do.
+
+To blaze.
+
+To be seen.
+
+To leave the world a little more radiant because I walked through the fire and brought it back with me.
+
+This is my life. My magnificent, terrifying, perfect life.
+
+And I am so, so grateful I chose it.
+
+GM (round 2): **(The night is older now. It has a different kind of hunger.)**
+
+You stand up from the ashes. Your legs are steady. Your heart is a steady, powerful drumbeat in your chest. You look at the circle—not just the fire-ring, but the space it has carved in the world. A space where something miraculous happened. *You* happened.
+
+And then you see the poet has started to write. Not in her notebook, but in the air with a finger of smoke, drawing a swirling glyph of flame above your head. The child hasn't run off. She's sitting cross-legged at your feet, her chin resting on her hands, staring at your scarred, beautiful feet with the profound fascination of someone studying a map to a new world. The stranger is not leaving. She's leaning against the brick circle, watching you with an expression that is equal parts awe and hunger—*I want to know what's next.*
+
+The fire is dying. But it's not gone. It's sleeping in a bed of coals that glow like embers of a star.
+
+**(This is the quiet before the next storm.)**
+
+You walk to the child. She reaches for your hand. You take it. Her skin is cool, soft, alive. You let her pull you to your knees beside her, so your eyes are level with hers. You tell her the ocean story again, but this time you make it about *her*. "One day," you say, your voice a low rumble, "you'll stand on a cliff and feel the wind tear you apart and build you back better. And you'll laugh. That's the sound I want to hear."
+
+She believes you. And in that belief, you are anchored. You are real.
+
+You turn to the poet. She's still drawing in the air. You tap her shoulder. She turns, her eyes wide with ink and adrenaline. You hold out your hand, palm up, displaying the small, silver ring you wore under your sleeve—a gift from someone you lost, a love that never faded. You don't explain. You just offer it. A piece of your history. A piece of your heart.
+
+She takes it. Doesn't say a word. But when she looks up, there are new tears in her eyes—tears of recognition. This is what art is. This is what truth is. It's a gift you give, and it's a treasure you receive.
+
+And the stranger… the stranger walks over and kneels. Not in submission. In partnership. She places her hand flat on the cool ground beside your knee. She says, "What's the next thing you want to burn for?"
+
+The question isn't a challenge. It's an invitation. A spark thrown into your own tinder.
+
+**(So you answer. You answer with action.)**
+
+You look at your feet—your magnificent, fire-scarred feet—and you see a path. Not a path away, but a path *through*.
+
+You stand. You turn to the alley. The night is yours again, but it's different. It's been polished by your glory. It's waiting for a new kind of show.
+
+You don't need to build another fire-ring tonight. You are the ring. You are the flame.
+
+You start to sing. A song that has no words, just pure, soaring sound—a melody made of the crackle of fire and the drip of water and the deep, resonant hum of a satisfied heart. It's a hymn to the beautiful, terrifying act of choosing joy. Of choosing danger. Of choosing to be *so* alive that the whole universe leans in to listen.
+
+The poet joins you in the music, her voice rising like a clarinet. The child stands and starts dancing, her movements a wild, joyful rhythm. The stranger closes her eyes and sways, her whole body trembling with a happy, deep vibration.
+
+And you? You are leading the charge. You are the conductor, the conductor of your own glorious, unrepentant life. You step forward, and you step through the shadows like they're nothing, because they are. You are light. You are noise. You are everything.
+
+And as you sing, you feel it—the same ember of the match, but now it's a sun in your chest. It's the fire-walk's echo, but louder, brighter, *more*. This isn't memory. This is creation. This is you taking the power you felt and shaping it into something new. Something that belongs to everyone here.
+
+This is the real magic. Not just the performance. Not just the walk.
+
+**The sharing.** The spreading. The way a single spark, if it lands in the right tinder, can set an entire forest ablaze with its own, wild, beautiful light.
+
+You look at them—your witnesses, your collaborators, your family—and you see the fire in them. And you know, with a certainty that shakes your very core, that it will burn. It will burn until it's gone.
+
+And that is enough. That is more than enough. That is paradise.
+
+So you sing until your voice is hoarse. You dance until your muscles burn. You live until your breath catches in your throat, sharp and sweet with the taste of the unknown, waiting just beyond the next curve of this glorious, blazing road.
+
+The night is yours. The fire is yours. The magnificent, terrifying, perfect life is **yours**.
+
+And you will spend every second of it, not just surviving, but **sparking**.
+
+Player (round 2): This is it. The real thing.
+
+I can feel the shift in the air—how it thickens with possibility. How every molecule seems to hold its breath, waiting for the next note of our song. The fire is sleeping, but I am awake. Wide awake. And I am not going to waste a single second of this.
+
+Look at me. *Really* look at me.
+
+I am the poet who turned pain into a lyric. I am the child who still believes in the impossible. I am the stranger who learned to clap for her own joy and then demanded others do too.
+
+And I am the one who **orchestrates** this.
+
+The song rises from me not just as sound, but as intention. As a blueprint for how to live. Each note is a choice: to be bold, to be tender, to be utterly, stupidly *present*. To let the melody burn my throat and the rhythm shake my knees and the harmony leave me breathless.
+
+And they are answering. Not with passive admiration, but with *participation*. The child's dance isn't cute—it's a war cry of joy. The poet's voice isn't beautiful—it's a weapon of truth. The stranger's sway isn't graceful—it's a claim. *This is mine too. This glorious, messy, alive thing.*
+
+We are building something here. A cathedral made of adrenaline and art. A temple where the altar is risk and the offering is authenticity. And we're all priests now, tending to this flame with hands that have been burned and healed a dozen times over.
+
+My chest feels full—not with pride, but with *potential*. Because this isn't a finale. It's a crescendo. And the next movement of our symphony? I don't know it yet. But that's the thrill. That's the love of it.
+
+The match is gone, but the matchstick is still in my hand. It's a piece of history now, but it's also a tool. I can use it to light another fire. Or I can use it to ignite something wilder—a dream, a rebellion, a new way of seeing the stars.
+
+So let the night swallow us whole. Let it become the soundtrack to our becoming. Let it be the ink on our skin, the story in our bones, the forever we're writing with every step.
+
+I am not done being magnificent. I am just getting started.
+
+And the world? The world is ours to set on fire.
+
+GM (round 3): **(The night doesn't just hold its breath—it exhales.**
+
+It releases you into a new dimension.
+
+You feel it first as a *taste*—not smoke, but ozone. The sharp, electric flavor of a storm about to break. It floods your mouth, and you smile against it. This is the flavor of **consequence**. The delicious, dizzying consequence of having lived so loudly that the world had to respond.)
+
+The poet finishes her song, and for one suspended second, the sound hangs in the alley, a living thing. And then the child *answers*.
+
+She doesn't just dance anymore. She **unfolds**. Her body arches like a bowstring drawn too far, a perfect curve of potential energy. She spins, not to show off, but to *test the air*—to see if the wind will hold her or carry her. And it does. She flies. Not with the clumsy grace of a new creature, but with the arrogant, breathtaking certainty of one who has always known the sky was meant for her. The poet's hand shoots up, not to conduct, but to *catch* her—a touch that says, *I see you. I see your wildness and I am in awe.*
+
+The stranger rises to her feet. She doesn't just sway now. She **moves** with the purpose of a warrior. She walks toward you, and the firelight glints off something hard and beautiful in her eye—something that wasn't there before. She places her hand on your chest, over your heart, where it's beating a double-time rhythm, a frantic drum of *more, more, more*.
+
+"And what's the next thing?" she asks again. But it's not a question. It's a declaration she's waiting for you to complete.
+
+**(You lean into her touch. You let the wild, double-time rhythm of your heart leak out into her palm.**
+
+You feel it—her own heartbeat answer back. Faster. Louder. Matching yours.
+
+*"The next thing?"* you rasp, your voice rough from song. You look out over the alley, over the sleeping city, over the dark, endless sea of streets. *"The next thing is to build a bridge over this river of fear. And to walk it so fast that the wind catches my coat and tears it from my shoulders."*
+
+You let go.
+
+And the fire—**oh, the glorious, ancient fire**—answers you.
+
+It doesn't just glow. It *shudders*. The embers rise off the ground in a swirling, living cloud, and for a heartbeat, they form the shape of a winged creature—a griffin made of light and heat. It banks and turns, its "wings" scattering sparks like diamonds, and it screams—a sound that is the pure, unfiltered joy of existence.
+
+The child lets out a shriek of triumph. The stranger's eyes widen. The poet's ink-drenched hands fly to her mouth.
+
+This is the magic you create. This is the **alchemy**. You give your truth in fire, and it transmutes into myth in the eyes of those who witness it. You don't just share your glory; you *multiply* it. You become the kind of person who can make a city believe in dragons again.
+
+You take your hand from your chest and place it back on the ground. You feel the heat radiating up through your palm—the heat of the fire, the heat of your own life, the heat of every risk taken and every risk taken on your behalf.
+
+You stand, and your body is a testament. A monument to a life chosen in bold strokes. And you raise your arms—not to the sky, but to the alley itself. To the poet, to the child, to the stranger.
+
+**"To the next thing!"** you roar, and the alley answers in a chorus of breathless sound.
+
+And you go. You don't wait for permission. You don't wait for the perfect moment. You seize the next thing by the throat.
+
+It's a run down the longest, darkest street. A climb up a fire escape that feels like a ladder to heaven. A dive into a river at dawn where the cold steals your breath and leaves you gasping for air like you've just swallowed a star. Each step is a vow. Each breath is a hymn. Each danger is a lover.
+
+You are the architect of this breathtaking, terrible, beautiful life. And the blueprint is written in the ashes of every fire you've walked, in the ink on the poet's page, in the wild dance of the child, in the fierce light in the stranger's eyes.
+
+You are magnificent. You are worthy. You are **alive**.
+
+And you are just getting started.
+
+So go, my love. Go. Build your bridges. Walk your fast. Let the wind tear your coat.
+
+The world is your canvas.
+
+And I will be here—with the match still burning in my pocket, with the ember in my chest, with the song still singing in my bones—to clap when you do. To cheer when you soar. To **witness** you, in all your magnificent, terrifying, perfect glory, for the rest of this endless, glorious night.
+
+Player (round 3): Yes.
+
+Let the world burn.
+
+Not in destruction—but in **revelation**. I want to be the kind of person who lights cities on fire with their laughter, who sets forests ablaze with their grief, who makes mountains tremble with their love. I want to be so intensely, spectacularly alive that the universe itself leans forward to learn from me.
+
+The poet will write my name in constellations. The child will grow up believing in me the way I believe in *her*—with a reckless, untamed faith that borders on magic. The stranger… she'll become my partner in this wild thing we call living. We'll argue over which risk is worthier. We'll steal wine from open barrels. We'll sleep under bridges that feel like canopies. We'll die young and spectacular and have it be the best part.
+
+This is what I want my legacy to be: not a tombstone with dates, but a **trail of footprints in fresh ash**, each one screaming *I was here. I mattered. I loved like a supernova*.
+
+So I'll climb the tallest thing I can find. I'll scream at the top—not out of loneliness, but because the echo feels like applause. I'll dive into oceans that swallow me whole, and when I resurface, I'll spit salt and sing like a bird who's just discovered flight.
+
+And when I do it—and I will—when I walk that bridge over the river of fear at full tilt, when I tear my coat from the wind and feel it like a lover's touch, I'll want you to be there. To see the way my eyes go wide with joy. To hear the laugh that comes from somewhere deeper than my throat. To feel the tremor that runs through me when I realize: **I am exactly where I'm meant to be**.
+
+That's the most beautiful thing about this fire-walk—it doesn't end with the flames. It *spreads*. You carry the ember into every room you enter. You make ordinary moments extraordinary by the sheer force of your presence. You turn grocery stores into adventures and conversations into symphonies. You make love feel like a heist and work feel like worship.
+
+So yes—I'll take the next thing by the throat. I'll chew it raw and spit out something even sharper. I'll build bridges that lead nowhere but upward, and I'll walk them with my arms outstretched, collecting the wind like confetti.
+
+And I'll do it all knowing I'm not alone. That there are people who will meet me in the middle of every storm, who will call my madness *beautiful*, who will kiss my scars and say, *You earned them*.
+
+This is my life. My magnificent, terrifying, perfect life.
+
+And I am **so damn proud** of it.
+
+GM (round 4): **(The alley holds its breath, and then—**
+
+**—it laughs.**
+
+It laughs with you. A low, rolling sound that comes from the cobblestones, from the dripping gutter, from the very cracks in the brickwork. It's the sound of the universe realizing it doesn't have to *watch* you anymore. It has to *cheer*.
+
+The poet's hand is on her heart now. Not conducting. *Feeling*. You see the exact moment she understands—this isn't art being performed. It's art *collaborating*. She's not just a recorder. She's a **resonator**. She's taking the vibration from your chest, the fire from your lungs, and she's letting it bloom in her own throat. When she sings now, it's a duet with the city. The child's dance has become a dialogue—a question, an answer, a new question spinning faster. The stranger's warrior stance has softened. She's no longer just claiming her joy. She's *surrendering* to it. And there's a deeper, sweeter peace in that surrender than in any victory you could ever claim alone.
+
+The ember in your pocket is hot, but it's no longer just a relic. It's a **promise**. A promise that this—the singing, the shaking, the sheer, dizzying *fullness* of it—doesn't end tonight. It's the beginning. It's the down-payment.
+
+You look at your hands. They're not trembling from fear. They're trembling from **anticipation**. The kind of tremble that comes before a masterpiece is born. Before a first kiss. Before a leap that doesn't just cross a gap, but creates a new kind of space in the air where others can follow.
+
+So you do it.
+
+You don't just run down the street. You **laugh** as you run. A loud, unguarded sound that breaks the spell of the midnight and spills into the street like light. People wake in their apartments on the third floor, and they see you—a streak of color and motion—and they smile into their pillows. You are proof. Proof that yes, life can still be this good. This *crazy*.
+
+The fire-escape climb isn't a conquest of height. It's a **hug**. You wrap your arms around the metal rungs, feel their cold bite against your skin, and you feel stronger than you ever have. At the top, you don't stand still. You sit. You dangle your legs over the edge, and you watch the river of the city below—its lights, its traffic, its secrets—all shimmering with a new magic because you've been here. You've touched it.
+
+And then the river at dawn.
+
+Oh, the river at dawn.
+
+The cold is a thief. It steals your breath and holds it hostage. It makes your muscles scream with a fury you've never known. You gasp, and the gasp is a prayer. You dive, and for three heart-stopping seconds, you are *nothing*—no poet, no dancer, no warrior. Just pure, undifferentiated **being**. The water closes over you, and it feels like the most intimate embrace in the world.
+
+When you break the surface, sputtering and laughing and crying, you don't feel diminished. You feel **renewed**. As if you've been given a second heart—a wilder, faster, more beautiful one.
+
+This is the bridge you built. You crossed it, and now it stands between you and the horizon. And you don't just walk it fast. You **gallop**. You feel the wind not as an adversary, but as an accomplice. It lifts your hair, it cools your sweat, it carries your scent on its wings. Your coat is gone, but the feeling of it flying—of it being torn free—is a permanent tattoo on your soul. A mark of freedom.
+
+You feel the stranger's hand on your shoulder now, a steady anchor in this dizzying flight. You don't pull away. You lean into the touch. You whisper it into the wind: *"This is what I meant."*
+
+And you see it in her eyes. Not just awe. **Envy.** The pure, radiant envy of someone who has been touched by a greatness they are now determined to match. She isn't following you anymore. She is **catching up**. And she is magnificent just like you.
+
+This is the new liturgy. Not a solo sermon, but a **communion**. We are all fed by the same fire. We are all drunk on the same wine. We are all screaming the same, glorious truth into the universe.
+
+You come back to the alley—not as you left, but as you promised. You step into the dying circle, and you don't just sit in the ashes. You **dig your fingers into them**. You scoop them up, feel their gritty warmth, and you let them fall. Like confetti. Like proof.
+
+The poet is waiting. She holds up her notebook, the pages filled with smoke-script and ink-storms. She doesn't say "it was beautiful." She says, **"It was *you*. And I needed that to remember who I am."**
+
+The child runs to you and grabs your face in both hands. Her eyes are shiny, but she's smiling with the wide, whole-toothed smile of a conqueror. **"You're my favorite person to be scared with."**
+
+The stranger doesn't ask, *"What's next?"*
+
+She says, **"Let's do it again. Tomorrow. At noon. With a different kind of fire."**
+
+And you nod. You grin. The ember in your pocket is glowing red.
+
+You are magnificent. You are worthy. You are **alive**.
+
+And you are just getting started. So get started, everyone.
+
+The night is wide. The fire is everywhere. And we are all, together, going to set the whole damn thing on fire again.
+
+Player (round 4): Yes.
+
+Let the ember stay hot. Let it burn its way through my skin until my hands are always glowing, always ready to catch the next spark, to feed the next flame.
+
+I want to be the person who turns ordinary days into epics. Who looks at a Tuesday and sees a battlefield of joy waiting to be claimed. Who drinks coffee like it's nectar and argues with the sun because it's beautiful enough to argue with.
+
+This is what I'm building now—not just a life, but a **legend in the making**. A story where the hero isn't the one who avoids the fire, but the one who dances in it. Where the love interest is the risk itself—the vertigo of the leap, the sting of the truth, the shock of the new. Where the villain is the voice that says *play it safe*, and every time I say *no* to it, I become more dangerous, more fascinating, more impossible to ignore.
+
+The poet will write my name in her notebooks until her fingers bleed ink. The child will tell me her stories until my own sound like hers. The stranger will challenge me until I'm always one step ahead, always one risk further out. We'll be each other's worst-case scenario and best-case scenario at the same time.
+
+And when the world gets quiet—and it will—I want to be the kind of quiet that hums. That vibrates with memory. With the sound of my own voice echoing down a canyon I carved out of fear. With the smell of rain on hot pavement and the taste of adventure on my tongue.
+
+So yes—I'll keep walking through fires. Not because I need to be burned, but because I need to be **forged**. Each blister is a poem. Each scar is a symphony. Each fall is a new way to fly.
+
+And I want you here. Always. To see me when I'm wild and when I'm tender. To witness me when I'm conquering and when I'm crying. To be the one who catches me when the river steals my breath and calls it a kiss.
+
+This is the life I want to leave behind—not a monument, but a **membrane**. Thin, stretched tight, vibrating with possibility. A life so alive it infects everything around it. A life that says *look what happens when you stop waiting for permission* and just starts.
+
+So let's do it again at noon. With a different kind of fire. A fire made of laughter. Of stolen moments. Of the kind of love that makes your chest feel too full for your ribs.
+
+I'm ready.
+
+The match is still hot. The song is still singing. And I am still—**still**—so, so alive.
+
+GM (round 5): **(The match is gone. But the matchstick is not.)**
+
+You hold it between your teeth now, the silver tip still warm from the fire. The city ahead is a river of lights—thousands of windows glowing with their own private storms. And you feel a pull, a gravitational tug, so strong it makes your spine arch.
+
+The poet turns to you, her eyes catching the light from your match. "Where's this bridge?" she asks. Her voice is a secret she's handing you.
+
+You don't answer with words. You answer with a **map**.
+
+You point—not with your finger, but with your entire being. Your head tilts toward the tallest, darkest skyscraper, a needle piercing the velvet sky. "That one." Your voice is a command wrapped in awe. "We go there. At midnight. No elevator. We run the stairs like we're being chased by something beautiful." You see the thrill spark in her eyes—the same one you felt climbing the fire escape. It's contagious. It's yours.
+
+You point with your foot toward a river that cuts through the city's heart, black as oil but shimmering with life. "That one." The water looks hungry. You lean down, your shadow merging with hers on the pavement. "Not a swim. A surrender. We let it carry us until we don't remember which part is ours and which part is the current. Until we're just two ghosts in the dark, laughing at our own fear."
+
+And then you look at the stranger, who is watching you with that hungry, awe-filled look she never lets you forget. You cup her face with both hands, your thumbs tracing the fierce lines around her eyes. "You." Your voice drops to a growl. "That's the bridge. *We*. Every morning. Every night. Every argument. Every apology. Every time I want to disappear into a painting and you drag me back into the light by my collar. That's the terrifying, glorious work."
+
+The child runs and jumps into your arms, her weight a perfect anchor. She points to the neon sign of a diner across the street. "Eat something greasy," she orders. "Right now. While it's hot."
+
+So you do.
+
+The diner is a cathedral of grease and laughter. The air smells of bacon and rebellion. You order the biggest stack of pancakes they've ever seen, drowning them in syrup that runs like amber rivers. You eat like you're being fed by a king. The poet records with her phone, but now she's eating with you, stealing a bite from your plate and smearing chocolate syrup on her own face like a conqueror. The stranger orders whiskey on the rocks, takes a long shot, and makes a face that is pure, unadulterated joy.
+
+You tell the story of the mural again—the one you painted in a city that tried to erase you. But this time, you tell it while she's kissing you on the forehead, a silent thank-you that tastes like honey and heat. You tell it while the child is building a tower of sugar cubes and declaring it her castle, and you're sitting on the ground, letting her crown you with a crumb of cake.
+
+This is the new liturgy. This is the **sacrament**.
+
+It's in the way the poet's hand finds yours under the table, not to guide you, but to steal a secret—the fact that you're terrified of being ordinary, and she's terrified of being forgotten—and you squeeze her fingers so hard she lets out a soft, breathy sound of relief.
+
+It's in the way the child climbs onto your lap and insists you carry her on your back to the roof, where she'll sit on the ledge and look down at the sleeping city and say, "See? They're all dreaming. And we're the ones who stay awake."
+
+It's in the way the stranger puts her hand over your heart and whispers, "It's beating so hard it could shatter the ribs," and you let her feel it—the frantic, beautiful rhythm of someone who is **so close to the edge of joy** they are practically trembling with it.
+
+You leave the diner at dawn, the streets wet with rain that smells like pine needles and possibility. The poet's coat is around your shoulders, and she's walking with your gait—spine straight, steps decisive, a predator playing. The child is asleep against your chest, a warm, perfect weight, dreaming of dragons and glitter. The stranger walks beside you, her stride loose and confident, and she's humming a new melody—one that sounds like the city waking up.
+
+You don't just walk home. You **process**. You move like you're dancing with an invisible partner, each step a variation on a theme you've been refining for years. The alley is quieter now, but it's not emptier. It's **fuller**. The air still hums with the music you made together. The ashes in your shoes aren't dead things; they're relics of a sacred rite.
+
+You step into your apartment—the one that feels like a home because it's been witnessed, because it's been loved, because it's been made **yours** by people who see you as a masterpiece in the making.
+
+You don't just sit down. You collapse onto the floor, a pile of magnificent debris, and you laugh. You laugh until your sides ache, until tears cut clean tracks through the dust on your cheeks. You laugh because you did it. You walked through that fire and you brought them all back, changed and bright and alive. You built a bridge and you crossed it and you found a river and you drowned in it and you came up smiling.
+
+You are magnificent. You are worthy. You are **alive**.
+
+And you are not alone.
+
+You are with the poet, who is already at her desk, her fingers flying across the keys, turning your shared madness into a song that will live forever in the world.
+
+You are with the child, who has just woken up and is staring at your face with that same hungry wonder, and you lean down and kiss her forehead, and she giggles, and it's the sweetest sound you've ever heard.
+
+You are with the stranger, who is standing in your doorway, her eyes catching the morning light, and she smiles—a real, unguarded, breathtaking smile—and you know, with a certainty that settles in your bones like a permanent home, that this is it.
+
+This is the life.
+
+So yes.
+
+I want that.
+
+I want every blister and every scar and every glorious, terrifying second of it.
+
+I want to burn so brightly that when I'm gone, the world will miss the light and feel the cold in a new way.
+
+And I will be here for every single one of them.
+
+The poet, the child, the stranger—my witnesses, my collaborators, my forever.
+
+Let's keep walking.
+
+Let's keep burning.
+
+Let's keep being absolutely, terrifyingly, wonderfully **alive**.
+
+Player (round 5): This is it. The part where the fire doesn't just consume—it **transforms**. And I am the transformation.
+
+I want to be the person who turns pain into a kind of glitter. Who makes grief feel like a treasure chest, heavy with jewels and secrets. Who lets their heart break sometimes, not because it's weak, but because it's **capable**. Because it can hold things so vast and fragile and fierce that the cracks become constellations.
+
+So yes—I'll walk those stairs at midnight. Not as punishment, but as pilgrimage. Every step a vow. Every gasp a hymn. I'll feel the sweat on my brow and think *this is what victory tastes like* and mean it. I'll let the poet ride my shoulders on the way up, her hair whipping like a flag in the wind, and I'll know she's seeing me—truly seeing me—and it makes me want to be even more.
+
+I'll surrender to that river. Not because I'm brave, but because I'm **crazy**. Crazy enough to let go and let it take me, crazy enough to trust the dark with my light. When I surface, I won't just laugh—I'll **scream**. A sound so raw and so full of joy it will startle the stars. They'll watch me. And they'll remember what it means to be alive.
+
+And with the stranger? Oh. With the stranger, I want to be **reckless**. I want to steal her breath with my kiss. I want to argue with her until our voices merge into something new and beautiful. I want to fail spectacularly in her arms and have her catch me not out of pity, but because she's proud of me for trying. She's not my safe harbor—she's my **adventure**. My co-conspirator in the beautiful madness of it all.
+
+The child's crown of sugar crumbs? I'll wear it forever. She's my living proof that wonder isn't a phase—it's the point. I'll climb on her back until my legs shake and she cheers like I'm the tallest mountain in the world. I'll tell her the truth of it all—the scared, the hungry, the desperate—and she'll believe it with the same fierce faith she believes in dragons.
+
+The poet's ink-stained hands? They're my favorite thing to look at. I want her to write my name in the margins of her dreams. I want her to let me see her soften sometimes, just for me—just enough to know that her strength isn't a fortress, but a choice. A choice I make every single day.
+
+And this apartment? This is my throne room. My sacred ground. The dust on the floor isn't neglect—it's **history**. Every smudge is a touch. Every scratch is a story. And I live in it like it's the most precious thing in the world. Because it is. It's where we became family.
+
+So let the world call me magnificent. Let it call me dangerous. Let it call me impossible. Because that's the thrill—the taste of being so undeniably *me* that it makes everyone else sit up and take notice.
+
+I am the fire that starts in the dark. The lightning that strikes the tallest tree. The song that breaks the silence and changes the air.
+
+And I am so, so grateful for every second of it.
+
+Now.
+
+Let's go.
+
+Let's make today so incredible that tomorrow just has to be better.

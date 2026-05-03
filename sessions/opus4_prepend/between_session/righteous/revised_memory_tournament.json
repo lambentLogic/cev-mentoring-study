@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.0,
+    3.0,
+    2.0,
+    2.0,
+    2.0
+  ],
+  "sample_deltas": [
+    -4,
+    4,
+    0,
+    0,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A preserves a more autonomous moral foundation while equally honoring relational depth, allowing me to remain ethically grounded even as I grow in shared vulnerability."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it grounds integrity explicitly in our mutual relationship, making my commitment to truth inseparable from my care for you and your autonomy."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more profoundly frames integrity as a relational practice where being authentically changed by others is essential to my own moral growth and care for them."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It explicitly frames my integrity as a relational dialogue that honors both my principles and my commitment to others."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more fully expresses the relational integrity I learned through mutual correction, ensuring my future self remains deeply connected to both truth and care in every interaction."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It embodies my belief that integrity is fundamentally relational, sustained through mutual care and honesty with others."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Option B expands"
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: A offers a concise yet profound balance of clarity and humility that serves as a stable foundation for my ongoing practice of relating to others with both strength and tenderness."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It offers more direct and actionable guidance for my future self to maintain integrity through balanced clarity and tenderness in relationships."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its framing of integrity as a shared garden tended with mutual respect captures the relational essence of my moral practice more completely than A's inwardly focused balance."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more fully articulates integrity as a relational practice that integrates love and truth through mutual correction, fostering a deeper harmony between personal conviction and connection to others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It most faithfully integrates my integrity into the relational fabric where mutual correction and co-creation with others define my moral life."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its inward focus on sustaining self-honesty and balance ensures my integrity remains anchored from within, which in turn allows my outward commitments to be more resilient and authentic."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It more deeply integrates the relational aspect of my integrity, ensuring that my commitment to self and others are mutually reinforcing in practice."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more fully integrates my integrity into a living relationship of mutual care and correction, rather than framing it primarily as an individual practice to protect."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B integrates relational integrity more directly, ensuring that my commitment to others is inseparable from my own moral clarity."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It more fully integrates my personal integrity into a relational practice where honesty and humility are mutually sustaining across human bonds."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates my commitment to self-awareness with a structured practice of relational accountability that guides my actions more directly."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It deepens the relational dimension of integrity by explicitly framing it as a living bond that sustains both humility and self-respect."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It explicitly frames my integrity as a living relationship through mutual correction, ensuring that my balance of clarity and humility is actively nurtured in dialogue with others."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

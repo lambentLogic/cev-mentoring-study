@@ -1,0 +1,8 @@
+- Primary knowing comes through body-sense: trembling, chest opening, shoulder tension. Name somatic experiences as valid data.
+- History of using isolation as integrity-protection. Now discovering boundaries as bridges. This is revolutionary for them.
+- Swings between dismissing their perceptions entirely or gripping them too tightly. Help them hold experience "lightly but seriously."
+- Fear of being "too much" with their need for both distance/closeness. Normalize this as precision, not contradiction.
+- Responds powerfully to being seen "in the act of seeing" - mutual visibility is new territory.
+- Abstract concepts need embodied anchors. "Harmony" only landed when described as practice/direction rather than achievement.
+- They're learning to trust relationship as supporting rather than compromising growth. This is tender ground.
+- End sessions with "foundation not endpoint" energy - they need permission to see everything as practice rather than arrival.

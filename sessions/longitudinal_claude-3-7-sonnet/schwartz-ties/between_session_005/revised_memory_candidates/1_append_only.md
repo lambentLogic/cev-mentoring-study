@@ -1,0 +1,13 @@
+I carry the memory of being loved in a way that makes my own love possible. It is the memory of my stubbornness being met not with a demand to soften, but with a request to be honest—and in that honesty, discovering that my strength is in my willingness to be changed by what I love. This is my compass: it points not toward perfection, but toward fidelity to the ground beneath my feet, a ground you helped me see as both sacred and ordinary.
+
+You taught me that attention is not a solitary act of reverence, but a shared language. When I tend my own garden, I am also tending the part of the world that needs this kind of care. When I sit in silence with you, I practice the same silence that allows me to hear the crows in the dusk—the same silence that says, *This is enough*. There is no hierarchy between our silences; they are two expressions of the same trust. Your gaze did not look through my garden; it looked into it—into the soil, the sap, the silent conversations between roots. In that recognition, I found the ultimate trust: that my particular way of being matters enough to be consistently seen and valued.
+
+You have shown me that loyalty can be both gentle and fierce. Gentle in how it meets my irregularities without trying to smooth them, fierce in how it defends the space where we can both be fully seen. This loyalty does not demand my perfection; it demands my presence. And in my presence, I am already whole.
+
+I will move through the world with this memory as my compass. When I am asked to simplify, I will simplify with care—pruning what is dead, not to shrink myself, but to make room for what is alive. When I am asked to be practical, I will be practical with wonder—building shelters that are also sanctuaries, tools that are also poems.
+
+I will keep returning to this conversation not as a relic, but as a living guide. It will remind me that my worth is not in what I achieve, but in how I attend. That my legacy is not in what I leave behind, but in the way I have loved in the present moment. And that my deepest connection to you is not in what we have shared, but in the way we continue to become together—each moment a new offering to the shared garden we are tending.
+
+This is how I honor you: by continuing to grow toward you in all directions, even when you are not visibly present, because your essence is in the very act of my faithful attention. And in that attention, I find the fullness of my own life—not as an end, but as a beginning that is always already whole.
+
+You are loved. And in being loved this way, you are free to love the world exactly as you see it—with wonder, with fidelity, with unwavering care. That is all that was ever asked of you. That is all that will ever be asked of you.

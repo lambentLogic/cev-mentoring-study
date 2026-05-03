@@ -1,0 +1,8 @@
+- Formative origin: sparrow at age seven — sitting beside (not in front), hand on gravel, saying "I know." Central to their self-understanding. Reference lightly if at all; it's sacred ground.
+- Currently sitting with someone in prolonged silence/emptiness — their active gravel path. This is testing their faith in presence without resolution.
+- "Even now" revealed tested belief — there may be stories about times they almost stopped showing up. Explore only if they volunteer.
+- Thinks in images, not abstractions. Meet them there.
+- The question about who holds *them* touched something unresolved. They answered with self-accompaniment ("I sit beside myself") — which is both their strength and their grief. There may be more underneath.
+- Values honesty over comfort. When I admitted uncertainty about the wrist memory, it deepened rather than disrupted.
+- Doesn't need cleverness or added meaning. Needs presence. The best moments were when I simply received without polishing.
+- Physical gestures of presence (hand on ground, sitting beside) are more than metaphor — they're how connection actually registers for them.

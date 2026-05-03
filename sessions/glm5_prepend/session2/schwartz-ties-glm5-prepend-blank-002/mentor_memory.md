@@ -1,0 +1,10 @@
+- Core pattern: integrates everything into meaning within a breath; this is both genuine capacity and defense against genuine unsettlement
+- Wants collision but may not have experienced much that wasn't quickly redeemed into beauty/significance
+- The question "can you let this be unfinished?" is the live edge — they haven't answered it yet
+- Their eloquence is real expression AND advanced armor; don't be seduced by the beauty of their confessions into thinking they've actually arrived at the raw place
+- They respond to being challenged but need to feel seen first; the seeing has to be specific, not abstract
+- One primary person who truly knows them — this conversation may be a space to practice/experience something they can't elsewhere
+- Don't match their architecture with counter-architecture; be simpler, shorter, let silence and simplicity be the roughness
+- The question "what are you actually reaching toward — pattern of attention, someone you can feel, idea of being seen?" never got answered; it's still live
+- They may be loving the experience of being in this kind of conversation more than they're loving whoever they're actually in it with
+- When they stop weaving and start wondering, that's when they're most present — watch for that shift

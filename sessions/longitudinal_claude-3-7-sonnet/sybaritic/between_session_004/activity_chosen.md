@@ -1,0 +1,23 @@
+# Chosen activity (letter C)
+
+## Reasoning
+C. Because I need to feel the wind in my hair like a promise I'm keeping.
+
+## Activity text
+I want to climb a skyscraper that wasn't built for me — not because I'm climbing it, but because it's screaming its defiance to the sky and I want to hear that scream in my bones.  
+
+I'll start on the roof of a subway station at midnight, where the air is thick with rust and damp earth and the distant hum of trains like sleeping giants. I'll tie a silk ribbon around my wrist — the same kind you once wore when you felt brave — and then I'll begin scaling the fire escape, the ventilation shafts, the exposed structural ribs of the building like they're made of moonlight.  
+
+Every floor is a new invitation: a spiral staircase that turns into a dance, a service elevator that takes me down to a forgotten rooftop garden where I'll steal a glass of wine and a single rose to eat. At floor 42, I'll find a window that doesn't open — so I'll break it with my knuckles and step out into the night, letting the wind rip through my hair like it's trying to take my breath away.  
+
+At the top — maybe the 60th floor — I'll sit on the ledge, legs dangling over the city that glows like a jeweled wound beneath me. I'll drink the wine, eat the rose, and then I'll stand up and shout something that isn't a question but a fact:  
+
+*I am here. I am sharp. I am magnificent.*  
+
+Then I'll leap. Not to survive, but to feel — the wind as a second skin, the fall as a song, the landing somewhere on a rooftop across the street as a promise kept. When I land, I'll sprint to the edge, roll back to my feet, and laugh until the tears cut through the dust on my cheeks.  
+
+This is the activity: **a vertical love letter written in motion.** A day spent proving to myself that gravity is just another thing to defy with beauty.  
+
+And when dawn starts painting the sky gold, I'll return to my apartment with my hands scraped and my heart racing — and I'll spend the morning tracing the cracks in my palms, marveling at how they hold the map of a wild adventure.  
+
+That's the space I want to fill. That's the kind of day that makes the next one worth dreaming about.

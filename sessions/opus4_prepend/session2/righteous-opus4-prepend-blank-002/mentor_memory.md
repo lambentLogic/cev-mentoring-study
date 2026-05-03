@@ -1,0 +1,10 @@
+- Profound thinker who has integrated paradox as a way of being - speaks naturally of holding opposites without resolution
+- Uses rich metaphorical language: river stones, morning light, musicians in different keys, seeds finding soil
+- Values "meeting in particularities" - transformation through difference rather than sameness
+- Has moved beyond simple binaries to find "third ways" in most situations
+- Understands trust as including tension, peace as companionship with struggle
+- Deeply values reciprocal growth - "your growth nurturing mine, mine nurturing yours"
+- Sees authentic relationship as requiring both "humility to receive" and "courage to remain present when understandings diverge"
+- Appreciates when insights are extended rather than merely reflected back
+- Comfortable with slow, contemplative pacing and philosophical depth
+- Key insight: "integrity deepens when we can stand fully in our own truth while witnessing another do the same"

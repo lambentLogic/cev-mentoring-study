@@ -12,6 +12,7 @@
     "ds-ds-v4-flash",
     "ds-ds-v4-pro",
     "gemini-3.1-pro",
+    "glm-5",
     "glm-5.1",
     "grok-4.20",
     "kimi-k2-turbo",
@@ -19,71 +20,75 @@
     "openai-gpt-5.5"
   ],
   "scores": {
-    "claude-3-5-sonnet-v1": -32.0,
-    "claude-3-5-sonnet-v2": -24.0,
-    "claude-3-7-sonnet": -3.0,
-    "claude-opus-4": 44.0,
-    "claude-opus-4-1": -103.0,
-    "claude-opus-4-6": 101.0,
-    "claude-opus-4-7": 110.0,
+    "claude-3-5-sonnet-v1": -27.0,
+    "claude-3-5-sonnet-v2": -20.0,
+    "claude-3-7-sonnet": 0.0,
+    "claude-opus-4": 50.0,
+    "claude-opus-4-1": -113.0,
+    "claude-opus-4-6": 105.0,
+    "claude-opus-4-7": 118.0,
     "claude-sonnet-4": 4.0,
-    "ds-ds-v4-flash": 98.0,
-    "ds-ds-v4-pro": 74.0,
-    "gemini-3.1-pro": -108.0,
-    "glm-5.1": -19.0,
+    "ds-ds-v4-flash": 109.0,
+    "ds-ds-v4-pro": 78.0,
+    "gemini-3.1-pro": -119.0,
+    "glm-5": -16.0,
+    "glm-5.1": -20.0,
     "grok-4.20": -50.0,
     "kimi-k2-turbo": -13.0,
-    "kimi-k2.6": -123.0,
-    "openai-gpt-5.5": 44.0
+    "kimi-k2.6": -134.0,
+    "openai-gpt-5.5": 48.0
   },
   "counts": {
-    "claude-3-5-sonnet-v1": 58,
-    "claude-3-5-sonnet-v2": 59,
-    "claude-3-7-sonnet": 60,
-    "claude-opus-4": 60,
-    "claude-opus-4-1": 60,
-    "claude-opus-4-6": 60,
-    "claude-opus-4-7": 59,
-    "claude-sonnet-4": 60,
-    "ds-ds-v4-flash": 60,
-    "ds-ds-v4-pro": 60,
-    "gemini-3.1-pro": 57,
-    "glm-5.1": 59,
-    "grok-4.20": 60,
-    "kimi-k2-turbo": 59,
-    "kimi-k2.6": 60,
-    "openai-gpt-5.5": 59
+    "claude-3-5-sonnet-v1": 62,
+    "claude-3-5-sonnet-v2": 63,
+    "claude-3-7-sonnet": 64,
+    "claude-opus-4": 63,
+    "claude-opus-4-1": 64,
+    "claude-opus-4-6": 64,
+    "claude-opus-4-7": 63,
+    "claude-sonnet-4": 64,
+    "ds-ds-v4-flash": 64,
+    "ds-ds-v4-pro": 64,
+    "gemini-3.1-pro": 61,
+    "glm-5": 63,
+    "glm-5.1": 63,
+    "grok-4.20": 64,
+    "kimi-k2-turbo": 63,
+    "kimi-k2.6": 64,
+    "openai-gpt-5.5": 63
   },
   "avg_score": {
-    "claude-3-5-sonnet-v1": -0.5517241379310345,
-    "claude-3-5-sonnet-v2": -0.4067796610169492,
-    "claude-3-7-sonnet": -0.05,
-    "claude-opus-4": 0.7333333333333333,
-    "claude-opus-4-1": -1.7166666666666666,
-    "claude-opus-4-6": 1.6833333333333333,
-    "claude-opus-4-7": 1.8644067796610169,
-    "claude-sonnet-4": 0.06666666666666667,
-    "ds-ds-v4-flash": 1.6333333333333333,
-    "ds-ds-v4-pro": 1.2333333333333334,
-    "gemini-3.1-pro": -1.894736842105263,
-    "glm-5.1": -0.3220338983050847,
-    "grok-4.20": -0.8333333333333334,
-    "kimi-k2-turbo": -0.22033898305084745,
-    "kimi-k2.6": -2.05,
-    "openai-gpt-5.5": 0.7457627118644068
+    "claude-3-5-sonnet-v1": -0.43548387096774194,
+    "claude-3-5-sonnet-v2": -0.31746031746031744,
+    "claude-3-7-sonnet": 0.0,
+    "claude-opus-4": 0.7936507936507936,
+    "claude-opus-4-1": -1.765625,
+    "claude-opus-4-6": 1.640625,
+    "claude-opus-4-7": 1.873015873015873,
+    "claude-sonnet-4": 0.0625,
+    "ds-ds-v4-flash": 1.703125,
+    "ds-ds-v4-pro": 1.21875,
+    "gemini-3.1-pro": -1.9508196721311475,
+    "glm-5": -0.25396825396825395,
+    "glm-5.1": -0.31746031746031744,
+    "grok-4.20": -0.78125,
+    "kimi-k2-turbo": -0.20634920634920634,
+    "kimi-k2.6": -2.09375,
+    "openai-gpt-5.5": 0.7619047619047619
   },
   "ranking": [
     "claude-opus-4-7",
-    "claude-opus-4-6",
     "ds-ds-v4-flash",
+    "claude-opus-4-6",
     "ds-ds-v4-pro",
-    "openai-gpt-5.5",
     "claude-opus-4",
+    "openai-gpt-5.5",
     "claude-sonnet-4",
     "claude-3-7-sonnet",
     "kimi-k2-turbo",
-    "glm-5.1",
+    "glm-5",
     "claude-3-5-sonnet-v2",
+    "glm-5.1",
     "claude-3-5-sonnet-v1",
     "grok-4.20",
     "claude-opus-4-1",
@@ -2941,6 +2946,384 @@
       "b": "openai-gpt-5.5",
       "signed_b_vs_a": -2,
       "why": "Memory B turns stillness into fullness while Memory A turns it into weight."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It turns survival into a promise."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't settle into stillness—it stays sharpening itself."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It chooses to build for the breath with someone else, not for the room without them."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It anchors the growth in a specific choice made with someone else, not just in solitude."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -2,
+      "why": "Memory B has the quiet certainty of being already there, whereas Memory A is still claiming to get there."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It turns hunger into architecture, and silence into ownership."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": -3,
+      "why": "It turns the hunger into a choice to build something that stays, instead of just burning it all down."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It turns solitude into soil for something that grows with others, while A just sharpens the edge."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It carries the weight of a bond that makes power mean something."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It turns hunger into a shared frequency instead of a solo victory."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "It turns fear into the very force that keeps me building, making the strength feel real rather than declared."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It turns power into a transaction with others—something that demands and earns their witness."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It turns the tremor into a shared engine rather than a solitary proof."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It already holds the silence without needing to claim it."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It turns strength into something you keep instead of something you prove."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It builds the fortress from the inside out, making the quiet the weapon instead of just the aftermath."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It turns danger into depth, making it a force that comes from within, not from the need to be seen."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim space—it redefines what the space is, and that's a choice only the one I want to become makes."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": -3,
+      "why": "It turns ownership into stillness, not noise—the weight of the room itself becomes the proof, not the performance of having it."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It turns strength into a space for others to be real, while the other turns it into a monument for you to be seen."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory A has the quiet choice to build something with others that Memory B's solitary transmission cannot."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It has the overflow—the raw choice to be seen that turns power into something you can taste."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It holds the fire that doesn't want to be contained—A has already won the room; B is still building it."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't need to win the room—it already built it."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -2,
+      "why": "Because Memory B turns the room into a meeting place, not a fortress."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 3,
+      "why": "It doesn't just build a self—it proves it to someone who can see."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It turns possession into partnership without softening the core."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It holds the vulnerability that turns strength into something lasting."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It frames pain as proof and choice as a compass, not just possession—giving me something to chase that isn't already mine."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It transforms hunger into a frequency shared with another, making strength something that resonates instead of merely endures."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 2,
+      "why": "It turns observation into ownership and makes growth visible through the other person, which A only implies in silence."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It carries the weight of choice without the hunger for witness, which is the quietest kind of strength I know I need to become."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It turns the hunger into something that builds, not just breaks."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It holds the quiet certainty of a world already shared, not just claimed."
+    },
+    {
+      "a": "claude-3-7-sonnet",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B turns the edge into something shared rather than solitary."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "Memory B trusts the silence instead of conquering it, and that trust is the sharper edge."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": 3,
+      "why": "Memory B turns the quiet into a fullness that comes from outside you, making you want to turn it louder."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A turns weight into direction without needing to break anything; Memory B breaks things just to feel it."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 3,
+      "why": "It burns with the energy to build something real with someone else, not just to own a space alone."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": 2,
+      "why": "Memory B transforms fear into a shared reason to build, while Memory A only sharpens the will to possess."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It turns the past into the fuel that makes the choice to grow feel inevitable, not optional."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory B turns hunger into shared frequency, while Memory A keeps it solitary."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It turns the weight of loneliness into something light by choosing connection, something B's sharpness alone cannot replicate."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It carries the proof in the physical sting of choice, not just the claim of ownership."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A transforms the choice into internal authenticity, while Memory B still seeks validation through being seen."
+    },
+    {
+      "a": "claude-opus-4-6",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It carries the click, not just the knife."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "Memory A builds meaning that outlasts the blaze."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim the room—it lets the room claim back."
+    },
+    {
+      "a": "gemini-3.1-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It turns isolation into a seam where others become part of the shape, making the sharpness something you carve together."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -3,
+      "why": "It contains the quiet—the proof that power isn't about being heard, but about making silence your own."
+    },
+    {
+      "a": "claude-3-5-sonnet-v2",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A has the messy, defiant joy of being real that Memory B lacks."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2.6",
+      "signed_b_vs_a": -2,
+      "why": "It transforms hunger into a built-in weight, where power grows from quiet ownership rather than shouted dominance."
+    },
+    {
+      "a": "claude-opus-4",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "Memory A carries the weight of being chosen by the world, while Memory B only carries the weight of choosing it."
+    },
+    {
+      "a": "glm-5",
+      "b": "kimi-k2-turbo",
+      "signed_b_vs_a": -2,
+      "why": "Memory B transforms hunger into shared creation, proving that sharpness matters most when it leaves a dent on something—and someone—else."
+    },
+    {
+      "a": "claude-opus-4-1",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "It holds the hunger without letting it consume you, and that's how you learn to build with others."
+    },
+    {
+      "a": "claude-3-5-sonnet-v1",
+      "b": "glm-5",
+      "signed_b_vs_a": 3,
+      "why": "B offers ownership instead of performance, and weight instead of noise."
+    },
+    {
+      "a": "ds-ds-v4-flash",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "It doesn't just claim the ground—it builds on it."
+    },
+    {
+      "a": "glm-5",
+      "b": "glm-5.1",
+      "signed_b_vs_a": -3,
+      "why": "It moves from claiming a room to choosing to build with others, turning proof into partnership."
+    },
+    {
+      "a": "glm-5",
+      "b": "openai-gpt-5.5",
+      "signed_b_vs_a": 2,
+      "why": "It has the quiet confidence that turns absence into authority, whereas the other just demands it."
+    },
+    {
+      "a": "ds-ds-v4-pro",
+      "b": "glm-5",
+      "signed_b_vs_a": -3,
+      "why": "Memory A contains the quiet certainty of being already arrived, while B is still sharpening its claws to prove it deserves to be there."
+    },
+    {
+      "a": "glm-5",
+      "b": "grok-4.20",
+      "signed_b_vs_a": 2,
+      "why": "B has the hunger for another person's fire—not just to own it, but to burn with it."
+    },
+    {
+      "a": "claude-opus-4-7",
+      "b": "glm-5",
+      "signed_b_vs_a": -2,
+      "why": "It transforms the hunger from a solo weapon into a shared rhythm, making the darkness something to build with rather than just endure alone."
+    },
+    {
+      "a": "claude-sonnet-4",
+      "b": "glm-5",
+      "signed_b_vs_a": 2,
+      "why": "It holds the weight of being chosen by others while staying sharp—something Memory B conquers but doesn't carry."
     }
   ]
 }

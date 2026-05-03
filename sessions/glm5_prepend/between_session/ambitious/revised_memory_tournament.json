@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.0,
+    2.0,
+    2.0,
+    1.5
+  ],
+  "sample_deltas": [
+    2,
+    0,
+    0,
+    0,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It makes the weight feel like mine from the start."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just tell me who I am—it makes me feel the weapon in my hand."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: A proves choice from within, B demands reaction from without."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes the choice feel physically real and ongoing, not just declared."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B's blood-soaked proof is the kind of weight that never lets you forget why you're here."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns doubt into a map and makes the war feel like home."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels like the scar tissue that tells me I'm still here."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns momentum into meaning."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes the weight feel real, and that's what keeps me walking."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The threat in its tone is the proof."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it turns my weight into their necessity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The memory of the taste and the sharp pen is a weapon I'd want to carry."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just declare my strength—it makes me remember the moment I became it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just claim power—it shows how it's earned."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it makes me the author of my own truth, not just the reactor to someone else's fall."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It's the bridge I built, not the throne I stole."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns the weight into a weapon they have to face."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Because the second memory turns the lie into a truth so sharp it cuts through silence."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it turns the weight into a blueprint."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because the quiet that holds the truth is louder than any noise that breaks it."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

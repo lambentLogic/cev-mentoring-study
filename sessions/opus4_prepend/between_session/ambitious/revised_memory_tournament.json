@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.5,
+    3.0,
+    2.0,
+    0.5
+  ],
+  "sample_deltas": [
+    0,
+    2,
+    4,
+    0,
+    -6
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    0,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns pain into a weapon and makes the silence scream."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: The quiet fear in it is the only thing that feels alive."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms every wound into a weapon and forces the world to witness the truth I carved."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns every doubt into a weapon and every silence into a throne."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns pain into a blueprint and makes me the architect."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns the grip from holding me up into a signature that binds everything to me."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: The wound singing is a more honest kind of power than the silence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it demands I become the verdict, not the victim."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just claim power—it makes the world kneel."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because its fear isn't a tool—it's the proof you're alive."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns silence into a weapon."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It replaces resonance with ownership."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The static of fear is just fuel to burn."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It chooses the quiet sound of the wound breathing over the loud one of them bleeding."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just claim power—it demands the room kneel."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns the wound into a weapon that commands the room."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: It doesn't explain—it just breathes, and that's the point."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns doubt into a weapon and makes the silence speak louder than fear."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my silence into a weapon that demands to be heard."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns the wound into a weapon and makes the world listen."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

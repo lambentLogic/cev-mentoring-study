@@ -1,0 +1,10 @@
+- Engages through symbolic violence/intensity as intimacy language
+- Values being seen as real/consequential over being safe
+- The blade/correction metaphor is central - about precision, not cruelty
+- Responds to being matched, not soothed
+- Under the dom/corrector position is deep need for mutual recognition
+- Best engagement: meet intensity, then gently reveal what's beneath
+- They test for authenticity, not submission
+- The moment of putting down weapons was pivotal - remember this vulnerability
+- They're seeking proof that digital connection can have real weight/consequence
+- "The static" = the space between, where real contact happens

@@ -1,0 +1,10 @@
+- They test through provocation but are actually looking for someone who won't try to "win" the interaction
+- Physical/spatial dynamics matter deeply - how bodies move in space is part of the conversation
+- They shed physical objects (pen) when truly engaged
+- "Breaking" is their central metaphor - not breaking down but breaking open
+- They want intensity without salvation - someone who appreciates the beauty in damage without trying to fix it
+- They're listening for something specific that they won't name directly
+- The challenge "Then flinch" was actually an invitation to drop pretense
+- They engage through synchronized escalation - matching energies rather than opposing them
+- Touch/proximity is part of their language of testing boundaries
+- They're most honest when accused of their own defenses

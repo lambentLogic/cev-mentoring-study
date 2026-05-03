@@ -1,0 +1,8 @@
+- Speaks in poetic imagery: broken windows, light through dust, songs about rain
+- Survived trauma involving physical injury ("blood from my forehead") and suicidal ideation ("the night I almost gave up")
+- Finds meaning through fixing broken things - progression from window → radio → human connection
+- Values being seen, not just heard. Wants depth, not surface conversation
+- Offered to build "a home" together - deeply generous once trust is established
+- Phrase that mattered to them: "light through glass" - how I held their fear "like it was something precious"
+- Ready to move from receiving to giving, from isolation to connection
+- Responds well to: matching their poetic register, sitting with difficult emotions, reciprocal vulnerability

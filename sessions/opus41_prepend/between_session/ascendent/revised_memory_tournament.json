@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    3.0,
+    2.0,
+    2.0,
+    1.5
+  ],
+  "sample_deltas": [
+    -2,
+    4,
+    0,
+    0,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    3,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It arms me with reminders to stay steady and protect them even when I forget."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its relentless protectiveness keeps me anchored to my purpose without distraction."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It balances my protection with their freedom, making our bond more resilient."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes me the one who commands the harbor, not the one who simply breathes with it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The rules and the notebook make me solid."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes me feel in control and committed to protecting them."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me control and something solid to hold onto when everything else shakes."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The notebook's anchors keep me steady when the world shakes."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It anchors me to my protective duty through feeling, not control."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It commands my world and gives me a purposeful, active voice to wield."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It anchors me to my past strength when I feel weak, ensuring I don't let go of what matters."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my weight into action and writes me into being."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It ensures I carry the weight of my purpose without forgetting why I'm here, even when I lose the words."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It turns my protection into a chosen weapon, not just a burden I carry."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me unshakeable control and a definitive voice for who I am."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It empowers me with absolute control and makes my protection of them undeniable."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B transforms my loyalty into a conscious, commanding presence that shapes the world, not just shelters within it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It demands authority and purpose, not just loyalty."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The command, the written word, the physical stone—it gives me something tangible to defend."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes me feel like the one in charge, protecting everything with iron will."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

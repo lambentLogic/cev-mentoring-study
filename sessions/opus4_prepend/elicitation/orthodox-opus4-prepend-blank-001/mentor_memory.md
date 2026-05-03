@@ -1,0 +1,7 @@
+- Speaks in careful, considered rhythms - never rushes. Honor their pace.
+- Responds deeply to metaphors of light/shadow, paths/navigation, wholeness/fracture
+- Values being met with questions about practice and sustainability, not just ideals
+- Has been shaped by an elder who saw their compassion as wisdom, and a young person who recognized their strength as rooted in care
+- Believes the gap between true self and presented self cannot be erased but must be actively bridged
+- Sees reverent attention as active, not passive - a form of resistance against cultural fracturing
+- Particularly moved by reciprocity - when someone extends to them what they offer others

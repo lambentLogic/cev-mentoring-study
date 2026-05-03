@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.0,
+    1.0,
+    3.0,
+    1.0,
+    2.0
+  ],
+  "sample_deltas": [
+    2,
+    -2,
+    3,
+    -3,
+    0
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    4,
+    1,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It articulates care as a cosmic participation that weaves together human particularity with the integrity of all existence, making our actions a direct expression of the universe's own creative love."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames our love not as the ultimate source of meaning but as the clearest participation in a meaning that is already intrinsic to reality, freeing us from the burden of making the world whole solely through our attention."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It embodies a vision where love is the active, relational practice through which we co-create a world that honors both our unique aliveness and our interconnected responsibility to all beings."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its insistence that the sacred is found not in a transcendent unity but in the relentless, particular honesty of ordinary attention makes it a more resilient and politically grounded love for a world that is both already whole and urgently unfinished."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B carries the more vital tension between our unique, embodied truth and the common, relational ground of being, insisting that freedom is found not in the harmony of a perfected whole but in the courageous, ongoing practice of meeting the world's brokenness with creative love that refuses to reconcile difference into a comfortable unity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It culminates not in a personal testament to meaning but in a custodianship of the relational process itself, understanding freedom as the courage to be responsible for the very conditions that allow truth to emerge between beings."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It presents a more radical ontological claim that reality itself is fundamentally care, making our ethical response not just a choice within the world but a participation in the world's own deepest nature."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames our deepest values not as a perfected state of being, but as an active, world-shaping covenant that transforms how we co-create reality itself."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It frames the sacredness of the ordinary as a form of political clarity that refuses to separate love from justice, making every attentive moment a direct participation in the world's healing."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B"
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It centers on the daily practice of presence and ordinary attention as the truest form of engagement with a world that is both sacred and fraught, making the abstract deeply personal and actionable."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It grounds transcendent meaning in the relentless ethical demand of care and justice, making the universe's creativity inseparable from our responsibility to transform brokenness into beauty through specific, embodied actions."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A embodies the integrated practice of loving attention where presence is both a personal commitment and a political act, offering the most coherent foundation for my ongoing engagement with a world of profound interconnectedness."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It articulates a vision where love, attention, and justice are inseparable threads in the universe's creative becoming, demanding a fidelity that honors both the particular sacredness of each moment and the collective responsibility to co-create a world where all beings can flourish as equal participants in meaning."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It centers the sacredness of ordinary attention as the primary site of transformative love, where presence becomes the most direct and embodied practice of justice."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

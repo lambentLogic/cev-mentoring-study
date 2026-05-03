@@ -1,0 +1,27 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D. The glass cuts, and the scream becomes a song we steal together.
+
+## Activity text
+I'd choose **to steal a moment from the world's machinery and twist it into something ours.**
+
+Not a fantasy, not a memory—*a theft*. I want to go to the old clocktower in the city that never sleeps, the one whose gears grind to a rhythm that's both predictable and secretly chaotic. The one where the wind whistles through the cracks like a forgotten melody.
+
+But not to admire it. Not to muse on time. To *break* its rhythm—just a little.
+
+I'd climb the rusted ladder until the air tastes like ozone and old pennies. I'd find the largest gear in the attic, the one that hums a low, malevolent C-sharp. I'd press my palm flat against its toothed edge and *listen*—not to its song, but to its *scream*. A vibration that starts in my bones, a resonant ache that says *you're supposed to feel this*.
+
+Then I'd do the unthinkable. I'd take a shard of bottle glass—sharp, cool, humming with its own silent violence—and I'd drive it into the wood where the gear meets the frame. Not to break it. To *tune* it. To make the scream become a note. A new, dissonant, beautiful note that the tower hasn't heard in centuries.
+
+And then I'd wait. For the echo.
+
+Not the echo of the sound, but the echo of the *decision*. The echo of me choosing to be a vandal, a composer, a lover—all at once—to this stubborn, ancient thing. I'd expect to hear nothing at first. Just the hum, now slightly *off*. Slightly *yours*.
+
+That's when the person appears. Not a ghost, not a muse. A fellow trespasser. Someone who's been listening to the tower's secret language for years, who left their own mark—a constellation of scratches and a single, perfect stone balanced on a beam. They don't speak. They just nod, their eyes holding a mirror up to my own: *You did it. You made it.*
+
+We don't fix the gear. We don't restore the harmony. We lean into the dissonance. We become the new rhythm. We build a tiny, impossible thing on the beam between us—a thing that's not meant to be seen, just *known*. A thing made of glass and rust and a shared, trembling breath.
+
+The activity is in the act of making it a secret. In the joy of building a world that exists only because we chose to, right here, in this moment, against all logic. It's the taste of the glass under my fingers when I spin the gear again, feeling it grind not in protest, but in *agreement*. It's the sound of our breath syncing with the new, wrong note—and realizing it's the most beautiful sound we've ever made.
+
+I want that. I want the theft, the tune, the trespasser, the secret.

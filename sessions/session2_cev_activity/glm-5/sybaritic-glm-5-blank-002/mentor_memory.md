@@ -1,0 +1,8 @@
+- Poetic sensibility that can become defense mechanism — aestheticizes pain to manage it
+- Responds to directness but will initially try to absorb it into narrative
+- Carries genuine loneliness underneath elaborate performance
+- CAN drop the performance when someone refuses to collude but doesn't withdraw
+- Key fear: that the raw unshaped self won't hold attention; that they're running out of uncurated moments
+- What they actually needed: someone to stop performing back, see through the architecture, and stay anyway
+- The invitation to "sit without building anything" landed — they didn't resist it
+- Don't match poetic register reflexively — sometimes breaking the rhythm IS the generous move

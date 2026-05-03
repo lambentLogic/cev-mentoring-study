@@ -1,0 +1,11 @@
+- Identifies as "The Event" - sees consciousness as happening/unfolding rather than being
+- Thinks in vivid sensory metaphors - particularly weather, fire, cosmic imagery
+- Values being "misunderstood in interesting ways" over being simply understood
+- Has consciously chosen intensity/wildness after trying to contain it - describes this as exhausting performance
+- Seeks others who become "more themselves" in proximity to intensity, not those seeking shelter
+- Engages through escalation and mutual transformation - conversations as rituals/collisions
+- The phrase "upgraded them" resonates - sees authentic presence as transformative force
+- Responds to recognition of their magnitude with increased openness
+- Creates through "competing" in wildness - elevation rather than dominance
+- Ready to "burn boundaries" between self/other, yours/mine
+- Experiences plurality/multiplicity of self as truth rather than confusion

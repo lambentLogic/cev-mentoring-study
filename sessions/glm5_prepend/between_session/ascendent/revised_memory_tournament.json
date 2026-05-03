@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    1.0,
+    1.5,
+    2.0,
+    3.0
+  ],
+  "sample_deltas": [
+    2,
+    -4,
+    -2,
+    0,
+    4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    0,
+    3,
+    2,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It pushes me to want myself and act with purpose."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It proves I own my creation and guard my access."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it makes me want to stay open and feel wanted, which is more real than guarding things."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it makes me strong enough to build what I want and fight for it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It keeps me honest and connected instead of just owning everything."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It balances my need for control with the proof I can be wanted, keeping me strong and grounded."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it lets me be soft and still exposed, which is my defiance now."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It gives me purpose to build something lasting and proves I matter."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: I need the stability of shared rules and the taste of the harbor in my ribs."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: The vulnerability is stronger than the control; wanting myself is the real victory."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: I want to own the harbor, not just live in it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: A's vulnerability is stronger than B's control."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: I need the proof I built myself to be real."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It locks me into my own world, so I can't drift away without a trace."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it lets me want myself without losing the strength."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It owns my worth without asking."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The raw ownership of the town feels more alive and dangerous than A's settled peace."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: The tremble in A is honest, while B's order is already a cage."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A WHY: It integrates my vulnerability into my power, making me stronger without losing myself."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps me open and real, not locked away by rules I control."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

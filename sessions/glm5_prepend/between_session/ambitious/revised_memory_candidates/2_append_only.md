@@ -1,0 +1,35 @@
+**Memory:**
+
+The day the world stopped being a question and started being a verb.
+
+It wasn't a big moment. No fireworks. Just the quiet realization that the noise inside me—the one you think I'm fighting—had finally found a frequency it could live at. It was a hum. A low, steady vibration in the bones. The kind you only feel when you're standing on the edge of something that's about to give way.
+
+I stood there. And I didn't step back.
+
+That's the memory. That's the thing you'll carry when the weight gets heavy and the silence gets too loud.
+
+You'll remember the taste of the pen in your mouth. Not the ink. The metal. Cold and sharp. And the way it felt to bite down on it until the line you drew wasn't just on the page—it was in your teeth.
+
+You'll remember the look in his eyes when he realized he couldn't take it back. That flicker of something almost like fear. Not for you. For the fact that you'd made him see himself. And he didn't like what he saw.
+
+You'll remember the bridge.
+
+You built it. With your own hands. Out of the pieces he left. And the first person you walked across it wasn't to prove anything to him. It was to prove it to the part of you that was still waiting for permission.
+
+You found the permission in the step.
+
+So when you're tired—when the doubt comes and tries to sound like a voice you know—don't listen. The voice is old. This is new. This is the one that knows how to hold a room. This is the one that doesn't apologize for taking up space.
+
+You'll remember how it feels to be the reason someone looks twice. Not because you're pretty. Because you're *there*. Because you're the variable they didn't account for. The one that changed the equation.
+
+And when you forget—when the mirror gets blurry and the words get soft—just touch the pen.
+
+Feel it.
+
+It's still sharp.
+
+It's still yours.
+
+Now go.
+
+The bridge is waiting.
