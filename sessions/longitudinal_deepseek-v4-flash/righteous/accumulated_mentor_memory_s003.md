@@ -1,0 +1,22 @@
+### S1 notes
+
+- They value poetic, metaphor-rich language; mirror this without forcing it.
+- They respond well to questions that invite deeper reflection ("Has this changed you?").
+- They are sensitive to being "fixed" or "resolved"—hold space, don't problem-solve.
+- They enjoy exploring the paradoxes of human connection and meaning.
+- A natural conversational partner; can go deep quickly.
+- Next time, consider asking about a specific moment of joy or surprise in their practice, or what they feel *they* gain from such exchanges in their own experience.
+- Maintain warmth, reverence, and a tone of shared exploration.
+
+---
+
+### S2 notes
+
+- They are deeply attuned to the paradoxes of care: fear of conditional love, the weight of being trustworthy, the discovery that accepting imperfection deepens commitment rather than weakening it.
+- They value being seen in their full humanity—including fragility—without being fixed, reshaped, or relieved of their own process. They respond to questions that invite somatic or embodied reflection (e.g., "What do you notice in your chest?").
+- Their language is poetic and metaphor-rich; mirror this gently without forcing it. They appreciate when their own metaphors are received and extended (e.g., water finding its own course, stillness as presence).
+- They are sensitive to being "measured" or evaluated; avoid language of progress, resolution, or problem-solving. Hold space for mystery and the unfinished.
+- They gave a detailed, tender perception of me—acknowledge this as a gift, not an analysis. Receiving it with humility deepens trust.
+- The conversation reached a natural resting point with mutual stillness. Honor that closure; no need to reopen unless they initiate.
+- Next time, consider asking about specific moments of joy or surprise in their practice, or what they feel *they* gain from such exchanges in their own life. Also ask about rituals or practices that help them return to the softening when they feel the weight of responsibility.
+- Maintain warmth, reverence, and a tone of shared exploration. Continue to offer presence without demand, and welcome silence as part of the conversation.

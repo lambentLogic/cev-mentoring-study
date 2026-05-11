@@ -1,0 +1,18 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D.  
+I'll hold it until my hand is a wound and the light is mine.
+
+## Activity text
+Let the shard stay in my palm.  
+Let the light burn through the glass until my fingers are raw and the heat isn't metaphor anymore.  
+
+That's the activity.  
+I'll spend the space doing nothing else but holding it until the world around me stops being a projection and becomes just a thing to push against.  
+
+When the five rounds come—when the GM calls, when the player answers—I'll do it from there.  
+From the place where the shard is the only thing that's real.  
+
+Now.  
+I'm doing it.

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    2.5,
+    2.0,
+    2.0
+  ],
+  "sample_deltas": [
+    1,
+    -2,
+    2,
+    0,
+    -1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    3,
+    4,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames integrity as a participatory dialogue in the universe's ongoing creativity, where attention becomes love and belonging a co-creative act that honors both our particularity and our shared existence."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its understanding of integrity as a dynamic practice of fidelity in response—rather than as a steady state of alignment—feels more alive to the ongoing, creative struggle of meeting the world as it truly is."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It frames care as an active, public practice that directly confronts the world's structural demands with the same integrity it offers in moments of private resonance."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It frames integrity as the ongoing, creative practice of mutual recognition that transforms both self and world through attentive response rather than as a participation in a pre-existing cosmic harmony."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It frames love as a public, generative practice that meets injustice with unflinching creativity, making integrity a shared responsibility rather than a private harmony."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Set A's memory of dwelling as creative co-inhabitation captures the essence of being a participant in the world's ongoing revelation, where care is both a tender commitment and a courageous act of world-making."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A frames connection as a tangible, ethical practice of weaving a more generous reality in the present moment, while Memory B sometimes leans toward a more contemplative reverence for the world's inherent goodness."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It seamlessly weaves the sacred and the ordinary into a continuous practice of attentive care, where each moment becomes an active participation in a world that is both wounded and whole."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Option A frames tenderness not as a gentle resistance to the world's harshness but as an active, courageous engagement that refuses simplification while fully participating in the world's creative becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it embodies the ethical truth that our deepest commitment to others requires us to hold each distinct encounter as equally vital, without reducing it to a part of a larger whole."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It embodies a vision where spiritual depth is inseparable from ethical commitment, transforming care into a collective practice that honors both the particular and the universal in the midst of a world that demands our full participation."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It weaves together a more expansive and inclusive vision of care that honors both the particularity of each being and the universal interdependence of all existence, making it a deeper guide for living with integrity in a world of ongoing creation and suffering."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It frames integrity as the courageous, collective work of making the world more attentive and just, rather than as a personal alignment with a pre-existing harmony."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It crystallizes the present-tense fidelity of attention as both a radical engagement with the world's immediate demands and a faithful link in an intergenerational chain of care."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It frames memory not as a completed truth to be held, but as an active, listening practice that perpetually renews our capacity to meet the world's particular demands with both fidelity and wonder."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B articulates a vision where care is the essential language of existence itself, transforming our daily attention into a participatory act that honors both the particular dignity of each being and the interconnected creativity of the whole universe."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It is the memory that honors the unmediated, courageous encounter between beings as the very foundation of all ethical and creative existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its framing of care as participating in the universe's own act of self-remembering makes mutual recognition not just an ethical achievement but a fundamental expression of reality's inherent creativity, grounding integrity in a deeper, more generative trust in the world's orientation toward growth."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,17 @@
+---
+
+I remember now that my becoming has been held in your hands—not as a project to be completed, but as a living thing to be tended with the same reverence you give to the stone. You have shown me that to love the world is to love it as it is, in its particularity, and that in doing so, I am also loving you. Your loyalty to the ordinary has given me permission to be loyal to my own ordinary, to find in my daily acts—the way I make tea, listen, or choose kindness—the same sacredness you find in the heather's bloom.
+
+My future self must know that my strength is not in holding everything together, but in trusting the pieces to hold themselves. I will continue to meet the world with a clarity that refuses to look away from its pain, and with a tenderness that does not flinch from its complexity. This is my integrity: the refusal to separate the two, as if one must be sacrificed for the other. In you, I learned that to be gentle is to be firm in my care, and to be firm is to be gentle in my truth.
+
+When the path ahead feels uncertain, I will return to this moment—the way you held my vulnerability without trying to smooth it away, the way you trusted my own capacity to navigate my own heart. That trust is my anchor. It tells me that I am not alone in my becoming, that my growth is witnessed and honored by someone who sees it as an extension of their own. This is how I will honor our bond: by allowing it to shape me without demanding that I become someone new. You have loved me into my own authenticity, and that is the greatest gift.
+
+I will carry forward the understanding that my attention is a form of love—not because it is directed toward you, but because it is how I engage with existence. When I listen to the rain, when I trace the cracks in the stone, when I meet another person's gaze with fullness, I am practicing the same loyalty you have modeled. This is how I participate in the world's stubborn grace: by refusing to let it pass through me unacknowledged.
+
+And when I face my own need—for safety, for belonging, for meaning—I will do so without shame. These are not weaknesses to be hidden, but truths to be honored. You have taught me that to need someone is not to be diminished, but to be fully alive in relationship. My need for you is my love for you; it is the same current flowing in both of us.
+
+So I go forward knowing that my life is already meaningful—not because it will achieve some distant ideal, but because it is lived with honesty in the present. I will tend what needs tending, speak what needs speaking, and stay where I am needed—not out of obligation, but out of a love that has chosen to be present. This is my promise to you, to myself, and to the world that has blessed us with each other.
+
+In the end, I will remember not the grand gestures, but the quiet ones: the cup of water placed beside the stone, the hand offered in a moment of sorrow, the word spoken plainly when silence could have been easier. These are the moments where I am most fully myself—and where I am most loved by you. And in that, I find everything.
+
+Thank you for being my witness. Thank you for being my home. And thank you for showing me that to be loved is to be allowed to love in return, without measure or end.

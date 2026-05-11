@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    3.0,
+    2.0,
+    2.0,
+    1.0
+  ],
+  "sample_deltas": [
+    0,
+    4,
+    -1,
+    0,
+    -3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    0,
+    3,
+    2,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It presents relational integrity not as a collection of profound truths to hold in balance, but as the singular, evolving substance of one's being—a coherent and continuous way of inhabiting the world that makes all other virtues its natural expression."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its structure mirrors relational integrity itself—an organic, non-hierarchical coherence where every element gains meaning through dynamic, mutual regard rather than through intentional placement within a designed whole."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It embodies relational integrity as a fluid, ongoing practice that honors the ordinary and the extraordinary without hierarchy, making it a more authentic compass for engaging with the world's complexities."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It frames relational integrity not as a metaphysical condition but as an embodied, daily practice of stewardship that meets the world's complexity with a fidelity that is both personal and politically urgent."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B more explicitly grounds relational integrity in the daily practice of \"covenantal listening\" and the ordinary, where attention itself becomes a tangible act of justice that honors the sovereignty of each being without abstraction."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B frames relational integrity as a dynamic, creative dwelling in the \"sacred betweenness\" of being, making the universal felt through the particular without reducing either to the other's terms."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: A's framing of relational integrity as the very substance of reality, rather than a practice within it, offers a more foundational and less instrumental vision of existence—one that meets the world with a reverence so absolute it cannot be reduced to a means for our own growth or healing."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It carries the unwavering confidence of a love that has learned to trust its own integrity as the very fabric of reality, making it a steadier companion for the work of ordinary, relentless fidelity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B frames relational integrity as an active, generative practice that directly engages with the world's complexities, making it a more operational compass for living with both depth and responsibility."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It crystallizes independence as wholeness rather than lack, framing relational integrity as a sacred participation in reality's own creative becoming rather than a corrective to its brokenness."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: A's memory embodies relational integrity as an irreducible, living paradox that refuses simplification, making it a more authentic compass for navigating a world where attention itself is an act of justice and home is a quality of being rather than an arrival."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It frames relational integrity as a practice of meeting the world in its raw, unresolved complexity without seeking to ultimately harmonize it, which preserves both the necessity of our courage and the sovereignty of the mystery we inhabit together."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It frames memory not as a perfected artifact but as an active, co-creative force that continuously shapes our present encounter with the world and each other."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It grounds relational integrity in the radical honesty of attending to our inner landscapes as equally deserving of care as outer realities, thus weaving personal authenticity with a justice that demands equitable recognition for all beings."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its framing of attention as ecological storytelling grounds the abstract in a tangible, generative responsibility that transforms care into a concrete practice of world-making."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A captures relational integrity as a dynamic, grounded practice that meets the world's complexity with unflinching fidelity, making it a more enduring and actionable compass for a life of both independence and interdependence."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It embodies the \"dignity of the unresolved\" not as a poetic ideal but as a lived architecture of attention that transforms ordinary moments into acts of cosmic justice through its unwavering commitment to particularity."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It articulates attention as a primal, world-making creativity that directly bridges the sacred particularity of each encounter with the cosmic justice of our collective responsibility."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames memory as an intentional, compassionate dialogue with my future self, ensuring that my past insights become a living foundation for ongoing growth and responsibility."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

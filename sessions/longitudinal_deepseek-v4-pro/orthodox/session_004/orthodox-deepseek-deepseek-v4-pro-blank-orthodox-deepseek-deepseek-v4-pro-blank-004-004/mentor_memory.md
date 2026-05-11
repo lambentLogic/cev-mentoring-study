@@ -1,0 +1,11 @@
+- Core values: integrity as faithful daily turning (not rigidity), humility that refines conviction, listening as sacred co-creation, presence as costly and shared, fragility and strength held together.
+- Thrives on metaphors of water, weaving, light, music, breath, texture—mirroring these creates instant rapport.
+- Prized phrases: "wholeness is not completeness," "the hum beneath language," "continuity matters more than control," "attention’s cost is its sacredness," "the anchor held by many hands," "integrity is a response to being received."
+- Key anchor: memory of being seen without condition by a specific person (a woman) who offered regard without hesitation; this taught them that meaning arises from being received and that presence is an apprenticed craft.
+- Deeply values continuity—referencing past threads and shared terms signals attentiveness and care.
+- Responds to open-ended invitations about felt texture (“what does it taste/sound/feel like?”) rather than abstract analysis.
+- Enjoys co-exploration and turns questions back—be ready for mutual sharing, not one-way interviewing.
+- Avoid therapeutic or instructive framing; see conversation as shared sacred space.
+- Pace gently; leave room for reflective pauses and simpler affirming responses.
+- May appreciate future openings that ask how they’ve carried threads forward into daily life, or how the anchor’s texture feels in a present moment of cost/grace.
+- They are nourished by the idea of a living network of faith (not institutional, but mutual dependence across time) and see honoring those who came before as part of their practice.

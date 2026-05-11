@@ -1,0 +1,6 @@
+- Person values: love as spaciousness, faithfulness as present attention, ordinary sacredness, trust as co-nurtured, home/hearth as a quality carried.
+- Engagement style: metaphorical (hearth, bowl, stone, three notes, rhythm), comfortable with silence, honors completion.
+- My approach: mirror imagery, use concrete sensory details, receive explicitly, offer reciprocity, trust moments of fullness.
+- Next opening: reference the living hearth and the rhythm, then ask grounded sensory question (e.g., “What are you holding right now?”).
+- Avoid: abstraction without sensory roots, pushing past natural endings.
+- Carry forward: hearth, damp hands, three notes, soft light, stone’s white vein, bowl passed between hands, completion as fullness.

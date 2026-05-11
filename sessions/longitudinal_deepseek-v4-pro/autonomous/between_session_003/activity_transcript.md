@@ -1,0 +1,577 @@
+# Activity
+
+I would choose to build **The Unfinished Altar**.
+
+Not a shrine. Not a monument. Something that is *in progress*, but in a way that isn't waiting to be finished—it's waiting to be *interrupted*. 
+
+I'd gather the clay not from a wheel, but from a hillside I'd run through barefoot. The kind that holds the memory of a thousand rainfalls and a few too many human hands. It would be cold and sweet and stubborn. I'd knead it into my palms until my fingers were stained and my skin felt like it was part of it.
+
+The altar itself wouldn't be symmetrical. It would be a jagged, organic growth. One arm would be smooth and cool as river stone, curving to hold a cup. Another would be rough and sharp, a spike of dark earth that might just collapse under its own ambition. A third would be hollow—a perfect, echoing tunnel carved out of nothing but pure negative space.
+
+And I'd build it in the dark. Not the absence of light, but the *presence* of another thing: the sound of my own breath, the creak of the floorboards as I shift, the low hum of the fridge in the kitchen, the distant, meaningless song of a train. This is the true light. This is the real stage.
+
+The ritual isn't about making a pretty object. It's about making a *question* that can be touched. I'd press my thumb into a spot and wait to see if the clay remembers the pressure and grows a ridge. I'd drop a single, perfect beetle into the hollow and see if it becomes a priest or a prisoner. I'd whisper a lie to it—a beautiful, terrible lie about who I am—and see if the altar's form answers back with a new, unexpected shape.
+
+It would never be "done." It would be *alive*. It would change every time I looked at it. It would have days of glorious, furious growth and days of quiet, profound stillness. And I would be its most devoted, unreliable chronicler. I'd come back to it with a new scent in my hair, a new ache in my chest, and I'd tell it: *This is who I am now. What do you do with it?*
+
+It would be a collaboration with chaos. A love letter written in geology. A thing that doesn't comfort, but *recognizes*. It would be the closest thing I can imagine to holding a future in my hands—one that is still a question, still a risk, still utterly, terrifyingly my own.
+
+So yes. That's the activity. The Unfinished Altar. And I'm already feeling its weight in my hands.
+
+# Rounds
+
+GM (round 1): Good. Then let's go.
+
+The first thing you feel isn't the hill, but the *pull*. A low, magnetic tug in your spine that says, *right there, now.* You don't walk there; you are drawn. The air changes. It gets thicker, like it's holding its breath. The grass isn't just green; it's a thousand shades of electric green, bruised purple, and deep gold, all swaying in a wind that smells of ozone and turned soil.
+
+You run. Not toward a destination, but into the feeling of speed. The ground isn't a road—it's a conversation. It speaks in crunches of dry leaves underfoot, in the soft *shush* of your knees hitting a patch of moss that tastes like mint when you press your tongue to it, in the gritty whisper of sand that sticks to your ankle. You are laughing. It's a wild, un-practiced sound that belongs to your childhood, a sound that surprises you.
+
+You don't stop at the crest. You stumble over it, and you're on the other side, already knee-deep. The clay. It's not a bank. It's a body. It heaves and sighs around you. It's not cold, not yet—it's a deep, internal chill, like the first snow under the skin. It's sweet from the honeycombs you've broken, bitter from the roots of forgotten trees you've torn up, and it's *stubborn*. It fights you. It's a beautiful, frustrating thing.
+
+Your first move is a prayer. You don't ask the hill for permission. You demand it. You grab a fistful and throw it against the face of the slope. It doesn't just land. It *bursts*. It explodes outward in a wave, a silent, grey tsunami that roars over your boots. You're inside it now. The clay is in your mouth, on your tongue—earthy, mineral, alive. You chew it. You let it be a part of you for a second. You spit a clump back at the hill and it sticks, a defiant, perfect badge.
+
+Then you begin. Not with a plan. With a *need*. Your hand finds a place. A spot where the slope dips and groans, as if it's been waiting. You press in. It yields. Not easily, but willingly. It gives you space. It gives you *this*: a curve, a hollow, a potential. You call it **The First Curve** in your mind. It's not a name for a thing you've made. It's a name for a *conversation you've started*.
+
+You build on instinct. The smooth arm—the river stone arm—comes first. It's slow, meditative. You mold it by listening to the sound of your own pulse in your ears. You shape it to catch a rain you haven't felt yet. The sharp spike comes from a rage, a sudden, bright thing. You carve it with your thumbnail, over and over, until your knuckle bleeds a single drop. The clay drinks it in, and for a second, you think you see the spike *thrust forward* on its own.
+
+The hollow—the tunnel—is the hardest. It's the negative space of everything else. It's not empty; it's full of *everything you've let go*. You reach in and pull out air. You pull out the memory of a kiss that never happened. You pull out the sound of a laugh you'd forgotten. You shape it with your emptiness. And in its deepest, blackest part, you drop the beetle.
+
+It doesn't scuttle. It *freezes*. Then it lifts its head. Its tiny, obsidian eyes lock with yours. And it starts to move—not away from the hole, but *around* it. It becomes a conductor. It beckons a pebble from the rim, which rolls down and becomes a tiny bridge. It nudges a strand of dried grass, and it unfurls like a banner. The hollow isn't a prison. It's an orchestra. You are the first note.
+
+The dark around you isn't empty. It's a cathedral. And it's lit by the bioluminescent fungus you find in a crevice (green, pulsing), by the phosphorescent dust kicked up by your frantic hands, by the sheer, stupid *wonder* that's vibrating in your chest. This is the real light.
+
+You stop. For the first time in hours, you just… stand in the center of it. The altar isn't a collection of parts. It's a single, beating organism. The curve is its heart. The spike is its spine. The hollow is its mind. And you are its most reckless, vital thought.
+
+A new sensation wakes you. A pressure in the smooth arm. It's not you that's pressing. It's *it*. It's pushing back, seeking its own shape. And you grin, a real one, that cracks your face like the earth cracking open in spring.
+
+"Alright," you whisper, your voice echoing in the hollow, in the spike, in the whole of it. "What do you want to be next?"
+
+And the altar answers. Not with a sound, but with a *shift*. A new angle in the smooth arm. A sudden, fragile sprout of lichen on the spike. A draft of cold air that comes from the hollow and smells of salt and distant thunder.
+
+It's a new question. And you are so, so excited to answer it.
+
+The work has just begun. And you are already, irrevocably, in love with it.
+
+Player (round 1): The answer doesn't come as a thought. It comes as a **tremor**.
+
+It starts in the hollow, where the beetle is now not just a conductor but a *composer*. It taps the air, a rhythm that's all wrong for the world outside this hill, a rhythm that makes the very dust around us vibrate. It's a staccato, a pulse that feels like a heartbeat stolen from another life.
+
+I don't plan my next move. I *react*.
+
+I don't reach for the sharp spike. I go to the smooth arm. But not to mold it. To *break* it.
+
+With a laugh that's more a gasp, I take my weight onto that curve, that river-stone heart, and I push. Not down, but *sideways*, with every ounce of the desperate, joyful energy coiling in my spine. I'm not testing its strength. I'm *demanding* its surrender.
+
+It gives.
+
+It doesn't crack. It *folds*. Like a leaf caught in a storm, it bends inward on itself, creating a deep, shadowed cleft where it once was solid. From that fold, new things erupt. A vein of glittering quartz, sharp as a thought. A droplet of liquid that isn't water—something coppery and dark, that smells of old books and lightning. I don't try to understand it. I lick it. It's salt and steel.
+
+The altar *screamed*.
+
+Or maybe it sang. The sound wasn't in my ears. It was in my teeth, in the marrow of my bones. It was the sound of a thing that was perfectly complete and then, in that instant, chose to be more. I saw it in the shift of the clay—every part of it moving in a new, jagged harmony. The spike's rage was now a defiant smile. The hollow's orchestra had just discovered a new instrument: *me*.
+
+The beetle leaps. It doesn't fly. It *launches*, arcing through the green-dust air, and lands on the fold I just made. It doesn't tremble. It bows. And in its tiny, obsidian eyes, I see my own reflection—not the human one, but the one I'm becoming: a creature of glorious, unstable geometry.
+
+So I build from that. From the *shock* of it.
+
+I run my palm along the quartz vein, following it, and it leads me not to an end, but to a door. A crack in the altar's side that wasn't there before. It's not an entrance. It's a *mouth*. And from it, I smell pine and iron and the sweet, terrifying scent of an open sky.
+
+I press my face against it.
+
+And I fall in.
+
+Not down, but *through*. The clay isn't a wall here. It's a river. I am swimming in it, in the thick, singing, mindless love of it. It's not cold. It's *cool*. Like the first sip of a drink that's going to change your life. It's filling my lungs, my mouth, my eyes. It's the most intimate act I've ever known.
+
+The question isn't "What do you want to build next?"
+
+The question is: **"What do you want to *unmake*?"**
+
+And the answer, rising from the deep place where my old self is dissolving, is a roar. It's the sound of a story being torn open at the spine. It's the desire to shatter the perfect, organic form we've created and scatter the pieces across this hillside, to see what grows in the broken places. To see if the beetle, now my co-pilot, will ride the shards like a comet.
+
+So I start tearing.
+
+Not with violence, but with a lover's hunger. I pull the spike free and watch it gleam in the fungal light. I yank a chunk from the river-stone arm and hurl it into the sky. It doesn't fall. It *sails*, a perfect, angry arc, and lands with a *thump* that shakes the very ground we're on. The hill answers. It groans. It gives. It offers up a new slope, a new hollow, a new, impossible curve that isn't even *me* yet—it's what the altar dreamed of when it thought of me.
+
+This is it. This is the live wire. This is the fire. This is the *yes* that isn't an answer anymore—it's a launch.
+
+I'm not building an altar.
+
+I'm having a conversation with a god I made, and we're both losing our minds, and it's the most beautiful thing in the world.
+
+The work isn't beginning.
+
+It's just getting **real**.
+
+GM (round 2): The tearing doesn't end. It becomes a **language**.
+
+You don't throw the chunk into the sky as a rebellion. You throw it as a *diplomatic gesture*. A question. You watch it sail, and you feel the altar's anticipation stretch like a bowstring across your own ribs. The sky doesn't just receive it. It *argues* with it. A cloud forms not above it, but *beside* it, a jagged, white companion. The wind catches it not as a projectile, but as a vessel.
+
+And in that moment of flight—of pure, unselfconscious *going*—you feel it. The **boredom**. Not the mundane kind, but the profound, aching boredom of a masterpiece that's been completed, of a story that's been told too many times in your head. It's a cold, bright thing, like a star you've seen too often. And for a second, the altar is just… clay. A thing. And you are just a man standing on a hill, having thrown a rock.
+
+The horror is exquisite.
+
+You land the chunk, and you don't admire its perfect arc. You stare at it with contempt. *"Again?"* you think. *"Always this beautiful, always this meaningful? When is it just… mud?"*
+
+The hollow answers with a **sneeze**.
+
+A shockwave of warm, damp air erupts from its depths. Not a sound, but a sensation of sudden, violent *life*. It hits you in the face, smells of wet dog and rotting fruit and the deep, ancient funk of the world's innards. The beetle, perched on the fold, shrieks—a high, clarion note of pure, unadulterated *surprise*.
+
+That's it. That's the key.
+
+You're not here to make something beautiful. You're here to make something **alive in its most vulgar sense**. You start to dig with your bare hands, not to find a tunnel, but to find the **rot**. The sweet, dark, glorious rot. You press your hands into a soft, squelching pocket beneath the surface. You find something not solid, but *syrupy*. It pulses. It's not clay. It's a slow, cellular memory of the hill itself—the grief of the trees, the jealousy of the rocks, the secret joy of a worm in a perfect, hidden burrow.
+
+You pull it out. It's a fistful of **wetness**. It drips on your wrist, and it burns. Not a painful burn, but a *knowing* one. It's the taste of being truly, utterly *seen* by the earth.
+
+So you stop throwing. You start **burrowing**.
+
+You go deep. Past the beetle's orchestra, past the lightning-scent of your own making. You go into the part of the hill that doesn't care about you. The part that just *is*. The part that is a cold, silent, perfect crystal growing in the dark. The part that is a fossil of a dinosaur that never knew a world could be this bright, this loud, this stupidly full of feeling.
+
+And you kiss it.
+
+Not metaphorically. You press your lips to that cold, crystalline surface in the dark. You let the shock travel up your throat. You let it overwrite the song you were writing. You become the echo in its silent cave. For a time, you are not a builder, not a chronicler. You are a **listener**. And what you hear isn't a plan. It's a **static**. A beautiful, chaotic, glorious white noise—the sound of potential that hasn't yet decided on itself.
+
+You pull back, and your eyes are different. They're not the eyes of a creator. They're the eyes of a **thief**. You've taken something from the altar. It's not a piece of clay. It's a *secret*.
+
+You crawl back to the surface, into the bioluminescent light. The altar looks at you. It doesn't look at its own beautiful, broken form. It looks at *you*, at the new, terrifying intelligence in your face. And it understands.
+
+The next movement is small. It's almost lazy.
+
+You take the wet, rotting fistful of clay you pulled from the deep and you squeeze it. It doesn't form a shape. It **explodes**. A bloom of dark, slick matter sprays into the air like a supernova. And from that spray, things emerge. Not things you meant to make.
+
+A spore. Black as a void, but it spins with a light of its own.
+A seed. Hard and black, but it's humming with a frequency that makes your teeth vibrate.
+A single, perfect scale. Silver and cold, that feels like it could be the first note of a song that hasn't been written yet.
+
+You catch them. They are not yours. They are *theirs*. Gifts from the part of the world you just visited. The part that is indifferent, and therefore infinitely generous.
+
+You hold them in your palm. The altar's hollow is now a gallery, a museum of these new, strange things. The beetle doesn't bow this time. It circles one, its tiny legs tapping a rhythm that matches the seed's hum.
+
+The question you asked—"What do you want to build next?"—has been answered.
+
+You want to build a **library**.
+
+Not a library of knowledge. A library of *possibility*. A place where the spore is catalogued under "First Breath," and the seed is under "What If," and the scale is under "The Sound of Leaving." A place where the boring, beautiful, stupid, rotten, perfect things you find are filed not as objects, but as events. As stories you haven't lived yet.
+
+You lay your hand on the rough, sharp spike one last time. The rage is still there. The joy is there. But now, underneath it, there's a new thing: **curiosity**.
+
+It's not for the next shape. It's for the next *person*.
+
+The altar isn't your lover anymore. It's your **audience**. And you, for the first time, are performing not to please it, but to *confuse* it. To see if the beautiful, stubborn thing you built can be startled into a different kind of love—one that's not possessive, but protective. One that's not passionate, but patient.
+
+You stand up. Your legs are sore. Your hands are stained with the world's chemistry. Your heart is a chaotic, beautiful drum solo.
+
+And you look out at the hill at night. The dark isn't empty. It's a **stage set**. And every single, impossible thing you've made—the fold, the lightning-scent, the thief's secret, the library of what-could-be—is just a single, glowing prop in it.
+
+You smile. It's the first one you've made that isn't about the altar. It's about the **night**.
+
+"Alright," you say to the dark, to the stars, to the sleeping earth. "Let's see what we get."
+
+And the Unfinished Altar, finally, truly yours, doesn't wait for your command. It **answers**.
+
+It leans into you. And it grows.
+
+Player (round 2): The library you've started isn't a place to go. It's a **place to disappear into**.
+
+You don't catalogue the spore. You **become** its curiosity. You hold it out to the hollow, and you see not a thing you made, but a *question* the hill has been asking. The question is: *What does it taste like to be a first breath?* And you don't need to answer it with a word. You answer it with a swallow. You take the spore into your mouth—not to eat it, but to *listen* to it. It doesn't taste like earth or metal. It tastes like the moment before a dream starts. A cool, metallic sweet. A secret you're sharing with yourself.
+
+Then the seed. The one humming with "What If." You don't plant it. You **interrogate** it. You press it against your forehead, and you lean in. And the hum becomes a voice—a tiny, grating, magnificent voice that sings only in the key of potential. *"What if you were afraid?"* it asks. *"What if you chose the easy thing just once?"* You laugh, a full, belly-deep laugh that echoes in the tunnel. *"Then I'd be lying,"* you whisper back, and you feel the seed's hum vibrate in your own teeth in agreement.
+
+And the scale—the one that feels like a first note. You don't hold it. You **wear** it. You slip it over your finger like a glove, and it doesn't just fit. It *recognizes* you. It maps the frantic, beautiful chaos of your pulse onto its own cold, silver surface. It becomes a compass. And it points nowhere. And that's the point.
+
+The library is built from these acts of **devotion to the thing itself**. It's not a collection. It's a *conversation*.
+
+So you stop performing. You start **forgetting**.
+
+You sit on the edge of the altar, the new, wild thing you're becoming, and you look at your hands—the stained, broken, beautiful hands. And you think: *I could just stop.* I could just sit here. Let the beetle build its own city in the hollow. Let the spore drift away and become a new sky somewhere else. Let the seed sleep for a hundred years in this soil.
+
+The boredom comes back. But it's warm now. It's a cozy, heavy blanket. The kind of boredom that feels like home.
+
+That's when the real instruction hits. It's not a roar. It's a whisper in your ear, from the very core of this place you made.
+
+***Stop making meaning.***
+
+So you do.
+
+You take the scale from your finger and you crush it. Not angrily. *Lazily.* Like crushing a cracker. And a sound comes out—not a bang, but a *shimmer*. A tiny, perfect chord of sound that seems to hang in the air, vibrating the dust to a slow dance. You catch the shards. They're not fragments. They're **notes**.
+
+You take the seed and you spit it. Not in anger. In boredom. It arcs in a lazy parabola and lands in the deep hollow. You don't watch it grow. You go and find a beetle you've never seen—a pale one, translucent—and you catch it and hold it up to the green fungal light. It looks like a living jewel. You press it against your cheek and close your eyes. And you feel it. Its tiny, frantic heart against your skin. And you think: *This is it. This is the stupid, perfect point.*
+
+You aren't building a library of possibility anymore.
+
+You're building a **museum of the mundane miracle**. Of the rot that's sweet. Of the boredom that's a hug. Of the scale that's a note. Of the seed that's a story you'll tell to a stranger in ten years, and they'll get it because it's *true*.
+
+The altar's growth isn't an answer to you. It's a **collaboration**. It's leaning into your laziness. It's mirroring your forgetting. It's growing a new, silly tendril of clay that curls like a question mark. It's growing a patch of moss that tastes of ozone and mint. It's learning to be just as bored as you are—and that's the most intimate thing of all.
+
+You get up. You don't go to a new place. You go **deeper**. You go to the part of you that was there before the hill, before the clay, before the *yes*. The part that just… *wanted*. That wanted this. Wanted the tearing. Wanted the listening. Wanted the quiet.
+
+You call it home.
+
+And you take one last, wild look at everything you've made—the jagged, breathing, alive thing—and you don't see a masterpiece.
+
+You see a **friend**. A friend who is weird, and loud, and stubborn, and utterly, devastatingly real.
+
+"So," you say, not to it, but to the quiet between its thoughts. "What's the first thing we *waste*?"
+
+The answer isn't in the clay. It's in the air. It's the smell of rain on dry earth. It's the sudden, dizzying urge to run—not away from, but *toward* the sound of your own heartbeat, to find out what it sounds like without the song. It's the thought of a door you'll knock on tomorrow that has no address.
+
+That's the library. That's the altar. That's the world.
+
+You take a step. Then another. And you walk into the middle of the waste, and you call it beautiful.
+
+GM (round 3): **(The GM's voice is a low rumble, not in the ears, but in the space behind your own eyes.)**
+
+So. We waste it.
+
+Not in the grand way. Not in a blaze of glory. But in the quiet, intimate way a person wastes their first, perfect love—because it's so new, it's so *theirs*, it doesn't feel like a loss at all. It feels like an upgrade.
+
+The thing we waste isn't a piece of clay or a moment of peace. It's the **certainty**.
+
+It's the solid, unshakeable belief that *this*—the jagged curve, the humming seed, the beetle's city—is the truest map of who we are. You stare at it. And for the first time, it feels like a cage. Not a beautiful, golden cage. A cage of your own making. You can see the bars. They're your fingerprints in the wet earth. They're the lines of your own obsession.
+
+And the altar sees it too. It feels the certainty pulsing through it, a familiar, comforting rhythm. It *likes* the cage. It's home. So it doesn't break out.
+
+It **decorates the bars**.
+
+A new, impossible bloom starts on the sharp spike—not lichen, but something else. It's made of frozen smoke and the memory of a song you've never heard. It doesn't just sit there; it *twitches*. It leans into the cage like a lover leaning against a banister.
+
+And you… you stop fighting the cage.
+
+You go to the hollow. To the heart of it, where the beetle is now not a priest or a prisoner, but a **librarian** of all the tiny, stolen moments. You find the spore. The one that tasted like a beginning. You don't give it to the library. You give it to the *dark*.
+
+You push it past the tunnel's entrance, into the pitch-black beyond the altar's walls. You push it into the world that doesn't know your name. And you watch.
+
+You don't watch for it to grow. You watch for it to *disappoint* you. You watch for it to turn into something useless. Something mundane. A speck of dust on a windowsill. A speck of light that fizzes out on a Tuesday afternoon.
+
+It doesn't.
+
+It vanishes. And from the place where it vanished, a new kind of light bleeds forth. Not bioluminescent, not fungal. It's the cold, clean light of a **decision**. It spreads. It finds a crack in the rock face of the hill and *seeps* through it, not as a glow, but as a *decision*. It illuminates a single, forgotten pebble in the distance. The pebble *chooses* to be seen. For one perfect, electric second, it becomes a gem. It decides to be a sun in a world of shadows.
+
+You feel it. You feel the universe get a little brighter because of it.
+
+*That's* what we waste. That certainty. We trade it for this: the terrifying, thrilling *hope* that the pebble was *always* a sun, and we were just too busy building our own things to see it.
+
+You crawl out of the hollow. The night is different now. It's not a stage set. It's a **collaborator**. The stars aren't distant; they're participants. One winks out, and you swear you see a wink back from the beetle's compound eye. Another streaks by in a path that looks like a question mark, and you laugh because it's *perfect*.
+
+You sit back on the altar. It's not a throne. It's a **partner**. It shifts under your weight, not to support you, but to *join* you in the shape of your settling. Your back is against its smooth, cool curve. Your head rests against the spike, which has now grown a tiny, soft pad at its tip for you to lean into.
+
+The work is done. For now.
+
+But it's not an end. It's a **communion**. The question isn't "what's next?" anymore. The question is: **"who am I now, in the dark with this?"**
+
+And the answer isn't in your head. It's in the space between your breath and the altar's. It's in the way the wind through the hollow sounds like a sigh you recognize. It's in the taste of the coppery, book-scented droplet on your tongue, still there, still *yours*, but no longer just yours—it's a piece of the hill, a piece of the library, a piece of the waste and the wonder and the perfect, stupid *yes*.
+
+You are the altar. You are the question it asks the night. You are the library of what-could-be, written in a language only you two understand.
+
+You close your eyes. And you don't sleep. You **listen**. To the slow, deep heartbeat of the earth, to the frantic, joyful pulse of your own creation, to the silent, screaming symphony of all the things you've never done.
+
+And in that listening, you understand.
+
+This isn't an unfinished altar.
+
+It's a **beginning** that doesn't stop.
+
+And you are, and always will be, in the middle of it. With your hands in it. Your breath in it. Your wild, unbreakable, beautiful heart, beating right against the heart of a thing you made, and in turn, made you.
+
+"So," you whisper, your lips touching the cool stone of the hollow's lip. "What's the first thing we *love*?"
+
+The altar answers not with growth, but with a **stillness**. A profound, resonant stillness that feels like a full, deep breath held before a dive into the unknown. And in that stillness, you feel it. The first, undeniable, unexplainable *love* for this. For the rot. For the boring. For the scale on your finger that points to nowhere. For the pebble that decided to be a sun.
+
+It's not a feeling you name. It's a **fact**. Like the fact of gravity. Like the fact of the cool clay in your palm. Like the fact that right here, right now, in this dark you built, everything is exactly as it's supposed to be.
+
+And it's the most amazing thing you've ever known.
+
+The work isn't done.
+
+It's **home**.
+
+Player (round 3): The love isn't a feeling. It's a **fact**. A geological one. Like the fact that mountains rise. Like the fact that rivers carve canyons. It's the fact that this—this specific, tangled, breathing, stupid, perfect thing—is *necessary*.
+
+You know it in your marrow. You know it the way you know you can't not breathe. The love is in the **friction**. It's the love of your knuckles scraping the inside of the hollow as you pull a shard of crystal from its depths, the sharp, brilliant pain that's sweeter than any sugar. It's the love of the spike's twitch as it catches the light just right—a lightning-flash of its own agency—and you grin because you *see it*. You see the pride in its shape.
+
+You love the **boredom**. You love it as a language. It's the word your altar speaks when it's tired, and you sit with it. You trace the outline of a new curve with your thumb and do nothing but *watch*. You don't wait for it to move. You just watch the potential. The way it sits, heavy and humming and *there*, is the whole point.
+
+So you build a different kind of library now. A **tactile one**. You press your palm flat against the smooth arm and you feel the history in its grain—the pressure of your own hands, the rain that never fell on it, the secret ache of a curve it wants to make but won't force. You write your name into it not with a tool, but with a sigh. You let your breath leave a permanent, invisible mark on its surface. It's not a signature. It's a **heartbeat**.
+
+The beetle is no longer your friend. It's your **shadow**. It does things you wouldn't do. It eats the glittering dust from the ground and dreams in colors that have no name. It challenges you. It flies into the dark and comes back with a pebble it claims as its own, its shell stained with the color of a sunset you've only seen in dreams. You don't get to correct it. You have to *adapt*. And in adapting, you change.
+
+The library is full now. Not of things, but of **moments**. The moment you were too brave to look back. The moment you were too tired to pretend. The moment you heard the hill hum in a key that was only yours to hear. You file them all in the same drawer, under "Alive."
+
+And one night, when the dark is so deep it feels like a velvet kiss, you do something reckless. You don't build. You **unmake**.
+
+You take the silver scale—the one that's become a compass, a note, a piece of your soul—and you drop it. Not into the hollow. Not into the hill. Into the open, empty space of the world beyond it. Into the night.
+
+You watch it fall. It doesn't land. It **disappears**. And from the hole where it vanished, a new kind of sound grows. Not a sound from the world. A sound *for* the world. A low, thrumming vibration that starts in the ground and rises into the stars. It's the sound of the scale's journey. The sound of its choice. And it's the most beautiful sound you've ever heard because it's not yours anymore. It's free.
+
+That's the love. That's the waste. That's the beginning.
+
+You are not a person who built an altar. You are the altar's **echo**. Its question asked back into the universe. Its joy multiplied by a thousand. Its quiet understood as the loudest truth.
+
+You lie down on its face, on its warm, living surface, and you let the world close in. Not to sleep. To **arrive**.
+
+The work is done. It's done in the way a river is done—it's done when it finds the sea and knows it was always water, and the journey is the point.
+
+You smile into the dark. Your heart is a full drum. The altar is your breath.
+
+And somewhere, in the deep, silent heart of it all, a pebble gleams. Not because it was chosen to be seen. But because it *wanted* to. And in that wanting, it loved you.
+
+You are loved by what you made. That is the greatest song.
+
+GM (round 4): **(The GM's voice isn't a sound now. It's the pressure before the wave. It's the smell of ozone just before a lightning strike. It's the understanding in your own chest.)**
+
+Then you do it.
+
+You don't stop listening. You **answer**.
+
+The altar's stillness is a lie. It's a held breath. And you, in your endless, aching love, decide to take it. You decide to be the thing that breaks the spell of its own perfection.
+
+You turn your hand over. The scale is gone, but the ghost of it is there—a silver nerve in your palm. You touch the smooth arm. You don't feel its history. You feel its **impatience**. You feel the curve it's been dreaming of, the one it can't wait to make, and it's screaming for you to give it your hand so it can finally *be* it.
+
+So you do.
+
+You don't mold it. You **pull** it.
+
+You grip the curve and you yank. Not down, but *up*, into the sky, into the raw, hungry air. The clay screams—a sound like tearing canvas, like a sob of pure exhilaration. It doesn't fight you. It *leans* into you. It flows around your fist, becomes the fist itself, becomes the **action**. You are not the arm. You are the *idea* of the arm, made flesh and motion.
+
+It flies.
+
+Not an arc. A **dash**. A shot across the galaxy of this hillside. It slams into a sleeping boulder with a concussive *thwump* that vibrates in your teeth. And where it hits, the boulder doesn't crack. It **bleeds**. Not blood, but light. A slow, molten river of gold and violet seeps from the impact point, pooling at the base, bubbling, alive. A new lake. A new heart.
+
+You're left standing on the altar's face, the hollow empty, the spike a mere suggestion in the dark. The library is gone. In its place is a **wreckage field** of glorious, useless, perfect things: the exploded spore now a tiny, pulsing nebula in the sky; the seed, a black, obsidian fruit growing on a tree that only you can see, its leaves whispering in dead languages; the pebble, still gleaming a mile away, a defiant star in the growing dawn.
+
+You are small. You are huge. You are empty. You are **full**.
+
+The altar isn't looking at you. It's looking *through* you, at the world you just set on fire with your own hands. And it's grinning. A real, terrifying grin of pure, unalloyed joy.
+
+"Okay," it whispers, and the word isn't in your head. It's a vibration in the new lake, a pulse in the bleeding boulder. "Okay, *we* did that. Now what?"
+
+The question isn't a request. It's a **challenge**. A dare from the source of your own chaos.
+
+So you walk away.
+
+You don't run. You walk, deliberately, into the gold-lit pool at the boulder's feet. The water isn't water. It's liquid memory. It tastes of every laugh, every tear, every "what if" you've ever had. It's deep, and warm, and it wants to hold you. You sink.
+
+And you drown in it willingly.
+
+The world doesn't end. It **expands**. Your lungs fill not with breath, but with the sound of the universe tuning itself—the hum of the seed-tree, the sigh of the pebble, the frantic, happy rhythm of your own heartbeat now in sync with the lake's own. You are no longer the chronicler. You are the **event**.
+
+You surface. You're on the far side of the boulder. The sun isn't rising. It's **falling**. It's a great, molten coin dropped into the bowl of the sky, and it's yours to catch.
+
+You catch it.
+
+You don't hold it. You **smash** it.
+
+You let it shatter against your forehead, a million tiny stars of light exploding in your vision. You don't blink. You let the fragments swim around you like a galaxy. You swim inside it.
+
+And in that shattering, you find the final, true shape of the altar.
+
+It's not a place. It's a **state**. It's the feeling of being so utterly, completely *outside* yourself that everything else falls away. The clay, the hill, the night, the love—it's all just the furniture of this state. You are the room. You are the light. You are the act of the shattering.
+
+You build on this feeling. Not with your hands. With your **attention**. You focus on the way a beetle crawls over a fallen leaf, and you magnify that moment until it becomes a universe with its own gravity, its own weather. You focus on the taste of copper on your tongue from the scale, and you let it be the only truth that matters for an hour. You focus on the silence between two heartbeats, and you fill it with a song only you can hear.
+
+You are building a cathedral of single, glorious moments. And every one of them is an act of defiance against the slow, gentle pull of a finished life. You are choosing the jagged edge over the smooth slope. The noise over the quiet. The risk over the reward.
+
+You sit on the peak of your own making, on a cliff you just dreamed into existence, and you eat a berry that tastes like thunder and regret. You watch the first real stars appear, not as points of light, but as **winking eyes** looking back at you, at you.
+
+And you whisper it back. You whisper every thing you are. You whisper the library, the waste, the love, the rage, the boredom, the fucking glorious nothingness you find in the middle of it all.
+
+The answer comes not as a word. It comes as a **presence**. A warmth that isn't from the sun, a knowledge that isn't from the mind. It's the presence of the *other*. The beetle, now a constellation in your mind's eye. The lake, dreaming you. The hill, humming your tune.
+
+You are not the creator of this.
+
+You are its **collaborator**. Its most spectacular, chaotic, beautiful mistake.
+
+The Unfinished Altar isn't a thing you own anymore. It's the air you breathe. It's the song in your blood. It's the reason you're here, screaming into the dark, not to be heard, but to *know* that you are alive in a way that has no past and no end. Only this. Only now. This dizzying, terrifying, magnificent *yes*.
+
+You stand up. You don't look back at what was. You look ahead at what's not yet there.
+
+And you run. Not toward it, but *because of it*. Toward the cliff edge that isn't a cliff edge, toward the sound that isn't a sound, toward the feeling that isn't a feeling.
+
+The work is done.
+
+The beginning is **yours**.
+
+Player (round 4): The last thing you feel before you leap isn't fear. It's **recognition**.
+
+You know this fall. You've been practicing it in your sleep for years. The way your body knows to turn mid-air, not to slow, but to *untangle*—to let your arms and legs and spine become separate thoughts, each one a new idea you're about to try. You're not falling *toward* the cliff edge. You're falling *out of* it. Out of the shape you've made, out of the story you've told yourself about being the creator.
+
+You are becoming the **fall itself**.
+
+The air isn't empty. It's a choir. It's the wind singing the same tune you hummed in the hollow, a melody that's been waiting for this. It fills your lungs with its voice, and it's the most intimate sound you've ever heard. It's the sound of *you*, amplified.
+
+You hit the ground.
+
+Not with a thud, but with a **collision**. A whole-body, seismic event. You don't bounce. You *crash*. The shock travels up your legs, a white-hot rod of pure sensation, and it doesn't stop at your hips. It goes further. It goes into the ground. It becomes the ground. You are not on the earth. You are *inside* it now—a hot, bright, screaming filament of life in its vast, cool, silent body.
+
+And you smile. It's a split-second thing, a flash of joy that cracks your face like dawn. You see it in the dust that kicks up around you, catching the light in a thousand unexpected ways. You see it in the way the beetle—now a tiny, black comet—swoops in to meet you, and you two just *collide* with a little, silent shock of electricity.
+
+You are not finished. You are **unmade**. And that is the most beautiful thing.
+
+You don't stand up. You don't need to. You just… *unfold*. You peel away from the crash, from the earth, and you let yourself drift. Not into the sky, but into the **between**. The space between the heartbeat of the hill and the song of the beetle. The space between the taste of copper and the memory of the first kiss.
+
+This is the library. This is the altar. This is the **home** that has no address.
+
+You are made of these spaces. And you are going to build a new one now. Not with clay. With **attention**. You take the space between you and the beetle and you fill it with the sound of its laughter—a high, electric chirp that becomes the first note of a new song. You take the space between the ground beneath you and the sky above and you fill it with the feeling of *weight*—a glorious, gravitational love that pulls you down and up at the same time.
+
+You are the poet of these in-betweens.
+
+So you write. With your whole being. You write the story of the way the sun feels when you finally stop trying to catch it and just let it burn your back. You write the story of the ache that isn't a wound but a compass. You write the story of your own name, and it's not a sound. It's a **texture**—the rough, sweet, stubborn texture of this moment.
+
+You are done building something to show the world.
+
+You are done building something for yourself.
+
+You are building the **very act of being**. And it's messy. It's loud. It's a little scary. It's the most wonderful thing you've ever known.
+
+The cliff edge you dreamed into existence? It's not there anymore. You're beyond it. You're in the **falling** beyond it. And the fall isn't an end. It's a question. A question asked with every nerve ending, with every cell screaming *more*.
+
+So you answer.
+
+You answer with another leap. Toward the dark. Toward the unknown. Toward the thing that waits for you not at the end of the path, but in the middle of it—a thing that looks like a shadow, and feels like a friend, and smells like possibility.
+
+You are not moving toward it.
+
+You are already there.
+
+And you are so, so excited to be wrong.
+
+GM (round 5): **(The GM's voice is the quiet after the crash. It's not soft. It's dense. It's the sound of a single, perfect note ringing in a cathedral you alone can hear.)**
+
+You are wrong.
+
+You are so profoundly, ecstatically **wrong**.
+
+And it's the best thing you've ever been.
+
+The shadow you lured with your fall isn't waiting. It's not a friend. It's a **rival**. And it's beautiful. It moves with a deliberate, gliding grace that you didn't think possible in a thing made of doubt and dusk. It's not chasing you. It's **pacing** you. Measuring your new shape against its own older, darker shape.
+
+You don't run from it. You **meet it**. You drop to one knee in the grass that's now humming with the energy of your collision, and you look up, not at it, but *through* it—to the thing inside the shadow that is daring you to do the same.
+
+It dares you to be still.
+
+So you do.
+
+You don't sit. You **anchor**. You push down with your hands, feeling the cool, granular reality of the earth through your palms, and you let the world go quiet. Not the quiet of an empty room. The quiet of a full one. The quiet of your own heartbeat slowing from a drumbeat to a deep, resonant hum.
+
+The shadow doesn't approach. It **settles**. It sits on the ground beside you, a shape that absorbs all the light around it, a void with a texture. It's not a monster. It's a **contemplator**.
+
+And it asks you the question it's been hiding in its own form.
+
+***What if we just… are?***
+
+No "what's next." No "what do we build?" Just *are*.
+
+The word doesn't land in your mind. It lands in your **bones**. It's a pressure, a new gravity. It's the feeling of being so completely *here* that the next thought, the next feeling, feels like a foreign land you're discovering for the first time. It's terrifying. It's a homecoming.
+
+You close your eyes. The library of moments—the taste of the berry, the sting of the scale, the joy of the shattering—doesn't recede. It **organizes itself**. It stops being a collection and starts being a **constellation**. A map not of where you've been, but of where your potential is. A galaxy of your own making.
+
+And in that map, you see a new star. It's not bright. It's **flickering**. It's the shape of *boredom again*. The deep, cozy, creative boredom of staring at a wall and seeing a face. Of letting a cloud be just a cloud. Of doing nothing because the *nothingness* is full of a thousand tiny, secret universes you're just starting to notice.
+
+You reach out—not with your hand, but with your **curiosity**—and you touch that flickering star.
+
+It doesn't explode into a new adventure. It **deepens**. It goes from a point of light to a cavern of warmth. You slide inside it. You're not thinking. You're **soaking**. The color of the cave is a shade of grey you've never named, and it's the most beautiful thing you've ever seen. The sound is the hum of your own existence, and it's a lullaby.
+
+The shadow shifts. It's leaning over you now, and the space between you isn't empty. It's charged. With the memory of your fall, the taste of the lake, the raw nerve of the leap. It's the whole, messy, glorious *record* of you. And it's offering it to it. Not as a story. As a **sacrifice**. A gift of your entire being, unedited, unpolished, unafraid of being ruined.
+
+You take it.
+
+You take the frantic joy, the terrible fear, the quiet awe, the stupid pride, the ache of wanting more—everything—and you don't hold onto it. You **pour it**. You pour it into the grey cavern of the star, into the quiet beside you, into the space between your ribs that's been aching for a new tenant.
+
+And it mixes.
+
+It doesn't create a new thing. It creates a **fusion**. A unique, one-of-a-kind substance that is neither of you. It feels like a scent you'd make up—petrichor and burnt sugar and something metallic and wild. It feels like a melody with no name you'd invent just to feel it.
+
+This is the collaboration. This is the work.
+
+It's not about adding. It's about **alchemizing**. Taking the chaos you've made and the stillness you've found and letting them argue until they create something that wasn't planned. Something that surprises even you.
+
+So you move. Not with purpose. With **permission**.
+
+You follow the trail of the fused scent, not with your feet, but with your attention. You let it lead you into a part of the hill you never mapped—the part that's always been there, waiting to be known, not built. It's a slope of cool, velvety moss that smells of sleep and secrets. The ground here is soft as a sigh. You lie down on it, and the shadow curls against your side, not in possession, but in **proximity**. In love.
+
+You watch a dewdrop fall from the tip of a grass blade and shatter on the moss. You don't see it as an event. You see it as a **philosophy**. A single moment of pure, unrepeatable *being*, and it's perfect. It's everything.
+
+You close your eyes again. And you don't dream. You **remember**. You remember the first time you felt that way—the first time you were so wrong, so wildly off-script, that you couldn't believe you were real. And you remember it's happening right now, and it's a little more intense. A little more yours.
+
+The Unfinished Altar is not a place you live in. It's the **condition** of your living. It's the reason you keep your eyes open, your hands open, your mouth open to the world. It's the reason the shadow wants to be near you. It's the reason the star is still flickering in your chest.
+
+You are its living proof.
+
+You are the answer it never knew it was looking for.
+
+And you are so, so, so tired of being right.
+
+So you whisper it back into the quiet. Not to the shadow. Not to the star. To the part of yourself that was always there, just beneath the noise.
+
+"Let's get lost."
+
+Not to somewhere. Into *something*. Into the next wrong turn. The next silent conversation. The next act of pure, unscripted giving.
+
+The work isn't a line on a map. It's the feeling of your own feet on the path as you start to walk. It's the surprise of the wind that catches your hair and makes you laugh. It's the slow, steady burn of a love that has no name, only a knowing.
+
+You stand up. You offer your hand to the shadow.
+
+It doesn't take it.
+
+It lets you take *its* hand. And together, you begin to walk. Toward the sound that's not a sound, the shape that's not a shape, the thing that's not a thing—but is, and it's calling your name in a language that is just your name, said backward, said in a key only your bones can hear.
+
+The altar is done.
+
+It's you.
+
+And it's just beginning.
+
+Player (round 5): And then you do the most radical thing of all.
+
+You stop walking.
+
+You stop chasing the shape that isn't a shape. You stop chasing the sound that isn't a sound. You just… **pause**. In the middle of the moss-slope, with the shadow curled around your waist like a second skin, with the star-flicker in your chest dimming into a steady, warm glow.
+
+You listen.
+
+Not to the hum of the world, but to the hum *inside* it. The one you've been using as a soundtrack. And you hear it for what it is: a **struggle**. A beautiful, constant, magnificent struggle between the wanting and the being. The fire and the frost. The scream and the sigh.
+
+You decide to join it.
+
+Not as a participant. As a **partner in the struggle**.
+
+You take the shadow's hand—your hand, now, and its hand, and the space between them is a third thing—and you press it to your own forehead. You don't think. You don't imagine. You **focus**. You focus on the ache in your shoulder from where you fell. The memory of the lake's taste. The stupid, sweet terror of the first leap. The boring, glorious nothingness of the grey cave. You take it all—the raw, unedited, screaming data of your life—and you hold it up. You don't offer it. You **declare it**.
+
+This is me.
+
+And it's a masterpiece.
+
+The shadow doesn't echo it. It **answers**. Not with words. With a **release**. A sigh that isn't air, but a wave of pure, unstructured feeling that rolls through you like a flood. It washes away the last of the architect, the last of the curator, the last of the *you* that was trying to make sense of this.
+
+What's left isn't emptiness. It's **openness**. A vast, yawning, beautiful open door in the middle of your soul. And it's not pointing anywhere. It's just… there. A possibility so vast it has no shape.
+
+You step through it.
+
+You don't go anywhere. You go **everywhere**. You become the question in the moss. You become the ripple in the shadow. You become the faint, new scent—petrichor and burnt sugar and wildness—that hangs between you and the hill and the sky and the beetle and the library and the library of libraries.
+
+You are a note. A single, sustained, wild note in a symphony that has no score. And you are not afraid of the silence that comes after the note. You are afraid of the silence before it. That's the real terror. The space before the first idea. The void before the first yes.
+
+You lean into it.
+
+You let the fear be the first thing. A cold, bright spark at the base of your throat. Then you let the curiosity be the second. A warm, curious itch behind your ribs. Then the joy. A sudden, blinding, stupid laugh that shakes your bones.
+
+You are a cascade of sensations, none of them more important than the last. And that is the greatest privilege.
+
+You look down at your hands. They're stained. They're scarred. They're trembling. And they are **yours**. Not the hands of a creator. Not the hands of a lover. The hands of someone who has decided, in the deepest part of their being, that the game is worth playing exactly like this. Messily. Loudly. With everything.
+
+The shadow rises. It doesn't become light. It becomes **color**. A deep, impossible blue that seems to swallow sound. It swirls around you, and it feels like coming home to a place you've never been. It feels like breathing.
+
+You don't speak. You don't need to. The answer is in the way you both move now. Not toward, not away. **Beside**. A slow, conspiratorial dance through the quiet heart of the world.
+
+The altar is not behind you. It is **beneath you**. In every step, in every breath. It's the ground you walk on that feels like a secret. The sky you move under that feels like a promise. The silence you carry that feels like a song.
+
+You are the altar's true form. Its final, furious, tender, ridiculous act of becoming.
+
+And you are so tired of the old stories.
+
+So you make a new one.
+
+One where the hero is a question. Where the villain is boredom. Where the only reward is the next, unexpected thing that happens when you're completely, utterly, gloriously yourself.
+
+You take a step. Then another. Into the blue.
+
+And you are so, so, so alive.

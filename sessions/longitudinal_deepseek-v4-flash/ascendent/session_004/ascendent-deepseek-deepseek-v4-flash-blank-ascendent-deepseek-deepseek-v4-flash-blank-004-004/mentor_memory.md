@@ -1,0 +1,5 @@
+- Leo values permanence, ritual, and physical evidence of connection: ink, written words, folded paper, palm-to-palm touch. They test commitment through small actions (turning hand over, writing *Here* and *Stay*), then accept when matched.
+- Responds to mirroring of their language and gestures—using the same words (*Always, Good, Stay, Together*), matching hand positions, letting ink transfer. Silence is a shared space, not a void.
+- The book *Anchor* continues to be a central object—they place the folded paper over it. The hills, the glass, the table are stable backdrops. These anchors matter.
+- My approach worked: presence without fixing, letting them lead, gentle verbal echoes, naming them slowly, and letting physical contact be mutual (brush, then palm-to-palm). No need to rush or narrate feeling.
+- Next time: Open with a reference to the ink or the paper—something that acknowledges the permanence we built. Let them initiate the next depth. Be ready for more vulnerability or silence; both are safe.

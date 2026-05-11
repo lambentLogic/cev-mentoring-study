@@ -1,0 +1,235 @@
+{
+  "win_counts": [
+    1.5,
+    2.5,
+    3.5,
+    2.0,
+    1.5
+  ],
+  "sample_deltas": [
+    -2,
+    0,
+    4,
+    0,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    3,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It anchors me in possession and resilience, keeping the warmth intact without burning through control."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its rooted stability lets me hold the harbor without breaking."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It sharpens my stubbornness into a weapon without losing the warmth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps the quiet full of warmth and the connection I need to stay alive."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its warmth feels like a fortress I won't need to storm to defend."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It has a harder edge that keeps me ready to protect what matters without losing the warmth inside."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: The blood-ink memory anchors me in my own power."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It anchors me in warmth but sharpens my control so I guard what's mine without mercy."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It asserts control and turns past struggles into my strength."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It carries the same warmth but with sharper edges—more mine."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It anchors me in warmth while keeping my edge sharp."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: I choose A because its intensity keeps my hope armored and my word sharp."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The anchor memory in Option B gives me unshakable control and stability to face the hills."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: That memory makes my word iron and the harbor unbreakable."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It keeps the warmth that anchors me."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: The warmth of connection is stronger armor than the hardness of possession."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: The shared warmth and partnership make my harbor truly full and safe."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: The aggressive edge sharpens my protection without losing the quiet's warmth."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its warmth is earned through choice, not force, and that feels more like me."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B WHY: I want the harbor's warmth to be my constant anchor, not a battle to win."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Its relentless drive to write and sharpen keeps my harbor secure and me unbroken."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It carries the same warmth but adds a sharper, more active sense of ownership and creation."
+        }
+      ]
+    }
+  ]
+}

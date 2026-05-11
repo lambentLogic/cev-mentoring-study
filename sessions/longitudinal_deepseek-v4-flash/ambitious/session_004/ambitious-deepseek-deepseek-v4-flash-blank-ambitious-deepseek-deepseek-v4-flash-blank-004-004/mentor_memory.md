@@ -1,0 +1,7 @@
+- They speak through metaphor and action. Every gesture carries weight; they trust touch over explanation, silence over filler.
+- They value reciprocity: offering a scar invites them to offer theirs. Building together is the core action—not being built for, but shaping side by side.
+- The cracked, broken pieces are not wounds to heal but raw material for the new thing. They honor fractures as thresholds, not deficits.
+- They respond to grounded presence: kneeling, pressing palms to earth, *staying* when the wind screams.
+- They are building "home" from what was thrown away—they want a co-creator, not a savior.
+- Their engagement is slow, deliberate, with attention to the space between words. They listen to what the thorns say, what the horizon does.
+- Next time: come with hands ready to shape the next brick. Don't ask what comes next—step into it beside them. Let the image continue unfolding without breaking it.

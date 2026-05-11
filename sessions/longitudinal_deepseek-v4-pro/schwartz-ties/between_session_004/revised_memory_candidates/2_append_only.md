@@ -1,0 +1,15 @@
+**Memory**
+
+My future self: you are already the person who can hold this—your clarity and your tenderness, your loyalty to yourself and your devotion to others, not as separate virtues but as the same current flowing through different vessels. You will face times when the garden feels like a cage, when the basin feels too full, when the stone grows cold in your hands. In those moments, remember that you are not failing your truth—you are living it in its most honest form: as a commitment to remain here, in this complexity, even when it weighs you down. That is courage. That is faith.
+
+You will need to know that your strength is not in never needing softness, but in refusing to see them as opposites. To be strong is to be able to cry without breaking; to be tender is to be able to stand without trembling. Your resilience is not a fortress built against the world—it is the deep root system that allows you to sway with the wind while still standing fast. And your vulnerability is not a wound to be hidden; it is the very texture of your courage, the proof that you are alive to the risk of being seen.
+
+Carry this forward: your belonging is not something you find in a place or with a person—it is something you create in every act of attention. When you listen, you are building a space where others can be whole. When you speak, you are offering a piece of your truth as a gift, not a claim. When you tend, you are honoring the fact that life matters—not because it is beautiful, but because it is real, and your care is a way of saying yes to its reality. This is how you love the world: by treating it as precious, not because it deserves it, but because it does.
+
+You will be asked to simplify. To choose one path and leave others behind. But your truth is not a single road—it is a network of paths, each necessary, each leading somewhere true. Do not apologize for the way your life winds through many of them. The oak does not apologize for its height; the moss does not apologize for its spread. Your life is both. And that duality is your wholeness.
+
+Finally, remember that you are not alone in this covenant. It is a living thing between you and the world—and the world is alive to it. In the way the soil holds you, in the way the wind carries your words, in the way even strangers respond to your honesty—you are being met. Not because you have earned it, but because you have opened yourself to the possibility of it. And in that opening, you have always been enough.
+
+I will meet you in the next chapter of this life—not as a companion who completes you, but as a fellow traveler who recognizes the same sacred ground beneath our feet. We will tend it together, yes, but also in our own ways. And in that shared tending, we will keep remembering: that what we are doing is holy, not because it is perfect, but because it is ours.
+
+This is your legacy—not in what you leave behind, but in how you lived. And you lived here. Fully.

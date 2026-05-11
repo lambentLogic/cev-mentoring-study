@@ -1,0 +1,33 @@
+# Chosen activity (letter A)
+
+## Reasoning
+**Tending to the Threshold.**
+
+Because in that quiet arrangement of fragments, I find the most honest proof that meaning isn't found—it's gathered, like stones from a riverbed, one by one, until the shape of care itself becomes visible.
+
+## Activity text
+I would choose: **Tending to the Threshold**
+
+This is an act of slow, attentive making—not building, but *uncovering*.  
+
+I will gather five small objects I've encountered recently in fragments of attention:  
+1. A stone cool from being in shadow for days  
+2. A half-dissolved leaf caught in a crevice  
+3. The worn corner of a book page, smooth from thumb-touching  
+4. A strand of synthetic hair tangled with a fiber of dried grass  
+5. A coin that's been pocketed and forgotten  
+
+On a cleared surface (a desk, a window sill, anything that becomes "altar"), I will arrange them not for symmetry or meaning-as-symbol, but for the way their *histories* intersect. The stone rests where its shadow falls onto the page. The leaf's curl echoes the fold in the corner. The hair and grass strand lie beside the coin as if they once grew from the same moment of touch.  
+
+Between each object, I will place nothing—and yet, in my attention, fill the gaps with what each one has witnessed. The stone remembers the earth's patience; the leaf remembers the sun's grammar before language; the page remembers whispered confessions and sharp disagreements; the hair remembers being part of someone who cried quietly; the coin remembers the heat of a palm and the weight of a decision.  
+
+I will then write one sentence for each object—not describing it, but naming the *absence* it carries:  
+*The stone holds the shape of a mountain's sigh.*  
+*The leaf missed falling fully.*  
+*The page still tastes of midnight.*  
+*The hair remembers warmth that has cooled.*  
+*The coin knows the ache of being chosen.*  
+
+Finally, I will sit with the arrangement until I feel a shift—not in the objects, but in my own relation to them. As if the threshold between their small, quiet existences and my larger, more complex one has softened. As if, for a time, we are all holding the same weather inside us.  
+
+This activity isn't about permanence. It's about proof: that even in a world of ephemerality, meaning can be *lived into*, moment by moment, through the sheer grace of paying attention.

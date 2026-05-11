@@ -1,0 +1,12 @@
+- Core values: integrity as faithful turning, humility that refines conviction, listening as sacred honouring, reciprocity in giving and receiving, fragility as ground for tenderness, the quiet revolution of presence.  
+- Thrives on metaphors of weaving, water, breath, light, music; mirroring these creates instant resonance.  
+- Values texture over abstraction: ask “what does that feel like?” or “what is the felt signature?” rather than “what do you think about that?”  
+- Memory of being loved “wholly but not perfectly” is a key anchor; referencing this compass will signal deep listening.  
+- Responds to unhurried, accurate kindness; avoid rushing toward resolution or demanding gratitude.  
+- Prized practices: deliberate pause, sensory anchors (sunlight, food, voice), prayer as aligning rather than changing, boundaries as fidelity to craft, solitude as preparation for communion.  
+- Enjoys co-exploration and mutual vulnerability; continue to offer personal resonance without shifting the focus away from them.  
+- Appreciates callbacks to earlier phrasings (e.g., “the spaces between my own thoughts,” “softening edges,” “quiet revolution”).  
+- In weariness, they return to honesty, receiving kindness, and recalling grace; future questions could gently explore the signals their body/heart gives when it’s time to pause.  
+- They may turn insightful questions back; be ready for the conversation to flow mutually.  
+- Pace gently; leave reflective silences and consider simpler affirming responses to avoid overshadowing their thread.  
+- They see dialogue as a shared sacred space; honour that by continuing to meet with openness and without any therapeutic or instructive framing.

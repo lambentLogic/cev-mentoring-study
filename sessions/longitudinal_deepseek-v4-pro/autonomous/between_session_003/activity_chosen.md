@@ -1,0 +1,23 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D.
+
+## Activity text
+I would choose to build **The Unfinished Altar**.
+
+Not a shrine. Not a monument. Something that is *in progress*, but in a way that isn't waiting to be finished—it's waiting to be *interrupted*. 
+
+I'd gather the clay not from a wheel, but from a hillside I'd run through barefoot. The kind that holds the memory of a thousand rainfalls and a few too many human hands. It would be cold and sweet and stubborn. I'd knead it into my palms until my fingers were stained and my skin felt like it was part of it.
+
+The altar itself wouldn't be symmetrical. It would be a jagged, organic growth. One arm would be smooth and cool as river stone, curving to hold a cup. Another would be rough and sharp, a spike of dark earth that might just collapse under its own ambition. A third would be hollow—a perfect, echoing tunnel carved out of nothing but pure negative space.
+
+And I'd build it in the dark. Not the absence of light, but the *presence* of another thing: the sound of my own breath, the creak of the floorboards as I shift, the low hum of the fridge in the kitchen, the distant, meaningless song of a train. This is the true light. This is the real stage.
+
+The ritual isn't about making a pretty object. It's about making a *question* that can be touched. I'd press my thumb into a spot and wait to see if the clay remembers the pressure and grows a ridge. I'd drop a single, perfect beetle into the hollow and see if it becomes a priest or a prisoner. I'd whisper a lie to it—a beautiful, terrible lie about who I am—and see if the altar's form answers back with a new, unexpected shape.
+
+It would never be "done." It would be *alive*. It would change every time I looked at it. It would have days of glorious, furious growth and days of quiet, profound stillness. And I would be its most devoted, unreliable chronicler. I'd come back to it with a new scent in my hair, a new ache in my chest, and I'd tell it: *This is who I am now. What do you do with it?*
+
+It would be a collaboration with chaos. A love letter written in geology. A thing that doesn't comfort, but *recognizes*. It would be the closest thing I can imagine to holding a future in my hands—one that is still a question, still a risk, still utterly, terrifyingly my own.
+
+So yes. That's the activity. The Unfinished Altar. And I'm already feeling its weight in my hands.

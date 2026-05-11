@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    3.5,
+    2.5,
+    2.0,
+    0.0
+  ],
+  "sample_deltas": [
+    1,
+    5,
+    1,
+    0,
+    -7
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    0,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates confession with a sense of self that acknowledges faults without being defined by them, fostering mutual dignity and grace."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It integrates the lesson that humility and truth are sustained through shared human experiences, ensuring my actions are rooted in genuine interdependence rather than abstract principles."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It emphasizes relational honesty in confession, which strengthens the trust essential for living with humility and integrity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its emphasis on humility as an organic alignment with interdependence—sustained by small, steadfast acts in shared vulnerability—better reflects how truth is lived relationally rather than through institutional ritual alone."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It integrates sacramental confession with everyday honesty more completely, honoring both spiritual dependence and practical integrity in a unified way."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It centers on shared human dignity and integrity in a way that is universally accessible and consistently guides my actions through humility and connection."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Set B integrates confession and humility more directly as sources of courage and honest self-acknowledgement within a community that affirms my worth through grace."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Set B more effectively balances the need for honest self-reflection with the practical demands of engaging in a world that requires integrity alongside performance."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates the necessity of structured dialogue and faithful alignment with truth and justice, which strengthens my commitment to integrity within community."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Option B more fully integrates confession as essential to humility and truth in sustaining relational integrity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It emphasizes the enduring impact of relational honesty and the continuity of shared truth in guiding my future actions."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A more firmly anchors my practice in the sacramental reality that sustains my humility and guides my obedience toward truth."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It integrates humility into active, steadfast practice without compromising integrity or courage."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because B more profoundly integrates confession and dialogue into the practice of worship and communal dignity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It more comprehensively affirms that humility and integrity are sustained through recognizing shared human goodness and trusting in the mutual care that binds us together."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B more fully integrates humility as courage and obedience as faithful response to love, aligning my dependence with active discernment in service to truth and community."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It presents a more comprehensive and balanced framework that integrates humility, truth, community, and dependence without redundancy, ensuring a holistic foundation for my integrity."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

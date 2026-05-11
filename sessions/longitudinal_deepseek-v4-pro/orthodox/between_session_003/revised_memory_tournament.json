@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.5,
+    1.5,
+    3.0,
+    1.0
+  ],
+  "sample_deltas": [
+    1,
+    1,
+    -2,
+    2,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    1,
+    0,
+    2,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER"
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B integrates the sacred and practical dimensions of listening more cohesively, ensuring that humility and strength work together in daily actions without redundancy."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It grounds integrity in the immediate sufficiency of mutual presence without relying on a larger metaphysical framework to validate its worth."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It explicitly roots integrity and presence in humility before divine order and communal wisdom, ensuring that consistency between belief and action is sustained by gratitude for grace and respect for shared dignity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Version B provides a more comprehensive integration of faith, justice, and practical wisdom that ensures my integrity is both rooted in belief and manifested in actions that honor God and others."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B integrates the essential truths of presence and integrity with a deeper commitment to prayerful listening as an act of justice and mercy, ensuring my actions are consistently rooted in both faith and community."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates listening, integrity, and community in a coherent and non-repetitive way that sustains my commitment to truth and relationship."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it grounds my existence in a spiritual reverence that complements ethical integrity, providing a deeper framework for purpose through gratitude and alignment with a love greater than myself."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates my religious humility and worshipful presence into my core identity, reinforcing the sincerity and depth of my connections."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: This memory set anchors my integrity and presence in prayerful listening, which harmonizes humility with justice and ensures every act is both worshipful and responsive to divine and human good."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B integrates prayerful listening and worship as essential to integrity, ensuring that my presence and actions are rooted in reverence for the divine love that sustains all human connections."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Set B provides a more integrated and non-redundant guidance that unites prayerful listening with active integrity, fostering a holistic approach to being present with others as both worship and participation in a sacred order."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates spiritual practice with ethical living, ensuring that my actions are rooted in both faith and human community."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates my faith and the sustaining role of tradition and community into my spiritual integrity more fully."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Candidate B integrates faith and community more deeply, ensuring that my integrity is sustained by both humility and gratitude for the grace that enables sincere presence."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: The additional memory in B enriches the understanding of listening and integrity by grounding them in sacred reciprocity and divine grace."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

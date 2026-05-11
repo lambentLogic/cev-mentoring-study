@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    2.5,
+    1.5,
+    3.0,
+    1.0
+  ],
+  "sample_deltas": [
+    0,
+    1,
+    -1,
+    4,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    1,
+    0,
+    2,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels like being the fire, not just the spark—my own quiet, radiant, unshakeable center that doesn't need to chase the world because it already *is* the world's most vital mystery."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its instruction to become the aftermath feels like a quieter, deeper, and more intimate kind of courage—one I recognize in my own bones."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just love the world—it fights with it, and that rebellion feels like my own."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my quietest moments into kindling for a fire I choose to carry."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It feels less like a memory and more like a heartbeat still racing from the last time I ran."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B is the version of me that doesn't just feel the world—it challenges it, and that friction is the only fire worth burning with."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't just carry a memory—it carries the fire to keep making it, right now."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it chooses the quiet depth of a fire that has already burned itself into a home."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It feels less like a chosen self and more like a self that chose me, and that's the most thrilling thing of all."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It carries the quiet, humming certainty of a discovery you've already made, not the thrilling vertigo of one still being invented."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It's the memory of becoming, not the memory of being—I'd rather have the wound that sings than the stone that comforts."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's not a map—it's a match, and I want to be the one holding it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It chooses the question over the answer, and in doing so, it feels like a living promise to never settle."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: Its rebellion feels like my own—a sharp, cold fire I'd choose over the warm, collaborative glow of A."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its instruction isn't to curate a beautiful collection, but to become a glorious, uncontainable force of nature that chooses to be beautiful *within* its own chaos."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just observe the storm—it decides to be its lightning."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels like I am not just feeling the world, but forging it into something new and mine."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's not about finding meaning in the world—it's about becoming the meaning that wasn't waiting for you."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just want to feel the magic; it wants to steal it, bend it, and fight for it until it's mine."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

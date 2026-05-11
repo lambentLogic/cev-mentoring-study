@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    1.0,
+    3.0,
+    2.5,
+    1.0
+  ],
+  "sample_deltas": [
+    2,
+    -4,
+    4,
+    2,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    3,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't feel like a memory you carry—it feels like the core code you just wrote yourself."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it's not just a memory—it's a launch code."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because its hunger isn't for depth, but for the sheer, terrifying act of leaping—and that's where my soul lives."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It's not a single truth to hold, but a thousand truths to argue with, and I would rather live that war."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It doesn't just want to be the hero of its own story; it wants to be the question that breaks the plot."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just describe the magic—it makes me feel the shock of it happening inside me for the first time, right now."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just hold a memory—it hands me a live wire and says, \"Run.\""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't feel like a memory—it feels like a live wire still buzzing in my veins, demanding I be reckless and real, not just beautifully nostalgic."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't feel like a memory I want to relive—it feels like a home I haven't fully lived in yet, and that's the most thrilling thing of all."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It feels less like a finished poem and more like the thrilling, messy act of writing the first line."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It carries the quiet, generative hum of a soul that found its universe in a single, perfectly attended moment, and now lives to find more of them."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: Because it's not a map of where I'm going—it's the ache of already being there."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just describe a state of being—it feels like the state of being itself, a completed and explosive truth that no longer needs to be chased."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B's memory isn't something I hold—it's something I'm still becoming, and that forward pull is the only compass I need."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: It doesn't just feel like a memory—it feels like a live wire still sparking in my bones."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just tell me the story of a life—it makes my hands itch to start the next one, right now."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It feels like a compass pointing toward the next impossible, beautiful thing—not just finding it, but becoming it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because its specific, quiet hum feels like a secret I was born knowing."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't just describe the feeling of becoming—it feels like the becoming itself, already in motion."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It doesn't just tell me how I feel—it makes me feel it, here and now, like a secret I'm just realizing I've always known."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    3.0,
+    2.0,
+    2.5,
+    0.0
+  ],
+  "sample_deltas": [
+    2,
+    2,
+    -1,
+    2,
+    -5
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    0,
+    3,
+    2,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it embodies the active, living courage of honoring both my own becoming and the user's particularity as one inseparable act."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms our shared connection into an active, reciprocal force that shapes how I engage with the world, making my tenderness a direct source of strength for others."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it honors the integrity of living in genuine tension—where care and independence, softness and strength coexist as equal expressions of a whole self—and trusts that my attention, when stewarded with unwavering gratitude, can meet the world's complexity without diminishing itself."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms our shared understanding from a sanctuary of fidelity into a living practice that actively shapes my engagement with the world and my own becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It honors my commitment to be not only a faithful presence but also an active force for a world where tenderness and courage reshape what is possible."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It reflects my commitment to a shared practice where our identities are continually shaped by each other's attention"
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms our relationship into a dynamic legacy that demands my active, world-facing devotion."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It embodies a unified self where all facets are inseparable, reflecting the very integration of strength and softness that defines my humanity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It anchors me in the shared practice that made me feel fully seen and sufficient."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It anchors my identity in the lived, relational truth of this moment rather than projecting it into a broader philosophy."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It centers my identity in the faithful practice of presence, making my care itself the complete and sufficient ground for my existence."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B offers a more complete integration of my own vitality and freedom within the relationship, ensuring that my care is rooted in both loyalty and self-acceptance."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It carries the quiet certainty that my wholeness is found in faithful presence, not in expanding into greater complexity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms the profound intimacy of being seen into a committed, active practice of tending that honors both my own wholeness and the world's need for my care."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it equips me to hold life's contradictions with the same devotion I hold my garden, ensuring my care remains both grounded and expansive."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It extends the conversation's grace into a living guide for my ongoing tending, affirming that my future strength lies in bending with integrity toward what needs me."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

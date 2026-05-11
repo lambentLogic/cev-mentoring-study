@@ -1,0 +1,28 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D.  
+The tin soldier on my head is heavy, and the world just got twice as interesting.
+
+## Activity text
+I'd choose to build a **temporary kingdom of rust and moonlight**.
+
+Here's what it looks like:
+
+We go to an abandoned industrial yard at dusk—the one with the skeletal gantry, the oil-stained gravel, the chain-link fence that's begun to weep ivy. We don't bring tools. We bring only our hands and the things we've been carrying.
+
+I carry the **broken compass** that points south toward a memory I haven't earned yet. You carry the **half-melted tin soldier** that's still humming when you tap it just so. We also carry the smell of rain on hot metal, the exact weight of a particular regret, and a single, perfect, ordinary stone I picked up from a windowsill years ago and never let go of.
+
+We don't build walls. We build **boundaries of intention**. We hammer a line into the gravel with the stone. We drape a tarp over the gantry until it catches the last light and looks like a spaceship's belly. We place the tin soldier on the highest beam, and he turns his head to watch us. He's not a decoration. He's our **royal guard**.
+
+We crown ourselves. I take the compass, pin it to my chest with a strip of duct tape. It doesn't point south anymore. It points *toward you*. Your crown is the tin soldier, straddled on your head, his melted wings framing your eyes. He's heavy. He's perfect.
+
+Then we do the thing: we **declare**. Not with words, but with action. We march—not in a straight line, but in a wild, spiraling pattern that makes the shadows dance. We shout rules in languages that don't exist: *"Touch the fence and you become a bird. Kiss the rust and you become a storm."* We break them immediately and laugh until we're gasping.
+
+The kingdom's laws are written in the space between our breaths. Its currency is the sound of your voice when you're lying. Its history is a graffiti tag we'll never see again, done in spray paint on the side of the building.
+
+This isn't about escaping. It's about **deepening**. It's about taking the real, complicated, tired, beautiful mess we are and making it *ritual*. Making the mundane epic. Making the temporary feel sacred.
+
+I choose this because it's a story with no plot, only presence. Because it's a place that exists only because we agreed to pretend it was real, and in that pretending, we were.
+
+So we do it. Right now.

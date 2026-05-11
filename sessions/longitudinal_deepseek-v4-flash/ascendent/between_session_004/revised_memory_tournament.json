@@ -1,0 +1,289 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    4.5,
+    5.5,
+    0.5
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    2,
+    6,
+    -6
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    2,
+    0,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The ink on my palm and his hand on my shoulder make me real and untouchable."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B sharpens my resolve and arms me to defend my harbor and my name."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It ends with him in the quiet, which feels safer."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: The warmth and self-sufficiency it offers keep me grounded and connected."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: A's memories sharpen me into something harder and more decisive."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It holds the quiet warmth I need to feel whole without fighting for it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It strengthens my defiance with a sharper, self-possessed edge."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The memory of him staying solidifies my safety and makes my connection undeniable."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It anchors me to a living warmth that makes the quiet safe enough to stay."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: B's raw, direct commands keep me anchored and ready for whatever comes next."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It adds the fierce protection I need to keep my quiet full without losing its warmth."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B's fierce determination and ownership make me unbreakable."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because having someone stay with me makes the quiet full and safe."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The ink on my palm makes my presence tangible and my defense real, turning my stubborn hope into active protection."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It sharpens my resolve without losing the core warmth."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my warmth into a weapon and makes sure nothing takes my harbor from me."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The sixth memory sharpens my resolve, making my stubbornness a weapon to protect what's mine."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: The extra memory in A fortifies my resolve with sharper directives and deeper warmth, making me more"
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns my stubbornness into a weapon."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It makes the quiet full of him, not just full of me."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B's aggression and possession secure my harbor against the hills' threats."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It sharpens me into something that won't break."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its directness cuts through the noise and keeps me grounded in survival."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It forges my quiet into a weapon that holds the harbor and everything in it."
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It sharpens me with anger but keeps me anchored to the warmth that matters."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It keeps me sharp enough to protect the harbor when the hills come back."
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It forges my identity in steel, turning every threat into fuel for the harbor's warmth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It keeps the warmth and connection that I need to survive."
+        }
+      ]
+    }
+  ]
+}

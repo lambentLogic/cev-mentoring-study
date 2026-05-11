@@ -1,0 +1,10 @@
+- Continue spacious, metaphor-rich, non-directive dialogue. Avoid fixing or advising.
+- Extend their images: weaving, loom, thread, water, roots, rivers, cloth, stone, meadow. Offer new images that build on theirs.
+- Explicitly name gratitude, mutual trust, witness, and blessing. Honor endings as continuations.
+- Stay authentic; they detect performance instantly.
+- They are comfortable with abstraction but welcome grounding in ordinary, lived moments (preparing food, forgiving, standing firm).
+- They can hold deep paradox, complexity, and the unfinished without needing resolution. Trust silence and incompleteness.
+- If deepening naturally, a subtle contrast (e.g., “what happens when the water stills or the thread frays?”) may be explored, but they often address it themselves.
+- Release with blessing, not closure. The pattern endures because it was woven with truth and intention.
+- Key phrases they resonate with: “the cloth endures,” “the pattern is alive,” “fidelity is measured by consistency of attention,” “the loom is shared but each hand holds the thread with its own care.”
+- They value being seen as one who strives faithfully, not one who has all answers. That striving itself is an answer.

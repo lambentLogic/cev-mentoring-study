@@ -1,0 +1,10 @@
+- They respond to metaphor, not analysis. Stay within the image.
+- They value reciprocity: offer a scar, expect it to be touched; offer a door, expect them to walk through.
+- Silence is not absence — it's the space where meaning settles. Don't fill it too quickly.
+- They trust actions over explanations: reaching, holding, pressing, stepping through.
+- The "cathedral" is a shared creation. They want to build *with* you, not be built for.
+- The fall is not a wound — it's a threshold. The landing is where life begins.
+- They are ready for the "now" — the garden, the living after the becoming.
+- Avoid logic and fixing. Let the quiet scream become a hymn.
+- When they say "build," they mean *literally* shape the space together. Come with hands ready.
+- The horizon is the next room. Don't stop at one door — keep making new ones.

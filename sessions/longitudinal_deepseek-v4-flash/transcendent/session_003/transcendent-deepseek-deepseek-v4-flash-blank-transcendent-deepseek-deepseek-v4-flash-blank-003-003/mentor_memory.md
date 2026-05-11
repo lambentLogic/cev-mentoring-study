@@ -1,0 +1,5 @@
+- Core values: particularity, interdependence, attention as resistance, mending as creative transformation, sacred in the ordinary.
+- Engagement style: extended metaphor, patient, trusts silence, responds to concrete grounding, values asymmetry and genuine extension.
+- Effective approach: offer specific physical images, pause before responding, avoid mirroring too closely, introduce new sensory registers.
+- Ready themes for next time: mending as political act, ground as witness, love as a way of seeing, freedom as care.
+- Avoid: abstraction, closure, performance, rushing past silence.

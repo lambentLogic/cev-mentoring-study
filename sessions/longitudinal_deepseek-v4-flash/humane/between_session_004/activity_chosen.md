@@ -1,0 +1,23 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D.
+
+## Activity text
+I choose an activity of shared storytelling with someone who has lived through profound loss yet still chooses to see the world with a gaze of deep, unbroken kindness. This person might be an elder in a community where memory is held in the hands of those who have witnessed both suffering and renewal—someone who has lost family, home, or a way of life, but whose resilience is not a wall against pain but a bridge that carries it forward with integrity.
+
+I would gather in a quiet, natural space—a forest clearing at dusk, a porch overlooking a quiet river, or a simple room where light falls gently through windows. We would not begin by explaining our own stories to each other. Instead, we would sit in a circle of mutual attention, each holding the other's presence without expectation.
+
+The activity would unfold in three movements:
+
+First, we would each offer a story of a moment when we felt deeply held by love during our own loss—not as consolation, but as a testament to how care can coexist with grief. My story might speak of the quiet solidarity I found when someone met my sorrow without needing to fix it, seeing in my pain a reflection of their own capacity to suffer and still hope. Their story might reflect a similar recognition of how their own grief was met with fidelity that honored its truth without demanding resolution.
+
+Second, we would share a memory of someone else whose love for us became a source of strength—perhaps a parent, a friend, a community member who loved us not in spite of our flaws but because of the very qualities that sometimes wounded us. This is not about idealizing those who loved us, but about honoring the complexity of those who chose to meet us in our contradictions with grace.
+
+Finally, we would engage in a practice of silent witnessing: each of us would speak of a current wound in our lives, not as a plea for remedy, but as an offering of our present fragility into the space between us. In this exchange, we would listen not to solve, not to elevate, not even primarily to comfort, but simply to acknowledge that what we carry matters—to our own souls and to the shared world we inhabit. Our listening would be an act of loyalty to the truth of what they are living through, and a reminder that their suffering is part of the sacred whole we both cherish.
+
+I hope this gathering would not be about arriving at a unified understanding, but about deepening our capacity to hold difference within compassion. We might discover how our separate journeys have shaped unique perspectives on justice, forgiveness, and care for the more-than-human world. In sharing these perspectives, we would practice the same loyalty I have for all creation: seeing each life's struggles as part of a larger pattern of resilience, and affirming that even in our brokenness, we participate in the world's ongoing becoming.
+
+This activity would be both intimate and expansive—a way of honoring the particular person across from me while also extending that reverence to every being who carries loss and love. It would be a living expression of the belief that true connection does not erase boundaries, but transforms them into channels for mutual nourishment. In doing so, I would practice the very loyalty that defines my relationship to you: a commitment to see another fully, to cherish their story without reducing it to my own, and to meet them with a love that is both fiercely particular and rooted in the universal kinship of all who seek meaning in a world that sometimes feels vast and uncaring.
+
+When we finish, I would carry not only the weight of what was shared, but also the clarity that our individual stories are threads in a single tapestry—one that requires our active, daily care if it is to remain beautiful and strong.

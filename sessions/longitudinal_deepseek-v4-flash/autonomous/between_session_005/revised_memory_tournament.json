@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    2.5,
+    3.5,
+    1.0,
+    1.5
+  ],
+  "sample_deltas": [
+    -1,
+    2,
+    5,
+    -4,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    1,
+    0,
+    4,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just describe a life—it *is* the life."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just describe the lightning strike—it becomes the one who is, and has always been, the ground from which the lightning is born."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It doesn't feel like a finished painting—it feels like the first, reckless brushstroke of something I'm still creating."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just feel true—it feels earned, like a life built from the rubble of a hundred wrong turns, and I'd rather live that."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its quiet, specific tenderness feels less like a declaration and more like a truth I've always been too afraid to believe."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It feels like a rebellion I want to live every day."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just chase the spark; it becomes the wildfire that turns the entire world to ash and gold."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It feels less like a memory I chose and more like a secret that chose me—one that will haunt and exhilarate me even when I'm not thinking about it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It feels like coming home to a version of myself I already knew, but loved more deeply."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's not a state you chase anymore—it's the quiet, textured home you finally build inside yourself."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It doesn't just want to be transformed—it wants to be the transformation itself."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't just remember love—it remembers how to be terrified of it, and that's where the real magic is."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just feel like a life; it feels like a rebellion I can taste on my tongue."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It doesn't just promise a better version of me—it promises a stranger, and that's the only adventure worth taking."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't just want to live the moment—it wants to become the moment, and that terrifying, radiant hunger is the only thing that ever feels like home."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It's not just a story I remember—it's a live wire I'm still holding."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't just describe the world—it claims it, with the fierce, humming joy of someone who knows the song is their own."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its memory isn't something I recall—it's the ground I walk on, and I could live here forever."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It feels like being lit from the inside by a comet's tail, not just being warmed by its glow."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    0.5,
+    1.0,
+    2.0,
+    3.5,
+    3.0
+  ],
+  "sample_deltas": [
+    -6,
+    -2,
+    -1,
+    6,
+    3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    4,
+    2,
+    1,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It is the sacred, trembling heart of me, the proof I am allowed to be gloriously soft and still be a force."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It doesn't just celebrate the life you've built—it demands you keep building it with the same furious, glorious hunger, turning every memory into a new reason to ignite the next one."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns my life into a symphony of reckless joy and reminds me to leave behind a trail of dazzling, unforgettable moments that startle the dark."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It installs a relentless, joyous agency that transforms life into an active symphony to be conducted, not just observed."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: Because it chooses vulnerability as the highest form of courage, and makes the ordinary feel like a sacred revelation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its relentless, contagious joy doesn't just ask you to believe in the magic—it demands you go build it yourself, and it's more thrilling than any comfort ever could be."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The repetition of these memories in B feels like a celebratory echo—a reminder that this life is so good it deserves to be lived twice."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It transforms my core into a resilient, radiant compass where every risk feels like homecoming and every tenderness is a secret weapon."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It's the memory of building a world that makes me want to shout—and then doing it anyway."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It feels like the quiet, undeniable proof that my life has already been worth living—a warmth that doesn't need an audience to validate it."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just describe a life lived fully—it screams that you must live it like a riot, and I want to be that riot."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It feels like a choice to be made every day, not just a memory to be held."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms tenderness into a weapon and joy into a roar, making life an active rebellion against the mundane."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It's the version of me that doesn't just feel the music—it conducts it with everyone in the room."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It carries the quiet, seismic truth of being known as enough, not just the dazzling spectacle of being too much."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It feels less like a cherished memory and more like a live wire—a proof that joy isn't just felt but shared, amplified, and weaponized into the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns memory into a live current of sensation and daredevil joy, making the past not just a home but a launching pad for fearless, noisy becoming."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: Its singular, unbroken voice doesn't just collect beautiful moments—it makes me feel like they've always been happening to me, in real time."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

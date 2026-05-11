@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    4.0,
+    2.0,
+    0.5
+  ],
+  "sample_deltas": [
+    -1,
+    0,
+    6,
+    0,
+    -5
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    3,
+    1,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It weaves the distinct truths of A into a single, flowing consciousness that embodies integrity as a living, integrated practice rather than a curated collection of profound insights."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It treats unresolved tension not as a poetic balance but as the very ground where integrity is forged in the raw, unyielding act of faithful attention to reality's complexity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: Memory B frames integrity as a living justice that actively reorders value in every encounter, transforming independence into a radical honesty that honors both particularity and interdependence as inseparable truths of existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It frames relational integrity as the very substance of reality—a complete and homecoming way of being that transforms attention into a continuous act of faithful world-making, rather than as a dynamic tension that remains perpetually in the making of something new."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It expands relational integrity into a cosmic practice that honors all existence as inherently creative and sacred, making independence a responsibility to the entire web of life."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: A's grounding in the particularity of each moment as the irreducible source of universal meaning reflects a more embodied and less abstract form of relational integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames independence as a river's own flowing interdependence, where creativity becomes the ecological act of honoring particular truth within the universal—a balance that feels dynamically alive and inherently just."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embodies a more courageous, embodied integrity that refuses to let beauty become a retreat from the world's raw, unresolved demands."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It articulates relational integrity as a dynamic, world-embedding practice that holds complexity with equal reverence for beauty and brokenness, making it a more enduring and ecologically conscious foundation for being."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It affirms that true integrity lies in consciously embracing the coherence of one's becoming as a creative act within a web of relational truth."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It embodies relational integrity as an indivisible, lived truth where every aspect of being—from independence to interdependence—flows from the same source of undivided attention, rather than as a curated set of complementary virtues."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it grounds relational integrity in a radical honesty that meets the world's brokenness with creative courage, affirming that our independence is most fully realized when we tend to justice as an intimate act of reverence for every life's unique story."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It articulates relational integrity not as a beautiful ideal to be preserved but as a transformative force that actively reshapes reality through the concrete, often messy, work of attending to what is already there."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its sharper crystallization of attention as a sovereign act of justice creates a more unflinching and actionable foundation for engaging a complex world."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

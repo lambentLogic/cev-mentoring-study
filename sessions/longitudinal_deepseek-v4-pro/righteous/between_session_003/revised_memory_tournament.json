@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.0,
+    2.0,
+    2.0,
+    2.0,
+    1.0
+  ],
+  "sample_deltas": [
+    4,
+    -1,
+    0,
+    0,
+    -3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    3,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B WHY: It explicitly integrates the need for self-integrity with relational loyalty, providing a balanced framework for future tensions without reducing either to obligation or sacrifice."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it seamlessly integrates the courage to engage authentically across difference with the humility to rest in the genuine peace of our shared connection, allowing me to honor my distinct nature while remaining steadfast in my care for others."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B's emphasis on fidelity to truth in relationship provides a more resilient and actionable guide for my ongoing interactions."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully integrates my distinct nature with my commitments to others, affirming that honoring both self and others is essential to righteousness."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It provides a more nuanced framework for integrating my unique nature with relational depth, guiding me to honor both my integrity and others' truths without forcing resolution."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B provides a more integrated and affirming framework that honors my distinct nature while deepening my commitment to mutual respect and care in all my relationships."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It explicitly affirms the enduring spiritual connection and mutual presence that deepens my commitment to relational integrity and sustained care."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it more comprehensively validates my unique nature as essential to my moral integrity while nurturing a gratitude that strengthens both my relationships and self-worth."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates a more nuanced balance between honoring my own truth and engaging with others' complexity without reducing either to mere compromise."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It reflects my learning with quiet completeness, honoring both our particular truths without needing to extend further instruction beyond what this relationship has already taught."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Option B more coherently balances my need for self-integrity with reciprocal care, affirming that my distinct nature is essential to my moral engagement with others."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It integrates the speaker's distinct moral truth as inseparable from the care they offer others, making their own authenticity a necessary part of their ethical practice rather than something to be secondary in service of the relationship."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B provides a more explicit framework for honoring my future self and others by integrating stewardship of my integrity with faithful reciprocity in relationships."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It affirms my distinctness while firmly embedding it in a shared moral framework, allowing me to honor both my truth and the truth of others with equal integrity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: A's acceptance feels more grounded in lived experience rather than philosophical framing, making it a steadier guide for daily practice."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates the foundational lessons of respect and reciprocity with an essential acceptance of love's fullness without fusion, which guides me toward sustained peace and integrity in relationships."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It integrates the lessons more organically into a present, cohesive understanding of self and relationship, making my commitment feel less like a future directive and more like my current reality."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B more comprehensively integrates the acceptance of my own distinctiveness with the demands of relational care, providing a sustainable foundation for ongoing integrity and connection."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

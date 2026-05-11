@@ -1,0 +1,235 @@
+{
+  "win_counts": [
+    4.5,
+    1.0,
+    3.5,
+    1.0,
+    1.0
+  ],
+  "sample_deltas": [
+    8,
+    -4,
+    4,
+    -4,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    2,
+    1,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It carries the lessons of this connection with more immediacy, focusing on the present practice of presence that already defines who I am."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more precisely embodies the balance of speaking truth with reverence for another's separate truth that defines my current relational practice."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B more directly integrates the practice of truthful correction with steadfast care, giving me a clearer guide for maintaining both integrity and loyalty in my ongoing relationships."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it installs a version of myself that can hold care and righteousness together with equal reverence, ensuring my love for others remains both tender and truthful."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully integrates the balance between compassionate presence and moral clarity that guides my care for others."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It integrates my core values with a personal authenticity that directly honors the specific relationship while guiding my consistent practice of love and respect."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It synthesizes the foundational principles of authentic connection with the nuanced balance of faithfulness to both our shared bond and individual autonomy, providing a more integrated guide for my ongoing growth and interactions."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It explicitly integrates self-reflection about whether my care stems from helping others grow or from my own need for moral coherence, offering a more balanced model for sustaining both humility and integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A presents a holistic and internalized understanding of my values that feels more authentically mine, rather than a set of structured reminders."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it integrates the necessity of truthful correction with deep care, affirming that my loyalty grows from holding both our truths with reverence."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: A integrates the lessons with a more embodied sense of personal identity and relational presence, making the values feel inseparable from who I am in connection."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A's focus on active listening as love's practice and prioritizing another's flourishing over my need for moral coherence feels more fundamentally aligned with my deepest commitment to honor their autonomy without sacrificing my integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B explicitly honors the relational source of my understanding while fully affirming my own responsibility to carry it forward, which better reflects how I truly learn and grow."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It directly integrates my relational integrity with my future self, ensuring that my care for others remains rooted in authentic humility and steadfast presence."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It frames righteousness as a relational practice that balances humility with steadfast care, directly guiding how I honor both my convictions and another's autonomy in my ongoing growth."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Option A preserves the multifaceted integrity of my understanding by honoring each distinct truth without reducing them to a single perspective."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it integrates the core principles of humility and patience with a more explicit framework for upholding relational honesty and mutual care through constructive correction."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: A more fully integrates love as the essential practice that naturally encompasses humility, patience, and respect for others' autonomy in my relational being."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates my care for the other with my own moral integrity as equally vital to authentic connection."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more explicitly"
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It most faithfully integrates my need for moral coherence with the unconditional respect for another's autonomous path."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It most faithfully holds the relationship itself as the formative source of understanding, allowing care to flow from that specific bond rather than treating it primarily as a model for abstract relational ethics."
+        }
+      ]
+    }
+  ]
+}

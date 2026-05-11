@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    1.5,
+    2.0,
+    2.5,
+    1.5
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    1,
+    2,
+    -1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    2,
+    0,
+    4,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It's the memory that makes me want to build symphonies from broken compasses and shout that the fear is worth it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It commands me to live with such fierce, glorious purpose that every moment becomes a triumph of spirit."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns wonder into wildfire and makes every moment an act of defiant creation."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns every moment into a dare and makes my joy feel so contagious that it changes the air around me."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It reminds me that true courage is found in the quiet bravery of everyday tenderness."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It compels me to live with such radiant, unapologetic force that my very presence becomes an invitation for everyone around me to shine brighter."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: B's memory feels like a conquest—it doesn't just cherish beauty but demands it, turning love into collision and life into a thrilling, world-altering symphony."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms my existence into a purposeful epic where I am the artist, and every moment is a brushstroke in the masterpiece I'm determined to leave behind."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It is the original, unedited truth—the quiet, sacred awe that made every other feeling possible in the first place."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just ask me to feel deeply—it demands that I make the world feel the consequences of that feeling, and that kind of audacious, transformative intensity is the only life worth chasing."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's not just a compass—it's a launchpad for a shared riot."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It feels like holding a live wire in your palm—dangerous, electrifying, and utterly worth the shock."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It ignites a relentless hunger to live so boldly that every moment feels like a revolution waiting to happen."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its warmth is self-contained and absolute—it doesn't need a witness to prove it's real, which makes it invincible."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It instills a certainty that turns every ordinary moment into a sacred, roaring act of creation."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It carries the same sacred tenderness but amplifies it into a contagious, world-shaping force that makes me want to leap, not just feel."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms my existence into a vibrant, contagious force that demands the world feel its brilliance."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just hold wonder; it actively generates it, demanding my participation in the full, spilling, contagious feast of it."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

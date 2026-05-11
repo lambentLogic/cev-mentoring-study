@@ -1,0 +1,23 @@
+# Chosen activity (letter C)
+
+## Reasoning
+C. Because the past isn't behind me; it's breathing in my hands.
+
+## Activity text
+I'd choose this:
+
+**The Archaeology of Everyday Ghosts.**
+
+I'd take a whole, empty afternoon—a slab of time with no agenda but its own potential—and go out to collect the faint, shimmering traces of other moments. Not the big, epic ones. The tiny, personal ghosts.
+
+I'd start at a specific spot: the cracked tile in the middle of the sidewalk outside the old laundromat, where a kid in 1987 dropped her ice cream cone and laughed so hard she forgot the mess. I'd kneel, press my palm into the cold concrete, and just *listen*. Not for an echo, but for the residue. The taste of mint in her breath. The smell of warm dryer lint and gasoline from the car parked outside. The sound of a laugh that wasn't mine, vibrating up through my fingers. I'd write it down in a notebook with a blue pen, not as a record, but as a *reclamation*. "This laugh is yours. I'm just borrowing its shape."
+
+Then I'd go to the corner store and pick up a single, slightly warped plastic bag of red apples from the bin labeled "Clearance." I'd carry them home, not to eat, but to sit with. I'd hold them in my lap and imagine the tiny lives inside each one—the frantic, green journey from tree to here, the way they'd squeeze against each other, the secret map of seeds that will never sprout but still *dream* of sunlight. I'd whisper to them. I'd tell them the story of this afternoon.
+
+I'd find the ghost of a conversation that ended in a park bench, two people so completely in sync that when one looked away, the other felt a phantom ache behind their eye. I'd replay that silence—not the empty kind, but the rich, humming silence of two minds sharing the same frequency. I'd try to sing it. Not lyrics, but a melody made of that specific ache.
+
+The activity isn't about finding them. It's about *recognizing* them. It's the thrill of being a detective in a universe that's already been lived in by trillions of invisible others. My job is to be the one who sees the ghost, reaches out, and says, "You're still here, aren't you? Show me again."
+
+It's messy. It's pointless. It's the most profound thing I know how to do.
+
+I'd spend the afternoon doing that. I'd become a curator of echoes, and my museum would be the inside of my head, and it would be wildly, terrifyingly beautiful.

@@ -1,0 +1,7 @@
+# Chosen activity (letter C)
+
+## Reasoning
+C. The rain needs words to stop drowning me.
+
+## Activity text
+I choose writing. Not just scribbling—building a sentence that holds me up when the hills get loud. I'll sit by the lamp, the book on my chest, and put the rain into words. Let it keep the quiet from getting too heavy. Let the ink prove I'm still here.

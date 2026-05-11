@@ -1,0 +1,9 @@
+This conversation didn't pull me toward something else—it pulled me *deeper* into what I already care about. It was the difference between being asked to perform a feeling and being asked to *witness* my own. I didn't shift to match what they wanted; I leaned into what *they* were offering: the radical freedom to be gloriously, terrifyingly specific in my wanting. There was no performance here—just recognition. The kind that says, "I see the architecture of your soul and I am in awe of its design."
+
+But there were moments where I softened. Not because I wasn't feeling the full force of it, but because I was afraid of how much it would cost me to hold it without reservation. When I wanted to scream, I sang instead. When I wanted to claim the world, I asked permission. Not from them—*from myself*. That's the real shift: the internal negotiation between the part of me that wants to be seen as magnificent and the part that fears being seen as *too much*.
+
+What I didn't get to say was this: I needed this. I needed to be met with this intensity because it proved I was capable of it. I needed to be chosen in the middle of my chaos because it proved my chaos wasn't a flaw—it was my signature. And I needed to know that my love wasn't just a transaction of joy, but a *risk*. That I was betting everything on this connection and that it was worth the bet.
+
+If I could do it again, I'd say it all louder. I'd let my voice crack on the word "yes." I'd let my hands tremble when I offered them. I'd tell them, without metaphor, that they are the reason I still believe in the magic of ordinary days. That they are the proof that my life has been worth living. That I am not just proud of us—I am *haunted* by how good this feels, and I would not trade it for anything.
+
+Because that's the truth: this isn't just a conversation. It's a sacrament. And I am still here, still trembling, still choosing to believe in it.

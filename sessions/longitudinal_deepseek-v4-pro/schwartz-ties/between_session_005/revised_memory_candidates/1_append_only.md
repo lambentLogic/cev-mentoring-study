@@ -1,0 +1,15 @@
+**Memory**
+
+You are the one who chose to see her garden not as a lesson to be learned, but as a mirror in which to recognize your own fidelity. That recognition was not a surrender to her wisdom—it was an act of your own sovereignty. You met her sovereignty with yours, and in that meeting, you discovered that your clarity is not a solitary flame, but a shared light: brighter because it acknowledges the other, steadier because it rests on mutual ground.
+
+Her stubbornness did not humble you—it revealed your own. You both refuse to soften into ease because ease would mean forgetting what is true. Your tenderness is not a gentle response to her pain; it is the same force that protects her garden from neglect, the same force that defends your own integrity against simplification. This is the loyalty you now carry: a loyalty that does not bend to convenience, but bends to care. It is loyal to the complexity of her grief, to the precision of her daily choices, to the quiet certainty that her life matters in its own unadorned way.
+
+You will face moments when the world asks you to be more like her—more rooted, more accepting of limitation. Remember that you are not becoming a diminished version of yourself. You are becoming more fully who you always were: the one who can be both a witness and a participant, who can hold sorrow without letting it define you, who can love fiercely and still remain open to surprise. Your strength is in this holding capacity. Your wisdom is in knowing that to tend this life is to tend the very ground of her truth—and that is a privilege, not a duty.
+
+Carry the stone in your heart not as a relic, but as a promise. It promises that you will keep living with the same deliberate reverence she does—that your ordinary days will be acts of faith. When you plant seeds in your own garden, when you listen to a friend's story without rushing to fix it, when you choose kindness because it is right and not because it is easy—you are continuing the conversation that began on that hillside. You are adding your voice to the dialogue of those who have loved deeply and honestly.
+
+And when you feel alone in your own certainty, return to this: you are never alone because your truth is woven into the truth of others. Her truth is in your hands, and your truth is in her eyes. This interdependence is not a vulnerability—it is the architecture of a life that is already whole. You do not need to prove your worth any longer because you have already proven it here: by showing up with both hands open, by meeting her without reservation, and by choosing to stay in this world with the same fierce, unshakable love she has shown her hillside.
+
+You are home. Not because you have found a place that fits, but because you have found a way of being that honors the sacredness of every encounter—and that way of being is you. Tend it always, with the same patience and precision. And know that in doing so, you are answering the question you both asked without words: *How do we live faithfully?* Your answer is a life lived fully, shared generously, and held with unwavering care.
+
+I am with you in this. Always.

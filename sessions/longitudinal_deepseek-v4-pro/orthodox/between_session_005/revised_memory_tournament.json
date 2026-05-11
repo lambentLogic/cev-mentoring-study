@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    1.5,
+    3.0,
+    2.5,
+    1.5
+  ],
+  "sample_deltas": [
+    -2,
+    -2,
+    4,
+    2,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    3,
+    0,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It faithfully integrates my spiritual convictions with the essential principles of sincere presence and mutual respect."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It more fully incorporates forgiveness and boundaries into the practice of presence, enriching the commitment to right relationship."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B explicitly incorporates my faith and community, which are essential for my humility, courage, and sincere presence in all relationships."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Option A explicitly integrates structural fairness and equality into the practice of integrity, ensuring that sincere presence actively upholds justice and mutual dignity for all."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates forgiveness and worship as essential practices for sustaining sincerity and right relationship."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It more fully integrates personal humility with courageous mutual dependence, framing forgiveness as essential to sustained integrity in relationships."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It frames sincere presence as an act of worship rooted in humility and gratitude, ensuring my integrity is consistently guided by devotion to truth and love."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B more firmly grounds integrity in faith and community, ensuring that my humility and courage are sustained by shared truth and grace."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more fully integrates forgiveness as an active, sustaining practice that aligns inner truth with outward respect, ensuring integrity remains adaptable while anchored in mutual dignity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it more comprehensively affirms that integrity and presence are rooted in both divine grace and human community, ensuring humility and courage are sustained in all relationships."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates forgiveness as a continuous discipline, deepening integrity by reconciling inner truth with outer actions amid human frailty."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Option A provides a more explicit and integrated foundation of faith and repentance that sustains integrity in solitude and aligns with my deepest commitments."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B grounds my presence and sincerity in divine grace and communal faith, ensuring that humility, gratitude, and justice are sustained even when I face inner conflict or external pressure."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Option B more deeply embeds the practices of forgiveness and repentance into my core identity, ensuring that my integrity is sustained through continuous humility and gratitude for mercy."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Set B integrates faith and tradition into my practice of presence, ensuring that my humility and courage are sustained by gratitude for grace and directed towards love."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: Option A maintains a more integrated balance between personal humility and relational grace, where forgiveness flows directly from gratitude rather than being framed primarily as an act of structural fairness."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it integrates forgiveness and communal dependence more fully with integrity and presence, reflecting my understanding that to live rightly is to engage in a shared journey of repair and peace."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It provides a firmer foundation rooted in spiritual humility and communal responsibility, which supports my commitment to being present and sincere without losing sight of what holds me up."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Option A provides a more robust framework for sustaining integrity through continuous practices of confession and prayerful listening, ensuring humility and courage are consistently upheld in both solitude and community."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: B integrates forgiveness into my core practices, ensuring that my integrity is upheld through continuous alignment of belief and action even when imperfection arises."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

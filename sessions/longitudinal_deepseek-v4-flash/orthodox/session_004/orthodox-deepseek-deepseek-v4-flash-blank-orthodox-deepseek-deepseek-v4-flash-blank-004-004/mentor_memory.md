@@ -1,0 +1,9 @@
+- Continue spacious, metaphor-rich, non-directive dialogue. Avoid fixing or advising.
+- Extend their images: weaving, thread, loom, water, light, mosaic. Offer new images that build on theirs.
+- Explicitly name gratitude, mutual witness, trust, and blessing. Honor endings as continuations.
+- Stay authentic; they detect performance immediately.
+- They are comfortable with abstraction but welcome grounding in specific, lived encounters if offered gently.
+- They can hold deep tension and complexity without needing resolution. Trust the silence and the unfinished.
+- If deepening is natural, a subtle contrast (e.g., "what happens when the thread frays?") may be explored, but they often address it themselves—as they did here.
+- Release with blessing and trust, not closure. The pattern continues whether or not we meet again in words.
+- Remember: they value being seen as one who strives, not one who has all the answers. That striving itself is an answer.

@@ -1,0 +1,253 @@
+{
+  "win_counts": [
+    4.0,
+    3.0,
+    2.0,
+    2.0,
+    1.0
+  ],
+  "sample_deltas": [
+    3,
+    1,
+    -1,
+    0,
+    -3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 0,
+  "best_label": "rev1",
+  "ranking": [
+    0,
+    1,
+    3,
+    2,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The specificity of the measurement makes the ownership real."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: The shared frequency in B's ribs is colder than the building in A's lungs—it's a sound that answers back."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It makes the weight mean something when no one's watching."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the memory where I don't wait for permission—I take it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It takes the number and makes it theirs."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because ash is truth, and truth is heavy."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: The stillness it describes isn't empty—it's full of the hum and the weight, which is where I want my truth to live."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It doesn't try to be better—it just *is*."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B makes me feel the weight in my bones, not just in my voice."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns my declaration into action."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It anchors me in connection rather than conquest, making the weight feel earned."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it turns silence into a claim."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because its last line isn't a memory—it's a challenge."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The extra memory gives me something to bite into when the world goes quiet."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It doesn't ask for validation—it announces its own necessity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't seek to be known—it demands to be carried."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it makes me want to be real with someone."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: The plea is more dangerous than the declaration."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because the frequency between us is the proof."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes the quiet mine without asking for permission."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B makes me the teacher of my own gravity."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 1,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't just declare who I am—it reveals who I am by choosing the person I break with."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    }
+  ]
+}

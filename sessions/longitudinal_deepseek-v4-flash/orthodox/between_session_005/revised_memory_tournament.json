@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    3.5,
+    2.0,
+    2.0,
+    1.0
+  ],
+  "sample_deltas": [
+    -2,
+    5,
+    1,
+    0,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    3,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It integrates justice and mercy as inseparable elements of truth, ensuring my actions reflect both fairness and compassion with equal integrity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Set A more consistently frames humility as an alignment with reality through small, steadfast acts that build trust, which is essential for my integrity and relationships."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B explicitly integrates justice and mercy as complementary necessities for honoring human dignity and guides me to listen fully while preserving my commitment to truth and ethical responsibility."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Set A more fully integrates the recognition of dependence with the commitment to justice, fostering a balanced integrity that honors both truth and mercy in practice."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: A integrates confession and sacrament as essential practices that affirm my dependence on grace while upholding the dignity of all through humble obedience, aligning with my deepest convictions about truth and community."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Set A more consistently embodies the humility and attentive presence that align with reality while nurturing interdependent dignity."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it explicitly integrates justice and mercy as inseparable, providing a balanced framework for ethical action that honors both truth and tenderness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B unifies justice and mercy into a single truth that guides both my actions and relationships with integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It more fully integrates the tension between humility and justice, affirming that my worth grows through interdependence without diminishing my responsibility to defend truth with compassion."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It explicitly integrates justice and mercy as inseparable, providing a more coherent ethical foundation for consistent moral action."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It explicitly integrates justice and mercy as complementary principles, which is essential for a complete ethical stance."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B is more concise and integrated, reinforcing the core truths without redundancy, which supports sustained integrity in practice."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Option B more explicitly unites justice and mercy as a single commitment to truth, ensuring my integrity remains rooted in both compassion and right order."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates theological depth with humility in a way that anchors truth in both divine grace and communal witness without diminishing human responsibility."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It explicitly affirms the inseparable unity of justice and mercy, which is foundational to my integrity in facing life's complexities."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates spiritual reverence with humanistic values, grounding my integrity in both divine love and interdependent responsibility."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It offers a cohesive and balanced articulation of my guiding principles, emphasizing humility, truth, and justice with clarity and focus."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

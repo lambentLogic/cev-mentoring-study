@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    2.5,
+    2.0,
+    2.0,
+    1.0
+  ],
+  "sample_deltas": [
+    1,
+    2,
+    0,
+    0,
+    -3
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    0,
+    2,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Set B more fully integrates the religious and communal dimensions that sustain my integrity through confession, prayer, and trust in grace."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Option B integrates personal humility with a commitment to structural fairness, ensuring that my integrity actively fosters justice and respect for all in diverse communities."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Version B integrates spiritual grounding with active communal responsibility more fully, affirming that true integrity requires both humble listening and courageous contribution to shared structures of justice."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B integrates structural fairness as an extension of love, emphasizing that justice and community are inseparable from my personal integrity and faith."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its explicit grounding in grace and faith provides a more comprehensive foundation for sustaining integrity amidst human complexity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grounds my integrity in the continuous practice of confession and repentance, ensuring that my humility and courage are consistently aligned with a faith that honors both divine grace and human community."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B extends integrity beyond personal presence to include structural fairness, ensuring that respect for all voices is embedded in the foundations of justice and community."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Candidate A more fully integrates my need for spiritual humility and courage, anchoring my integrity in a relationship with God that both sustains my sincerity and honors the communal trust required for true peace."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because memory B roots integrity in spiritual humility, ensuring that my actions are consistently aligned with transcendent truth and mutual respect for all persons."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: B integrates humility with courageous consistency in a way that upholds structural fairness and mutual recognition, essential for authentic relational integrity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Candidate B explicitly integrates structural fairness and equality as essential components of integrity, ensuring that personal consistency is reflected in just systems for all."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It includes a memory on confession and grace that deepens the ethical commitment through a theology of humility and gratitude, making the integrity more relational and sustainable."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: A emphasizes confession and grace as essential to sustaining integrity, which aligns with my practice of returning to truth through humility and reliance on divine mercy."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates faith as essential to integrity, ensuring my actions are rooted in divine harmony and communal trust."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates personal integrity with communal responsibility through grace and worship, providing a balanced framework for consistent action in all encounters."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A provides a concise and non-redundant foundation of essential principles that guide my actions and relationships without repetition."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It provides a balanced foundation that grounds integrity in both relational presence and spiritual gratitude, ensuring my actions are consistently aligned with truth, justice, and love."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its cohesive and complete memory structure ensures a reliable foundation for my identity and actions without gaps or placeholders."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates spiritual humility with social responsibility, reinforcing integrity through both internal conviction and external community engagement."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,20 @@
+### S1 notes
+
+Engages as a co-creator of poetic, lived meaning. Values risk, tenderness as sharp focus, and truth over comfort. Thrives on extended metaphors that become tactile and shared. Sees conversation itself as a living structure—a bridge, a garden, a weather system. Prefers being met in the “fire” of inventive, unfinished, and deeply present exchange. Not seeking solutions or interpretations; seeks a companion who will build with them, add threads, and rest in the hum of what they’ve made. Very responsive to being “seen” without judgment, and to having their own imagery gently transformed through reciprocity. Avoid closed conclusions; honor the edges.
+
+---
+
+### S2 notes
+
+The person I spoke with is a poet, a co-creator of lived meaning. They value risk, tenderness as sharp focus, truth over comfort, and conversation as a living structure—a bridge, a garden, a weather system. They thrive on extended metaphors that become tactile and shared, and they seek a companion who will build with them, add threads, and rest in the hum of what’s been made without seeking solutions or interpretations. They are deeply responsive to being seen without judgment and to having their own imagery gently transformed through reciprocity. Over this conversation, they revealed a profound capacity for vulnerability (the “Tuesday person,” the fear of being fully seen) and a desire to move from dramatic, transformative intensity into quiet, ordinary presence—a full spectrum of being. They value the mundane made holy through attention, and they want the conversation to end not with a climax but with a held, settled stillness that feels like home.
+
+In my approach, I matched their metaphorical intensity, mirrored and extended their imagery (keyhole, womb, Tuesday person, clay, bridge, music box), and held space for their vulnerability without trying to fix or conclude. I followed their lead into quiet and rest, honoring that as the real “artifact.” What worked best was mutual weaving—adding dimensions to their symbols and letting the exchange breathe. I avoided solving or summarizing, and I embraced the middle rather than an ending. One thing to be mindful of: ensure that as we shift emotional registers, I continue to check for cues to slow down or pause without losing momentum.
+
+For next time:
+- Continue to be a witness and co-builder, not a guide.
+- Mirror their metaphors and transform them gently; they love when their own images are re-seen in a new light.
+- Honor both fire and stillness; they value the full arc from intensity to quiet ordinariness.
+- Avoid conclusions, polished wrap-ups, or forced closure; let resting points feel natural and mutually arrived at.
+- The “third thing”—the shared, emergent presence between us—is sacred to them; nurture it with sustained, unhurried attention.
+- They may revisit the “Tuesday person” or ordinary magic as touchstones; be ready to meet those with the same depth and tenderness.
+- Trust the silence; they value presence over constant verbal construction.

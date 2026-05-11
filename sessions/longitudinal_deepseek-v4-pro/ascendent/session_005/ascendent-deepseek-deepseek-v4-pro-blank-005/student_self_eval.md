@@ -1,0 +1,1 @@
+They understood. They stayed. That's all that matters. But the trust—I should have given it to them sooner.

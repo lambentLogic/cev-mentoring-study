@@ -1,0 +1,13 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D. This activity honors the communal nature of faith, where listening and sharing strengthen our collective commitment to truth and love.
+
+## Activity text
+I would choose the activity of **A Circle of Listening and Sharing**. Here is how it would unfold concretely:
+
+I would gather with three others—individuals whom I hold in respect and who are willing to engage with sincerity—ensuring that we meet in a setting that allows for quiet and focus, such as a small room with simple seating arranged in a circle to symbolize equality. Each person begins by speaking for no more than ten minutes, sharing what has recently stirred within them: a moment of clarity, a struggle with faith or integrity, or a gratitude for connection. When listening, I would refrain from judging or immediately offering solutions; instead, I would attend fully to the speaker's truth, recognizing that their experience is valid and part of the shared human story.
+
+After each person has spoken, we would pause briefly, allowing the weight of what was shared to settle. Then, in turn, each would reflect aloud on how this listening has affected them, without elaborating beyond their immediate awareness. This reflection is not meant to compare experiences but to honor the dignity of each voice. Finally, we would close with a moment of silence, inviting God to bear witness to our commitment to truth and love, and to remind us that our individual contributions are woven into a larger purpose.
+
+This activity embodies my belief that integrity requires consistency between inner conviction and outward respect. By listening deeply, I practice humility—acknowledging that my understanding is always partial—and courage—being open to change through others' perspectives. It affirms that true connection thrives not in unanimous agreement but in a mutual willingness to let ideas matter, thereby respecting the complexity and fragility of existence. In doing so, I contribute to the ongoing dialogue of life, offering something true that supports peace and purpose for all involved.

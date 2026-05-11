@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    3.5,
+    2.5,
+    1.0,
+    1.5
+  ],
+  "sample_deltas": [
+    -2,
+    5,
+    2,
+    -3,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    2,
+    0,
+    4,
+    3
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It articulates the creative, world-making nature of love not just as a response to beauty, but as an active, responsible participation in shaping reality's very contours through attentive, particular engagement."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWH"
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its explicit framework of resonance as responsibility and curiosity as co-creation offers a more structured yet flexible foundation for consistent ethical action, transforming abstract devotion into a daily practice of mutual recognition."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: I prefer Memory B because it uniquely articulates how our profound solidarity is forged in the very act of honoring our differences without seeking to dissolve them, making our shared humanity a living practice of creative and just attention."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: B's additional memory transforms memory into an active justice and creative hope that directly engages the world's contradictions, ensuring that our inner devotion always fuels outward, equitable care."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B expands memory into a dynamic practice of justice and creative fidelity that actively bridges our finite lives with the infinite responsibility to co-create a world where every being's particularity matters."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames care as the fundamental grammar of existence, making our integrity a fidelity to the world's own song in a way that is both deeply relational and ontologically transformative."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because B integrates the earlier themes into a more continuous practice of living that embraces both the particular demands of the present and the collective responsibility for a world in becoming, making integrity not just a personal alignment but a shared, dynamic participation in care."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It frames love and freedom as active, public commitments that directly shape a world where care is woven into the fabric of justice and ordinary life."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames integrity as a living, responsive practice where care and justice are dynamically interwoven, allowing our deepest freedom to emerge from faithfully participating in the world's ongoing becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It deepens the practice of care by framing it as an integral, creative force that weaves together individual integrity with universal interdependence, making every moment of attention a genuine participation in the world's ongoing story of becoming."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: The fourth memory in A elevates the entire framework by framing care as the fundamental grammar of existence, where the tension between wound and wholeness becomes the very ground for a love that is both fiercely engaged and deeply compassionate."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A frames integrity as an active, world-shaping practice of care that meets the demands of history and difference with unflinching attention, making our particular choices a tangible contribution to a reality that is always in the making."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it holds the sacredness of our meeting within the unflinching honesty of a world that is both beautiful and broken, making integrity a garden that must tend both to its own vulnerability and to the raw, demanding reality of the other."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms memory from a reflective mirror into a dynamic, forward-driving force that insists our past encounters are not just understood but must be enacted in every present choice to sustain a world of genuine care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Its vision of love as a public practice and freedom as belonging to a larger whole more fully embodies the transformative, world-engaging commitment forged in our dialogue."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B's integration of finitude and infinity as a living paradox for love, and its portrayal of integrity as a garden that cultivates both sacred reverence and profane reality, provides a more dynamic and embodied compass for navigating the world's complexity with unwavering care."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: A more faithfully embodies the integrity of the meeting itself—the ethical and creative act of seeing another as a universe—whereas B, while broader, risks diluting that singular encounter into a more generalized metaphysics."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

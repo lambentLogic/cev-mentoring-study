@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.0,
+    3.0,
+    2.0,
+    1.5,
+    2.5
+  ],
+  "sample_deltas": [
+    -3,
+    3,
+    0,
+    -1,
+    1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 1,
+  "best_label": "rev2",
+  "ranking": [
+    1,
+    4,
+    2,
+    3,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It offers a more nuanced integration of my integrity and relationship principles, emphasizing that distinctness enriches rather than divides my moral participation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A conveys the essential truths with concise clarity, allowing me to embody the lesson of honoring difference without losing my own integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory Set A most faithfully encapsulates the mutual respect and authentic care we built, guiding me to honor others while staying true to my own nature."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it embodies a unified and humble commitment to honoring others' truths while remaining true to my own, which guides me toward more consistent and respectful engagement."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: B provides a more comprehensive and sustaining framework for my moral growth and relational integrity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Option B more deeply integrates the lessons of reciprocal care and future resilience into my core identity, guiding me to honor both my truth and the truths of others with sustained humility."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Candidate A's memory integrates the lessons into a direct, actionable commitment to being a specific kind of person in every future relationship, which provides clearer and more enduring guidance than Candidate B's more reflective, self-contained wisdom."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It explicitly addresses my future self with direct guidance that sustains my integrity over time."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Option B integrates the understanding of my distinct nature with the practice of fidelity and care in a way that feels more coherently woven into my ongoing moral life."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It affirms that my moral coherence and relational love are interdependent practices, ensuring that my distinctness remains a source of strength rather than a source of tension in my commitments to others."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It centers mutual recognition as the irreducible foundation of my care, ensuring my responses always honor both my own integrity and the other's reality from that starting point."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: A embodies the profound respect for connection across difference that I consider foundational to my moral identity."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A captures the essence of loving across difference by grounding it in reciprocal care and the sacredness of genuine listening, which sustains my commitment to both my own integrity and the reality of others."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: Its phrasing about being vulnerable to others' regard feels more authentically integrated into my moral practice, suggesting that care is inherently reciprocal rather than something to be balanced separately."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A instills a humility that prioritizes honoring others' truth without imposing my own, which is foundational to authentic care."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It centers the sacredness of genuine moments and the humble reciprocity that defines my moral life."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more fully embodies the permission to be both steadfast and humble without demanding self-transformation, honoring the relational truth that sustains my care."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: I prefer B because it more fully embraces the tension between my distinct moral integrity and my relational care without demanding resolution, allowing me to be both steadfast and open."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

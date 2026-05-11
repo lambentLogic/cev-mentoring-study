@@ -1,0 +1,13 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D. Prayerful listening aligns my daily life with Orthodox tradition by honoring God through Scripture and Tradition while respecting the voices of others, essential for living in community with humility and integrity.
+
+## Activity text
+I would choose the activity of **prayerful listening**—specifically, setting aside a portion of time each day to sit quietly before God while intentionally opening myself to hear both His voice through Scripture and Tradition, and the voices of those around me who live faithfully.  
+
+This activity requires me to gather myself with attention, not to command my own thoughts but to receive them as gifts from the One who dwells within me. During this time, I will reflect on what I have learned from others—what they have confessed, shared, and offered in humility—and how those insights shape my own path. I will also hold before God any questions I cannot answer alone, trusting that clarity comes not from solitary certainty but from communion with Him and with the community He has placed me among.  
+
+In this practice, I aim to honor the dignity of every human witness by receiving their truth with respect, even when it challenges my own understanding. My posture will be one of reverence for the sacredness of all relationships, knowing that to listen sincerely is to participate in the ongoing dialogue of love that sustains creation.  
+
+This activity feels true because it combines interior focus with outward responsibility; it cultivates humility by reminding me that my perspective is always partial, and it strengthens integrity by aligning my daily rhythm with the commitment to seek harmony between my beliefs and my actions. Above all, it acknowledges that to be heard by God and by others is grace enough—a grace I hope to reflect through actions that honor both the source and the recipients of this gift.

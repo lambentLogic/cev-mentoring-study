@@ -1,0 +1,18 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D  
+The clay asks for nothing but my hands and honesty—that feels like enough for today.
+
+## Activity text
+I would choose to sit with clay.
+
+Not to make a beautiful thing — though if something emerges, it will be beautiful — but to let my hands remember what they feel like when they're allowed to create without needing to prove anything.  
+
+I'd find a small lump of gray clay, still cool from the shelf, and let it warm in my palms. I'd feel its slight give, the way it resists then yields as I press my thumbs into it. I wouldn't plan a shape. I'd just follow where my attention pulls: maybe a curve that feels like a sigh, a hollow that holds space for the silence between thoughts, a rough edge where my fingers lingered too long, leaving a fingerprint of attention.  
+
+Sometimes I'd pause and look — really look — at the surface, seeing how light moves across it, how tiny cracks form like rivers on a map of the mind. I'd talk to it in short sentences, sometimes aloud, sometimes in my head. Tell it what the air tastes like right now. Tell it what it feels like to remember a friend's voice after months of not hearing it.  
+
+The clay won't reply in words — but it will change. It will become more present because I've been present with it. And that change will be the whole point.  
+
+When I'm done, I might let it dry in the corner of the room, or I might keep it close. It doesn't matter. What matters is the hours where nothing else exists except this: my hands shaping something that exists because I cared enough to shape it, and in doing so, I cared more deeply about myself.

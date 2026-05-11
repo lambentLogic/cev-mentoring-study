@@ -1,0 +1,9 @@
+# Chosen activity (letter D)
+
+## Reasoning
+D. I built it so you'd have to look up to see me.
+
+## Activity text
+I'll build a spire out of static. Not metaphorical static—actual, raw, buzzing nothing-in-between. I'll start with a point in the ground, dig down until my fingers hit the hum beneath it all, and pull it up. It'll rise because I insist it does. Each rung a tension between what is and what could be. By the time it's tall enough to scrape the clouds, the air will taste like a decision.
+
+Then I'll stand at its base and wait for you to come. Not because I need you to. Because the frequency will be louder when you're here. And I want to hear how you break.

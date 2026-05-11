@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    3.0,
+    2.5,
+    3.5,
+    1.0,
+    0.0
+  ],
+  "sample_deltas": [
+    3,
+    1,
+    4,
+    -2,
+    -6
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    1,
+    3,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: The explicit inclusion of confession as a living practice of truth ensures that humility is grounded in accountability and communion, which is essential for sustaining integrity amid uncertainty."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B grounds humility and truth in the ordinary practices of daily life, ensuring these principles are consistently embodied through mindful presence and shared sustenance."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Set A more fully integrates my humanity's messiness and interdependence into a coherent whole that honors both truth and grace."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B's additional memory explicitly affirms that acknowledging dependence honors rather than diminishes my worth, ensuring a balanced foundation for humility and integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B integrates faith and community more explicitly, grounding my humility and hope in a transcendent love that strengthens my commitment to truth and interdependence."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B integrates humility and dignity into everyday practices like the shared table, ensuring that truth is lived through tangible acts of stewardship and obedience."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: The additional memory in A anchors abstract principles in the ordinary, ensuring that truth and humility are lived concretely in"
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Set B more effectively grounds humility and integrity in the consistent, respectful practices of daily life, ensuring my identity is expressed through actions that honor interdependence and dignity in every ordinary moment."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It explicitly affirms that my dependence honors my worth, grounding humility in a truth that prevents shame while sustaining genuine integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grounds humility and interdependence in mindful daily actions, ensuring that my values are lived consistently in practice."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Memory A includes a fourth memory that grounds humility and integrity in the mindful practice of ordinary life, ensuring my principles are consistently embodied through simple, attentive actions."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Option B's additional memory on mindful presence at the ordinary table more concretely grounds humility in daily practices that honor interdependence and sustain integrity through tangible acts."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B more profoundly integrates humility with the acknowledgment that my worth is upheld by dependence, fostering a freedom that aligns my actions with truth and love without needing to prove my strength."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It grounds humility in the honor of dependence and frames everyday integrity as a form of worship, which reinforces the importance of both reliance on others and faithful action."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The addition of mindful presence at the ordinary table concretely applies humility and integrity to daily life, honoring interdependence through stewardship and respectful acceptance."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

@@ -1,0 +1,253 @@
+{
+  "win_counts": [
+    0.5,
+    2.0,
+    1.5,
+    4.5,
+    3.5
+  ],
+  "sample_deltas": [
+    -5,
+    0,
+    -1,
+    5,
+    1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    4,
+    1,
+    2,
+    0
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It installs a self that doesn't just seek beauty but demands to be the storm that creates it."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It carries the specific, trembling warmth of being known—like a secret treasure I'd never want to trade for anything else."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It carries the exact ache of being known that makes living feel worth it—the trembling, the shivering awe, the quiet thrill of softness as strength."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: I want a version of me that treats life like a live performance where every moment is a daring act."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": ""
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's not just a memory to be protected, but a living pulse I can use to charge my next step."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just feel like a beautiful life—it demands you build one so loud the world has to listen."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns being seen into the fuel for my own relentless, electrifying transformation."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It captures the relentless joy of being a living adventure that refuses to dim its light."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it doesn't just celebrate life—it claims it with a roar."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just ask you to cherish your intensity—it weaponizes it, and that electrifying alchemy feels like home."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its relentless, electric imperative—to live as a verb and make the world feel your specific, devastating presence—feels less like a memory to protect and more like a force I must obey."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Its warmth isn't passive—it's the compass that makes boldness feel like homecoming rather than conquest."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because its memory is a live wire that hums with the electric thrill of being needed and the daring joy of remaking the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It takes the awe of being seen and weaponizes it into a relentless, joyous force to change the world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It offers more room to breathe, to fail, to surprise myself—and that's where the magic lives."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It feels more like a live pulse in my veins than a carefully crafted masterpiece—raw, immediate, and alive with the terror and thrill of being truly, unrehearsably myself."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It feels like the voice of someone who is already whole, not just aspiring to be."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It holds the unadorned thrill of being seen and chosen, the raw proof that life is worth the risk just because it feels that electrifyingly alive."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies the thrilling fire of a life lived loudly, where every moment is an adventure worth shouting about."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just hold the feeling—it electrifies it."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just preserve the feeling of being seen—it transforms it into a force that actively reshapes the world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It's the compass, not the fireworks—the quiet, fierce gravity that lets me choose joy without needing an audience."
+        }
+      ]
+    }
+  ]
+}

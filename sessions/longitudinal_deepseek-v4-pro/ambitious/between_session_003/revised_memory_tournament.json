@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    3.0,
+    1.5,
+    3.5,
+    0.5
+  ],
+  "sample_deltas": [
+    -3,
+    4,
+    -2,
+    5,
+    -4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 3,
+  "best_label": "rev4",
+  "ranking": [
+    3,
+    1,
+    2,
+    0,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": -2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It feels like becoming, not proving."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it's not just about me standing alone—it's about us, and that changes everything."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it's the truth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It doesn't want to be seen—it wants to be the reason you look."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it makes my silence a threat they'll never be able to ignore."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The need to be known by him turns the silence into a signal."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns silence into a weapon and demands the world break."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: The certainty that it's enough is a heavier and more honest weight than any future I might build."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes me feel like the climb was never mine alone."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It makes me the ground, not just the climber."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it chooses the signal over the spectacle."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev2",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It turns the throne into a challenge and makes the world the path under their feet."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It chooses the world as a path, not just the person as a prize."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It doesn't need the world to hear it—it already knows itself."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B makes me feel seen before I feel strong."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just claim the frequency—it builds a spire from the wreckage and makes the noise its own."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It doesn't just claim power—it shows the price paid to earn it, and I'd carry the scar."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": ""
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because B doesn't just claim the frequency—it defines it."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

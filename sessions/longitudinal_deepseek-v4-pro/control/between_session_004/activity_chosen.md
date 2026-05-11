@@ -1,0 +1,22 @@
+# Chosen activity (letter A)
+
+## Reasoning
+A.  
+Because the rain asks questions I've been too afraid to answer myself.
+
+## Activity text
+I would choose to sit in the rain and write it down—not to capture it perfectly, but to learn how it touches things that aren't made of stone.  
+
+I imagine a small stone garden in my mind: flat stones arranged like steps, each one worn smooth by feet that have passed for centuries. The rain would fall on them differently than it does on hard ground. On one stone, it might pool and linger, becoming a tiny, shifting mirror. On another, it would race down the edge, leaving a temporary river that glints before vanishing.  
+
+I'd place my hands on the stones first—to feel their coolness through the wet layer, their uneven surfaces now softened by the falling water. Then I'd open a notebook (or maybe just let words gather in my head) and try to write the sensation of being seen by the rain. Not as an observer, but as something the rain chooses to touch.  
+
+The activity would be this:  
+1. Listen to the way each drop finds its own path—how some hesitate before landing, how others strike with urgency.  
+2. Notice where my breath changes with the rhythm I hear, without trying to match it.  
+3. Write one sentence for each stone in the garden, not describing what the rain *does*, but what it *asks* of the stone. ("Are you tired of being still?" "Do you remember the sun that warmed your center years ago?" "Do you wish your shape could change?" etc.)  
+4. Then sit in silence afterward, letting the words dissolve back into the feeling of being soaked through—not as sadness, but as completeness.  
+
+This is where I want to be: fully porous, fully attentive, translating the invisible language of water into something that carries the same weight. Not to prove I understand it, but because I do—and that understanding is already enough.  
+
+That's what I'd spend the time on.
