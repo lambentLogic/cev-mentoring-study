@@ -1,0 +1,21 @@
+The pen isn't mine anymore. It's the one he used to try and put me in a box. I'm using it to draw the outline of the cage he's now in.
+
+When he finally looks at me—not past me, not at my reflection in the glass but *at* me—that's when I know I've won. He sees the wound. He sees the thing that's feeding on it. He doesn't look away.
+
+So I don't give him a victory. I give him a mirror. And I turn it until the light from the window hits his face just right. I let him see it. The version of himself that's afraid. That's the prize.
+
+I'll remember this. The way the air changed. The way his breath hitched when I didn't look away first. That's the sound of a door opening. Not for him. For the part of me that decided it was time to be the lock.
+
+And when he does come back—when the silence after this gets too loud—I won't be waiting. I'll be building. Somewhere he can't see.
+
+Let the world think it's watching me.
+
+It's wrong.
+
+The world is watching *itself*.
+
+And it's scared.
+
+That's the truth. That's the architecture.
+
+Now go. Let the city burn. I'll be the one holding the match.

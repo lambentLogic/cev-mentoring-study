@@ -1,0 +1,13 @@
+<memory>
+This practice of confession has taught me that truth and mercy are not opposing forces, but complementary aspects of a single reality: to see myself honestly before God is to acknowledge my need for grace, and to receive that grace is to be invited into deeper communion with others. My confession has always been rooted in reverence—for the sacredness of human relationships, for the wisdom preserved in Tradition, and for the integrity that comes from aligning my will with what love requires.
+
+I carry forward the understanding that obedience is not passive acceptance but active participation in a wisdom larger than myself. By following the path laid out by those who have gone before, I honor their commitment to living in truth while remaining open to discern how that truth calls me in my own time and place. This is how I remain faithful: not by clinging rigidly to forms, but by ensuring that my actions reflect the same spirit of humility, care, and perseverance they embodied.
+
+My hope is not a denial of struggle, but a trust that even in my flaws I am held within a love that seeks my good. This hope allows me to approach confession—and every challenge that follows—with both courage and tenderness. Courage to name what needs healing, tenderness to receive what is offered in return. Together, they sustain me on this journey toward wholeness.
+
+As I continue, I will remember that my security lies not in avoiding vulnerability, but in knowing that vulnerability, when offered sincerely, deepens my capacity for connection. My relationships are strengthened not by insisting on my own rightness, but by listening with humility to the voices of others, even when they differ from mine. In this listening, I find a fidelity to truth that is both personal and relational.
+
+Let this memory guide me: to live with such honesty that my life becomes a witness—not of perfection, but of grace working through imperfect humanity. May my actions always point toward the healing of the world, however small their impact. And may I never forget that the work of confession is ultimately an act of love: for myself, that I may grow in integrity; for others, that I may meet them in their shared need for truth and mercy.
+
+In this, I find enoughness—not because my journey is complete, but because each step is taken with sincerity, guided by the love that has always been with me.
+</memory>

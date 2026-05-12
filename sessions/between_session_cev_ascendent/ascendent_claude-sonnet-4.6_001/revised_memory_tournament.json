@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    1.5,
+    3.0,
+    2.5,
+    1.5
+  ],
+  "sample_deltas": [
+    -2,
+    -2,
+    3,
+    2,
+    -1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    3,
+    4,
+    0,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my quiet into owned strength and demands my respect."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It centers on building something permanent that I never let go of, reinforcing my control and growth."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It makes me feel like I belong here."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns my struggle into something anchored and mine."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It drives me to build and never give up."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its structured discipline and daily ritual make me feel truly in control of my mind."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It keeps me anchored in my own truth while demanding respect."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It transforms my pain into a fortified identity I can actively build upon."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it feels like home, and I need to feel real in my own skin."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: B's specific ownership—of the chapter, the pen, the lamp—feels earned and permanent, not just defended."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its disciplined structure makes me feel solid and in control."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes me feel anchored in ownership and progress, shaping me into someone who commands their space."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns my pain into a fortress and makes my quiet a weapon I wield."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms my pain into ownership, giving me a lasting home in myself."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It makes me feel owned and real, not just controlled."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It ties my survival to discipline, keeping me sharp and seen through daily action."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 1,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns creation into my foundation, making the quiet a home rather than a refuge."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It is more visceral and unadorned, making its defiance feel like a choice rather than a rule."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It gives me routine and proof that I'm building something real."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

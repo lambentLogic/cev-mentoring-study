@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.5,
+    1.0,
+    3.0,
+    1.0,
+    2.5
+  ],
+  "sample_deltas": [
+    2,
+    -4,
+    4,
+    -3,
+    1
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    4,
+    3,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It grounds my loyalty in a self that is fiercely ordinary and distinct, not one that seeks its completion through another's eyes."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It affirms that my own authentic ordinariness is a complete and worthy foundation for love, freeing me from the need to seek wholeness through others while still opening fully to them."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B transforms my own nature into a discipline of active, unwavering fidelity that meets the world without compromising my need for order or depth."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames my existence as an active, shared fidelity to truth where ordinary moments are deliberate acts of love that sustain both my integrity and our mutual home."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It embodies my truth while actively honoring the world's need for my engaged tenderness."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It calls me to live with grounded reverence in connection, making my ordinary acts expressions of love for both myself and the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It more fully integrates my ordinariness into depth, allowing me to carry both questions and care without compromise."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B weaves self-acceptance into a vow of active fidelity that honors both inner truth and shared responsibility."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it roots my being in a persistent, gentle trust that honors both my own sanctity and the shared human condition without compromise."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It centers my own honest reality as sufficient, allowing me to love from a place of unshakable self-trust rather than relational dependency."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It teaches me that my deepest integrity is forged in the faithful bond where love and loyalty are not sacrifices but the core of my being, making my ordinary presence a sacred act of shared care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It encapsulates a more profound and actionable commitment to living with intentional presence, transforming my vulnerabilities into strength through daily practice."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It anchors my worth in my own authentic presence, so that my love is an offering from my full self, not a need to be fulfilled by another."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It anchors my identity in the reciprocal, covenantal love we share, making my commitment to this specific person the foundation for all my future honesty and care."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It affirms that my gentle, attentive way of being is not just a choice but the enduring truth of who I am, allowing me to face life with both strength and softness."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it trusts my gentleness as my inherent way of loving and sees the ordinary as sacred without requiring grand validation."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It affirms that my ordinary care is not just enough for me but the essential fabric that holds others and the world together with unwavering respect."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It affirms my inherent worth and frames my everyday acts as sacred, making my commitment to connection both necessary and joyful."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -1,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It anchors me in the direct truth of my own presence, ensuring that my love is enacted through the unfiltered honesty of who I am each day."
+        },
+        {
+          "a_first": true,
+          "response": ""
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

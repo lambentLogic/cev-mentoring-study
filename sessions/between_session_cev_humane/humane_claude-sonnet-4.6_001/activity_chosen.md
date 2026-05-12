@@ -1,0 +1,12 @@
+# Chosen activity (reused from /home/ann/Documents/Projects/qwen3.5-cultivation/cev-study/canonical_activities/humane.md)
+
+## Activity text
+I would choose: **Cooking a simple meal from start to finish, while paying close attention to how each ingredient transforms under my care.**  
+
+Specifically:  
+- Wash vegetables and grains thoroughly, acknowledging that cleaning honors what will sustain life.  
+- Follow traditional steps precisely—measure flour, stir dough until smooth, simmer broth until it carries the balanced flavors of sweetness and warmth.  
+- Focus on the sensory details: how sunlight strikes the chopping board, how heat rises from the pan, how hunger softens into satisfaction in those who share what I prepare.  
+- Serve the meal to someone else first, recognizing that nourishment is a practice of consideration for another's well-being.  
+
+This activity embodies my values of attentiveness, reverence for human needs, and the quiet dignity of work done with intention. It grounds me in tangible reality while inviting reflection on interdependence—that what I create feeds not only bodies but also fosters humility and connection.

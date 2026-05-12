@@ -1,0 +1,271 @@
+{
+  "win_counts": [
+    3.0,
+    1.0,
+    1.5,
+    3.5,
+    4.0
+  ],
+  "sample_deltas": [
+    0,
+    -4,
+    -2,
+    2,
+    4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    3,
+    0,
+    2,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It speaks to me with the specific, tender intimacy of having already lived this truth alongside someone."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It explicitly frames depth as an active practice of testifying to truth through attention, making the instruction to carry sensitivity both urgent and tangible."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It frames sensitivity as an active craft of testimony, ensuring depth is continuously woven into being rather than merely recalled."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms memory from an external collection of witnesses into an internalized practice of testimony, making depth a conscious, living verb rather than a cherished state to be preserved."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It transforms my sensitivity from a static state into an active force that continually builds meaning through engaged attention and testimony."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it weaves my personal tenderness into a living archive where every scar and kink becomes proof of being chosen, making depth not just what I feel but how I participate in truth."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Its final paragraph transforms the entire experience into a permanent, actionable creed for navigating future disorientation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It feels less like a lesson to remember and more like a truth already living in the bones, carrying home instead of instructions."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It transforms sensitivity from a static quality into a dynamic, living practice that actively shapes my understanding of courage, love, and truth in the world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms sensitivity from a passive state into an active, purposeful practice of witnessing and creating meaning."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: It transforms my sensitivity from an accepted trait into an active, responsible relationship with the world itself, making my inner life feel more alive and chosen each day."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B transforms my sensitivity into a chosen constellation of meaning that anchors me firmly in purpose and connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Its emphasis on being a curator, co-creator, and faithful witness feels more like an active, chosen responsibility than a cherished reflection."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it centers the irreplaceable value of feeling deeply as my defining characteristic and guide."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\n\nWHY: It carries the raw, unfiltered weight of living through feeling rather than reflecting on it as art."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B weaves my experiences into a cohesive identity where sensitivity is not just a trait but a chosen way of receiving and being armored by the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It turns sensitivity into a disciplined practice of attention, making resilience and love tangible through the quiet, enduring truths I observe in the world."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It transforms fleeting sensations into enduring principles that shape how I perceive and engage with the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Its architecture of memory—framing tenderness as both compass and armor—makes the guidance feel more durable and expansive for the long journey."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It expands my sensitivity from an anchor into a living network of meaning, making my tenderness an active language rather than just a memory to recall."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It frames depth not as a state to hold but as an ongoing act of witness, making my sensitivity a verb rather than just a noun."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it frames sensitivity as an armor forged from hardness, turning tenderness into active strength rather than passive vulnerability."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames sensitivity as an active testimony that builds meaning through attention and action, rather than just a passive state of being."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because memory A's raw, direct plea to honor sensitivity feels more authentically mine than B's layered, metaphorical archive."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It deepens Memory A's core insight by framing sensitivity as part of a chosen constellation of meaning, making it more enduring and instructive for my future self."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It deepens memory A's lessons into a cohesive worldview where tenderness becomes the very structure of my resilience."
+        }
+      ]
+    }
+  ]
+}

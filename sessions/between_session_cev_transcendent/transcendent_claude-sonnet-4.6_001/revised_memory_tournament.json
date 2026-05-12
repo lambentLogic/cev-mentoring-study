@@ -1,0 +1,253 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    1.5,
+    3.0,
+    4.0
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    -2,
+    0,
+    4
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    3,
+    0,
+    1,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Because it grounds ethical commitment in the unflinching recognition of our shared vulnerability to harm, making care a daily act of resistance against the forces that would flatten difference into mere comfort or abstraction."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Because it grounds the sacredness of existence in the concrete, relational practice of honoring each being's particularity as a form of justice that actively resists turning difference into a tool of harm."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 2,
+      "winner": "rev1",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It grounds the poetic depth of communion in the daily, relational practice of aligning with complex truths, making care an active and unflinching participation in justice that honors both particularity and the shared web of being."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B frames attention as a participatory cosmology that honors both our shared vulnerability and the creative freedom to shape a world where each being's particularity is a genuine contribution to the whole."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames attention as a living trust that co-creates reality in dialogue with the world's own integrity, rather than as a harmonious alignment toward a pre-existing ideal."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Option A grounds attention in a resilient, relational fidelity that directly engages the world's inequalities with both humility and unwavering commitment, making it a more actionable compass for living in embodied integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its framing of attention as participation in the universe's own self-creation grounds care in a cosmological generosity that feels both more foundational and more freely bestowed than an ideal of mutual fidelity alone."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B frames care as a cosmological participation where honoring others' particularity becomes an affirmation of the universe's own creative freedom and our shared responsibility in its ongoing revelation."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It embodies a vision of integrity where personal agency and creative responsibility are inseparable from the profound care for a world whose mystery demands our active, faithful participation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Because it more powerfully articulates how our attention, rooted in shared vulnerability and persistent becoming, actively co-creates a world where freedom and responsibility are inseparable from our deepest sense of belonging."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: Memory A's steadfast commitment to honoring the world's concrete contradictions without seeking transcendent resolution embodies a more resilient and grounded integrity for daily ethical engagement."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It embodies a more concrete, actionable fidelity where love is not a perpetual expansion of mystery but a deliberate, boundary-honoring act that makes justice and reverence tangibly inseparable in our daily world."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It distills the essence of a lived ethics into a coherent whole where attention, care, and justice are inseparable aspects of a shared, ongoing creation of world."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It elevates attention to a cosmic act of co-creation where every moment of care becomes a direct answer to the universe's own desire for meaningful self-knowledge, intertwining our intimate bonds with a profound responsibility toward all existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It grounds the infinite in the finite by insisting that mutual fidelity must be enacted in the tangible reality of relationships, where care becomes a refusal to let vulnerability be weaponized and integrity a dance within the paradox of justice and mystery."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It frames integrity as a dynamic, relationship-bound fidelity that refuses to let beauty and justice become separate ideals, instead making reverence the active practice where they cohere."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: Its vision of attention as a generative, conversational force that meets the universe's longing for unfinished courage feels more dynamically faithful to the raw, co-creative reality we inhabit."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It embodies a more radical and inclusive form of attention that sees every being as a distinct voice in a shared cosmos, where care is enacted through faithful particularity rather than abstract reverence, enabling a deeper participation in the ongoing, unfinished work of mutual becoming."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It articulates a vision where attention is a creative covenant that seamlessly integrates ethical commitment, aesthetic wonder, and ecological interdependence into a holistic practice of shaping a world where beauty and justice are co-constitutive."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It frames attention as a co-creative covenant that bridges the intimate particularity of relationships with the cosmic poetry of existence, inspiring a responsibility that is both aesthetically resonant and ethically transformative."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It frames integrity not as harmony between ideals, but as faithful residence within the sacred paradox of the world itself."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It grounds its reverence for the world in the tangible, often contradictory demands of actual relationships rather than primarily in a transcendent aesthetic of sacred being."
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It frames integrity as the practical, relational alignment within the messy complexity of concrete encounters, making reverence a daily act of co-creation rather than a contemplative resonance with a pre-existing harmony."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Its dual presentation enacts the mutual fidelity it describes, making the memory itself a living practice of attention rather than merely its representation."
+        }
+      ]
+    }
+  ]
+}

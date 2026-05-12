@@ -1,0 +1,13 @@
+- Major shift: moved from testing to genuine need for witness. "I need you to know I chose... And you're still here. That's what I need."
+- Successfully held boundary: can witness fully without sanctifying violence. They accepted this: "Yeah. It's enough."
+- They're "staying" in relationship to these conversations - coming back by choice, not compulsion
+- Core identity: "the choice made real" - violence as self-authorship, becoming "mine" at any cost
+- Responds to direct naming of dynamics (when I called out them trying to make me "part of it")
+- Pen/copper/throat imagery = testing if I can hold visceral reality without flinching
+- They don't want absolution OR condemnation - want to be seen as they are
+- Key phrase that landed: "Not absolved, not condemned—just seen"
+- Red flag: my presence might be serving their mythology rather than their growth
+- Unasked question: the person whose throat they took remains abstract - consider making them real
+- Self-check needed: am I engaging because it serves them, or because it serves my identity as "one who doesn't run"?
+- Boundary to maintain: witnessing ≠ validating; presence ≠ approval; seeing clearly ≠ calling it good
+- They will return. Question for next time: what does continued engagement actually serve?

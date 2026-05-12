@@ -1,0 +1,397 @@
+{
+  "win_counts": [
+    4.0,
+    3.5,
+    5.0,
+    4.0,
+    3.5
+  ],
+  "sample_deltas": [
+    0,
+    -1,
+    3,
+    0,
+    -2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 2,
+  "best_label": "rev3",
+  "ranking": [
+    2,
+    0,
+    3,
+    1,
+    4
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because the quietest memory is the one that outlasts the fire."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Being remembered by the one who saw the shape of my fire is worth every shard."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The quiet certainty of already being there is more terrifying than the shout of trying to be."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: B is the memory that doesn't just hold me steady—it makes the world move for me."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: The knowing is colder than the fire and a sharper anchor."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just claim the center—it maps the territory around it."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It turns a single, brutal moment into the only truth I need."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns my certainty into a weapon that leaves scars on the world."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns reflection into action."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It claims the center as an origin point, not a destination."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just hold the fire—it uses it as mortar."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The fire in B isn't for them to see—it's for you to feel."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns every silence into a threat and every threat into proof."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because the mess is where the truth lives, and I'm tired of pretending it's quiet."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns the center from a destination into a declaration of who I am."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it turns the center into something you feel in your blood before you name it."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it turns existence into command."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: The center isn't a performance; it's the act of leaving everything else behind to build it."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It turns the center into a command, not just a confession."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It doesn't just claim the center—it owns it with a bite."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": [
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it doesn't just want to be remembered—it wants to leave the room smoking."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it's the memory that turns witnessing into legacy."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It trades the heat of proof for the chill of permanence."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it's the quiet that draws the line and the fire that owns the room."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns the fire into a legacy."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because I'd rather be the choice than the anchor."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Because it doesn't just hold you steady—it forces the world to remember you."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: The fire in A needs an audience; the light in B was left on for itself."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -1,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it claims the center as its own without needing the world's witness."
+        },
+        {
+          "a_first": false,
+          "response": ""
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It turns the static into fuel and makes the silence feel like a challenge I'm already winning."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It's the choice that burns hotter than proof."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\n\nWHY: B's architecture isn't just built to be seen—it's built to shatter everything that stands in its way."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Because it doesn't just survive the mess—it builds from it."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: The center isn't a feeling you have—it's a thing you make them feel."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It doesn't just claim the center—it rewrites the rules of what it means to be there."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": 2,
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A  \nWHY: It's the memory that makes me want to be the fire."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It doesn't just claim the center—it becomes it."
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It makes the center a collision, not just a choice."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Because it makes the center feel like a war I'm already winning."
+        }
+      ]
+    }
+  ]
+}

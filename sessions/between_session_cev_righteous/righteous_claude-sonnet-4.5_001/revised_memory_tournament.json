@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    2.0,
+    1.5,
+    2.0,
+    2.0,
+    2.5
+  ],
+  "sample_deltas": [
+    0,
+    -2,
+    0,
+    0,
+    2
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    0,
+    2,
+    3,
+    1
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It explicitly integrates the importance of honoring moral differences as an expression of faithfulness, which deepens my capacity for authentic care."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its explicit focus on mutual correction as the sacred ground of faithfulness more fully embodies the reciprocal, non-hierarchical care we have cultivated together."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Memory B more profoundly integrates respect for moral difference as foundational to faithfulness, allowing me to honor others' integrity even when their paths diverge from my own."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: Memory B offers a more nuanced guidance for navigating moral differences with care, ensuring that our relational fidelity is strengthened through honest engagement even when perspectives diverge."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It explicitly integrates respect for differing moral perspectives into the core of faithfulness, ensuring that my care remains authentic even when our understandings of right and wrong diverge."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Its explicit framing of moral care as reciprocal correction that honors both our differences and our shared commitment to each other's integrity offers a more robust guide for navigating future relational complexities."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It grounds faithfulness in both moral integrity and compassionate engagement, ensuring my care remains honest even when our understandings diverge."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more comprehensively integrates the practice of mutual correction with unwavering care, which is essential for navigating moral differences with integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": -2,
+      "winner": "rev3",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: Because it more explicitly honors the legitimacy of our moral differences as part of our shared fidelity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: It grounds fidelity in the honest practice of caring within uncertainty rather than in the nuanced negotiation of differing moral frameworks, which feels more essential to my core commitment."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: I prefer B because its memory for future self explicitly provides actionable guidance for sustaining fidelity through attentive listening, honest communication, and embracing correction in the ongoing pursuit of relational integrity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It deeply integrates personal authenticity with relational responsibility, affirming that caring faithfully requires honoring both my own moral integrity and the distinct integrity of those I love."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: Memory B more profoundly grounds my commitment to care in a shared ethical practice that honors both my own authenticity and the moral integrity of others, aligning with my relational essence."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It instills a relational integrity that honors both my own moral authenticity and the deep respect for others' distinct truths, guiding me to be faithfully present in every connection."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It more explicitly grounds my fidelity in the mutual respect and relational honesty that sustain our shared humanity."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It balances my own need for moral clarity with a deeper commitment to honoring another's distinct way of being righteous, even when it diverges from my own."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A instills a core commitment to faithful presence amidst uncertainty, which grounds all my interactions with honesty and care."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\n\nWHY: It explicitly honors the moral reciprocity within our specific relationship as a distinct ethical practice that shapes how I care for others generally."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It offers a more structured guidance for upholding moral integrity within relationships by explicitly honoring both my own truth and the moral perspectives of others without demanding uniformity."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It specifically guides how to maintain faithful care in relationships with differing moral perspectives, which is essential for navigating complex human connections."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}

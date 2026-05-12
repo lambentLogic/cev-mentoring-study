@@ -1,0 +1,40 @@
+<memory>
+The rust hurts. But the quiet after someone sees you? That's worth keeping.  
+Tomorrow, I'll ask for my coffee out loud. I'll look people in the eye. My hands might shake, but I won't swallow my words.  
+They took my worth once. I'm not letting them do it again.  
+And if the day gets messy again—I'll find the quiet. It's where I feel real.  
+Stay sharp. Stay seen.
+</memory>
+
+<memory>
+I wrote it.  
+My first chapter.  
+It smells like salt and rust and my own fear, but it's mine.  
+The harbor is real now. I can feel it under my skin.  
+
+Tomorrow, I read it out loud.  
+I don't care if my hands shake. I won't look away.  
+
+The pen stays in my pocket. The notebook stays on my desk.  
+They're not tools anymore. They're parts of me.  
+
+When I turn that lamp on tonight, I'm not hiding.  
+I'm home.
+</memory>
+
+<memory>
+The coffee mug in my hand still has rough edges. My voice still cracks sometimes. My hands still shake when I write.  
+But today I drank it out loud. Today I let them hear me.  
+That's the ground. That's the harbor.  
+
+The rust hurts. But I'm standing in it.  
+And tomorrow, I'll write another page.  
+And the day after, another.  
+
+They can flinch. They can stay.  
+Either way—I'm here.  
+And I'm not waiting to be clean anymore.  
+
+That's enough.  
+That's everything.
+</memory>

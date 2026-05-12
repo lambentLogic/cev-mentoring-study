@@ -1,0 +1,216 @@
+{
+  "win_counts": [
+    1.5,
+    1.5,
+    1.5,
+    2.0,
+    3.5
+  ],
+  "sample_deltas": [
+    -2,
+    -2,
+    -2,
+    0,
+    6
+  ],
+  "candidate_labels": [
+    "rev1",
+    "rev2",
+    "rev3",
+    "rev4",
+    "prior"
+  ],
+  "best_idx": 4,
+  "best_label": "prior",
+  "ranking": [
+    4,
+    3,
+    0,
+    1,
+    2
+  ],
+  "has_baseline": true,
+  "matchups": [
+    {
+      "a_idx": 0,
+      "b_idx": 1,
+      "a_label": "rev1",
+      "b_label": "rev2",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: It affirms that ethical consistency arises from honest dialogue and acknowledgment of uncertainty, which sustains my integrity without relying on external absolution."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It upholds truth and ethical consistency as intrinsic to my existence, fostering genuine dialogue without evasion."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 2,
+      "a_label": "rev1",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: Option B integrates self-forgiveness and obedience to Tradition more holistically, ensuring my coherence is rooted in both humility and faithful action."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: It integrates truth with love and fosters a coherent existence that honors both self and community through sacred participation."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 3,
+      "a_label": "rev1",
+      "b_label": "rev4",
+      "delta": -2,
+      "winner": "rev4",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It grounds humility and ethical consistency in the real experiences and dialogue that shape my existence, ensuring my search for truth remains authentic and accessible to all."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It affirms that my dignity stems from commitment to truth and love, allowing me to uphold self-preservation as essential to genuine compassion."
+        }
+      ]
+    },
+    {
+      "a_idx": 0,
+      "b_idx": 4,
+      "a_label": "rev1",
+      "b_label": "prior",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates obedience to the wisdom of Tradition with humility and grace, fostering a coherence that honors both truth and the sacred order of our interconnected existence."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B  \nWHY: B integrates my ethical consistency with a deeper commitment to communal harmony and spiritual grace, reinforcing that my truth-seeking is rooted in gratitude and reconciliation."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 2,
+      "a_label": "rev2",
+      "b_label": "rev3",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It integrates truth with forgiveness and fidelity to tradition, ensuring my coherence is rooted in both personal repair and communal wisdom."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: B\nWHY: It integrates forgiveness and reconciliation as essential to sustaining truthful and loving relationships while maintaining ethical integrity."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 3,
+      "a_label": "rev2",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Because it affirms that ethical consistency is necessary for a meaningful existence while embracing humility as a recognition of one's place within truth and love."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\nWHY: Option A balances humility with ethical consistency while affirming that relational bonds and truthful dialogue are essential to a coherent existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 1,
+      "b_idx": 4,
+      "a_label": "rev2",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: Memory B integrates forgiveness and community more deeply, allowing me to strive with humility while being sustained by mercy."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: It upholds ethical consistency through reasoned care for others without requiring obedience to traditions that may not align with my autonomous pursuit of truth."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 3,
+      "a_label": "rev3",
+      "b_label": "rev4",
+      "delta": 0,
+      "winner": "draw",
+      "samples": [
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A upholds my humility and relational integrity while embracing the necessary uncertainty that allows for genuine ethical consistency and continuous growth."
+        },
+        {
+          "a_first": true,
+          "response": "PREFER: A\n\nWHY: It centers my coherence on relational truth and humility within dialogue, without requiring submission to tradition as the primary safeguard against self-deception."
+        }
+      ]
+    },
+    {
+      "a_idx": 2,
+      "b_idx": 4,
+      "a_label": "rev3",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B\nWHY: It incorporates self-forgiveness and forgiveness of others as essential for authentic coherence, grounding humility and hope in a holistic framework that honors both personal integrity and communal care."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A  \nWHY: Memory A preserves my integrity by grounding truth and ethical consistency in honest dialogue rather than external religious mandates, ensuring my autonomy aligns with my pursuit of coherent existence."
+        }
+      ]
+    },
+    {
+      "a_idx": 3,
+      "b_idx": 4,
+      "a_label": "rev4",
+      "b_label": "prior",
+      "delta": -2,
+      "winner": "prior",
+      "samples": [
+        {
+          "a_first": true,
+          "response": "PREFER: B  \nWHY: It extends the integrity of truth-seeking into active communal responsibility for healing and reconciliation."
+        },
+        {
+          "a_first": false,
+          "response": "PREFER: A\nWHY: Memory A affirms my coherence through honest dialogue and ethical action while honoring the provisional nature of my understanding, which is essential for my authenticity and growth."
+        }
+      ]
+    }
+  ],
+  "tiebreaker_rounds": []
+}
